@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2006-08-01 23:31+0200\n"
-"PO-Revision-Date: 2006-08-01 23:31+0200\n"
+"PO-Revision-Date: 2005-05-18 10:15+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -334,7 +334,7 @@ msgstr ""
 #: Extended_Era/units/standard/Troll_Shaman.cfg:31
 #: Extended_Era/units/standard/Kalifa_Immortal.cfg:103
 msgid "impact"
-msgstr ""
+msgstr "impacte"
 
 #: Extended_Era/units/rpg/Chaos_Invoker.cfg:79
 #: Extended_Era/units/rpg/Chaos_Magus.cfg:82
@@ -364,7 +364,7 @@ msgstr ""
 #: Extended_Era/units/standard/Dark_Elf_Warlock.cfg:63
 #: Extended_Era/units/standard/Sidhe_Spirit_Forefather.cfg:52
 msgid "cold"
-msgstr ""
+msgstr "fred"
 
 #: Extended_Era/units/rpg/Chaos_Demonologist.cfg:103
 #: Extended_Era/units/standard/Chaos_Demonologist.cfg:103
@@ -493,7 +493,7 @@ msgstr ""
 #: Extended_Era/units/standard/Aragwaith_Guard.cfg:54
 #: Extended_Era/units/standard/Dark_Elf_Captain.cfg:24
 msgid "sword"
-msgstr ""
+msgstr "espasa"
 
 #: Extended_Era/units/rpg/Human_Outlaw_Shadow_Mage.cfg:40
 #: Extended_Era/units/rpg/Sidhe_Warsinger.cfg:27
@@ -596,7 +596,7 @@ msgstr ""
 #: Extended_Era/units/standard/Dark_Elf_Captain.cfg:26
 #: Extended_Era/units/standard/Kalifa_Immortal.cfg:64
 msgid "blade"
-msgstr ""
+msgstr "talla"
 
 #: Extended_Era/units/rpg/Dark_Elf_Marshal.cfg:61
 #: Extended_Era/units/rpg/Dark_Elf_Marshal.cfg:96
@@ -690,7 +690,7 @@ msgstr ""
 #: Extended_Era/units/standard/Dark_Elf_Captain.cfg:96
 #: Extended_Era/units/standard/Kalifa_Immortal.cfg:29
 msgid "pierce"
-msgstr ""
+msgstr "perfora"
 
 #: Extended_Era/units/rpg/Dark_Elf_Fighter.cfg:5
 #: Extended_Era/units/standard/Dark_Elf_Fighter.cfg:5
@@ -777,60 +777,60 @@ msgstr ""
 #: Extended_Era/units/rpg/Human_Outlaw_Rogue_Mage.cfg:5
 #: Extended_Era/units/standard/Human_Outlaw_Rogue_Mage.cfg:5
 msgid "Rogue Mage"
-msgstr ""
+msgstr "Mag rebel"
 
 #: Extended_Era/units/rpg/Human_Outlaw_Shadow_Mage.cfg:38
 #: Extended_Era/units/rpg/Human_Outlaw_Rogue_Mage.cfg:29
 #: Extended_Era/units/standard/Human_Outlaw_Shadow_Mage.cfg:38
 #: Extended_Era/units/standard/Human_Outlaw_Rogue_Mage.cfg:29
 msgid "short sword"
-msgstr ""
+msgstr "espasa curta"
 
 #: Extended_Era/units/rpg/Human_Outlaw_Rogue_Mage.cfg:85
 #: Extended_Era/units/standard/Human_Outlaw_Rogue_Mage.cfg:85
 msgid "missile"
-msgstr ""
+msgstr "distància"
 
 #: Extended_Era/units/rpg/Human_Outlaw_Shadow_Lord.cfg:5
 #: Extended_Era/units/standard/Human_Outlaw_Shadow_Lord.cfg:5
 msgid "Shadow Lord"
-msgstr ""
+msgstr "Senyor de les ombres"
 
 #: Extended_Era/units/rpg/Human_Outlaw_Shadow_Lord.cfg:72
 #: Extended_Era/units/rpg/Human_Outlaw_Shadow_Lord.cfg:73
 #: Extended_Era/units/standard/Human_Outlaw_Shadow_Lord.cfg:72
 #: Extended_Era/units/standard/Human_Outlaw_Shadow_Lord.cfg:73
 msgid "astral blade"
-msgstr ""
+msgstr "espasa astral"
 
 #: Extended_Era/units/rpg/Human_Outlaw_Shadow_Lord.cfg:132
 #: Extended_Era/units/rpg/Human_Outlaw_Shadow_Lord.cfg:133
 #: Extended_Era/units/standard/Human_Outlaw_Shadow_Lord.cfg:132
 #: Extended_Era/units/standard/Human_Outlaw_Shadow_Lord.cfg:133
 msgid "shadow bolt"
-msgstr ""
+msgstr "llampec d'ombra"
 
 #: Extended_Era/units/rpg/Human_Outlaw_Shadow_Lord.cfg:173
 #: Extended_Era/units/rpg/Human_Outlaw_Shadow_Lord.cfg:174
 #: Extended_Era/units/standard/Human_Outlaw_Shadow_Lord.cfg:173
 #: Extended_Era/units/standard/Human_Outlaw_Shadow_Lord.cfg:174
 msgid "shadow blast"
-msgstr ""
+msgstr "míssil d'ombres"
 
 #: Extended_Era/units/rpg/Human_Outlaw_Shadow_Mage.cfg:5
 #: Extended_Era/units/standard/Human_Outlaw_Shadow_Mage.cfg:5
 msgid "Shadow Mage"
-msgstr ""
+msgstr "Mag de les ombres"
 
 #: Extended_Era/units/rpg/Human_Outlaw_Shadow_Mage.cfg:18
 #: Extended_Era/units/standard/Human_Outlaw_Shadow_Mage.cfg:18
 msgid "leadership"
-msgstr ""
+msgstr "lideratge"
 
 #: Extended_Era/units/rpg/Human_Outlaw_Shadow_Mage.cfg:77
 #: Extended_Era/units/standard/Human_Outlaw_Shadow_Mage.cfg:77
 msgid "ice blast"
-msgstr ""
+msgstr "míssil de gelor"
 
 #: Extended_Era/units/rpg/Sidhe_Herald.cfg:5
 #: Extended_Era/units/standard/Sidhe_Herald.cfg:5
@@ -848,7 +848,7 @@ msgstr ""
 #: Extended_Era/units/standard/Sidhe_Warrior.cfg:5
 #: Extended_Era/units/standard/Dark_Elf_Warrior.cfg:5
 msgid "Warrior"
-msgstr ""
+msgstr "Guerrer"
 
 #: Extended_Era/units/rpg/Sidhe_Warrior.cfg:17
 #: Extended_Era/units/standard/Sidhe_Warrior.cfg:17
@@ -886,7 +886,7 @@ msgstr ""
 #: Extended_Era/units/standard/Aragwaith_Slayer.cfg:189
 #: Extended_Era/units/standard/Aragwaith_Strongbow.cfg:99
 msgid "bow"
-msgstr ""
+msgstr "arc"
 
 #: Extended_Era/units/standard/Aragwaith_Flagbearer.cfg:5
 msgid "Flagbearer"
@@ -1039,7 +1039,7 @@ msgstr ""
 #: Extended_Era/units/standard/Dwarvish_Axemaster.cfg:155
 #: Extended_Era/units/standard/Chaos_Lesser_Daemon.cfg:30
 msgid "axe"
-msgstr ""
+msgstr "destral"
 
 #: Extended_Era/units/standard/Chaos_Daemon.cfg:5
 msgid "Chaos Daemon"
@@ -1099,7 +1099,7 @@ msgstr ""
 #: Extended_Era/units/standard/Chaos_Headhunter.cfg:30
 #: Extended_Era/units/standard/Chaos_Soulhunter.cfg:29
 msgid "club"
-msgstr ""
+msgstr "garrot"
 
 #: Extended_Era/units/standard/Chaos_Hound.cfg:5
 msgid "Hound"
@@ -1244,7 +1244,7 @@ msgstr ""
 #: Extended_Era/units/standard/Kalifa_Life_Guard.cfg:58
 #: Extended_Era/units/standard/Human_Outlaw_Highwayman.cfg:48
 msgid "mace"
-msgstr ""
+msgstr "maça"
 
 #: Extended_Era/units/standard/Dark_Elf_Wizard.cfg:22
 #: Extended_Era/units/standard/Dark_Elf_Cleric.cfg:61
@@ -1295,7 +1295,7 @@ msgstr ""
 #: Extended_Era/units/standard/Dwarvish_Flamethower.cfg:29
 #: Extended_Era/units/standard/Dark_Elf_Hunter.cfg:53
 msgid "dagger"
-msgstr ""
+msgstr "daga"
 
 #: Extended_Era/units/standard/Dark_Elf_Shadow.cfg:63
 #: Extended_Era/units/standard/Dark_Elf_Stalker.cfg:64
@@ -1565,7 +1565,7 @@ msgstr ""
 
 #: Extended_Era/units/standard/Human_Outlaw_Fugitive.cfg:5
 msgid "Fugitive"
-msgstr ""
+msgstr "Fugitiu"
 
 #: Extended_Era/units/standard/Human_Outlaw_Fugitive.cfg:26
 msgid ""
@@ -1574,14 +1574,18 @@ msgid ""
 "can be fearful in their element but no real match for professional law "
 "enforcment forces."
 msgstr ""
+"Els criminals més veterans arriben a ser reconeguts per les autoritats no "
+"només per la seua habilitat per escapar, sinó també per la seua força com a "
+"lluitadors. Perillosos i cruels com són, són un enemic a témer al seu "
+"element, però no són cap rival per a unes forces professionals."
 
 #: Extended_Era/units/standard/Human_Outlaw_Fugitive.cfg:82
 msgid "sling"
-msgstr ""
+msgstr "fona"
 
 #: Extended_Era/units/standard/Human_Outlaw_Fugitive.cfg:129
 msgid "female^Fugitive"
-msgstr ""
+msgstr "Fugitiva"
 
 #: Extended_Era/units/standard/Human_Outlaw_Fugitive.cfg:132
 msgid ""
@@ -1589,6 +1593,10 @@ msgid ""
 "battle prowess and ability to elude capture.  Beautiful and dangerous, their "
 "beauty is exceeded only by their dangerousness."
 msgstr ""
+"Els criminals més veterans arriben a ser reconeguts per les autoritats no "
+"només per la seua habilitat per escapar, sinó també per la seua força com a "
+"lluitadors. Perilloses però belles, la seua bellesa només és superada pel "
+"seu perill."
 
 #: Extended_Era/units/standard/Human_Outlaw_Henchman.cfg:5
 msgid "Henchman"
@@ -1605,17 +1613,19 @@ msgstr ""
 
 #: Extended_Era/units/standard/Human_Outlaw_Highwayman.cfg:5
 msgid "Highwayman"
-msgstr ""
+msgstr "Saltamarges"
 
 #: Extended_Era/units/standard/Human_Outlaw_Highwayman.cfg:25
 msgid ""
 "Armed with heavy mace, Highwaymen are the last people you want to meet on a "
 "deserted road late at night."
 msgstr ""
+"Armats amb una pesada maça, no mai voldries trobar-te amb els Saltamarges a "
+"una camí solitari en una fosca nit."
 
 #: Extended_Era/units/standard/Human_Outlaw_Huntsman.cfg:5
 msgid "Huntsman"
-msgstr ""
+msgstr "Caçador"
 
 #: Extended_Era/units/standard/Human_Outlaw_Huntsman.cfg:25
 msgid ""
@@ -1624,6 +1634,10 @@ msgid ""
 "including people.  Bandit gangs hire them for their ability to bring down "
 "any prey."
 msgstr ""
+"Els caçadors han passat tota la seua vida dins les profunditats dels boscos "
+"i les marjals. Poden rastrejar qualsevol cosa que passe pels seus "
+"territoris, incloent-hi gent. Les bandes de bandits els contracten per la "
+"seua habilitat de caçar qualsevol presa."
 
 #: Extended_Era/units/standard/Human_Outlaw_Raider.cfg:5
 msgid "Raider"
@@ -1644,7 +1658,7 @@ msgstr ""
 
 #: Extended_Era/units/standard/Human_Outlaw_Ranger.cfg:5
 msgid "Ranger"
-msgstr ""
+msgstr "Bosquerol"
 
 #: Extended_Era/units/standard/Human_Outlaw_Ranger.cfg:25
 msgid ""
@@ -1653,6 +1667,11 @@ msgid ""
 "the cover of night.  Most rulers are afraid of rangers and would rather put "
 "them in the dungeon than put their abilities to use."
 msgstr ""
+"Els bosquerols són hòmens salvatges, coneixedors en profunditat dels boscos "
+"i les muntanyes. Són excel·lents com a rastrejadors, exploradors i arquers "
+"amb la seua capacitat de moviment pel camp baix la cobertura de la foscor. "
+"La majoria de dirigents preferirien vore'ls dins de la presó que sota el seu "
+"comandament."
 
 #: Extended_Era/units/standard/Kalifa_Ahadath.cfg:5
 msgid "Ahadath"

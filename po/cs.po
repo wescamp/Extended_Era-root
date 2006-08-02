@@ -1,15 +1,26 @@
+# translation of utbs-cs.vs-edit.po to Czech
+# Český překlad hry Battle for Wesnoth (Bitva o Wesnoth).
+# Copyright (C) 2004 Wesnoth development team
+# This file is distributed under the same license as the Battle for Wesnoth package.
+#
+# Czech Wesnoth translation team, Yeti <yeti@physics.muni.cz> et al, 2004.
+# Vladimír Slávik <slavik.vladimir@seznam.cz>, 2006.
+# Oto 'tapik' Buchta <tapik@buchtovi.cz>, 2006.
 msgid ""
 msgstr ""
-"Project-Id-Version: wescamp-i 18n\n"
+"Project-Id-Version: Battle of Wesnoth\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2006-08-01 23:31+0200\n"
-"PO-Revision-Date: 2006-08-01 23:31+0200\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2006-07-09 09:16+0200\n"
+"Last-Translator: Oto 'tapik' Buchta <tapik@buchtovi.cz>\n"
+"Language-Team: Czech <wesnoth-cs-l@buchtovi.cz>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Poedit-Language: Czech\n"
+"X-Poedit-Country: CZECH REPUBLIC\n"
+"X-Generator: KBabel 1.11.2\n"
 
 #: Extended_Era/abilities/allied_leadership.cfg:10
 #: Extended_Era/abilities/allied_leadership.cfg:31
@@ -277,7 +288,7 @@ msgstr ""
 #: Extended_Era/units/standard/Chaos_Demonologist.cfg:35
 #: Extended_Era/units/standard/Aragwaith_Sorcerer.cfg:33
 msgid "staff"
-msgstr ""
+msgstr "hůl"
 
 #: Extended_Era/units/rpg/Chaos_Invoker.cfg:44
 #: Extended_Era/units/rpg/Dark_Elf_Lord.cfg:62
@@ -335,7 +346,7 @@ msgstr ""
 #: Extended_Era/units/standard/Troll_Shaman.cfg:31
 #: Extended_Era/units/standard/Kalifa_Immortal.cfg:103
 msgid "impact"
-msgstr ""
+msgstr "úder"
 
 #: Extended_Era/units/rpg/Chaos_Invoker.cfg:79
 #: Extended_Era/units/rpg/Chaos_Magus.cfg:82
@@ -365,7 +376,7 @@ msgstr ""
 #: Extended_Era/units/standard/Dark_Elf_Warlock.cfg:63
 #: Extended_Era/units/standard/Sidhe_Spirit_Forefather.cfg:52
 msgid "cold"
-msgstr ""
+msgstr "chlad"
 
 #: Extended_Era/units/rpg/Chaos_Demonologist.cfg:103
 #: Extended_Era/units/standard/Chaos_Demonologist.cfg:103
@@ -397,7 +408,7 @@ msgstr ""
 #: Extended_Era/units/standard/Aragwaith_Sorcerer.cfg:61
 #: Extended_Era/units/standard/Troll_Shaman.cfg:55
 msgid "fire"
-msgstr ""
+msgstr "oheň"
 
 #: Extended_Era/units/rpg/Chaos_Invoker.cfg:5
 #: Extended_Era/units/standard/Chaos_Invoker.cfg:5
@@ -494,7 +505,7 @@ msgstr ""
 #: Extended_Era/units/standard/Aragwaith_Guard.cfg:54
 #: Extended_Era/units/standard/Dark_Elf_Captain.cfg:24
 msgid "sword"
-msgstr ""
+msgstr "meč"
 
 #: Extended_Era/units/rpg/Human_Outlaw_Shadow_Mage.cfg:40
 #: Extended_Era/units/rpg/Sidhe_Warsinger.cfg:27
@@ -597,7 +608,7 @@ msgstr ""
 #: Extended_Era/units/standard/Dark_Elf_Captain.cfg:26
 #: Extended_Era/units/standard/Kalifa_Immortal.cfg:64
 msgid "blade"
-msgstr ""
+msgstr "čepel"
 
 #: Extended_Era/units/rpg/Dark_Elf_Marshal.cfg:61
 #: Extended_Era/units/rpg/Dark_Elf_Marshal.cfg:96
@@ -628,8 +639,9 @@ msgstr ""
 #: Extended_Era/units/standard/Dark_Elf_Captain.cfg:60
 #: Extended_Era/units/standard/Dark_Elf_Captain.cfg:95
 #: Extended_Era/units/standard/Kalifa_Immortal.cfg:28
+#, fuzzy
 msgid "spear"
-msgstr ""
+msgstr "hejno"
 
 #: Extended_Era/units/rpg/Dark_Elf_Marshal.cfg:62
 #: Extended_Era/units/rpg/Dark_Elf_Marshal.cfg:97
@@ -691,7 +703,7 @@ msgstr ""
 #: Extended_Era/units/standard/Dark_Elf_Captain.cfg:96
 #: Extended_Era/units/standard/Kalifa_Immortal.cfg:29
 msgid "pierce"
-msgstr ""
+msgstr "bodnutí"
 
 #: Extended_Era/units/rpg/Dark_Elf_Fighter.cfg:5
 #: Extended_Era/units/standard/Dark_Elf_Fighter.cfg:5
@@ -790,7 +802,7 @@ msgstr ""
 #: Extended_Era/units/rpg/Human_Outlaw_Rogue_Mage.cfg:85
 #: Extended_Era/units/standard/Human_Outlaw_Rogue_Mage.cfg:85
 msgid "missile"
-msgstr ""
+msgstr "střela"
 
 #: Extended_Era/units/rpg/Human_Outlaw_Shadow_Lord.cfg:5
 #: Extended_Era/units/standard/Human_Outlaw_Shadow_Lord.cfg:5
@@ -826,7 +838,7 @@ msgstr ""
 #: Extended_Era/units/rpg/Human_Outlaw_Shadow_Mage.cfg:18
 #: Extended_Era/units/standard/Human_Outlaw_Shadow_Mage.cfg:18
 msgid "leadership"
-msgstr ""
+msgstr "velení"
 
 #: Extended_Era/units/rpg/Human_Outlaw_Shadow_Mage.cfg:77
 #: Extended_Era/units/standard/Human_Outlaw_Shadow_Mage.cfg:77
@@ -849,7 +861,7 @@ msgstr ""
 #: Extended_Era/units/standard/Sidhe_Warrior.cfg:5
 #: Extended_Era/units/standard/Dark_Elf_Warrior.cfg:5
 msgid "Warrior"
-msgstr ""
+msgstr "Bojovník"
 
 #: Extended_Era/units/rpg/Sidhe_Warrior.cfg:17
 #: Extended_Era/units/standard/Sidhe_Warrior.cfg:17
@@ -887,7 +899,7 @@ msgstr ""
 #: Extended_Era/units/standard/Aragwaith_Slayer.cfg:189
 #: Extended_Era/units/standard/Aragwaith_Strongbow.cfg:99
 msgid "bow"
-msgstr ""
+msgstr "luk"
 
 #: Extended_Era/units/standard/Aragwaith_Flagbearer.cfg:5
 msgid "Flagbearer"
@@ -995,7 +1007,7 @@ msgstr ""
 #: Extended_Era/units/standard/Wose_Shaman.cfg:37
 #: Extended_Era/units/standard/Chaos_Greater_Mutation.cfg:30
 msgid "crush"
-msgstr ""
+msgstr "rozdrcení"
 
 #: Extended_Era/units/standard/Chaos_Armorer.cfg:5
 msgid "Doom Guard"
@@ -1040,7 +1052,7 @@ msgstr ""
 #: Extended_Era/units/standard/Dwarvish_Axemaster.cfg:155
 #: Extended_Era/units/standard/Chaos_Lesser_Daemon.cfg:30
 msgid "axe"
-msgstr ""
+msgstr "sekera"
 
 #: Extended_Era/units/standard/Chaos_Daemon.cfg:5
 msgid "Chaos Daemon"
@@ -1062,7 +1074,7 @@ msgstr ""
 #: Extended_Era/units/standard/Chaos_Daemon.cfg:66
 #: Extended_Era/units/standard/Chaos_Lesser_Daemon.cfg:65
 msgid "fireball"
-msgstr ""
+msgstr "ohnivá koule"
 
 #: Extended_Era/units/standard/Chaos_Elite_Armorer.cfg:5
 msgid "Steel Lord"
@@ -1100,7 +1112,7 @@ msgstr ""
 #: Extended_Era/units/standard/Chaos_Headhunter.cfg:30
 #: Extended_Era/units/standard/Chaos_Soulhunter.cfg:29
 msgid "club"
-msgstr ""
+msgstr "kyj"
 
 #: Extended_Era/units/standard/Chaos_Hound.cfg:5
 msgid "Hound"
@@ -1121,7 +1133,7 @@ msgstr ""
 #: Extended_Era/units/standard/Chaos_Hound_Warp.cfg:38
 #: Extended_Era/units/standard/Chaos_Hound_Rabid.cfg:35
 msgid "fangs"
-msgstr ""
+msgstr "tesáky"
 
 #: Extended_Era/units/standard/Chaos_Hound_Flesh.cfg:5
 msgid "Flesh Hound"
@@ -1137,7 +1149,7 @@ msgstr ""
 #: Extended_Era/units/standard/Chaos_Hound_Flesh.cfg:36
 #: Extended_Era/units/standard/Troll_Shaman.cfg:29
 msgid "fist"
-msgstr ""
+msgstr "pěst"
 
 #: Extended_Era/units/standard/Chaos_Hound_Rabid.cfg:5
 msgid "Rabid Hound"
@@ -1219,7 +1231,7 @@ msgstr ""
 #: Extended_Era/units/standard/Drake_Armageddon.cfg:45
 #: Extended_Era/units/standard/Kalifa_Elder_Falcon.cfg:21
 msgid "claws"
-msgstr ""
+msgstr "klepeta"
 
 #: Extended_Era/units/standard/Dark_Elf_Cleric.cfg:5
 msgid "female^Cleric"
@@ -1245,7 +1257,7 @@ msgstr ""
 #: Extended_Era/units/standard/Kalifa_Life_Guard.cfg:58
 #: Extended_Era/units/standard/Human_Outlaw_Highwayman.cfg:48
 msgid "mace"
-msgstr ""
+msgstr "palcát"
 
 #: Extended_Era/units/standard/Dark_Elf_Wizard.cfg:22
 #: Extended_Era/units/standard/Dark_Elf_Cleric.cfg:61
@@ -1254,7 +1266,7 @@ msgstr ""
 #: Extended_Era/units/standard/Dark_Elf_Sorceress.cfg:60
 #: Extended_Era/units/standard/Dark_Elf_Enchantress.cfg:57
 msgid "magic"
-msgstr ""
+msgstr "magie"
 
 #: Extended_Era/units/standard/Dark_Elf_Corsair.cfg:5
 msgid "Corsair"
@@ -1296,7 +1308,7 @@ msgstr ""
 #: Extended_Era/units/standard/Dwarvish_Flamethower.cfg:29
 #: Extended_Era/units/standard/Dark_Elf_Hunter.cfg:53
 msgid "dagger"
-msgstr ""
+msgstr "dýka"
 
 #: Extended_Era/units/standard/Dark_Elf_Shadow.cfg:63
 #: Extended_Era/units/standard/Dark_Elf_Stalker.cfg:64
@@ -1395,7 +1407,7 @@ msgstr ""
 
 #: Extended_Era/units/standard/Dark_Elf_Warlock.cfg:22
 msgid "touch"
-msgstr ""
+msgstr "dotek"
 
 #: Extended_Era/units/standard/Dark_Elf_Warrior.cfg:17
 msgid ""
@@ -1431,7 +1443,7 @@ msgstr ""
 
 #: Extended_Era/units/standard/Drake_Armageddon.cfg:101
 msgid "fire breath"
-msgstr ""
+msgstr "ohnivý dech"
 
 #: Extended_Era/units/standard/Dwarvish_Arcanister.cfg:5
 msgid "Dwarvish Arcanister"
@@ -1449,7 +1461,7 @@ msgstr ""
 #: Extended_Era/units/standard/Dwarvish_Arcanister.cfg:27
 #: Extended_Era/units/standard/Dwarvish_Runesmith.cfg:26
 msgid "hammer"
-msgstr ""
+msgstr "kladivo"
 
 #: Extended_Era/units/standard/Dwarvish_Axemaster.cfg:5
 msgid "Dwarvish Axemaster"
@@ -1908,7 +1920,7 @@ msgstr ""
 
 #: Extended_Era/units/standard/Orcish_Shaman.cfg:5
 msgid "Orcish Shaman"
-msgstr ""
+msgstr "Skřetí šaman"
 
 #: Extended_Era/units/standard/Orcish_Shaman.cfg:22
 msgid ""
@@ -1919,16 +1931,22 @@ msgid ""
 "Orcs), Orcish Shamans are good spell casters and can curse their enemies, "
 "draining their life."
 msgstr ""
+"Skřetí šamani jsou strážci skřetí magie. Jsou respektovaní skřetími kmeny a "
+"jsou členy skřetího koncilu, který rozhoduje v důležitých záležitostech, "
+"týkajících se celé  komunity a soudí mnoho kmenových konfliktů, které lehce "
+"vznikají vzhledem k hádavé povaze této rasy. I když jsou skřeti obecně "
+"fyzicky dost slabí, jejich šamani jsou dobrými vrhači kouzel a mohou proklít "
+"své nepřátele a vysávat jejich život."
 
 #: Extended_Era/units/standard/Orcish_Shaman.cfg:58
 #: Extended_Era/units/standard/Orcish_Shaman.cfg:142
 #: Extended_Era/units/standard/Orcish_Shaman.cfg:226
 msgid "curse"
-msgstr ""
+msgstr "prokletí"
 
 #: Extended_Era/units/standard/Orcish_Shaman.cfg:89
 msgid "Novice Orcish Shaman"
-msgstr ""
+msgstr "Skřetí šaman začátečník"
 
 #: Extended_Era/units/standard/Orcish_Shaman.cfg:106
 msgid ""
@@ -1940,10 +1958,17 @@ msgid ""
 "draining their life. Novice Shamans are still young and vigorous, but their "
 "spell-casting ability still needs improvement."
 msgstr ""
+"Skřetí šamani jsou strážci skřetí magie. Jsou respektovaní skřetími kmeny a "
+"jsou členy skřetího koncilu, který rozhoduje v důležitých záležitostech, "
+"týkajících se celé  komunity a soudí mnoho kmenových konfliktů, které lehce "
+"vznikají vzhledem k hádavé povaze této rasy. I když jsou skřeti obecně "
+"fyzicky dost slabí, jejich šamani jsou dobrými vrhači kouzel a mohou proklít "
+"své nepřátele a vysávat jejich život. Šamani začátečníci jsou mladí a "
+"energičtí, jejich schopnost vrhat kouzla však potřebuje zlepšit."
 
 #: Extended_Era/units/standard/Orcish_Shaman.cfg:173
 msgid "Old Orcish Shaman"
-msgstr ""
+msgstr "Starý skřetí šaman"
 
 #: Extended_Era/units/standard/Orcish_Shaman.cfg:190
 msgid ""
@@ -1955,6 +1980,13 @@ msgid ""
 "draining their life. Old Orcish Shamans are shamans that have mastered "
 "magic, although their physical strength has declined with age."
 msgstr ""
+"Skřetí šamani jsou strážci skřetí magie. Jsou respektovaní skřetími kmeny a "
+"jsou členy skřetího koncilu, který rozhoduje v důležitých záležitostech, "
+"týkajících se celé  komunity a soudí mnoho kmenových konfliktů, které lehce "
+"vznikají vzhledem k hádavé povaze této rasy. I když jsou skřeti obecně "
+"fyzicky dost slabí, jejich šamani jsou dobrými vrhači kouzel a mohou proklít "
+"své nepřátele a vysávat jejich život.Staří šamani jsou odborníci v magii, i "
+"když jejich fyzická síla již upadá."
 
 #: Extended_Era/units/standard/Sidhe_Bladespinner.cfg:5
 msgid "Bladespinner"
@@ -2198,7 +2230,7 @@ msgstr ""
 
 #: Extended_Era/units/standard/Troll_Shaman.cfg:4
 msgid "Troll Shaman"
-msgstr ""
+msgstr "Troll šaman"
 
 #: Extended_Era/units/standard/Troll_Shaman.cfg:23
 msgid ""
@@ -2206,14 +2238,17 @@ msgid ""
 "or tough as other trolls, their true power lies in their fire magic, which "
 "they use to blast enemies with gouts of fire."
 msgstr ""
+"Trollí šamani jsou duchovní a mystičtí vůdcové trollů. I když nejsou tak "
+"silní jako ostatní trollové, jejich skutečná síla spočívá v ohnivé magii, "
+"kterou používají ke smetení nepřátel vlnami ohně."
 
 #: Extended_Era/units/standard/Troll_Shaman.cfg:54
 msgid "flame blast"
-msgstr ""
+msgstr "vlna plamene"
 
 #: Extended_Era/units/standard/Wose_Shaman.cfg:6
 msgid "Wose Shaman"
-msgstr ""
+msgstr "Entí šaman"
 
 #: Extended_Era/units/standard/Wose_Shaman.cfg:26
 msgid ""
@@ -2225,4 +2260,4 @@ msgstr ""
 
 #: Extended_Era/units/standard/Wose_Shaman.cfg:72
 msgid "entangle"
-msgstr ""
+msgstr "zamotání"

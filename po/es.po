@@ -3,13 +3,15 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2006-08-01 23:31+0200\n"
-"PO-Revision-Date: 2006-08-01 23:31+0200\n"
-"Last-Translator: Automatically generated\n"
+"PO-Revision-Date: 2006-05-31 11:56+0100\n"
+"Last-Translator: \n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Language: Spanish\n"
+"X-Poedit-Country: SPAIN\n"
 
 #: Extended_Era/abilities/allied_leadership.cfg:10
 #: Extended_Era/abilities/allied_leadership.cfg:31
@@ -277,7 +279,7 @@ msgstr ""
 #: Extended_Era/units/standard/Chaos_Demonologist.cfg:35
 #: Extended_Era/units/standard/Aragwaith_Sorcerer.cfg:33
 msgid "staff"
-msgstr ""
+msgstr "bastón"
 
 #: Extended_Era/units/rpg/Chaos_Invoker.cfg:44
 #: Extended_Era/units/rpg/Dark_Elf_Lord.cfg:62
@@ -335,7 +337,7 @@ msgstr ""
 #: Extended_Era/units/standard/Troll_Shaman.cfg:31
 #: Extended_Era/units/standard/Kalifa_Immortal.cfg:103
 msgid "impact"
-msgstr ""
+msgstr "impacto"
 
 #: Extended_Era/units/rpg/Chaos_Invoker.cfg:79
 #: Extended_Era/units/rpg/Chaos_Magus.cfg:82
@@ -365,7 +367,7 @@ msgstr ""
 #: Extended_Era/units/standard/Dark_Elf_Warlock.cfg:63
 #: Extended_Era/units/standard/Sidhe_Spirit_Forefather.cfg:52
 msgid "cold"
-msgstr ""
+msgstr "frío"
 
 #: Extended_Era/units/rpg/Chaos_Demonologist.cfg:103
 #: Extended_Era/units/standard/Chaos_Demonologist.cfg:103
@@ -397,7 +399,7 @@ msgstr ""
 #: Extended_Era/units/standard/Aragwaith_Sorcerer.cfg:61
 #: Extended_Era/units/standard/Troll_Shaman.cfg:55
 msgid "fire"
-msgstr ""
+msgstr "fuego"
 
 #: Extended_Era/units/rpg/Chaos_Invoker.cfg:5
 #: Extended_Era/units/standard/Chaos_Invoker.cfg:5
@@ -494,7 +496,7 @@ msgstr ""
 #: Extended_Era/units/standard/Aragwaith_Guard.cfg:54
 #: Extended_Era/units/standard/Dark_Elf_Captain.cfg:24
 msgid "sword"
-msgstr ""
+msgstr "espada"
 
 #: Extended_Era/units/rpg/Human_Outlaw_Shadow_Mage.cfg:40
 #: Extended_Era/units/rpg/Sidhe_Warsinger.cfg:27
@@ -597,7 +599,7 @@ msgstr ""
 #: Extended_Era/units/standard/Dark_Elf_Captain.cfg:26
 #: Extended_Era/units/standard/Kalifa_Immortal.cfg:64
 msgid "blade"
-msgstr ""
+msgstr "de filo"
 
 #: Extended_Era/units/rpg/Dark_Elf_Marshal.cfg:61
 #: Extended_Era/units/rpg/Dark_Elf_Marshal.cfg:96
@@ -691,12 +693,12 @@ msgstr ""
 #: Extended_Era/units/standard/Dark_Elf_Captain.cfg:96
 #: Extended_Era/units/standard/Kalifa_Immortal.cfg:29
 msgid "pierce"
-msgstr ""
+msgstr "perforante"
 
 #: Extended_Era/units/rpg/Dark_Elf_Fighter.cfg:5
 #: Extended_Era/units/standard/Dark_Elf_Fighter.cfg:5
 msgid "Fighter"
-msgstr ""
+msgstr "Luchador"
 
 #: Extended_Era/units/rpg/Dark_Elf_Fighter.cfg:24
 #: Extended_Era/units/standard/Dark_Elf_Fighter.cfg:24
@@ -736,7 +738,7 @@ msgstr ""
 #: Extended_Era/units/rpg/Dark_Elf_Lord.cfg:5
 #: Extended_Era/units/standard/Dark_Elf_Lord.cfg:5
 msgid "Lord"
-msgstr ""
+msgstr "Señor"
 
 #: Extended_Era/units/rpg/Dark_Elf_Lord.cfg:20
 #: Extended_Era/units/standard/Dark_Elf_Lord.cfg:20
@@ -826,7 +828,7 @@ msgstr ""
 #: Extended_Era/units/rpg/Human_Outlaw_Shadow_Mage.cfg:18
 #: Extended_Era/units/standard/Human_Outlaw_Shadow_Mage.cfg:18
 msgid "leadership"
-msgstr ""
+msgstr "liderazgo"
 
 #: Extended_Era/units/rpg/Human_Outlaw_Shadow_Mage.cfg:77
 #: Extended_Era/units/standard/Human_Outlaw_Shadow_Mage.cfg:77
@@ -849,7 +851,7 @@ msgstr ""
 #: Extended_Era/units/standard/Sidhe_Warrior.cfg:5
 #: Extended_Era/units/standard/Dark_Elf_Warrior.cfg:5
 msgid "Warrior"
-msgstr ""
+msgstr "Guerrero"
 
 #: Extended_Era/units/rpg/Sidhe_Warrior.cfg:17
 #: Extended_Era/units/standard/Sidhe_Warrior.cfg:17
@@ -887,7 +889,7 @@ msgstr ""
 #: Extended_Era/units/standard/Aragwaith_Slayer.cfg:189
 #: Extended_Era/units/standard/Aragwaith_Strongbow.cfg:99
 msgid "bow"
-msgstr ""
+msgstr "arco"
 
 #: Extended_Era/units/standard/Aragwaith_Flagbearer.cfg:5
 msgid "Flagbearer"
@@ -1040,7 +1042,7 @@ msgstr ""
 #: Extended_Era/units/standard/Dwarvish_Axemaster.cfg:155
 #: Extended_Era/units/standard/Chaos_Lesser_Daemon.cfg:30
 msgid "axe"
-msgstr ""
+msgstr "hacha"
 
 #: Extended_Era/units/standard/Chaos_Daemon.cfg:5
 msgid "Chaos Daemon"
@@ -1100,7 +1102,7 @@ msgstr ""
 #: Extended_Era/units/standard/Chaos_Headhunter.cfg:30
 #: Extended_Era/units/standard/Chaos_Soulhunter.cfg:29
 msgid "club"
-msgstr ""
+msgstr "garrote"
 
 #: Extended_Era/units/standard/Chaos_Hound.cfg:5
 msgid "Hound"
@@ -1121,7 +1123,7 @@ msgstr ""
 #: Extended_Era/units/standard/Chaos_Hound_Warp.cfg:38
 #: Extended_Era/units/standard/Chaos_Hound_Rabid.cfg:35
 msgid "fangs"
-msgstr ""
+msgstr "colmillos"
 
 #: Extended_Era/units/standard/Chaos_Hound_Flesh.cfg:5
 msgid "Flesh Hound"
@@ -1137,7 +1139,7 @@ msgstr ""
 #: Extended_Era/units/standard/Chaos_Hound_Flesh.cfg:36
 #: Extended_Era/units/standard/Troll_Shaman.cfg:29
 msgid "fist"
-msgstr ""
+msgstr "puño"
 
 #: Extended_Era/units/standard/Chaos_Hound_Rabid.cfg:5
 msgid "Rabid Hound"
@@ -1200,7 +1202,7 @@ msgstr ""
 
 #: Extended_Era/units/standard/Chaos_Soulhunter.cfg:65
 msgid "melee"
-msgstr ""
+msgstr "melee"
 
 #: Extended_Era/units/standard/Chaos_Winged_Daemon.cfg:5
 msgid "Winged Daemon"
@@ -1219,7 +1221,7 @@ msgstr ""
 #: Extended_Era/units/standard/Drake_Armageddon.cfg:45
 #: Extended_Era/units/standard/Kalifa_Elder_Falcon.cfg:21
 msgid "claws"
-msgstr ""
+msgstr "pinzas"
 
 #: Extended_Era/units/standard/Dark_Elf_Cleric.cfg:5
 msgid "female^Cleric"
@@ -1245,7 +1247,7 @@ msgstr ""
 #: Extended_Era/units/standard/Kalifa_Life_Guard.cfg:58
 #: Extended_Era/units/standard/Human_Outlaw_Highwayman.cfg:48
 msgid "mace"
-msgstr ""
+msgstr "maza"
 
 #: Extended_Era/units/standard/Dark_Elf_Wizard.cfg:22
 #: Extended_Era/units/standard/Dark_Elf_Cleric.cfg:61
@@ -1254,7 +1256,7 @@ msgstr ""
 #: Extended_Era/units/standard/Dark_Elf_Sorceress.cfg:60
 #: Extended_Era/units/standard/Dark_Elf_Enchantress.cfg:57
 msgid "magic"
-msgstr ""
+msgstr "magia"
 
 #: Extended_Era/units/standard/Dark_Elf_Corsair.cfg:5
 msgid "Corsair"
@@ -1296,7 +1298,7 @@ msgstr ""
 #: Extended_Era/units/standard/Dwarvish_Flamethower.cfg:29
 #: Extended_Era/units/standard/Dark_Elf_Hunter.cfg:53
 msgid "dagger"
-msgstr ""
+msgstr "daga"
 
 #: Extended_Era/units/standard/Dark_Elf_Shadow.cfg:63
 #: Extended_Era/units/standard/Dark_Elf_Stalker.cfg:64
@@ -1395,7 +1397,7 @@ msgstr ""
 
 #: Extended_Era/units/standard/Dark_Elf_Warlock.cfg:22
 msgid "touch"
-msgstr ""
+msgstr "toque"
 
 #: Extended_Era/units/standard/Dark_Elf_Warrior.cfg:17
 msgid ""
@@ -1431,7 +1433,7 @@ msgstr ""
 
 #: Extended_Era/units/standard/Drake_Armageddon.cfg:101
 msgid "fire breath"
-msgstr ""
+msgstr "lanzallamas"
 
 #: Extended_Era/units/standard/Dwarvish_Arcanister.cfg:5
 msgid "Dwarvish Arcanister"
@@ -1449,7 +1451,7 @@ msgstr ""
 #: Extended_Era/units/standard/Dwarvish_Arcanister.cfg:27
 #: Extended_Era/units/standard/Dwarvish_Runesmith.cfg:26
 msgid "hammer"
-msgstr ""
+msgstr "martillo"
 
 #: Extended_Era/units/standard/Dwarvish_Axemaster.cfg:5
 msgid "Dwarvish Axemaster"
@@ -2198,7 +2200,7 @@ msgstr ""
 
 #: Extended_Era/units/standard/Troll_Shaman.cfg:4
 msgid "Troll Shaman"
-msgstr ""
+msgstr "Chamán Troll"
 
 #: Extended_Era/units/standard/Troll_Shaman.cfg:23
 msgid ""
@@ -2206,10 +2208,13 @@ msgid ""
 "or tough as other trolls, their true power lies in their fire magic, which "
 "they use to blast enemies with gouts of fire."
 msgstr ""
+"Los Chamanes de los trolls son sus líderes místicos. Aunque no tan fuertes o "
+"duros comos los otros trolls, su verdadero poder reside en su fuego mágico, "
+"que usan para lanzar a sus enemigos ráfagas de fuego."
 
 #: Extended_Era/units/standard/Troll_Shaman.cfg:54
 msgid "flame blast"
-msgstr ""
+msgstr "llamarada"
 
 #: Extended_Era/units/standard/Wose_Shaman.cfg:6
 msgid "Wose Shaman"
@@ -2225,4 +2230,4 @@ msgstr ""
 
 #: Extended_Era/units/standard/Wose_Shaman.cfg:72
 msgid "entangle"
-msgstr ""
+msgstr "enreda"

@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2006-08-01 23:31+0200\n"
-"PO-Revision-Date: 2006-08-01 23:31+0200\n"
+"PO-Revision-Date: 2005-05-18 10:15+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -38,7 +38,7 @@ msgstr ""
 #: Extended_Era/abilities/cavestalk.cfg:5
 #: Extended_Era/abilities/cavestalk.cfg:10
 msgid "cavestalk"
-msgstr ""
+msgstr "cavestalk"
 
 #: Extended_Era/abilities/cavestalk.cfg:9
 #: Extended_Era/abilities/cavestalk.cfg:14
@@ -335,7 +335,7 @@ msgstr ""
 #: Extended_Era/units/standard/Troll_Shaman.cfg:31
 #: Extended_Era/units/standard/Kalifa_Immortal.cfg:103
 msgid "impact"
-msgstr ""
+msgstr "darbe"
 
 #: Extended_Era/units/rpg/Chaos_Invoker.cfg:79
 #: Extended_Era/units/rpg/Chaos_Magus.cfg:82
@@ -365,7 +365,7 @@ msgstr ""
 #: Extended_Era/units/standard/Dark_Elf_Warlock.cfg:63
 #: Extended_Era/units/standard/Sidhe_Spirit_Forefather.cfg:52
 msgid "cold"
-msgstr ""
+msgstr "soğuk"
 
 #: Extended_Era/units/rpg/Chaos_Demonologist.cfg:103
 #: Extended_Era/units/standard/Chaos_Demonologist.cfg:103
@@ -445,6 +445,10 @@ msgid ""
 "to do their best to defend the Matron Mother with their swords and short "
 "spears."
 msgstr ""
+"Bu elfler, takipçileri askerler için bir emsal olacaktır ve Kaptanlarının "
+"tecrübelerinden faydalanacaklardır. Asla Efendi olamayacaklarına rağmen, "
+"halen kılıçlarıyla ve kısa mızraklarıyla yapabilceklerinin en iyisini "
+"yapmaya çabalıyorlar."
 
 #: Extended_Era/units/rpg/Sidhe_Warsinger.cfg:25
 #: Extended_Era/units/rpg/Sidhe_Warrior.cfg:21
@@ -494,7 +498,7 @@ msgstr ""
 #: Extended_Era/units/standard/Aragwaith_Guard.cfg:54
 #: Extended_Era/units/standard/Dark_Elf_Captain.cfg:24
 msgid "sword"
-msgstr ""
+msgstr "kılıç"
 
 #: Extended_Era/units/rpg/Human_Outlaw_Shadow_Mage.cfg:40
 #: Extended_Era/units/rpg/Sidhe_Warsinger.cfg:27
@@ -597,7 +601,7 @@ msgstr ""
 #: Extended_Era/units/standard/Dark_Elf_Captain.cfg:26
 #: Extended_Era/units/standard/Kalifa_Immortal.cfg:64
 msgid "blade"
-msgstr ""
+msgstr "kesme"
 
 #: Extended_Era/units/rpg/Dark_Elf_Marshal.cfg:61
 #: Extended_Era/units/rpg/Dark_Elf_Marshal.cfg:96
@@ -629,7 +633,7 @@ msgstr ""
 #: Extended_Era/units/standard/Dark_Elf_Captain.cfg:95
 #: Extended_Era/units/standard/Kalifa_Immortal.cfg:28
 msgid "spear"
-msgstr ""
+msgstr "mızrak"
 
 #: Extended_Era/units/rpg/Dark_Elf_Marshal.cfg:62
 #: Extended_Era/units/rpg/Dark_Elf_Marshal.cfg:97
@@ -691,7 +695,7 @@ msgstr ""
 #: Extended_Era/units/standard/Dark_Elf_Captain.cfg:96
 #: Extended_Era/units/standard/Kalifa_Immortal.cfg:29
 msgid "pierce"
-msgstr ""
+msgstr "delme"
 
 #: Extended_Era/units/rpg/Dark_Elf_Fighter.cfg:5
 #: Extended_Era/units/standard/Dark_Elf_Fighter.cfg:5
@@ -705,6 +709,9 @@ msgid ""
 "training. Dark Elves believe that only the best should have the honor of "
 "fighting for the Matron Mother."
 msgstr ""
+"Meclislere kabul edilmek oldukça zordur, birçok Savaşçı eğitim eksikliğinden "
+"ölmüştür. Çünkü kara elfler Matron Ana için savaşma onurunun yalnızca en "
+"iyilere layık olduğunu düşünürler."
 
 #: Extended_Era/units/rpg/Dark_Elf_High_Lord.cfg:5
 #: Extended_Era/units/standard/Dark_Elf_High_Lord.cfg:5
@@ -760,6 +767,10 @@ msgid ""
 "Although they can never become Lords, they still strive to do their best to "
 "defend the Matron Mother with their swords and short spears."
 msgstr ""
+"Bu elfler, savaş alanındaki karakterleri ve tavırlarıyla kendilerini "
+"kanıtlamışlardır. Mareşal rühbesini kendileri için kazanmışlardır. Asla "
+"Efendi olamayacaklarına rağmen, hala kılıçları ve kısa mızraklarıyla, Matron "
+"Ana'yı en iyi şekilde savunmaya çalışmaktadırlar."
 
 #: Extended_Era/units/rpg/Dark_Elf_Noble.cfg:5
 #: Extended_Era/units/standard/Dark_Elf_Noble.cfg:5
@@ -826,7 +837,7 @@ msgstr ""
 #: Extended_Era/units/rpg/Human_Outlaw_Shadow_Mage.cfg:18
 #: Extended_Era/units/standard/Human_Outlaw_Shadow_Mage.cfg:18
 msgid "leadership"
-msgstr ""
+msgstr "Liderlik"
 
 #: Extended_Era/units/rpg/Human_Outlaw_Shadow_Mage.cfg:77
 #: Extended_Era/units/standard/Human_Outlaw_Shadow_Mage.cfg:77
@@ -849,7 +860,7 @@ msgstr ""
 #: Extended_Era/units/standard/Sidhe_Warrior.cfg:5
 #: Extended_Era/units/standard/Dark_Elf_Warrior.cfg:5
 msgid "Warrior"
-msgstr ""
+msgstr "Cengaver"
 
 #: Extended_Era/units/rpg/Sidhe_Warrior.cfg:17
 #: Extended_Era/units/standard/Sidhe_Warrior.cfg:17
@@ -887,7 +898,7 @@ msgstr ""
 #: Extended_Era/units/standard/Aragwaith_Slayer.cfg:189
 #: Extended_Era/units/standard/Aragwaith_Strongbow.cfg:99
 msgid "bow"
-msgstr ""
+msgstr "ok"
 
 #: Extended_Era/units/standard/Aragwaith_Flagbearer.cfg:5
 msgid "Flagbearer"
@@ -1232,6 +1243,10 @@ msgid ""
 "they use for their sadistic pleasure. Terribly seductive, they are both "
 "feared and admired for their beauty and cruelty."
 msgstr ""
+"Bir ruhban hem sihirsel kabiliyetlerini hem de Cüceler gibi macelerini "
+"kullanırlar. Sadistik zevkleri için kullandıkları bir araçları, ilaç verme "
+"kabiliyetleri vardır. Korkunç derecede baştan çıkarıcı yartıklardır, hem "
+"güzellikleri hem de acımasızlıkları için arzulanırlar ve korkulurlar."
 
 #: Extended_Era/units/standard/Kalifa_Ghulam.cfg:62
 #: Extended_Era/units/standard/Kalifa_Ghaznid.cfg:57
@@ -1245,7 +1260,7 @@ msgstr ""
 #: Extended_Era/units/standard/Kalifa_Life_Guard.cfg:58
 #: Extended_Era/units/standard/Human_Outlaw_Highwayman.cfg:48
 msgid "mace"
-msgstr ""
+msgstr "gürz"
 
 #: Extended_Era/units/standard/Dark_Elf_Wizard.cfg:22
 #: Extended_Era/units/standard/Dark_Elf_Cleric.cfg:61
@@ -1254,7 +1269,7 @@ msgstr ""
 #: Extended_Era/units/standard/Dark_Elf_Sorceress.cfg:60
 #: Extended_Era/units/standard/Dark_Elf_Enchantress.cfg:57
 msgid "magic"
-msgstr ""
+msgstr "sihir"
 
 #: Extended_Era/units/standard/Dark_Elf_Corsair.cfg:5
 msgid "Corsair"
@@ -1266,6 +1281,9 @@ msgid ""
 "run. With they're razor sharp swords, they can splice and dice a dwarves "
 "beard."
 msgstr ""
+"Hiç kimse tek başına Kara Elf Korsanlarının önünde duramaz. Eğer bir tane "
+"görürseniz, kaçın. Jilet keskinliğinde kılıçlarıyla bir cücenin bıyığını "
+"zarlara ayırabilirler."
 
 #: Extended_Era/units/standard/Dark_Elf_Enchantress.cfg:5
 msgid "female^Enchantress"
@@ -1279,6 +1297,10 @@ msgid ""
 "Through the guiding of the Clerics, someday they will become a mighty "
 "Sorceress."
 msgstr ""
+"Kara Elf kadınları çoğunlukla çok genç bir yaşta Ruhban Emirleri'ne "
+"katılırlar. Öncelikle sınırlı fiziksel ve sihirsel kabiliyetlerle birlikte "
+"Büyücü Hanım olarak başlarlar ve işkence tekniklerini geliştirirler. "
+"Ruhbanların kılavuzluğunda, birgün yüce birer büyücü olup çıkacaklardır."
 
 #: Extended_Era/units/standard/Dark_Elf_Hunter.cfg:5
 msgid "Hunter"
@@ -1289,6 +1311,8 @@ msgid ""
 "Lurking in the ever dark depths of the caves, the Hunters move around with "
 "out a sound, except for the twang of their crossbows."
 msgstr ""
+"Mağaraların derin karanlığında pusuya yatarken, Avcılar tek bir ses olmadan "
+"hareket ederler, oklarının vınlaması da dahil."
 
 #: Extended_Era/units/standard/Dark_Elf_Shadow.cfg:24
 #: Extended_Era/units/standard/Dark_Elf_Stalker.cfg:25
@@ -1296,7 +1320,7 @@ msgstr ""
 #: Extended_Era/units/standard/Dwarvish_Flamethower.cfg:29
 #: Extended_Era/units/standard/Dark_Elf_Hunter.cfg:53
 msgid "dagger"
-msgstr ""
+msgstr "hançer"
 
 #: Extended_Era/units/standard/Dark_Elf_Shadow.cfg:63
 #: Extended_Era/units/standard/Dark_Elf_Stalker.cfg:64
@@ -1304,7 +1328,7 @@ msgstr ""
 #: Extended_Era/units/standard/Dark_Elf_Hunter.cfg:89
 #: Extended_Era/units/standard/Human_Outlaw_Raider.cfg:72
 msgid "crossbow"
-msgstr ""
+msgstr "Tatar yayı"
 
 #: Extended_Era/units/standard/Dark_Elf_Lizard_Master.cfg:5
 msgid "Lizard Master"
@@ -1316,15 +1340,18 @@ msgid ""
 "Many an Dwarf has been cut in two by it's strong jaws. It would be well to "
 "recruit several of these powerful units."
 msgstr ""
+"Kertenkeleler atlar kadar hızlı olmasalar da onlardan çok daha güçlüdürler. "
+"Güçlü çeneleri bir cüceyi ikiye ayırmaya yeterlidir. Güçlü birliklerde "
+"bunlardan birçoğunu bulundurmakta yarar vardır."
 
 #: Extended_Era/units/standard/Dark_Elf_Lizard_Rider.cfg:52
 #: Extended_Era/units/standard/Dark_Elf_Lizard_Master.cfg:22
 msgid "deathlance"
-msgstr ""
+msgstr "ölümmızrağı"
 
 #: Extended_Era/units/standard/Dark_Elf_Lizard_Master.cfg:63
 msgid "bite"
-msgstr ""
+msgstr "ısır"
 
 #: Extended_Era/units/standard/Dark_Elf_Lizard_Rider.cfg:5
 msgid "Lizard Rider"
@@ -1337,6 +1364,10 @@ msgid ""
 "unknown, to go where no Dark Elf has gone before. Some day, they will become "
 "Master of the Lizard."
 msgstr ""
+"Çocukluklarından beri, canavarlarıyla beraber eğitilmişlerdir, onları "
+"beslerler, iyileştirirler ve onlarla beraber uyurlar. Onların görevleri "
+"bilinmeyene öncülük etmektir, daha önce Kara Elflerin girmediği yerleri "
+"keşfetmektir. Bir gün Kertenkele Efendisi olacaklar."
 
 #: Extended_Era/units/standard/Dark_Elf_Lizard_Rider.cfg:93
 msgid "claw"
@@ -1352,6 +1383,9 @@ msgid ""
 "least expect it. Despite their frailty, they can inflict great damage over "
 "time, slowly taking the life away from their prey ."
 msgstr ""
+"Mağaraların gölgelerinde güvenle otururlar ve sizi en beklemediğiniz anda "
+"vururlar. Zayıflıklarına rağmen, zamanla büyük hasar verirler, kurbanlarının "
+"hayatını yavaşça alırlar."
 
 #: Extended_Era/units/standard/Dark_Elf_Sorcerer.cfg:18
 msgid ""
@@ -1360,6 +1394,11 @@ msgid ""
 "down a path toward the dark arts practiced by the Necromancers and Lichs. "
 "Their mighty cold blast can freeze any foe that dares to cross their path."
 msgstr ""
+"Sihirbazlar ve büyücüler gizli sanatlarda çalışmalarını çok derinlere "
+"götürenlerdir. Araştırmaları onları daha fazla güç için arayışa sürükler, ve "
+"Nekromantikler ve Ölü büyücülerin ilişkilendiği kara  sanatlara doğru "
+"götürür. Kudretli soğuk öfkeleri, önlerine çıkmaya cesaret eden her düşmanı "
+"donduracak niteliktedir."
 
 #: Extended_Era/units/standard/Dark_Elf_Sorceress.cfg:5
 msgid "female^Sorceress"
@@ -1373,6 +1412,11 @@ msgid ""
 "Very soon, they will become Clerics, the terribly seductive sadistic "
 "torturers."
 msgstr ""
+"Kara Elf kadınları çoğunlukla çok genç bir yaşta Ruhban Emirleri'ne "
+"katılırlar. Sihirbazlık rütbesini alanlar ve kurbanlarını tekrar tekrar "
+"iyileştirme, işkence etme ve yeniden iyileştirme konusunda neredeyse usta "
+"olanlar, çok geçmeden korkunç sadistik işkenceler yapan Ruhbanlara "
+"dönüşürler."
 
 #: Extended_Era/units/standard/Dark_Elf_Stalker.cfg:5
 msgid "Stalker"
@@ -1384,6 +1428,10 @@ msgid ""
 "daggers and crossbows. They are completely hidden in the caves, only the "
 "thud of a dead body tells you they are near."
 msgstr ""
+"Kurnaz, çevik savaşçılar olan İzciler hem hançerlerini hem de tatar "
+"yaylarını kullanmakta ustadırlar. Tamamiyle mağaralarda saklanırlar ve "
+"onların yakınlarda bir yerlerde olduğunun tek belirtisi yerde yatan ölü bir "
+"bedendir."
 
 #: Extended_Era/units/standard/Dark_Elf_Warlock.cfg:18
 msgid ""
@@ -1392,10 +1440,14 @@ msgid ""
 "and have the power to drain life from their opponents with a single touch, "
 "and add it to their own."
 msgstr ""
+"Türlerinin en iyileri olan Cinciler muazzam güce sahiptirler ve yalnızca Baş "
+"Büyücülere rakip olabilirler. Karanlık sanatların sırlarını keşfetmişlerdir "
+"ve basit bir dokunuşla karşısındakinin yaşamını içip kendilerine "
+"katabilirler."
 
 #: Extended_Era/units/standard/Dark_Elf_Warlock.cfg:22
 msgid "touch"
-msgstr ""
+msgstr "dokun"
 
 #: Extended_Era/units/standard/Dark_Elf_Warrior.cfg:17
 msgid ""
@@ -1403,14 +1455,22 @@ msgid ""
 "weapons. With their balanced blades, they can shave a Dwarf. Only few become "
 "Corsairs."
 msgstr ""
+"Bu savaşçılar kendilerini tamamen çifte silahların kullanımında ustalaşmaya "
+"adamışlardır. Dengeli bıçaklarıyla bir cüceyi traş edebilirler. Çok azı "
+"Korsana dönüşebilir."
 
 #: Extended_Era/units/standard/Dark_Elf_Wizard.cfg:18
+#, fuzzy
 msgid ""
 "Some Dark Elves prefer studying the arcane arts over close-combat. Usually "
 "they are left to the lesser duties of the House, such as upkeep, watching "
 "the slaves, and other such things. However, in time of conflict, they can do "
 "great damage, even though they lack any training in close-combat."
 msgstr ""
+"Bazı Kara Elfler, gizli sanatlarını yakın dövüşte sergilemeyi severler. "
+"Genelde meclisin küçük işleriyle uğraşırlar, esirleri gözleme ya da bunun "
+"gibi şeyler. Ancak zamanla çok büyük zarar verebilirler, yalnızca yakın "
+"dövüşe gereksinim duyarlar."
 
 #: Extended_Era/units/standard/Drake_Armageddon.cfg:5
 msgid "Armageddon Drake"

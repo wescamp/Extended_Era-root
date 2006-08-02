@@ -3,9 +3,9 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2006-08-01 23:31+0200\n"
-"PO-Revision-Date: 2006-08-01 23:31+0200\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2006-06-26 01:03+0900\n"
+"Last-Translator: Moroder <moroderwesnoth@gmail.com>\n"
+"Language-Team: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -277,7 +277,7 @@ msgstr ""
 #: Extended_Era/units/standard/Chaos_Demonologist.cfg:35
 #: Extended_Era/units/standard/Aragwaith_Sorcerer.cfg:33
 msgid "staff"
-msgstr ""
+msgstr "cajado"
 
 #: Extended_Era/units/rpg/Chaos_Invoker.cfg:44
 #: Extended_Era/units/rpg/Dark_Elf_Lord.cfg:62
@@ -335,7 +335,7 @@ msgstr ""
 #: Extended_Era/units/standard/Troll_Shaman.cfg:31
 #: Extended_Era/units/standard/Kalifa_Immortal.cfg:103
 msgid "impact"
-msgstr ""
+msgstr "impacto"
 
 #: Extended_Era/units/rpg/Chaos_Invoker.cfg:79
 #: Extended_Era/units/rpg/Chaos_Magus.cfg:82
@@ -365,7 +365,7 @@ msgstr ""
 #: Extended_Era/units/standard/Dark_Elf_Warlock.cfg:63
 #: Extended_Era/units/standard/Sidhe_Spirit_Forefather.cfg:52
 msgid "cold"
-msgstr ""
+msgstr "frio"
 
 #: Extended_Era/units/rpg/Chaos_Demonologist.cfg:103
 #: Extended_Era/units/standard/Chaos_Demonologist.cfg:103
@@ -397,7 +397,7 @@ msgstr ""
 #: Extended_Era/units/standard/Aragwaith_Sorcerer.cfg:61
 #: Extended_Era/units/standard/Troll_Shaman.cfg:55
 msgid "fire"
-msgstr ""
+msgstr "fogo"
 
 #: Extended_Era/units/rpg/Chaos_Invoker.cfg:5
 #: Extended_Era/units/standard/Chaos_Invoker.cfg:5
@@ -445,6 +445,10 @@ msgid ""
 "to do their best to defend the Matron Mother with their swords and short "
 "spears."
 msgstr ""
+"Estes Elfos estão sendo um exemplo para seus colegas soldados, e por isso "
+"foram promovidos a Capitão. Apesar de nunca poderem chegar a Lorde, eles "
+"ainda se esforçarão ao máximo para defender a Grande Mãe com suas espadas e "
+"lanças curtas."
 
 #: Extended_Era/units/rpg/Sidhe_Warsinger.cfg:25
 #: Extended_Era/units/rpg/Sidhe_Warrior.cfg:21
@@ -494,7 +498,7 @@ msgstr ""
 #: Extended_Era/units/standard/Aragwaith_Guard.cfg:54
 #: Extended_Era/units/standard/Dark_Elf_Captain.cfg:24
 msgid "sword"
-msgstr ""
+msgstr "espada"
 
 #: Extended_Era/units/rpg/Human_Outlaw_Shadow_Mage.cfg:40
 #: Extended_Era/units/rpg/Sidhe_Warsinger.cfg:27
@@ -597,7 +601,7 @@ msgstr ""
 #: Extended_Era/units/standard/Dark_Elf_Captain.cfg:26
 #: Extended_Era/units/standard/Kalifa_Immortal.cfg:64
 msgid "blade"
-msgstr ""
+msgstr "lâmina"
 
 #: Extended_Era/units/rpg/Dark_Elf_Marshal.cfg:61
 #: Extended_Era/units/rpg/Dark_Elf_Marshal.cfg:96
@@ -629,7 +633,7 @@ msgstr ""
 #: Extended_Era/units/standard/Dark_Elf_Captain.cfg:95
 #: Extended_Era/units/standard/Kalifa_Immortal.cfg:28
 msgid "spear"
-msgstr ""
+msgstr "lança"
 
 #: Extended_Era/units/rpg/Dark_Elf_Marshal.cfg:62
 #: Extended_Era/units/rpg/Dark_Elf_Marshal.cfg:97
@@ -691,7 +695,7 @@ msgstr ""
 #: Extended_Era/units/standard/Dark_Elf_Captain.cfg:96
 #: Extended_Era/units/standard/Kalifa_Immortal.cfg:29
 msgid "pierce"
-msgstr ""
+msgstr "perfurante"
 
 #: Extended_Era/units/rpg/Dark_Elf_Fighter.cfg:5
 #: Extended_Era/units/standard/Dark_Elf_Fighter.cfg:5
@@ -705,6 +709,9 @@ msgid ""
 "training. Dark Elves believe that only the best should have the honor of "
 "fighting for the Matron Mother."
 msgstr ""
+"Aprendizes no exército de suas Casas, muitos guerreiros morrem por falta de "
+"treinamento. Elfos das Sombras acreditam que apenas os melhores deveriam ter "
+"a honra de lutar pela Grande Mãe."
 
 #: Extended_Era/units/rpg/Dark_Elf_High_Lord.cfg:5
 #: Extended_Era/units/standard/Dark_Elf_High_Lord.cfg:5
@@ -826,7 +833,7 @@ msgstr ""
 #: Extended_Era/units/rpg/Human_Outlaw_Shadow_Mage.cfg:18
 #: Extended_Era/units/standard/Human_Outlaw_Shadow_Mage.cfg:18
 msgid "leadership"
-msgstr ""
+msgstr "liderança"
 
 #: Extended_Era/units/rpg/Human_Outlaw_Shadow_Mage.cfg:77
 #: Extended_Era/units/standard/Human_Outlaw_Shadow_Mage.cfg:77
@@ -849,7 +856,7 @@ msgstr ""
 #: Extended_Era/units/standard/Sidhe_Warrior.cfg:5
 #: Extended_Era/units/standard/Dark_Elf_Warrior.cfg:5
 msgid "Warrior"
-msgstr ""
+msgstr "Guerreiro"
 
 #: Extended_Era/units/rpg/Sidhe_Warrior.cfg:17
 #: Extended_Era/units/standard/Sidhe_Warrior.cfg:17
@@ -887,7 +894,7 @@ msgstr ""
 #: Extended_Era/units/standard/Aragwaith_Slayer.cfg:189
 #: Extended_Era/units/standard/Aragwaith_Strongbow.cfg:99
 msgid "bow"
-msgstr ""
+msgstr "arco"
 
 #: Extended_Era/units/standard/Aragwaith_Flagbearer.cfg:5
 msgid "Flagbearer"
@@ -1040,7 +1047,7 @@ msgstr ""
 #: Extended_Era/units/standard/Dwarvish_Axemaster.cfg:155
 #: Extended_Era/units/standard/Chaos_Lesser_Daemon.cfg:30
 msgid "axe"
-msgstr ""
+msgstr "machado"
 
 #: Extended_Era/units/standard/Chaos_Daemon.cfg:5
 msgid "Chaos Daemon"
@@ -1121,7 +1128,7 @@ msgstr ""
 #: Extended_Era/units/standard/Chaos_Hound_Warp.cfg:38
 #: Extended_Era/units/standard/Chaos_Hound_Rabid.cfg:35
 msgid "fangs"
-msgstr ""
+msgstr "presas"
 
 #: Extended_Era/units/standard/Chaos_Hound_Flesh.cfg:5
 msgid "Flesh Hound"
@@ -1137,7 +1144,7 @@ msgstr ""
 #: Extended_Era/units/standard/Chaos_Hound_Flesh.cfg:36
 #: Extended_Era/units/standard/Troll_Shaman.cfg:29
 msgid "fist"
-msgstr ""
+msgstr "punho"
 
 #: Extended_Era/units/standard/Chaos_Hound_Rabid.cfg:5
 msgid "Rabid Hound"
@@ -1219,7 +1226,7 @@ msgstr ""
 #: Extended_Era/units/standard/Drake_Armageddon.cfg:45
 #: Extended_Era/units/standard/Kalifa_Elder_Falcon.cfg:21
 msgid "claws"
-msgstr ""
+msgstr "garras"
 
 #: Extended_Era/units/standard/Dark_Elf_Cleric.cfg:5
 msgid "female^Cleric"
@@ -1232,6 +1239,10 @@ msgid ""
 "they use for their sadistic pleasure. Terribly seductive, they are both "
 "feared and admired for their beauty and cruelty."
 msgstr ""
+"Uma Clériga é apta a usar suas habilidades mágicas, assim como a maça, como "
+"os Anões já descobriram. Elas têm habilidades de cura, uma ferramenta que "
+"usam em seus rituais sádicos. Terrivelmente sedutoras, são tanto admiradas "
+"quanto temidas por sua beleza e crueldade."
 
 #: Extended_Era/units/standard/Kalifa_Ghulam.cfg:62
 #: Extended_Era/units/standard/Kalifa_Ghaznid.cfg:57
@@ -1245,7 +1256,7 @@ msgstr ""
 #: Extended_Era/units/standard/Kalifa_Life_Guard.cfg:58
 #: Extended_Era/units/standard/Human_Outlaw_Highwayman.cfg:48
 msgid "mace"
-msgstr ""
+msgstr "maça"
 
 #: Extended_Era/units/standard/Dark_Elf_Wizard.cfg:22
 #: Extended_Era/units/standard/Dark_Elf_Cleric.cfg:61
@@ -1254,7 +1265,7 @@ msgstr ""
 #: Extended_Era/units/standard/Dark_Elf_Sorceress.cfg:60
 #: Extended_Era/units/standard/Dark_Elf_Enchantress.cfg:57
 msgid "magic"
-msgstr ""
+msgstr "mágica"
 
 #: Extended_Era/units/standard/Dark_Elf_Corsair.cfg:5
 msgid "Corsair"
@@ -1266,6 +1277,9 @@ msgid ""
 "run. With they're razor sharp swords, they can splice and dice a dwarves "
 "beard."
 msgstr ""
+"Nenhum ser vivo consegue ficar perante um Corsário Élfico das Sombras. Se "
+"você algum dia ver algum, corra.  Com suas espadas extremamente afiadas, "
+"eles podem cortar e picotar a barba de um Anão."
 
 #: Extended_Era/units/standard/Dark_Elf_Enchantress.cfg:5
 msgid "female^Enchantress"
@@ -1279,6 +1293,10 @@ msgid ""
 "Through the guiding of the Clerics, someday they will become a mighty "
 "Sorceress."
 msgstr ""
+"As mulheres dos Elfos das Sombras normalmente integram a Ordem dos Magos "
+"muito jovens. Elas começam como Feiticeiras, com poderes físicos e mágicos "
+"limitados, e apenas começaram a praticar suas técnicas de tortura. Através "
+"do treinamento das Clérigas, algum dia elas se tornarão poderosas Bruxas"
 
 #: Extended_Era/units/standard/Dark_Elf_Hunter.cfg:5
 msgid "Hunter"
@@ -1289,6 +1307,8 @@ msgid ""
 "Lurking in the ever dark depths of the caves, the Hunters move around with "
 "out a sound, except for the twang of their crossbows."
 msgstr ""
+"Se escondendo no escuro infinito das profundezas das cavernas, os Caçadores "
+"se movem sem fazer barulho, exceto o de suas bestas."
 
 #: Extended_Era/units/standard/Dark_Elf_Shadow.cfg:24
 #: Extended_Era/units/standard/Dark_Elf_Stalker.cfg:25
@@ -1296,7 +1316,7 @@ msgstr ""
 #: Extended_Era/units/standard/Dwarvish_Flamethower.cfg:29
 #: Extended_Era/units/standard/Dark_Elf_Hunter.cfg:53
 msgid "dagger"
-msgstr ""
+msgstr "adaga"
 
 #: Extended_Era/units/standard/Dark_Elf_Shadow.cfg:63
 #: Extended_Era/units/standard/Dark_Elf_Stalker.cfg:64
@@ -1304,7 +1324,7 @@ msgstr ""
 #: Extended_Era/units/standard/Dark_Elf_Hunter.cfg:89
 #: Extended_Era/units/standard/Human_Outlaw_Raider.cfg:72
 msgid "crossbow"
-msgstr ""
+msgstr "besta"
 
 #: Extended_Era/units/standard/Dark_Elf_Lizard_Master.cfg:5
 msgid "Lizard Master"
@@ -1316,15 +1336,18 @@ msgid ""
 "Many an Dwarf has been cut in two by it's strong jaws. It would be well to "
 "recruit several of these powerful units."
 msgstr ""
+"Apesar dos Lagartos não serem tão rápidos quantos os cavalos, eles são muito "
+"mais poderosos. Muitos Anões já foram rasgados em dois pelas poderosas "
+"mandíbulas deles. Seria bom recrutar vários desta poderosa unidade."
 
 #: Extended_Era/units/standard/Dark_Elf_Lizard_Rider.cfg:52
 #: Extended_Era/units/standard/Dark_Elf_Lizard_Master.cfg:22
 msgid "deathlance"
-msgstr ""
+msgstr "lança da morte"
 
 #: Extended_Era/units/standard/Dark_Elf_Lizard_Master.cfg:63
 msgid "bite"
-msgstr ""
+msgstr "mordida"
 
 #: Extended_Era/units/standard/Dark_Elf_Lizard_Rider.cfg:5
 msgid "Lizard Rider"
@@ -1337,6 +1360,10 @@ msgid ""
 "unknown, to go where no Dark Elf has gone before. Some day, they will become "
 "Master of the Lizard."
 msgstr ""
+"Desde a infânica, eles treinam com seus monstros, alimentando-os, tratando-"
+"os e dormindo com eles. É o dever deles se infiltrar no descohecido, ir até "
+"onde nenhum Elfo das Sombras já foi. Algum dia, eles se tornarão Mestres dos "
+"Lagartos."
 
 #: Extended_Era/units/standard/Dark_Elf_Lizard_Rider.cfg:93
 msgid "claw"
@@ -1352,6 +1379,9 @@ msgid ""
 "least expect it. Despite their frailty, they can inflict great damage over "
 "time, slowly taking the life away from their prey ."
 msgstr ""
+"Escondidos nas sombras das cavernas, eles irão atingí-lo quando menos "
+"esperar. Apesar de sua fragilidade, eles podem infligir grande dano ao longo "
+"do tempo, tirando lentamente a energia de sua vítima."
 
 #: Extended_Era/units/standard/Dark_Elf_Sorcerer.cfg:18
 msgid ""
@@ -1395,7 +1425,7 @@ msgstr ""
 
 #: Extended_Era/units/standard/Dark_Elf_Warlock.cfg:22
 msgid "touch"
-msgstr ""
+msgstr "toque"
 
 #: Extended_Era/units/standard/Dark_Elf_Warrior.cfg:17
 msgid ""
@@ -1403,14 +1433,23 @@ msgid ""
 "weapons. With their balanced blades, they can shave a Dwarf. Only few become "
 "Corsairs."
 msgstr ""
+"Esses guerreiros se dedicaram totalmente ao treinamento com duas espadas. "
+"Com suas espada balanceadas, eles conseguem barbear um Anão. Apenas alguns "
+"conseguem se tornar um Corsário."
 
 #: Extended_Era/units/standard/Dark_Elf_Wizard.cfg:18
+#, fuzzy
 msgid ""
 "Some Dark Elves prefer studying the arcane arts over close-combat. Usually "
 "they are left to the lesser duties of the House, such as upkeep, watching "
 "the slaves, and other such things. However, in time of conflict, they can do "
 "great damage, even though they lack any training in close-combat."
 msgstr ""
+"Alguns Elfos das Sombras preferem o estudo das artes arcanas ao combate "
+"corpo a corpo. Normalmente eles ficam com tarefas menos importantes na casa, "
+"como a alimentação, tomar conta dos escravos, e outras coisas do tipo. "
+"Porém, em época de conflitos, eles se tornam uma arma poderosa, capaz de "
+"infligir grande dano, apesar da falta de treinamento de batalha."
 
 #: Extended_Era/units/standard/Drake_Armageddon.cfg:5
 msgid "Armageddon Drake"
@@ -1431,7 +1470,7 @@ msgstr ""
 
 #: Extended_Era/units/standard/Drake_Armageddon.cfg:101
 msgid "fire breath"
-msgstr ""
+msgstr "baforada de fogo"
 
 #: Extended_Era/units/standard/Dwarvish_Arcanister.cfg:5
 msgid "Dwarvish Arcanister"
@@ -2198,7 +2237,7 @@ msgstr ""
 
 #: Extended_Era/units/standard/Troll_Shaman.cfg:4
 msgid "Troll Shaman"
-msgstr ""
+msgstr "Xamã Troll"
 
 #: Extended_Era/units/standard/Troll_Shaman.cfg:23
 msgid ""
@@ -2209,7 +2248,7 @@ msgstr ""
 
 #: Extended_Era/units/standard/Troll_Shaman.cfg:54
 msgid "flame blast"
-msgstr ""
+msgstr "explosão de fogo"
 
 #: Extended_Era/units/standard/Wose_Shaman.cfg:6
 msgid "Wose Shaman"
@@ -2225,4 +2264,4 @@ msgstr ""
 
 #: Extended_Era/units/standard/Wose_Shaman.cfg:72
 msgid "entangle"
-msgstr ""
+msgstr "amarrar"

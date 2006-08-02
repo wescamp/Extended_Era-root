@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2006-08-01 23:31+0200\n"
-"PO-Revision-Date: 2006-08-01 23:31+0200\n"
+"PO-Revision-Date: 2005-05-18 10:15+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -276,7 +276,7 @@ msgstr ""
 #: Extended_Era/units/standard/Chaos_Demonologist.cfg:35
 #: Extended_Era/units/standard/Aragwaith_Sorcerer.cfg:33
 msgid "staff"
-msgstr ""
+msgstr "virga"
 
 #: Extended_Era/units/rpg/Chaos_Invoker.cfg:44
 #: Extended_Era/units/rpg/Dark_Elf_Lord.cfg:62
@@ -334,7 +334,7 @@ msgstr ""
 #: Extended_Era/units/standard/Troll_Shaman.cfg:31
 #: Extended_Era/units/standard/Kalifa_Immortal.cfg:103
 msgid "impact"
-msgstr ""
+msgstr "incussus"
 
 #: Extended_Era/units/rpg/Chaos_Invoker.cfg:79
 #: Extended_Era/units/rpg/Chaos_Magus.cfg:82
@@ -493,7 +493,7 @@ msgstr ""
 #: Extended_Era/units/standard/Aragwaith_Guard.cfg:54
 #: Extended_Era/units/standard/Dark_Elf_Captain.cfg:24
 msgid "sword"
-msgstr ""
+msgstr "gladius"
 
 #: Extended_Era/units/rpg/Human_Outlaw_Shadow_Mage.cfg:40
 #: Extended_Era/units/rpg/Sidhe_Warsinger.cfg:27
@@ -596,7 +596,7 @@ msgstr ""
 #: Extended_Era/units/standard/Dark_Elf_Captain.cfg:26
 #: Extended_Era/units/standard/Kalifa_Immortal.cfg:64
 msgid "blade"
-msgstr ""
+msgstr "lamina"
 
 #: Extended_Era/units/rpg/Dark_Elf_Marshal.cfg:61
 #: Extended_Era/units/rpg/Dark_Elf_Marshal.cfg:96
@@ -690,7 +690,7 @@ msgstr ""
 #: Extended_Era/units/standard/Dark_Elf_Captain.cfg:96
 #: Extended_Era/units/standard/Kalifa_Immortal.cfg:29
 msgid "pierce"
-msgstr ""
+msgstr "infigere"
 
 #: Extended_Era/units/rpg/Dark_Elf_Fighter.cfg:5
 #: Extended_Era/units/standard/Dark_Elf_Fighter.cfg:5
@@ -848,7 +848,7 @@ msgstr ""
 #: Extended_Era/units/standard/Sidhe_Warrior.cfg:5
 #: Extended_Era/units/standard/Dark_Elf_Warrior.cfg:5
 msgid "Warrior"
-msgstr ""
+msgstr "Bellator"
 
 #: Extended_Era/units/rpg/Sidhe_Warrior.cfg:17
 #: Extended_Era/units/standard/Sidhe_Warrior.cfg:17
@@ -886,7 +886,7 @@ msgstr ""
 #: Extended_Era/units/standard/Aragwaith_Slayer.cfg:189
 #: Extended_Era/units/standard/Aragwaith_Strongbow.cfg:99
 msgid "bow"
-msgstr ""
+msgstr "arcus"
 
 #: Extended_Era/units/standard/Aragwaith_Flagbearer.cfg:5
 msgid "Flagbearer"
@@ -1907,7 +1907,7 @@ msgstr ""
 
 #: Extended_Era/units/standard/Orcish_Shaman.cfg:5
 msgid "Orcish Shaman"
-msgstr ""
+msgstr "Flamen Orcorum"
 
 #: Extended_Era/units/standard/Orcish_Shaman.cfg:22
 msgid ""
@@ -1918,16 +1918,21 @@ msgid ""
 "Orcs), Orcish Shamans are good spell casters and can curse their enemies, "
 "draining their life."
 msgstr ""
+"Flamines Orcorum custodes sunt magicae orcorum. In tribubus orcorum "
+"honorati, formant Concilium Orcorum, quod decreta magni momenti communiati "
+"toto Orcorum facit et contentiones inter tribus generis huius litigosi "
+"arbitrant. Etsi debiles sunt corporis (inter Orcos), Flamines Orcorum "
+"incantatores probi sunt et hostes execrari possunt, haurientes vitam eorum."
 
 #: Extended_Era/units/standard/Orcish_Shaman.cfg:58
 #: Extended_Era/units/standard/Orcish_Shaman.cfg:142
 #: Extended_Era/units/standard/Orcish_Shaman.cfg:226
 msgid "curse"
-msgstr ""
+msgstr "maledictio"
 
 #: Extended_Era/units/standard/Orcish_Shaman.cfg:89
 msgid "Novice Orcish Shaman"
-msgstr ""
+msgstr "Flamen Orcorum Novitius"
 
 #: Extended_Era/units/standard/Orcish_Shaman.cfg:106
 msgid ""
@@ -1939,10 +1944,17 @@ msgid ""
 "draining their life. Novice Shamans are still young and vigorous, but their "
 "spell-casting ability still needs improvement."
 msgstr ""
+"Flamines Orcorum custodes sunt magicae orcorum. In tribubus orcorum "
+"honorati, formant Concilium Orcorum, quod decreta magni momenti communiati "
+"toto Orcorum facit et contentiones inter tribus generis huius litigosi "
+"arbitrant. Etsi debiles sunt corporis (inter Orcos), Flamines Orcorum "
+"incantatores probi sunt et hostes execrari possunt, haurientes vitam eorum. "
+"Flamines Novitii juvenes sunt et vegeti, sed facultas eorum incantamenta "
+"dicendi etiamnum emendatione caret."
 
 #: Extended_Era/units/standard/Orcish_Shaman.cfg:173
 msgid "Old Orcish Shaman"
-msgstr ""
+msgstr "Flamen Orcorum Senex"
 
 #: Extended_Era/units/standard/Orcish_Shaman.cfg:190
 msgid ""
@@ -1954,6 +1966,12 @@ msgid ""
 "draining their life. Old Orcish Shamans are shamans that have mastered "
 "magic, although their physical strength has declined with age."
 msgstr ""
+"Flamines Orcorum custodes sunt magicae orcorum. In tribubus orcorum "
+"honorati, formant Concilium Orcorum, quod decreta magni momenti communiati "
+"toto Orcorum facit et contentiones inter tribus generis huius litigosi "
+"arbitrant. Etsi debiles sunt corporis (inter Orcos), Flamines Orcorum "
+"incantatores probi sunt et hostes execrari possunt, haurientes vitam eorum. "
+"Flamines Senes in magicam dominantur, sed vis physica in aetate minuiti est."
 
 #: Extended_Era/units/standard/Sidhe_Bladespinner.cfg:5
 msgid "Bladespinner"

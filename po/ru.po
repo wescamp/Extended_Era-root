@@ -1,15 +1,20 @@
+# translation of wesnoth-Under_the_Burning_Suns.po to Russian
+# Information for translators: http://www.wesnoth.org/wiki/CampaignBurningSuns:RussianTranslation
+# Alexey Remizov <alexey@remizov.pp.ru>, 2006.
 msgid ""
 msgstr ""
-"Project-Id-Version: wescamp-i 18n\n"
+"Project-Id-Version: wesnoth-Under_the_Burning_Suns\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2006-08-01 23:31+0200\n"
-"PO-Revision-Date: 2006-08-01 23:31+0200\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2006-01-29 19:22+0300\n"
+"Last-Translator: Alexey Remizov <alexey@remizov.pp.ru>\n"
+"Language-Team: Russian <ru@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%"
+"X-Generator: KBabel 1.9.1\n"
+"Plural-Forms:  nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%"
+"10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 
 #: Extended_Era/abilities/allied_leadership.cfg:10
@@ -39,7 +44,7 @@ msgstr ""
 #: Extended_Era/abilities/cavestalk.cfg:5
 #: Extended_Era/abilities/cavestalk.cfg:10
 msgid "cavestalk"
-msgstr ""
+msgstr "приследование"
 
 #: Extended_Era/abilities/cavestalk.cfg:9
 #: Extended_Era/abilities/cavestalk.cfg:14
@@ -278,7 +283,7 @@ msgstr ""
 #: Extended_Era/units/standard/Chaos_Demonologist.cfg:35
 #: Extended_Era/units/standard/Aragwaith_Sorcerer.cfg:33
 msgid "staff"
-msgstr ""
+msgstr "посох"
 
 #: Extended_Era/units/rpg/Chaos_Invoker.cfg:44
 #: Extended_Era/units/rpg/Dark_Elf_Lord.cfg:62
@@ -336,7 +341,7 @@ msgstr ""
 #: Extended_Era/units/standard/Troll_Shaman.cfg:31
 #: Extended_Era/units/standard/Kalifa_Immortal.cfg:103
 msgid "impact"
-msgstr ""
+msgstr "толчок"
 
 #: Extended_Era/units/rpg/Chaos_Invoker.cfg:79
 #: Extended_Era/units/rpg/Chaos_Magus.cfg:82
@@ -366,7 +371,7 @@ msgstr ""
 #: Extended_Era/units/standard/Dark_Elf_Warlock.cfg:63
 #: Extended_Era/units/standard/Sidhe_Spirit_Forefather.cfg:52
 msgid "cold"
-msgstr ""
+msgstr "холод"
 
 #: Extended_Era/units/rpg/Chaos_Demonologist.cfg:103
 #: Extended_Era/units/standard/Chaos_Demonologist.cfg:103
@@ -398,7 +403,7 @@ msgstr ""
 #: Extended_Era/units/standard/Aragwaith_Sorcerer.cfg:61
 #: Extended_Era/units/standard/Troll_Shaman.cfg:55
 msgid "fire"
-msgstr ""
+msgstr "огонь"
 
 #: Extended_Era/units/rpg/Chaos_Invoker.cfg:5
 #: Extended_Era/units/standard/Chaos_Invoker.cfg:5
@@ -446,6 +451,9 @@ msgid ""
 "to do their best to defend the Matron Mother with their swords and short "
 "spears."
 msgstr ""
+"Эти Эльфы были примером их соратникам, и получили разряд Капитана. Хотя они "
+"никогда не могут становиться Богом, они все еще стремятся приложить все "
+"усилия, чтобы защитить Королеву их мечами и короткими копьями."
 
 #: Extended_Era/units/rpg/Sidhe_Warsinger.cfg:25
 #: Extended_Era/units/rpg/Sidhe_Warrior.cfg:21
@@ -495,7 +503,7 @@ msgstr ""
 #: Extended_Era/units/standard/Aragwaith_Guard.cfg:54
 #: Extended_Era/units/standard/Dark_Elf_Captain.cfg:24
 msgid "sword"
-msgstr ""
+msgstr "меч"
 
 #: Extended_Era/units/rpg/Human_Outlaw_Shadow_Mage.cfg:40
 #: Extended_Era/units/rpg/Sidhe_Warsinger.cfg:27
@@ -598,7 +606,7 @@ msgstr ""
 #: Extended_Era/units/standard/Dark_Elf_Captain.cfg:26
 #: Extended_Era/units/standard/Kalifa_Immortal.cfg:64
 msgid "blade"
-msgstr ""
+msgstr "клинок"
 
 #: Extended_Era/units/rpg/Dark_Elf_Marshal.cfg:61
 #: Extended_Era/units/rpg/Dark_Elf_Marshal.cfg:96
@@ -630,7 +638,7 @@ msgstr ""
 #: Extended_Era/units/standard/Dark_Elf_Captain.cfg:95
 #: Extended_Era/units/standard/Kalifa_Immortal.cfg:28
 msgid "spear"
-msgstr ""
+msgstr "копьё"
 
 #: Extended_Era/units/rpg/Dark_Elf_Marshal.cfg:62
 #: Extended_Era/units/rpg/Dark_Elf_Marshal.cfg:97
@@ -692,7 +700,7 @@ msgstr ""
 #: Extended_Era/units/standard/Dark_Elf_Captain.cfg:96
 #: Extended_Era/units/standard/Kalifa_Immortal.cfg:29
 msgid "pierce"
-msgstr ""
+msgstr "укол"
 
 #: Extended_Era/units/rpg/Dark_Elf_Fighter.cfg:5
 #: Extended_Era/units/standard/Dark_Elf_Fighter.cfg:5
@@ -706,6 +714,8 @@ msgid ""
 "training. Dark Elves believe that only the best should have the honor of "
 "fighting for the Matron Mother."
 msgstr ""
+"Начанающие в армии, много Бойцов умирают из-за нехватки обучения. Темные "
+"Эльфы полагают, что только лучшее должны иметь честь борьбы за Королеву."
 
 #: Extended_Era/units/rpg/Dark_Elf_High_Lord.cfg:5
 #: Extended_Era/units/standard/Dark_Elf_High_Lord.cfg:5
@@ -761,6 +771,10 @@ msgid ""
 "Although they can never become Lords, they still strive to do their best to "
 "defend the Matron Mother with their swords and short spears."
 msgstr ""
+"Эти Эльфы показали себя в сражениях с их характером и поведением. Они "
+"заработали для себя разряд Маршала. Хотя они никогда не могут становиться "
+"Богом, они все еще стремятся приложить все усилия, чтобы защитить Королеву "
+"их мечами и короткими копьями."
 
 #: Extended_Era/units/rpg/Dark_Elf_Noble.cfg:5
 #: Extended_Era/units/standard/Dark_Elf_Noble.cfg:5
@@ -779,60 +793,60 @@ msgstr ""
 #: Extended_Era/units/rpg/Human_Outlaw_Rogue_Mage.cfg:5
 #: Extended_Era/units/standard/Human_Outlaw_Rogue_Mage.cfg:5
 msgid "Rogue Mage"
-msgstr ""
+msgstr "Маг-Жулик"
 
 #: Extended_Era/units/rpg/Human_Outlaw_Shadow_Mage.cfg:38
 #: Extended_Era/units/rpg/Human_Outlaw_Rogue_Mage.cfg:29
 #: Extended_Era/units/standard/Human_Outlaw_Shadow_Mage.cfg:38
 #: Extended_Era/units/standard/Human_Outlaw_Rogue_Mage.cfg:29
 msgid "short sword"
-msgstr ""
+msgstr "короткий меч"
 
 #: Extended_Era/units/rpg/Human_Outlaw_Rogue_Mage.cfg:85
 #: Extended_Era/units/standard/Human_Outlaw_Rogue_Mage.cfg:85
 msgid "missile"
-msgstr ""
+msgstr "снаряд"
 
 #: Extended_Era/units/rpg/Human_Outlaw_Shadow_Lord.cfg:5
 #: Extended_Era/units/standard/Human_Outlaw_Shadow_Lord.cfg:5
 msgid "Shadow Lord"
-msgstr ""
+msgstr "Теневой Лорд"
 
 #: Extended_Era/units/rpg/Human_Outlaw_Shadow_Lord.cfg:72
 #: Extended_Era/units/rpg/Human_Outlaw_Shadow_Lord.cfg:73
 #: Extended_Era/units/standard/Human_Outlaw_Shadow_Lord.cfg:72
 #: Extended_Era/units/standard/Human_Outlaw_Shadow_Lord.cfg:73
 msgid "astral blade"
-msgstr ""
+msgstr "звездное лезвие"
 
 #: Extended_Era/units/rpg/Human_Outlaw_Shadow_Lord.cfg:132
 #: Extended_Era/units/rpg/Human_Outlaw_Shadow_Lord.cfg:133
 #: Extended_Era/units/standard/Human_Outlaw_Shadow_Lord.cfg:132
 #: Extended_Era/units/standard/Human_Outlaw_Shadow_Lord.cfg:133
 msgid "shadow bolt"
-msgstr ""
+msgstr "теневой болт"
 
 #: Extended_Era/units/rpg/Human_Outlaw_Shadow_Lord.cfg:173
 #: Extended_Era/units/rpg/Human_Outlaw_Shadow_Lord.cfg:174
 #: Extended_Era/units/standard/Human_Outlaw_Shadow_Lord.cfg:173
 #: Extended_Era/units/standard/Human_Outlaw_Shadow_Lord.cfg:174
 msgid "shadow blast"
-msgstr ""
+msgstr "теневой взрыв"
 
 #: Extended_Era/units/rpg/Human_Outlaw_Shadow_Mage.cfg:5
 #: Extended_Era/units/standard/Human_Outlaw_Shadow_Mage.cfg:5
 msgid "Shadow Mage"
-msgstr ""
+msgstr "Теневой Маг"
 
 #: Extended_Era/units/rpg/Human_Outlaw_Shadow_Mage.cfg:18
 #: Extended_Era/units/standard/Human_Outlaw_Shadow_Mage.cfg:18
 msgid "leadership"
-msgstr ""
+msgstr "лидерство"
 
 #: Extended_Era/units/rpg/Human_Outlaw_Shadow_Mage.cfg:77
 #: Extended_Era/units/standard/Human_Outlaw_Shadow_Mage.cfg:77
 msgid "ice blast"
-msgstr ""
+msgstr "ледяной взрыв"
 
 #: Extended_Era/units/rpg/Sidhe_Herald.cfg:5
 #: Extended_Era/units/standard/Sidhe_Herald.cfg:5
@@ -850,7 +864,7 @@ msgstr ""
 #: Extended_Era/units/standard/Sidhe_Warrior.cfg:5
 #: Extended_Era/units/standard/Dark_Elf_Warrior.cfg:5
 msgid "Warrior"
-msgstr ""
+msgstr "Воин"
 
 #: Extended_Era/units/rpg/Sidhe_Warrior.cfg:17
 #: Extended_Era/units/standard/Sidhe_Warrior.cfg:17
@@ -888,7 +902,7 @@ msgstr ""
 #: Extended_Era/units/standard/Aragwaith_Slayer.cfg:189
 #: Extended_Era/units/standard/Aragwaith_Strongbow.cfg:99
 msgid "bow"
-msgstr ""
+msgstr "лук"
 
 #: Extended_Era/units/standard/Aragwaith_Flagbearer.cfg:5
 msgid "Flagbearer"
@@ -996,7 +1010,7 @@ msgstr ""
 #: Extended_Era/units/standard/Wose_Shaman.cfg:37
 #: Extended_Era/units/standard/Chaos_Greater_Mutation.cfg:30
 msgid "crush"
-msgstr ""
+msgstr "дробление"
 
 #: Extended_Era/units/standard/Chaos_Armorer.cfg:5
 msgid "Doom Guard"
@@ -1041,7 +1055,7 @@ msgstr ""
 #: Extended_Era/units/standard/Dwarvish_Axemaster.cfg:155
 #: Extended_Era/units/standard/Chaos_Lesser_Daemon.cfg:30
 msgid "axe"
-msgstr ""
+msgstr "топор"
 
 #: Extended_Era/units/standard/Chaos_Daemon.cfg:5
 msgid "Chaos Daemon"
@@ -1063,7 +1077,7 @@ msgstr ""
 #: Extended_Era/units/standard/Chaos_Daemon.cfg:66
 #: Extended_Era/units/standard/Chaos_Lesser_Daemon.cfg:65
 msgid "fireball"
-msgstr ""
+msgstr "огненный шар"
 
 #: Extended_Era/units/standard/Chaos_Elite_Armorer.cfg:5
 msgid "Steel Lord"
@@ -1101,7 +1115,7 @@ msgstr ""
 #: Extended_Era/units/standard/Chaos_Headhunter.cfg:30
 #: Extended_Era/units/standard/Chaos_Soulhunter.cfg:29
 msgid "club"
-msgstr ""
+msgstr "дубина"
 
 #: Extended_Era/units/standard/Chaos_Hound.cfg:5
 msgid "Hound"
@@ -1122,7 +1136,7 @@ msgstr ""
 #: Extended_Era/units/standard/Chaos_Hound_Warp.cfg:38
 #: Extended_Era/units/standard/Chaos_Hound_Rabid.cfg:35
 msgid "fangs"
-msgstr ""
+msgstr "клыки"
 
 #: Extended_Era/units/standard/Chaos_Hound_Flesh.cfg:5
 msgid "Flesh Hound"
@@ -1138,7 +1152,7 @@ msgstr ""
 #: Extended_Era/units/standard/Chaos_Hound_Flesh.cfg:36
 #: Extended_Era/units/standard/Troll_Shaman.cfg:29
 msgid "fist"
-msgstr ""
+msgstr "кулак"
 
 #: Extended_Era/units/standard/Chaos_Hound_Rabid.cfg:5
 msgid "Rabid Hound"
@@ -1220,7 +1234,7 @@ msgstr ""
 #: Extended_Era/units/standard/Drake_Armageddon.cfg:45
 #: Extended_Era/units/standard/Kalifa_Elder_Falcon.cfg:21
 msgid "claws"
-msgstr ""
+msgstr "когти"
 
 #: Extended_Era/units/standard/Dark_Elf_Cleric.cfg:5
 msgid "female^Cleric"
@@ -1233,6 +1247,10 @@ msgid ""
 "they use for their sadistic pleasure. Terribly seductive, they are both "
 "feared and admired for their beauty and cruelty."
 msgstr ""
+"Причетчица хороши и в их волшебных способностях и в использовании их булав. "
+"Они имеют способность лечения, инструмент, который они используют для их "
+"садистского удовольствия. Ужасно соблазнительные, их боятся и восхищаются их "
+"красотой и жестокостью."
 
 #: Extended_Era/units/standard/Kalifa_Ghulam.cfg:62
 #: Extended_Era/units/standard/Kalifa_Ghaznid.cfg:57
@@ -1246,7 +1264,7 @@ msgstr ""
 #: Extended_Era/units/standard/Kalifa_Life_Guard.cfg:58
 #: Extended_Era/units/standard/Human_Outlaw_Highwayman.cfg:48
 msgid "mace"
-msgstr ""
+msgstr "булава"
 
 #: Extended_Era/units/standard/Dark_Elf_Wizard.cfg:22
 #: Extended_Era/units/standard/Dark_Elf_Cleric.cfg:61
@@ -1255,7 +1273,7 @@ msgstr ""
 #: Extended_Era/units/standard/Dark_Elf_Sorceress.cfg:60
 #: Extended_Era/units/standard/Dark_Elf_Enchantress.cfg:57
 msgid "magic"
-msgstr ""
+msgstr "магия"
 
 #: Extended_Era/units/standard/Dark_Elf_Corsair.cfg:5
 msgid "Corsair"
@@ -1267,6 +1285,8 @@ msgid ""
 "run. With they're razor sharp swords, they can splice and dice a dwarves "
 "beard."
 msgstr ""
+"Никакое существо не может устоять перед Корсаром. Если Вы увидети одпого, "
+"бежите. У них острые мечи, они могут разрезать многих гномов."
 
 #: Extended_Era/units/standard/Dark_Elf_Enchantress.cfg:5
 msgid "female^Enchantress"
@@ -1280,6 +1300,11 @@ msgid ""
 "Through the guiding of the Clerics, someday they will become a mighty "
 "Sorceress."
 msgstr ""
+"Женщины Темных Эльфов часто присоединяются к Причетчицам в очень молодом "
+"возрасте. Они начинают как Чаровница, с ограниченными физическими и "
+"волшебными способностями, и только начанают практиковаться в их методах "
+"пытки. Через руководство Причетчиц, когда-нибудь они станут могущественной "
+"Колдуньей."
 
 #: Extended_Era/units/standard/Dark_Elf_Hunter.cfg:5
 msgid "Hunter"
@@ -1290,6 +1315,8 @@ msgid ""
 "Lurking in the ever dark depths of the caves, the Hunters move around with "
 "out a sound, except for the twang of their crossbows."
 msgstr ""
+"Скрываясь в темных глубинах пещер, Охотники двигаются вокруг тихо, за "
+"исключением протяжного звука их арбалетов."
 
 #: Extended_Era/units/standard/Dark_Elf_Shadow.cfg:24
 #: Extended_Era/units/standard/Dark_Elf_Stalker.cfg:25
@@ -1297,7 +1324,7 @@ msgstr ""
 #: Extended_Era/units/standard/Dwarvish_Flamethower.cfg:29
 #: Extended_Era/units/standard/Dark_Elf_Hunter.cfg:53
 msgid "dagger"
-msgstr ""
+msgstr "кинжал"
 
 #: Extended_Era/units/standard/Dark_Elf_Shadow.cfg:63
 #: Extended_Era/units/standard/Dark_Elf_Stalker.cfg:64
@@ -1305,7 +1332,7 @@ msgstr ""
 #: Extended_Era/units/standard/Dark_Elf_Hunter.cfg:89
 #: Extended_Era/units/standard/Human_Outlaw_Raider.cfg:72
 msgid "crossbow"
-msgstr ""
+msgstr "арбалет"
 
 #: Extended_Era/units/standard/Dark_Elf_Lizard_Master.cfg:5
 msgid "Lizard Master"
@@ -1317,15 +1344,18 @@ msgid ""
 "Many an Dwarf has been cut in two by it's strong jaws. It would be well to "
 "recruit several of these powerful units."
 msgstr ""
+"Хотя Ящерицы медленние лошадей, они намного более мощные. Многие гномы были "
+"разрезаны их мощными челюстюми. Было бы хорошо нанять несколько из этих "
+"мощных соединений."
 
 #: Extended_Era/units/standard/Dark_Elf_Lizard_Rider.cfg:52
 #: Extended_Era/units/standard/Dark_Elf_Lizard_Master.cfg:22
 msgid "deathlance"
-msgstr ""
+msgstr "смертельное копье"
 
 #: Extended_Era/units/standard/Dark_Elf_Lizard_Master.cfg:63
 msgid "bite"
-msgstr ""
+msgstr "кусать"
 
 #: Extended_Era/units/standard/Dark_Elf_Lizard_Rider.cfg:5
 msgid "Lizard Rider"
@@ -1338,6 +1368,9 @@ msgid ""
 "unknown, to go where no Dark Elf has gone before. Some day, they will become "
 "Master of the Lizard."
 msgstr ""
+"С детства, они обучались с их животным, кормя его, излечивая его, и спали с "
+"ним. Их обязанность -разведка вперед в неизвестное, пойти, куда никакой "
+"Темный Эльф не пошел прежде. Однажды, они станут Мастером Ящерицы."
 
 #: Extended_Era/units/standard/Dark_Elf_Lizard_Rider.cfg:93
 msgid "claw"
@@ -1353,6 +1386,9 @@ msgid ""
 "least expect it. Despite their frailty, they can inflict great damage over "
 "time, slowly taking the life away from their prey ."
 msgstr ""
+"Остающийся скрытыми в тенях пещер, они поразят Вас, когда Вы меньше всего "
+"ожидаете этого. Несмотря на их непрочность, они могут причинить большое "
+"повреждение в течение долгого времени, медленно убирая жизнь от их добычи."
 
 #: Extended_Era/units/standard/Dark_Elf_Sorcerer.cfg:18
 msgid ""
@@ -1361,6 +1397,11 @@ msgid ""
 "down a path toward the dark arts practiced by the Necromancers and Lichs. "
 "Their mighty cold blast can freeze any foe that dares to cross their path."
 msgstr ""
+"Колдуны - Волшебники, которые пошли глубже в изучение темных искусств. Их "
+"исследование потребляет их в поисках большего количества власти, ведя их "
+"вниз по дорожки к темным искусствам, осуществленными Некромантами и Личями. "
+"Их могущественный холодный взрыв может заморозить любого противника, который "
+"смеет пересекать их дорожку."
 
 #: Extended_Era/units/standard/Dark_Elf_Sorceress.cfg:5
 msgid "female^Sorceress"
@@ -1374,6 +1415,10 @@ msgid ""
 "Very soon, they will become Clerics, the terribly seductive sadistic "
 "torturers."
 msgstr ""
+"Женщины Темных Эльфов часто присоединяются к Причетчицам в очень молодом "
+"возрасте. Они получили разряд Колдуньи, и почти справились с искусством "
+"заживления, мучения, и заживления их пленников снова и снова. Очень скоро, "
+"они сами станут причетчицами, ужасно соблазнительными садистскими мучителями."
 
 #: Extended_Era/units/standard/Dark_Elf_Stalker.cfg:5
 msgid "Stalker"
@@ -1385,6 +1430,9 @@ msgid ""
 "daggers and crossbows. They are completely hidden in the caves, only the "
 "thud of a dead body tells you they are near."
 msgstr ""
+"Хитрые и проворные воины, Преследователь мощны и в использовании их кинжалов "
+"и в арбалетах. Они полностью скрыты в пещерах, только глухой стук трупов "
+"говорит Вам, что они рядом."
 
 #: Extended_Era/units/standard/Dark_Elf_Warlock.cfg:18
 msgid ""
@@ -1393,10 +1441,13 @@ msgid ""
 "and have the power to drain life from their opponents with a single touch, "
 "and add it to their own."
 msgstr ""
+"Лучший из их вида, эти Военные имеют огромную власть, конкурируя даже с Арх-"
+"магами. Они обнаружили тайны темных искусств, и имеют власть иссушать жизнь "
+"от их противников с единственным контактом, и добавляя её к их собственной."
 
 #: Extended_Era/units/standard/Dark_Elf_Warlock.cfg:22
 msgid "touch"
-msgstr ""
+msgstr "касание"
 
 #: Extended_Era/units/standard/Dark_Elf_Warrior.cfg:17
 msgid ""
@@ -1404,14 +1455,23 @@ msgid ""
 "weapons. With their balanced blades, they can shave a Dwarf. Only few become "
 "Corsairs."
 msgstr ""
+"Эти Воины посвятили себя полностью освоению с использованием двойного "
+"оружия. С их уравновешенными лезвиями, они могут брить гномов. Только "
+"немногие становятся Корсарами."
 
 #: Extended_Era/units/standard/Dark_Elf_Wizard.cfg:18
+#, fuzzy
 msgid ""
 "Some Dark Elves prefer studying the arcane arts over close-combat. Usually "
 "they are left to the lesser duties of the House, such as upkeep, watching "
 "the slaves, and other such things. However, in time of conflict, they can do "
 "great damage, even though they lack any training in close-combat."
 msgstr ""
+"Некоторые Темные Эльфы предпочитают изучать тёмные искусства по перед боем. "
+"Обычно их оставляют к меньшим обязанностям Дома, rfr содержания, наблюдая "
+"рабов, и другие такие вещи. Однако, во время конфликта, они могут сделать "
+"большое повреждение, даже при том, что они испытывают недостаток в любом "
+"обучении в рукопашном бою."
 
 #: Extended_Era/units/standard/Drake_Armageddon.cfg:5
 msgid "Armageddon Drake"
@@ -1432,7 +1492,7 @@ msgstr ""
 
 #: Extended_Era/units/standard/Drake_Armageddon.cfg:101
 msgid "fire breath"
-msgstr ""
+msgstr "огненное дыхание"
 
 #: Extended_Era/units/standard/Dwarvish_Arcanister.cfg:5
 msgid "Dwarvish Arcanister"
@@ -1567,7 +1627,7 @@ msgstr ""
 
 #: Extended_Era/units/standard/Human_Outlaw_Fugitive.cfg:5
 msgid "Fugitive"
-msgstr ""
+msgstr "Беглец"
 
 #: Extended_Era/units/standard/Human_Outlaw_Fugitive.cfg:26
 msgid ""
@@ -1576,14 +1636,18 @@ msgid ""
 "can be fearful in their element but no real match for professional law "
 "enforcment forces."
 msgstr ""
+"Старые преступники становятся печально известными среди властей и за их "
+"мастерство сражения и за способности уклониться от захвата. Опасные и "
+"безжалостные, они могут бояться в их элементе, но никаком реальном "
+"состязании для профессионального законо-поддерживателя."
 
 #: Extended_Era/units/standard/Human_Outlaw_Fugitive.cfg:82
 msgid "sling"
-msgstr ""
+msgstr "праща"
 
 #: Extended_Era/units/standard/Human_Outlaw_Fugitive.cfg:129
 msgid "female^Fugitive"
-msgstr ""
+msgstr "female^Беглец"
 
 #: Extended_Era/units/standard/Human_Outlaw_Fugitive.cfg:132
 msgid ""
@@ -1591,6 +1655,9 @@ msgid ""
 "battle prowess and ability to elude capture.  Beautiful and dangerous, their "
 "beauty is exceeded only by their dangerousness."
 msgstr ""
+"Старые преступники становятся печально известными среди властей и за их "
+"мастерство сражения и за способности уклониться от захвата. Красивые и "
+"опасные, их красота превышена только их опасностью."
 
 #: Extended_Era/units/standard/Human_Outlaw_Henchman.cfg:5
 msgid "Henchman"
@@ -1607,17 +1674,19 @@ msgstr ""
 
 #: Extended_Era/units/standard/Human_Outlaw_Highwayman.cfg:5
 msgid "Highwayman"
-msgstr ""
+msgstr "Разбойник"
 
 #: Extended_Era/units/standard/Human_Outlaw_Highwayman.cfg:25
 msgid ""
 "Armed with heavy mace, Highwaymen are the last people you want to meet on a "
 "deserted road late at night."
 msgstr ""
+"Вооруженный тяжелой булавой, разбойники - последние люди, которых Вы хотите "
+"встретить на пустынной дороге поздно вечером."
 
 #: Extended_Era/units/standard/Human_Outlaw_Huntsman.cfg:5
 msgid "Huntsman"
-msgstr ""
+msgstr "Охотник"
 
 #: Extended_Era/units/standard/Human_Outlaw_Huntsman.cfg:25
 msgid ""
@@ -1626,6 +1695,9 @@ msgid ""
 "including people.  Bandit gangs hire them for their ability to bring down "
 "any prey."
 msgstr ""
+"Охотники провели их жизни в задворках и болотах их глухих домов. Они "
+"отслеживают всё что шагает на их территории, включая людей. Бригады бандитов "
+"нанимают их за их способность сбить любую добычу."
 
 #: Extended_Era/units/standard/Human_Outlaw_Raider.cfg:5
 msgid "Raider"
@@ -1646,7 +1718,7 @@ msgstr ""
 
 #: Extended_Era/units/standard/Human_Outlaw_Ranger.cfg:5
 msgid "Ranger"
-msgstr ""
+msgstr "Странник"
 
 #: Extended_Era/units/standard/Human_Outlaw_Ranger.cfg:25
 msgid ""
@@ -1655,6 +1727,10 @@ msgid ""
 "the cover of night.  Most rulers are afraid of rangers and would rather put "
 "them in the dungeon than put their abilities to use."
 msgstr ""
+"Странники - дикие мужчины и владельцы леса и холмов. Они - превосходные "
+"шпионы, разведчики, и стрельцы, двигаясь свободно через сельскую местность "
+"под прикрытием ночи. Большинство правителей боятся их и предпочитает "
+"поместить их в темницу, чем использовать их способности."
 
 #: Extended_Era/units/standard/Kalifa_Ahadath.cfg:5
 msgid "Ahadath"
@@ -2198,8 +2274,9 @@ msgid ""
 msgstr ""
 
 #: Extended_Era/units/standard/Troll_Shaman.cfg:4
+#, fuzzy
 msgid "Troll Shaman"
-msgstr ""
+msgstr "Пустынный шаман"
 
 #: Extended_Era/units/standard/Troll_Shaman.cfg:23
 msgid ""
@@ -2214,7 +2291,7 @@ msgstr ""
 
 #: Extended_Era/units/standard/Wose_Shaman.cfg:6
 msgid "Wose Shaman"
-msgstr ""
+msgstr "Шаман Леших"
 
 #: Extended_Era/units/standard/Wose_Shaman.cfg:26
 msgid ""
@@ -2226,4 +2303,4 @@ msgstr ""
 
 #: Extended_Era/units/standard/Wose_Shaman.cfg:72
 msgid "entangle"
-msgstr ""
+msgstr "запутывание"
