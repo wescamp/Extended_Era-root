@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2006-08-01 23:31+0200\n"
+"POT-Creation-Date: 2006-09-11 13:04+0200\n"
 "PO-Revision-Date: 2005-05-18 10:15+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -49,6 +49,19 @@ msgid ""
 "Enemy units cannot see or attack this unit when it is in caves, except for "
 "any turn immediately after this unit has attacked, or if there are enemy "
 "units next to this unit."
+msgstr ""
+
+#: Extended_Era/abilities/sylvan_spark.cfg:10
+#: Extended_Era/abilities/sylvan_spark.cfg:13
+msgid "sylvan spark"
+msgstr ""
+
+#: Extended_Era/abilities/sylvan_spark.cfg:12
+#: Extended_Era/abilities/sylvan_spark.cfg:15
+msgid ""
+"Sylvan Spark:\n"
+"While in the forest (or mushroom grove), the unit will heal itself 6 hp per "
+"turn. If it is poisoned, it will remove the poison instead of healing."
 msgstr ""
 
 #: Extended_Era/abilities/terror.cfg:8 Extended_Era/abilities/terror.cfg:44
@@ -280,6 +293,7 @@ msgid "staff"
 msgstr "değnek"
 
 #: Extended_Era/units/rpg/Chaos_Invoker.cfg:44
+#: Extended_Era/units/rpg/Human_Outlaw_Henchman.cfg:30
 #: Extended_Era/units/rpg/Dark_Elf_Lord.cfg:62
 #: Extended_Era/units/rpg/Human_Outlaw_Shadow_Lord.cfg:175
 #: Extended_Era/units/rpg/Chaos_Magus.cfg:47
@@ -380,7 +394,7 @@ msgstr ""
 #: Extended_Era/units/standard/Sidhe_Tempest.cfg:46
 #: Extended_Era/units/standard/Drake_Armageddon.cfg:103
 #: Extended_Era/units/standard/Sidhe_Raindancer.cfg:46
-#: Extended_Era/units/standard/Dwarvish_Flamethower.cfg:66
+#: Extended_Era/units/standard/Dwarvish_Flamethower.cfg:67
 #: Extended_Era/units/standard/Dark_Elf_Cleric.cfg:63
 #: Extended_Era/units/standard/Aragwaith_Wizard.cfg:59
 #: Extended_Era/units/standard/Aragwaith_Warlock.cfg:69
@@ -478,7 +492,7 @@ msgstr ""
 #: Extended_Era/units/standard/Chaos_Elite_Armorer.cfg:41
 #: Extended_Era/units/standard/Aragwaith_Longswordsman.cfg:61
 #: Extended_Era/units/standard/Aragwaith_Shield_Guard.cfg:26
-#: Extended_Era/units/standard/Aragwaith_Greatbow.cfg:75
+#: Extended_Era/units/standard/Aragwaith_Greatbow.cfg:76
 #: Extended_Era/units/standard/Sidhe_Shadowdancer.cfg:22
 #: Extended_Era/units/standard/Sidhe_Whirlwind.cfg:25
 #: Extended_Era/units/standard/Chaos_Overlord.cfg:38
@@ -532,7 +546,7 @@ msgstr "kılıç"
 #: Extended_Era/units/standard/Sidhe_Bladespinner.cfg:23
 #: Extended_Era/units/standard/Sidhe_Tempest.cfg:23
 #: Extended_Era/units/standard/Kalifa_Falcon.cfg:20
-#: Extended_Era/units/standard/Aragwaith_Archer.cfg:70
+#: Extended_Era/units/standard/Aragwaith_Archer.cfg:71
 #: Extended_Era/units/standard/Drake_Armageddon.cfg:46
 #: Extended_Era/units/standard/Sidhe_Raindancer.cfg:23
 #: Extended_Era/units/standard/Dark_Elf_Stalker.cfg:27
@@ -545,9 +559,10 @@ msgstr "kılıç"
 #: Extended_Era/units/standard/Dark_Elf_Lord.cfg:26
 #: Extended_Era/units/standard/Aragwaith_Swordmaster.cfg:79
 #: Extended_Era/units/standard/Kalifa_Elder_Falcon.cfg:22
-#: Extended_Era/units/standard/Dwarvish_Flamethower.cfg:31
+#: Extended_Era/units/standard/Dwarvish_Flamethower.cfg:32
 #: Extended_Era/units/standard/Kalifa_Mubarizan.cfg:60
 #: Extended_Era/units/standard/Sidhe_Veiledblade.cfg:23
+#: Extended_Era/units/standard/Chaos_Soulhunter.cfg:65
 #: Extended_Era/units/standard/Chaos_Elite_Armorer.cfg:42
 #: Extended_Era/units/standard/Aragwaith_Longswordsman.cfg:63
 #: Extended_Era/units/standard/Human_Outlaw_Brigand.cfg:37
@@ -558,8 +573,8 @@ msgstr "kılıç"
 #: Extended_Era/units/standard/Kalifa_Elite_Ghazi.cfg:21
 #: Extended_Era/units/standard/Aragwaith_Shield_Guard.cfg:28
 #: Extended_Era/units/standard/Dark_Elf_Hunter.cfg:55
-#: Extended_Era/units/standard/Aragwaith_Greatbow.cfg:77
-#: Extended_Era/units/standard/Aragwaith_Slayer.cfg:67
+#: Extended_Era/units/standard/Aragwaith_Greatbow.cfg:78
+#: Extended_Era/units/standard/Aragwaith_Slayer.cfg:68
 #: Extended_Era/units/standard/Kalifa_Amir.cfg:56
 #: Extended_Era/units/standard/Sidhe_Shadowdancer.cfg:24
 #: Extended_Era/units/standard/Sidhe_Whirlwind.cfg:27
@@ -579,7 +594,7 @@ msgstr "kılıç"
 #: Extended_Era/units/standard/Chaos_Blood_Knight.cfg:39
 #: Extended_Era/units/standard/Chaos_Blood_Knight.cfg:85
 #: Extended_Era/units/standard/Dark_Elf_Marshal.cfg:27
-#: Extended_Era/units/standard/Aragwaith_Strongbow.cfg:65
+#: Extended_Era/units/standard/Aragwaith_Strongbow.cfg:66
 #: Extended_Era/units/standard/Kalifa_Karadis.cfg:22
 #: Extended_Era/units/standard/Sidhe_Thunderblade.cfg:24
 #: Extended_Era/units/standard/Chaos_Daemon.cfg:31
@@ -589,7 +604,7 @@ msgstr "kılıç"
 #: Extended_Era/units/standard/Aragwaith_Swordsman.cfg:54
 #: Extended_Era/units/standard/Sidhe_Spirit_Forefather.cfg:28
 #: Extended_Era/units/standard/Kalifa_Ahadath.cfg:21
-#: Extended_Era/units/standard/Sidhe_Spirit_Warrior.cfg:26
+#: Extended_Era/units/standard/Sidhe_Spirit_Warrior.cfg:27
 #: Extended_Era/units/standard/Chaos_Hound_Warp.cfg:40
 #: Extended_Era/units/standard/Sidhe_Fury.cfg:23
 #: Extended_Era/units/standard/Dwarvish_Axemaster.cfg:29
@@ -654,7 +669,7 @@ msgstr "mızrak"
 #: Extended_Era/units/standard/Kalifa_Falcon.cfg:46
 #: Extended_Era/units/standard/Sidhe_Wanderer.cfg:25
 #: Extended_Era/units/standard/Sidhe_Wanderer.cfg:48
-#: Extended_Era/units/standard/Aragwaith_Archer.cfg:95
+#: Extended_Era/units/standard/Aragwaith_Archer.cfg:96
 #: Extended_Era/units/standard/Dark_Elf_Stalker.cfg:66
 #: Extended_Era/units/standard/Kalifa_Arif.cfg:29
 #: Extended_Era/units/standard/Human_Outlaw_Huntsman.cfg:91
@@ -670,8 +685,8 @@ msgstr "mızrak"
 #: Extended_Era/units/standard/Dark_Elf_Lizard_Rider.cfg:54
 #: Extended_Era/units/standard/Kalifa_Elite_Ghazi.cfg:56
 #: Extended_Era/units/standard/Dark_Elf_Hunter.cfg:91
-#: Extended_Era/units/standard/Aragwaith_Greatbow.cfg:132
-#: Extended_Era/units/standard/Aragwaith_Slayer.cfg:190
+#: Extended_Era/units/standard/Aragwaith_Greatbow.cfg:133
+#: Extended_Era/units/standard/Aragwaith_Slayer.cfg:191
 #: Extended_Era/units/standard/Kalifa_Ghulam_al_Rami.cfg:62
 #: Extended_Era/units/standard/Kalifa_Amir.cfg:21
 #: Extended_Era/units/standard/Aragwaith_Flagbearer.cfg:38
@@ -680,7 +695,7 @@ msgstr "mızrak"
 #: Extended_Era/units/standard/Aragwaith_Guardian.cfg:30
 #: Extended_Era/units/standard/Dark_Elf_Marshal.cfg:62
 #: Extended_Era/units/standard/Dark_Elf_Marshal.cfg:97
-#: Extended_Era/units/standard/Aragwaith_Strongbow.cfg:100
+#: Extended_Era/units/standard/Aragwaith_Strongbow.cfg:101
 #: Extended_Era/units/standard/Kalifa_Karadis.cfg:70
 #: Extended_Era/units/standard/Aragwaith_Captain.cfg:39
 #: Extended_Era/units/standard/Kalifa_Ghazi.cfg:56
@@ -786,6 +801,29 @@ msgid ""
 "battle to attack and encourage their troops."
 msgstr ""
 
+#: Extended_Era/units/rpg/Human_Outlaw_Henchman.cfg:5
+#: Extended_Era/units/standard/Human_Outlaw_Henchman.cfg:5
+msgid "Henchman"
+msgstr ""
+
+#: Extended_Era/units/rpg/Human_Outlaw_Henchman.cfg:18
+#: Extended_Era/units/standard/Human_Outlaw_Henchman.cfg:18
+msgid ""
+"Henchmen are good for one thing: following orders.  They are not very smart "
+"or creative, neither of which is required to swing a club at an enemy.  "
+"Never far from their leader, they tend to work in groups (attacking one at a "
+"time).  With enough experience they can learn to swing a bigger club or "
+"throw things, but not both."
+msgstr ""
+
+#: Extended_Era/units/rpg/Human_Outlaw_Henchman.cfg:29
+#: Extended_Era/units/standard/Human_Outlaw_Henchman.cfg:29
+#: Extended_Era/units/standard/Chaos_Marauder.cfg:28
+#: Extended_Era/units/standard/Chaos_Headhunter.cfg:30
+#: Extended_Era/units/standard/Chaos_Soulhunter.cfg:29
+msgid "club"
+msgstr "sopa"
+
 #: Extended_Era/units/rpg/Human_Outlaw_Rogue_Mage.cfg:5
 #: Extended_Era/units/standard/Human_Outlaw_Rogue_Mage.cfg:5
 msgid "Rogue Mage"
@@ -886,17 +924,25 @@ msgstr ""
 msgid "Archer"
 msgstr ""
 
-#: Extended_Era/units/standard/Aragwaith_Archer.cfg:68
-#: Extended_Era/units/standard/Aragwaith_Strongbow.cfg:63
+#: Extended_Era/units/standard/Aragwaith_Archer.cfg:17
+msgid ""
+"The Aragwaithi are a noble people, fragile in body, but their training makes "
+"them among the more deadly denizens of this world. Their archers are no "
+"exception. Their skills with a bow are comparable to those of some elves, "
+"and they are remarkably quick with their daggers."
+msgstr ""
+
+#: Extended_Era/units/standard/Aragwaith_Archer.cfg:69
+#: Extended_Era/units/standard/Aragwaith_Strongbow.cfg:64
 msgid "knife"
 msgstr "bıçak"
 
 #: Extended_Era/units/standard/Human_Outlaw_Ranger.cfg:97
-#: Extended_Era/units/standard/Aragwaith_Archer.cfg:94
+#: Extended_Era/units/standard/Aragwaith_Archer.cfg:95
 #: Extended_Era/units/standard/Human_Outlaw_Huntsman.cfg:90
-#: Extended_Era/units/standard/Aragwaith_Greatbow.cfg:131
-#: Extended_Era/units/standard/Aragwaith_Slayer.cfg:189
-#: Extended_Era/units/standard/Aragwaith_Strongbow.cfg:99
+#: Extended_Era/units/standard/Aragwaith_Greatbow.cfg:132
+#: Extended_Era/units/standard/Aragwaith_Slayer.cfg:190
+#: Extended_Era/units/standard/Aragwaith_Strongbow.cfg:100
 msgid "bow"
 msgstr "ok"
 
@@ -906,6 +952,17 @@ msgstr ""
 
 #: Extended_Era/units/standard/Aragwaith_Greatbow.cfg:5
 msgid "Greatbow"
+msgstr ""
+
+#: Extended_Era/units/standard/Aragwaith_Greatbow.cfg:19
+msgid ""
+"Finally moving on from the dirk and dagger to the sword, the Greatbow is "
+"superior to the Strongbow in melee combat, but not as powerful as the "
+"Slayer. Their bow, however, is a masterpiece of military design. Several "
+"months are spent crafting a single bow, and each bow is crafted by the user, "
+"to his individual specifications. Due to the incredible strength required to "
+"pull these bows, anyone but the crafter who attempts to draw it could suffer "
+"serious injury."
 msgstr ""
 
 #: Extended_Era/units/standard/Aragwaith_Guard.cfg:5
@@ -944,7 +1001,15 @@ msgstr ""
 msgid "Slayer"
 msgstr ""
 
-#: Extended_Era/units/standard/Aragwaith_Slayer.cfg:66
+#: Extended_Era/units/standard/Aragwaith_Slayer.cfg:20
+msgid ""
+"While improving only marginally on the power of their bow, the Slayer "
+"abandons the blade in favor of training with a glaive, improving his skills "
+"in hand-to-hand combat. He is not as rugged as others of comparable skill, "
+"but far deadlier."
+msgstr ""
+
+#: Extended_Era/units/standard/Aragwaith_Slayer.cfg:67
 msgid "glaive"
 msgstr ""
 
@@ -969,6 +1034,14 @@ msgstr "Mızrakçı"
 
 #: Extended_Era/units/standard/Aragwaith_Strongbow.cfg:5
 msgid "Strongbow"
+msgstr ""
+
+#: Extended_Era/units/standard/Aragwaith_Strongbow.cfg:17
+msgid ""
+"By wielding a stronger bow and training almost constantly, the Aragwaith "
+"Strongbow fires a far deadlier shot than the average archer. Their dirks are "
+"longer than the daggers used by the typical archer, and they wield them far "
+"more effectively."
 msgstr ""
 
 #: Extended_Era/units/standard/Aragwaith_Swordmaster.cfg:5
@@ -1015,8 +1088,8 @@ msgstr ""
 #: Extended_Era/units/standard/Chaos_Armorer.cfg:36
 msgid ""
 "Daemons know that, the only thing than can stop a tidal wave is a powerful "
-"wall. Armorers are such wall, wall of living flesh and steel. Devoid of "
-"bloodlust, their aggression is changed into fanatic loyalty. Armorers are "
+"wall. Doom Guards are such wall, wall of living flesh and steel. Devoid of "
+"bloodlust, their aggression is changed into fanatic loyalty. Doom Guards are "
 "not the ones to fight, they are the ones to stand against every possible "
 "enemy."
 msgstr ""
@@ -1063,7 +1136,7 @@ msgstr ""
 msgid ""
 "The lesser demons are the gift of the Gods of Chaos to those who have shown "
 "to be worthy enough to recieve\n"
-"aid from their sides, though barely any tougher than the averange human the "
+"aid from their sides, though barely any tougher than the average human the "
 "lesser demons can easily turn the tide of a battle \n"
 "due to the combination of their nible movement and tough fighting.."
 msgstr ""
@@ -1076,7 +1149,7 @@ msgid "fireball"
 msgstr "ateş topu"
 
 #: Extended_Era/units/standard/Chaos_Elite_Armorer.cfg:5
-msgid "Steel Lord"
+msgid "Hell Guardian"
 msgstr ""
 
 #: Extended_Era/units/standard/Chaos_Elite_Armorer.cfg:37
@@ -1105,13 +1178,6 @@ msgid ""
 "that will be infested with the daemonic plague. They are the ones to spread "
 "fear and message of daemonic invasions."
 msgstr ""
-
-#: Extended_Era/units/standard/Human_Outlaw_Henchman.cfg:29
-#: Extended_Era/units/standard/Chaos_Marauder.cfg:28
-#: Extended_Era/units/standard/Chaos_Headhunter.cfg:30
-#: Extended_Era/units/standard/Chaos_Soulhunter.cfg:29
-msgid "club"
-msgstr "sopa"
 
 #: Extended_Era/units/standard/Chaos_Hound.cfg:5
 msgid "Hound"
@@ -1177,12 +1243,12 @@ msgid ""
 msgstr ""
 
 #: Extended_Era/units/standard/Chaos_Knight.cfg:5
-msgid "Black Knight"
+msgid "Dark Knight"
 msgstr ""
 
 #: Extended_Era/units/standard/Chaos_Knight.cfg:32
 msgid ""
-"Tougher than the averange chaos follower, the Chaos Warrior attempts to "
+"Tougher than the averange chaos follower, the Dark Knight attempts to "
 "confuse it's opponent by\n"
 "wielding a different weapon in each hand, he lets his style on combat alter "
 "depending on the situation which makes him a \n"
@@ -1208,10 +1274,6 @@ msgstr ""
 #: Extended_Era/units/standard/Chaos_Soulhunter.cfg:5
 msgid "Soulhunter"
 msgstr ""
-
-#: Extended_Era/units/standard/Chaos_Soulhunter.cfg:65
-msgid "melee"
-msgstr "yakın"
 
 #: Extended_Era/units/standard/Chaos_Winged_Daemon.cfg:5
 msgid "Winged Daemon"
@@ -1317,7 +1379,7 @@ msgstr ""
 #: Extended_Era/units/standard/Dark_Elf_Shadow.cfg:24
 #: Extended_Era/units/standard/Dark_Elf_Stalker.cfg:25
 #: Extended_Era/units/standard/Human_Outlaw_Huntsman.cfg:44
-#: Extended_Era/units/standard/Dwarvish_Flamethower.cfg:29
+#: Extended_Era/units/standard/Dwarvish_Flamethower.cfg:30
 #: Extended_Era/units/standard/Dark_Elf_Hunter.cfg:53
 msgid "dagger"
 msgstr "hançer"
@@ -1536,7 +1598,15 @@ msgstr ""
 msgid "Dwarvish Flamethrower"
 msgstr ""
 
-#: Extended_Era/units/standard/Dwarvish_Flamethower.cfg:65
+#: Extended_Era/units/standard/Dwarvish_Flamethower.cfg:26
+msgid ""
+"It is said that the Dwarven Flamethrowers have strange staves of wood and "
+"iron, similar to those of the Thunderguards. But instead of making a "
+"thunderous noise shooting a projectile, their weapon generates continous "
+"tongues of flames."
+msgstr ""
+
+#: Extended_Era/units/standard/Dwarvish_Flamethower.cfg:66
 msgid "firestick"
 msgstr ""
 
@@ -1649,19 +1719,6 @@ msgid ""
 "Veteran criminals become notorious among the authorities for both their "
 "battle prowess and ability to elude capture.  Beautiful and dangerous, their "
 "beauty is exceeded only by their dangerousness."
-msgstr ""
-
-#: Extended_Era/units/standard/Human_Outlaw_Henchman.cfg:5
-msgid "Henchman"
-msgstr ""
-
-#: Extended_Era/units/standard/Human_Outlaw_Henchman.cfg:18
-msgid ""
-"Henchmen are good for one thing: following orders.  They are not very smart "
-"or creative, neither of which is required to swing a club at an enemy.  "
-"Never far from their leader, they tend to work in groups (attacking one at a "
-"time).  With enough experience they can learn to swing a bigger club or "
-"throw things, but not both."
 msgstr ""
 
 #: Extended_Era/units/standard/Human_Outlaw_Highwayman.cfg:5
@@ -2084,7 +2141,7 @@ msgstr ""
 
 #: Extended_Era/units/standard/Sidhe_Spirit_Ancestor.cfg:25
 #: Extended_Era/units/standard/Sidhe_Spirit_Forefather.cfg:26
-#: Extended_Era/units/standard/Sidhe_Spirit_Warrior.cfg:24
+#: Extended_Era/units/standard/Sidhe_Spirit_Warrior.cfg:25
 msgid "ancient blade"
 msgstr ""
 
@@ -2108,7 +2165,7 @@ msgstr ""
 msgid "Warrior Spirit"
 msgstr ""
 
-#: Extended_Era/units/standard/Sidhe_Spirit_Warrior.cfg:20
+#: Extended_Era/units/standard/Sidhe_Spirit_Warrior.cfg:21
 msgid ""
 "The great sidhe warriors of times past are not quite gone. They roam through "
 "the forests of their former homes, seeking to perform the feats of arms they "
@@ -2286,3 +2343,6 @@ msgstr ""
 #: Extended_Era/units/standard/Wose_Shaman.cfg:72
 msgid "entangle"
 msgstr "dolaştırma"
+
+#~ msgid "melee"
+#~ msgstr "yakın"

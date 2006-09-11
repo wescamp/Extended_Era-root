@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2006-08-01 23:31+0200\n"
+"POT-Creation-Date: 2006-09-11 13:04+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -32,6 +32,16 @@ msgid ""
 "This unit can hide in caves, and remain undetected by its enemies.\n"
 "\n"
 "Enemy units cannot see or attack this unit when it is in caves, except for any turn immediately after this unit has attacked, or if there are enemy units next to this unit."
+msgstr ""
+
+#: ./Extended_Era/abilities/sylvan_spark.cfg:10 ./Extended_Era/abilities/sylvan_spark.cfg:13
+msgid "sylvan spark"
+msgstr ""
+
+#: ./Extended_Era/abilities/sylvan_spark.cfg:12 ./Extended_Era/abilities/sylvan_spark.cfg:15
+msgid ""
+"Sylvan Spark:\n"
+"While in the forest (or mushroom grove), the unit will heal itself 6 hp per turn. If it is poisoned, it will remove the poison instead of healing."
 msgstr ""
 
 #: ./Extended_Era/abilities/terror.cfg:8 ./Extended_Era/abilities/terror.cfg:44 ./Extended_Era/abilities/terror.cfg:94
@@ -126,7 +136,7 @@ msgstr ""
 msgid "staff"
 msgstr ""
 
-#: ./Extended_Era/units/rpg/Chaos_Invoker.cfg:44 ./Extended_Era/units/rpg/Dark_Elf_Lord.cfg:62 ./Extended_Era/units/rpg/Human_Outlaw_Shadow_Lord.cfg:175 ./Extended_Era/units/rpg/Chaos_Magus.cfg:47 ./Extended_Era/units/rpg/Chaos_Demonologist.cfg:36 ./Extended_Era/units/rpg/Dark_Elf_High_Lord.cfg:63 ./Extended_Era/units/rpg/Dark_Elf_Noble.cfg:59 ./Extended_Era/units/standard/Dwarvish_Gyrocopter.cfg:32 ./Extended_Era/units/standard/Dwarvish_Runemaster.cfg:27 ./Extended_Era/units/standard/Kalifa_Ghulam.cfg:63 ./Extended_Era/units/standard/Chaos_Armorer.cfg:77 ./Extended_Era/units/standard/Chaos_Invoker.cfg:44 ./Extended_Era/units/standard/Chaos_Hound_Flesh.cfg:38 ./Extended_Era/units/standard/Orcish_Shaman.cfg:33 ./Extended_Era/units/standard/Orcish_Shaman.cfg:117 ./Extended_Era/units/standard/Orcish_Shaman.cfg:201 ./Extended_Era/units/standard/Kalifa_Ghaznid.cfg:58 ./Extended_Era/units/standard/Kalifa_Ekim_Haram.cfg:29 ./Extended_Era/units/standard/Human_Outlaw_Henchman.cfg:30 ./Extended_Era/units/standard/Chaos_Abomination.cfg:35 ./Extended_Era/units/standard/Dwarvish_Thunderwheel.cfg:30 ./Extended_Era/units/standard/Dwarvish_Steamwheel.cfg:30 ./Extended_Era/units/standard/Human_Outlaw_Fugitive.cfg:38 ./Extended_Era/units/standard/Human_Outlaw_Fugitive.cfg:83 ./Extended_Era/units/standard/Kalifa_Arif.cfg:103 ./Extended_Era/units/standard/Chaos_Marauder.cfg:29 ./Extended_Era/units/standard/Dark_Elf_Lord.cfg:62 ./Extended_Era/units/standard/Chaos_Headhunter.cfg:31 ./Extended_Era/units/standard/Dwarvish_Steamcopter.cfg:33 ./Extended_Era/units/standard/Chaos_Soulhunter.cfg:30 ./Extended_Era/units/standard/Chaos_Elite_Armorer.cfg:78 ./Extended_Era/units/standard/Dwarvish_Arcanister.cfg:28 ./Extended_Era/units/standard/Dark_Elf_Cleric.cfg:27 ./Extended_Era/units/standard/Dwarvish_Runesmith.cfg:27 ./Extended_Era/units/standard/Human_Outlaw_Shadow_Lord.cfg:175 ./Extended_Era/units/standard/Chaos_Lesser_Mutation.cfg:34 ./Extended_Era/units/standard/Aragwaith_Wizard.cfg:33 ./Extended_Era/units/standard/Aragwaith_Warlock.cfg:33 ./Extended_Era/units/standard/Kalifa_Ghulam_al_Rami.cfg:27 ./Extended_Era/units/standard/Chaos_Magus.cfg:47 ./Extended_Era/units/standard/Chaos_Demonologist.cfg:36 ./Extended_Era/units/standard/Dwarvish_Warwheel.cfg:31 ./Extended_Era/units/standard/Dark_Elf_High_Lord.cfg:63 ./Extended_Era/units/standard/Wose_Shaman.cfg:38 ./Extended_Era/units/standard/Wose_Shaman.cfg:73 ./Extended_Era/units/standard/Dark_Elf_Noble.cfg:59 ./Extended_Era/units/standard/Kalifa_Ekim.cfg:27 ./Extended_Era/units/standard/Dark_Elf_Sorceress.cfg:26 ./Extended_Era/units/standard/Chaos_Greater_Mutation.cfg:34 ./Extended_Era/units/standard/Dark_Elf_Enchantress.cfg:23 ./Extended_Era/units/standard/Kalifa_Life_Guard.cfg:59 ./Extended_Era/units/standard/Human_Outlaw_Highwayman.cfg:49 ./Extended_Era/units/standard/Aragwaith_Sorcerer.cfg:35 ./Extended_Era/units/standard/Troll_Shaman.cfg:31 ./Extended_Era/units/standard/Kalifa_Immortal.cfg:103
+#: ./Extended_Era/units/rpg/Chaos_Invoker.cfg:44 ./Extended_Era/units/rpg/Human_Outlaw_Henchman.cfg:30 ./Extended_Era/units/rpg/Dark_Elf_Lord.cfg:62 ./Extended_Era/units/rpg/Human_Outlaw_Shadow_Lord.cfg:175 ./Extended_Era/units/rpg/Chaos_Magus.cfg:47 ./Extended_Era/units/rpg/Chaos_Demonologist.cfg:36 ./Extended_Era/units/rpg/Dark_Elf_High_Lord.cfg:63 ./Extended_Era/units/rpg/Dark_Elf_Noble.cfg:59 ./Extended_Era/units/standard/Dwarvish_Gyrocopter.cfg:32 ./Extended_Era/units/standard/Dwarvish_Runemaster.cfg:27 ./Extended_Era/units/standard/Kalifa_Ghulam.cfg:63 ./Extended_Era/units/standard/Chaos_Armorer.cfg:77 ./Extended_Era/units/standard/Chaos_Invoker.cfg:44 ./Extended_Era/units/standard/Chaos_Hound_Flesh.cfg:38 ./Extended_Era/units/standard/Orcish_Shaman.cfg:33 ./Extended_Era/units/standard/Orcish_Shaman.cfg:117 ./Extended_Era/units/standard/Orcish_Shaman.cfg:201 ./Extended_Era/units/standard/Kalifa_Ghaznid.cfg:58 ./Extended_Era/units/standard/Kalifa_Ekim_Haram.cfg:29 ./Extended_Era/units/standard/Human_Outlaw_Henchman.cfg:30 ./Extended_Era/units/standard/Chaos_Abomination.cfg:35 ./Extended_Era/units/standard/Dwarvish_Thunderwheel.cfg:30 ./Extended_Era/units/standard/Dwarvish_Steamwheel.cfg:30 ./Extended_Era/units/standard/Human_Outlaw_Fugitive.cfg:38 ./Extended_Era/units/standard/Human_Outlaw_Fugitive.cfg:83 ./Extended_Era/units/standard/Kalifa_Arif.cfg:103 ./Extended_Era/units/standard/Chaos_Marauder.cfg:29 ./Extended_Era/units/standard/Dark_Elf_Lord.cfg:62 ./Extended_Era/units/standard/Chaos_Headhunter.cfg:31 ./Extended_Era/units/standard/Dwarvish_Steamcopter.cfg:33 ./Extended_Era/units/standard/Chaos_Soulhunter.cfg:30 ./Extended_Era/units/standard/Chaos_Elite_Armorer.cfg:78 ./Extended_Era/units/standard/Dwarvish_Arcanister.cfg:28 ./Extended_Era/units/standard/Dark_Elf_Cleric.cfg:27 ./Extended_Era/units/standard/Dwarvish_Runesmith.cfg:27 ./Extended_Era/units/standard/Human_Outlaw_Shadow_Lord.cfg:175 ./Extended_Era/units/standard/Chaos_Lesser_Mutation.cfg:34 ./Extended_Era/units/standard/Aragwaith_Wizard.cfg:33 ./Extended_Era/units/standard/Aragwaith_Warlock.cfg:33 ./Extended_Era/units/standard/Kalifa_Ghulam_al_Rami.cfg:27 ./Extended_Era/units/standard/Chaos_Magus.cfg:47 ./Extended_Era/units/standard/Chaos_Demonologist.cfg:36 ./Extended_Era/units/standard/Dwarvish_Warwheel.cfg:31 ./Extended_Era/units/standard/Dark_Elf_High_Lord.cfg:63 ./Extended_Era/units/standard/Wose_Shaman.cfg:38 ./Extended_Era/units/standard/Wose_Shaman.cfg:73 ./Extended_Era/units/standard/Dark_Elf_Noble.cfg:59 ./Extended_Era/units/standard/Kalifa_Ekim.cfg:27 ./Extended_Era/units/standard/Dark_Elf_Sorceress.cfg:26 ./Extended_Era/units/standard/Chaos_Greater_Mutation.cfg:34 ./Extended_Era/units/standard/Dark_Elf_Enchantress.cfg:23 ./Extended_Era/units/standard/Kalifa_Life_Guard.cfg:59 ./Extended_Era/units/standard/Human_Outlaw_Highwayman.cfg:49 ./Extended_Era/units/standard/Aragwaith_Sorcerer.cfg:35 ./Extended_Era/units/standard/Troll_Shaman.cfg:31 ./Extended_Era/units/standard/Kalifa_Immortal.cfg:103
 msgid "impact"
 msgstr ""
 
@@ -142,7 +152,7 @@ msgstr ""
 msgid "infernal storm"
 msgstr ""
 
-#: ./Extended_Era/units/rpg/Chaos_Demonologist.cfg:104 ./Extended_Era/units/standard/Sidhe_Windlasher.cfg:46 ./Extended_Era/units/standard/Chaos_Winged_Daemon.cfg:73 ./Extended_Era/units/standard/Chaos_Greater_Daemon.cfg:68 ./Extended_Era/units/standard/Kalifa_Rami.cfg:57 ./Extended_Era/units/standard/Sidhe_Tempest.cfg:46 ./Extended_Era/units/standard/Drake_Armageddon.cfg:103 ./Extended_Era/units/standard/Sidhe_Raindancer.cfg:46 ./Extended_Era/units/standard/Dwarvish_Flamethower.cfg:66 ./Extended_Era/units/standard/Dark_Elf_Cleric.cfg:63 ./Extended_Era/units/standard/Aragwaith_Wizard.cfg:59 ./Extended_Era/units/standard/Aragwaith_Warlock.cfg:69 ./Extended_Era/units/standard/Chaos_Demonologist.cfg:104 ./Extended_Era/units/standard/Sidhe_Stormlord.cfg:47 ./Extended_Era/units/standard/Sidhe_Warmage.cfg:46 ./Extended_Era/units/standard/Kalifa_Rami_al_Nuri.cfg:58 ./Extended_Era/units/standard/Sidhe_Thunderblade.cfg:50 ./Extended_Era/units/standard/Chaos_Daemon.cfg:67 ./Extended_Era/units/standard/Dark_Elf_Sorceress.cfg:62 ./Extended_Era/units/standard/Kalifa_Naffatun.cfg:26 ./Extended_Era/units/standard/Dark_Elf_Enchantress.cfg:59 ./Extended_Era/units/standard/Chaos_Lesser_Daemon.cfg:66 ./Extended_Era/units/standard/Aragwaith_Sorcerer.cfg:61 ./Extended_Era/units/standard/Troll_Shaman.cfg:55
+#: ./Extended_Era/units/rpg/Chaos_Demonologist.cfg:104 ./Extended_Era/units/standard/Sidhe_Windlasher.cfg:46 ./Extended_Era/units/standard/Chaos_Winged_Daemon.cfg:73 ./Extended_Era/units/standard/Chaos_Greater_Daemon.cfg:68 ./Extended_Era/units/standard/Kalifa_Rami.cfg:57 ./Extended_Era/units/standard/Sidhe_Tempest.cfg:46 ./Extended_Era/units/standard/Drake_Armageddon.cfg:103 ./Extended_Era/units/standard/Sidhe_Raindancer.cfg:46 ./Extended_Era/units/standard/Dwarvish_Flamethower.cfg:67 ./Extended_Era/units/standard/Dark_Elf_Cleric.cfg:63 ./Extended_Era/units/standard/Aragwaith_Wizard.cfg:59 ./Extended_Era/units/standard/Aragwaith_Warlock.cfg:69 ./Extended_Era/units/standard/Chaos_Demonologist.cfg:104 ./Extended_Era/units/standard/Sidhe_Stormlord.cfg:47 ./Extended_Era/units/standard/Sidhe_Warmage.cfg:46 ./Extended_Era/units/standard/Kalifa_Rami_al_Nuri.cfg:58 ./Extended_Era/units/standard/Sidhe_Thunderblade.cfg:50 ./Extended_Era/units/standard/Chaos_Daemon.cfg:67 ./Extended_Era/units/standard/Dark_Elf_Sorceress.cfg:62 ./Extended_Era/units/standard/Kalifa_Naffatun.cfg:26 ./Extended_Era/units/standard/Dark_Elf_Enchantress.cfg:59 ./Extended_Era/units/standard/Chaos_Lesser_Daemon.cfg:66 ./Extended_Era/units/standard/Aragwaith_Sorcerer.cfg:61 ./Extended_Era/units/standard/Troll_Shaman.cfg:55
 msgid "fire"
 msgstr ""
 
@@ -170,11 +180,11 @@ msgstr ""
 msgid "These Elves have been an example to their fellow soldiers, and have gained the rank of Captain. Although they can never become Lords, they still strive to do their best to defend the Matron Mother with their swords and short spears."
 msgstr ""
 
-#: ./Extended_Era/units/rpg/Sidhe_Warsinger.cfg:25 ./Extended_Era/units/rpg/Sidhe_Warrior.cfg:21 ./Extended_Era/units/rpg/Sidhe_Herald.cfg:24 ./Extended_Era/units/rpg/Dark_Elf_Fighter.cfg:50 ./Extended_Era/units/rpg/Dark_Elf_Lord.cfg:24 ./Extended_Era/units/rpg/Dark_Elf_High_Lord.cfg:25 ./Extended_Era/units/rpg/Dark_Elf_Noble.cfg:21 ./Extended_Era/units/rpg/Dark_Elf_Marshal.cfg:25 ./Extended_Era/units/rpg/Dark_Elf_Captain.cfg:24 ./Extended_Era/units/standard/Dark_Elf_Corsair.cfg:22 ./Extended_Era/units/standard/Sidhe_Windlasher.cfg:21 ./Extended_Era/units/standard/Sidhe_Warsinger.cfg:25 ./Extended_Era/units/standard/Sidhe_Warrior.cfg:21 ./Extended_Era/units/standard/Chaos_Armorer.cfg:40 ./Extended_Era/units/standard/Sidhe_Wardancer.cfg:22 ./Extended_Era/units/standard/Sidhe_Herald.cfg:24 ./Extended_Era/units/standard/Human_Outlaw_Ranger.cfg:51 ./Extended_Era/units/standard/Sidhe_Bladespinner.cfg:21 ./Extended_Era/units/standard/Sidhe_Tempest.cfg:21 ./Extended_Era/units/standard/Sidhe_Raindancer.cfg:21 ./Extended_Era/units/standard/Chaos_Knight.cfg:40 ./Extended_Era/units/standard/Dark_Elf_Fighter.cfg:50 ./Extended_Era/units/standard/Dark_Elf_Lord.cfg:24 ./Extended_Era/units/standard/Aragwaith_Swordmaster.cfg:77 ./Extended_Era/units/standard/Sidhe_Veiledblade.cfg:21 ./Extended_Era/units/standard/Chaos_Elite_Armorer.cfg:41 ./Extended_Era/units/standard/Aragwaith_Longswordsman.cfg:61 ./Extended_Era/units/standard/Aragwaith_Shield_Guard.cfg:26 ./Extended_Era/units/standard/Aragwaith_Greatbow.cfg:75 ./Extended_Era/units/standard/Sidhe_Shadowdancer.cfg:22 ./Extended_Era/units/standard/Sidhe_Whirlwind.cfg:25 ./Extended_Era/units/standard/Chaos_Overlord.cfg:38 ./Extended_Era/units/standard/Dark_Elf_High_Lord.cfg:25 ./Extended_Era/units/standard/Dark_Elf_Noble.cfg:21 ./Extended_Era/units/standard/Aragwaith_Flagbearer.cfg:147 ./Extended_Era/units/standard/Sidhe_Stormlord.cfg:22 ./Extended_Era/units/standard/Sidhe_Warmage.cfg:21 ./Extended_Era/units/standard/Dark_Elf_Warrior.cfg:21 ./Extended_Era/units/standard/Chaos_Invader.cfg:38 ./Extended_Era/units/standard/Chaos_Blood_Knight.cfg:38 ./Extended_Era/units/standard/Dark_Elf_Marshal.cfg:25 ./Extended_Era/units/standard/Aragwaith_Captain.cfg:148 ./Extended_Era/units/standard/Sidhe_Wildblade.cfg:21 ./Extended_Era/units/standard/Aragwaith_Swordsman.cfg:52 ./Extended_Era/units/standard/Sidhe_Fury.cfg:21 ./Extended_Era/units/standard/Aragwaith_Guard.cfg:54 ./Extended_Era/units/standard/Dark_Elf_Captain.cfg:24
+#: ./Extended_Era/units/rpg/Sidhe_Warsinger.cfg:25 ./Extended_Era/units/rpg/Sidhe_Warrior.cfg:21 ./Extended_Era/units/rpg/Sidhe_Herald.cfg:24 ./Extended_Era/units/rpg/Dark_Elf_Fighter.cfg:50 ./Extended_Era/units/rpg/Dark_Elf_Lord.cfg:24 ./Extended_Era/units/rpg/Dark_Elf_High_Lord.cfg:25 ./Extended_Era/units/rpg/Dark_Elf_Noble.cfg:21 ./Extended_Era/units/rpg/Dark_Elf_Marshal.cfg:25 ./Extended_Era/units/rpg/Dark_Elf_Captain.cfg:24 ./Extended_Era/units/standard/Dark_Elf_Corsair.cfg:22 ./Extended_Era/units/standard/Sidhe_Windlasher.cfg:21 ./Extended_Era/units/standard/Sidhe_Warsinger.cfg:25 ./Extended_Era/units/standard/Sidhe_Warrior.cfg:21 ./Extended_Era/units/standard/Chaos_Armorer.cfg:40 ./Extended_Era/units/standard/Sidhe_Wardancer.cfg:22 ./Extended_Era/units/standard/Sidhe_Herald.cfg:24 ./Extended_Era/units/standard/Human_Outlaw_Ranger.cfg:51 ./Extended_Era/units/standard/Sidhe_Bladespinner.cfg:21 ./Extended_Era/units/standard/Sidhe_Tempest.cfg:21 ./Extended_Era/units/standard/Sidhe_Raindancer.cfg:21 ./Extended_Era/units/standard/Chaos_Knight.cfg:40 ./Extended_Era/units/standard/Dark_Elf_Fighter.cfg:50 ./Extended_Era/units/standard/Dark_Elf_Lord.cfg:24 ./Extended_Era/units/standard/Aragwaith_Swordmaster.cfg:77 ./Extended_Era/units/standard/Sidhe_Veiledblade.cfg:21 ./Extended_Era/units/standard/Chaos_Elite_Armorer.cfg:41 ./Extended_Era/units/standard/Aragwaith_Longswordsman.cfg:61 ./Extended_Era/units/standard/Aragwaith_Shield_Guard.cfg:26 ./Extended_Era/units/standard/Aragwaith_Greatbow.cfg:76 ./Extended_Era/units/standard/Sidhe_Shadowdancer.cfg:22 ./Extended_Era/units/standard/Sidhe_Whirlwind.cfg:25 ./Extended_Era/units/standard/Chaos_Overlord.cfg:38 ./Extended_Era/units/standard/Dark_Elf_High_Lord.cfg:25 ./Extended_Era/units/standard/Dark_Elf_Noble.cfg:21 ./Extended_Era/units/standard/Aragwaith_Flagbearer.cfg:147 ./Extended_Era/units/standard/Sidhe_Stormlord.cfg:22 ./Extended_Era/units/standard/Sidhe_Warmage.cfg:21 ./Extended_Era/units/standard/Dark_Elf_Warrior.cfg:21 ./Extended_Era/units/standard/Chaos_Invader.cfg:38 ./Extended_Era/units/standard/Chaos_Blood_Knight.cfg:38 ./Extended_Era/units/standard/Dark_Elf_Marshal.cfg:25 ./Extended_Era/units/standard/Aragwaith_Captain.cfg:148 ./Extended_Era/units/standard/Sidhe_Wildblade.cfg:21 ./Extended_Era/units/standard/Aragwaith_Swordsman.cfg:52 ./Extended_Era/units/standard/Sidhe_Fury.cfg:21 ./Extended_Era/units/standard/Aragwaith_Guard.cfg:54 ./Extended_Era/units/standard/Dark_Elf_Captain.cfg:24
 msgid "sword"
 msgstr ""
 
-#: ./Extended_Era/units/rpg/Human_Outlaw_Shadow_Mage.cfg:40 ./Extended_Era/units/rpg/Sidhe_Warsinger.cfg:27 ./Extended_Era/units/rpg/Human_Outlaw_Rogue_Mage.cfg:31 ./Extended_Era/units/rpg/Sidhe_Warrior.cfg:23 ./Extended_Era/units/rpg/Sidhe_Herald.cfg:26 ./Extended_Era/units/rpg/Dark_Elf_Fighter.cfg:52 ./Extended_Era/units/rpg/Dark_Elf_Lord.cfg:26 ./Extended_Era/units/rpg/Human_Outlaw_Shadow_Lord.cfg:74 ./Extended_Era/units/rpg/Dark_Elf_High_Lord.cfg:27 ./Extended_Era/units/rpg/Dark_Elf_Noble.cfg:23 ./Extended_Era/units/rpg/Dark_Elf_Marshal.cfg:27 ./Extended_Era/units/rpg/Dark_Elf_Captain.cfg:26 ./Extended_Era/units/standard/Dark_Elf_Corsair.cfg:24 ./Extended_Era/units/standard/Human_Outlaw_Shadow_Mage.cfg:40 ./Extended_Era/units/standard/Dark_Elf_Shadow.cfg:26 ./Extended_Era/units/standard/Kalifa_Mamluk.cfg:23 ./Extended_Era/units/standard/Sidhe_Windlasher.cfg:23 ./Extended_Era/units/standard/Chaos_Winged_Daemon.cfg:38 ./Extended_Era/units/standard/Chaos_Greater_Daemon.cfg:32 ./Extended_Era/units/standard/Sidhe_Warsinger.cfg:27 ./Extended_Era/units/standard/Human_Outlaw_Rogue_Mage.cfg:31 ./Extended_Era/units/standard/Chaos_Hound.cfg:32 ./Extended_Era/units/standard/Sidhe_Warrior.cfg:23 ./Extended_Era/units/standard/Chaos_Armorer.cfg:41 ./Extended_Era/units/standard/Sidhe_Wardancer.cfg:24 ./Extended_Era/units/standard/Sidhe_Spirit_Ancestor.cfg:27 ./Extended_Era/units/standard/Sidhe_Herald.cfg:26 ./Extended_Era/units/standard/Human_Outlaw_Ranger.cfg:53 ./Extended_Era/units/standard/Kalifa_Rami.cfg:21 ./Extended_Era/units/standard/Sidhe_Bladespinner.cfg:23 ./Extended_Era/units/standard/Sidhe_Tempest.cfg:23 ./Extended_Era/units/standard/Kalifa_Falcon.cfg:20 ./Extended_Era/units/standard/Aragwaith_Archer.cfg:70 ./Extended_Era/units/standard/Drake_Armageddon.cfg:46 ./Extended_Era/units/standard/Sidhe_Raindancer.cfg:23 ./Extended_Era/units/standard/Dark_Elf_Stalker.cfg:27 ./Extended_Era/units/standard/Chaos_Knight.cfg:41 ./Extended_Era/units/standard/Chaos_Knight.cfg:87 ./Extended_Era/units/standard/Kalifa_Arif.cfg:64 ./Extended_Era/units/standard/Human_Outlaw_Huntsman.cfg:46 ./Extended_Era/units/standard/Chaos_Marauder.cfg:64 ./Extended_Era/units/standard/Dark_Elf_Fighter.cfg:52 ./Extended_Era/units/standard/Dark_Elf_Lord.cfg:26 ./Extended_Era/units/standard/Aragwaith_Swordmaster.cfg:79 ./Extended_Era/units/standard/Kalifa_Elder_Falcon.cfg:22 ./Extended_Era/units/standard/Dwarvish_Flamethower.cfg:31 ./Extended_Era/units/standard/Kalifa_Mubarizan.cfg:60 ./Extended_Era/units/standard/Sidhe_Veiledblade.cfg:23 ./Extended_Era/units/standard/Chaos_Elite_Armorer.cfg:42 ./Extended_Era/units/standard/Aragwaith_Longswordsman.cfg:63 ./Extended_Era/units/standard/Human_Outlaw_Brigand.cfg:37 ./Extended_Era/units/standard/Dwarvish_Runner.cfg:28 ./Extended_Era/units/standard/Dwarvish_Runner.cfg:125 ./Extended_Era/units/standard/Human_Outlaw_Shadow_Lord.cfg:74 ./Extended_Era/units/standard/Dark_Elf_Lizard_Rider.cfg:95 ./Extended_Era/units/standard/Kalifa_Elite_Ghazi.cfg:21 ./Extended_Era/units/standard/Aragwaith_Shield_Guard.cfg:28 ./Extended_Era/units/standard/Dark_Elf_Hunter.cfg:55 ./Extended_Era/units/standard/Aragwaith_Greatbow.cfg:77 ./Extended_Era/units/standard/Aragwaith_Slayer.cfg:67 ./Extended_Era/units/standard/Kalifa_Amir.cfg:56 ./Extended_Era/units/standard/Sidhe_Shadowdancer.cfg:24 ./Extended_Era/units/standard/Sidhe_Whirlwind.cfg:27 ./Extended_Era/units/standard/Chaos_Overlord.cfg:39 ./Extended_Era/units/standard/Chaos_Overlord.cfg:75 ./Extended_Era/units/standard/Dark_Elf_High_Lord.cfg:27 ./Extended_Era/units/standard/Dark_Elf_Noble.cfg:23 ./Extended_Era/units/standard/Aragwaith_Flagbearer.cfg:149 ./Extended_Era/units/standard/Sidhe_Stormlord.cfg:24 ./Extended_Era/units/standard/Sidhe_Warmage.cfg:23 ./Extended_Era/units/standard/Dark_Elf_Warrior.cfg:22 ./Extended_Era/units/standard/Kalifa_Rami_al_Nuri.cfg:22 ./Extended_Era/units/standard/Chaos_Invader.cfg:39 ./Extended_Era/units/standard/Dwarvish_Axethrower.cfg:28 ./Extended_Era/units/standard/Dwarvish_Axethrower.cfg:155 ./Extended_Era/units/standard/Human_Outlaw_Raider.cfg:38 ./Extended_Era/units/standard/Chaos_Blood_Knight.cfg:39 ./Extended_Era/units/standard/Chaos_Blood_Knight.cfg:85 ./Extended_Era/units/standard/Dark_Elf_Marshal.cfg:27 ./Extended_Era/units/standard/Aragwaith_Strongbow.cfg:65 ./Extended_Era/units/standard/Kalifa_Karadis.cfg:22 ./Extended_Era/units/standard/Sidhe_Thunderblade.cfg:24 ./Extended_Era/units/standard/Chaos_Daemon.cfg:31 ./Extended_Era/units/standard/Aragwaith_Captain.cfg:150 ./Extended_Era/units/standard/Sidhe_Wildblade.cfg:23 ./Extended_Era/units/standard/Kalifa_Ghazi.cfg:21 ./Extended_Era/units/standard/Aragwaith_Swordsman.cfg:54 ./Extended_Era/units/standard/Sidhe_Spirit_Forefather.cfg:28 ./Extended_Era/units/standard/Kalifa_Ahadath.cfg:21 ./Extended_Era/units/standard/Sidhe_Spirit_Warrior.cfg:26 ./Extended_Era/units/standard/Chaos_Hound_Warp.cfg:40 ./Extended_Era/units/standard/Sidhe_Fury.cfg:23 ./Extended_Era/units/standard/Dwarvish_Axemaster.cfg:29 ./Extended_Era/units/standard/Dwarvish_Axemaster.cfg:156 ./Extended_Era/units/standard/Chaos_Hound_Rabid.cfg:37 ./Extended_Era/units/standard/Dark_Elf_Lizard_Master.cfg:65 ./Extended_Era/units/standard/Aragwaith_Guard.cfg:56 ./Extended_Era/units/standard/Chaos_Lesser_Daemon.cfg:31 ./Extended_Era/units/standard/Dark_Elf_Captain.cfg:26 ./Extended_Era/units/standard/Kalifa_Immortal.cfg:64
+#: ./Extended_Era/units/rpg/Human_Outlaw_Shadow_Mage.cfg:40 ./Extended_Era/units/rpg/Sidhe_Warsinger.cfg:27 ./Extended_Era/units/rpg/Human_Outlaw_Rogue_Mage.cfg:31 ./Extended_Era/units/rpg/Sidhe_Warrior.cfg:23 ./Extended_Era/units/rpg/Sidhe_Herald.cfg:26 ./Extended_Era/units/rpg/Dark_Elf_Fighter.cfg:52 ./Extended_Era/units/rpg/Dark_Elf_Lord.cfg:26 ./Extended_Era/units/rpg/Human_Outlaw_Shadow_Lord.cfg:74 ./Extended_Era/units/rpg/Dark_Elf_High_Lord.cfg:27 ./Extended_Era/units/rpg/Dark_Elf_Noble.cfg:23 ./Extended_Era/units/rpg/Dark_Elf_Marshal.cfg:27 ./Extended_Era/units/rpg/Dark_Elf_Captain.cfg:26 ./Extended_Era/units/standard/Dark_Elf_Corsair.cfg:24 ./Extended_Era/units/standard/Human_Outlaw_Shadow_Mage.cfg:40 ./Extended_Era/units/standard/Dark_Elf_Shadow.cfg:26 ./Extended_Era/units/standard/Kalifa_Mamluk.cfg:23 ./Extended_Era/units/standard/Sidhe_Windlasher.cfg:23 ./Extended_Era/units/standard/Chaos_Winged_Daemon.cfg:38 ./Extended_Era/units/standard/Chaos_Greater_Daemon.cfg:32 ./Extended_Era/units/standard/Sidhe_Warsinger.cfg:27 ./Extended_Era/units/standard/Human_Outlaw_Rogue_Mage.cfg:31 ./Extended_Era/units/standard/Chaos_Hound.cfg:32 ./Extended_Era/units/standard/Sidhe_Warrior.cfg:23 ./Extended_Era/units/standard/Chaos_Armorer.cfg:41 ./Extended_Era/units/standard/Sidhe_Wardancer.cfg:24 ./Extended_Era/units/standard/Sidhe_Spirit_Ancestor.cfg:27 ./Extended_Era/units/standard/Sidhe_Herald.cfg:26 ./Extended_Era/units/standard/Human_Outlaw_Ranger.cfg:53 ./Extended_Era/units/standard/Kalifa_Rami.cfg:21 ./Extended_Era/units/standard/Sidhe_Bladespinner.cfg:23 ./Extended_Era/units/standard/Sidhe_Tempest.cfg:23 ./Extended_Era/units/standard/Kalifa_Falcon.cfg:20 ./Extended_Era/units/standard/Aragwaith_Archer.cfg:71 ./Extended_Era/units/standard/Drake_Armageddon.cfg:46 ./Extended_Era/units/standard/Sidhe_Raindancer.cfg:23 ./Extended_Era/units/standard/Dark_Elf_Stalker.cfg:27 ./Extended_Era/units/standard/Chaos_Knight.cfg:41 ./Extended_Era/units/standard/Chaos_Knight.cfg:87 ./Extended_Era/units/standard/Kalifa_Arif.cfg:64 ./Extended_Era/units/standard/Human_Outlaw_Huntsman.cfg:46 ./Extended_Era/units/standard/Chaos_Marauder.cfg:64 ./Extended_Era/units/standard/Dark_Elf_Fighter.cfg:52 ./Extended_Era/units/standard/Dark_Elf_Lord.cfg:26 ./Extended_Era/units/standard/Aragwaith_Swordmaster.cfg:79 ./Extended_Era/units/standard/Kalifa_Elder_Falcon.cfg:22 ./Extended_Era/units/standard/Dwarvish_Flamethower.cfg:32 ./Extended_Era/units/standard/Kalifa_Mubarizan.cfg:60 ./Extended_Era/units/standard/Sidhe_Veiledblade.cfg:23 ./Extended_Era/units/standard/Chaos_Soulhunter.cfg:65 ./Extended_Era/units/standard/Chaos_Elite_Armorer.cfg:42 ./Extended_Era/units/standard/Aragwaith_Longswordsman.cfg:63 ./Extended_Era/units/standard/Human_Outlaw_Brigand.cfg:37 ./Extended_Era/units/standard/Dwarvish_Runner.cfg:28 ./Extended_Era/units/standard/Dwarvish_Runner.cfg:125 ./Extended_Era/units/standard/Human_Outlaw_Shadow_Lord.cfg:74 ./Extended_Era/units/standard/Dark_Elf_Lizard_Rider.cfg:95 ./Extended_Era/units/standard/Kalifa_Elite_Ghazi.cfg:21 ./Extended_Era/units/standard/Aragwaith_Shield_Guard.cfg:28 ./Extended_Era/units/standard/Dark_Elf_Hunter.cfg:55 ./Extended_Era/units/standard/Aragwaith_Greatbow.cfg:78 ./Extended_Era/units/standard/Aragwaith_Slayer.cfg:68 ./Extended_Era/units/standard/Kalifa_Amir.cfg:56 ./Extended_Era/units/standard/Sidhe_Shadowdancer.cfg:24 ./Extended_Era/units/standard/Sidhe_Whirlwind.cfg:27 ./Extended_Era/units/standard/Chaos_Overlord.cfg:39 ./Extended_Era/units/standard/Chaos_Overlord.cfg:75 ./Extended_Era/units/standard/Dark_Elf_High_Lord.cfg:27 ./Extended_Era/units/standard/Dark_Elf_Noble.cfg:23 ./Extended_Era/units/standard/Aragwaith_Flagbearer.cfg:149 ./Extended_Era/units/standard/Sidhe_Stormlord.cfg:24 ./Extended_Era/units/standard/Sidhe_Warmage.cfg:23 ./Extended_Era/units/standard/Dark_Elf_Warrior.cfg:22 ./Extended_Era/units/standard/Kalifa_Rami_al_Nuri.cfg:22 ./Extended_Era/units/standard/Chaos_Invader.cfg:39 ./Extended_Era/units/standard/Dwarvish_Axethrower.cfg:28 ./Extended_Era/units/standard/Dwarvish_Axethrower.cfg:155 ./Extended_Era/units/standard/Human_Outlaw_Raider.cfg:38 ./Extended_Era/units/standard/Chaos_Blood_Knight.cfg:39 ./Extended_Era/units/standard/Chaos_Blood_Knight.cfg:85 ./Extended_Era/units/standard/Dark_Elf_Marshal.cfg:27 ./Extended_Era/units/standard/Aragwaith_Strongbow.cfg:66 ./Extended_Era/units/standard/Kalifa_Karadis.cfg:22 ./Extended_Era/units/standard/Sidhe_Thunderblade.cfg:24 ./Extended_Era/units/standard/Chaos_Daemon.cfg:31 ./Extended_Era/units/standard/Aragwaith_Captain.cfg:150 ./Extended_Era/units/standard/Sidhe_Wildblade.cfg:23 ./Extended_Era/units/standard/Kalifa_Ghazi.cfg:21 ./Extended_Era/units/standard/Aragwaith_Swordsman.cfg:54 ./Extended_Era/units/standard/Sidhe_Spirit_Forefather.cfg:28 ./Extended_Era/units/standard/Kalifa_Ahadath.cfg:21 ./Extended_Era/units/standard/Sidhe_Spirit_Warrior.cfg:27 ./Extended_Era/units/standard/Chaos_Hound_Warp.cfg:40 ./Extended_Era/units/standard/Sidhe_Fury.cfg:23 ./Extended_Era/units/standard/Dwarvish_Axemaster.cfg:29 ./Extended_Era/units/standard/Dwarvish_Axemaster.cfg:156 ./Extended_Era/units/standard/Chaos_Hound_Rabid.cfg:37 ./Extended_Era/units/standard/Dark_Elf_Lizard_Master.cfg:65 ./Extended_Era/units/standard/Aragwaith_Guard.cfg:56 ./Extended_Era/units/standard/Chaos_Lesser_Daemon.cfg:31 ./Extended_Era/units/standard/Dark_Elf_Captain.cfg:26 ./Extended_Era/units/standard/Kalifa_Immortal.cfg:64
 msgid "blade"
 msgstr ""
 
@@ -182,7 +192,7 @@ msgstr ""
 msgid "spear"
 msgstr ""
 
-#: ./Extended_Era/units/rpg/Dark_Elf_Marshal.cfg:62 ./Extended_Era/units/rpg/Dark_Elf_Marshal.cfg:97 ./Extended_Era/units/rpg/Dark_Elf_Captain.cfg:61 ./Extended_Era/units/rpg/Dark_Elf_Captain.cfg:96 ./Extended_Era/units/standard/Dark_Elf_Shadow.cfg:65 ./Extended_Era/units/standard/Kalifa_Mamluk.cfg:71 ./Extended_Era/units/standard/Kalifa_Ghulam.cfg:26 ./Extended_Era/units/standard/Aragwaith_Scout.cfg:72 ./Extended_Era/units/standard/Aragwaith_Lancer.cfg:79 ./Extended_Era/units/standard/Aragwaith_Spearman.cfg:45 ./Extended_Era/units/standard/Human_Outlaw_Ranger.cfg:98 ./Extended_Era/units/standard/Kalifa_Rami.cfg:95 ./Extended_Era/units/standard/Orcish_Shaman.cfg:59 ./Extended_Era/units/standard/Orcish_Shaman.cfg:143 ./Extended_Era/units/standard/Orcish_Shaman.cfg:227 ./Extended_Era/units/standard/Kalifa_Ghaznid.cfg:21 ./Extended_Era/units/standard/Kalifa_Falcon.cfg:46 ./Extended_Era/units/standard/Sidhe_Wanderer.cfg:25 ./Extended_Era/units/standard/Sidhe_Wanderer.cfg:48 ./Extended_Era/units/standard/Aragwaith_Archer.cfg:95 ./Extended_Era/units/standard/Dark_Elf_Stalker.cfg:66 ./Extended_Era/units/standard/Kalifa_Arif.cfg:29 ./Extended_Era/units/standard/Human_Outlaw_Huntsman.cfg:91 ./Extended_Era/units/standard/Chaos_Marauder.cfg:99 ./Extended_Era/units/standard/Aragwaith_Silver_Shield.cfg:87 ./Extended_Era/units/standard/Chaos_Headhunter.cfg:66 ./Extended_Era/units/standard/Kalifa_Elder_Falcon.cfg:48 ./Extended_Era/units/standard/Kalifa_Mubarizan.cfg:22 ./Extended_Era/units/standard/Chaos_Soulhunter.cfg:101 ./Extended_Era/units/standard/Human_Outlaw_Brigand.cfg:73 ./Extended_Era/units/standard/Sidhe_Tracker.cfg:25 ./Extended_Era/units/standard/Sidhe_Tracker.cfg:48 ./Extended_Era/units/standard/Dark_Elf_Lizard_Rider.cfg:54 ./Extended_Era/units/standard/Kalifa_Elite_Ghazi.cfg:56 ./Extended_Era/units/standard/Dark_Elf_Hunter.cfg:91 ./Extended_Era/units/standard/Aragwaith_Greatbow.cfg:132 ./Extended_Era/units/standard/Aragwaith_Slayer.cfg:190 ./Extended_Era/units/standard/Kalifa_Ghulam_al_Rami.cfg:62 ./Extended_Era/units/standard/Kalifa_Amir.cfg:21 ./Extended_Era/units/standard/Aragwaith_Flagbearer.cfg:38 ./Extended_Era/units/standard/Kalifa_Rami_al_Nuri.cfg:96 ./Extended_Era/units/standard/Human_Outlaw_Raider.cfg:74 ./Extended_Era/units/standard/Aragwaith_Guardian.cfg:30 ./Extended_Era/units/standard/Dark_Elf_Marshal.cfg:62 ./Extended_Era/units/standard/Dark_Elf_Marshal.cfg:97 ./Extended_Era/units/standard/Aragwaith_Strongbow.cfg:100 ./Extended_Era/units/standard/Kalifa_Karadis.cfg:70 ./Extended_Era/units/standard/Aragwaith_Captain.cfg:39 ./Extended_Era/units/standard/Kalifa_Ghazi.cfg:56 ./Extended_Era/units/standard/Sidhe_Windrunner.cfg:26 ./Extended_Era/units/standard/Sidhe_Windrunner.cfg:49 ./Extended_Era/units/standard/Kalifa_Naffatun.cfg:64 ./Extended_Era/units/standard/Aragwaith_Pikeman.cfg:29 ./Extended_Era/units/standard/Kalifa_Ahadath.cfg:56 ./Extended_Era/units/standard/Dark_Elf_Lizard_Master.cfg:24 ./Extended_Era/units/standard/Kalifa_Life_Guard.cfg:22 ./Extended_Era/units/standard/Dark_Elf_Captain.cfg:61 ./Extended_Era/units/standard/Dark_Elf_Captain.cfg:96 ./Extended_Era/units/standard/Kalifa_Immortal.cfg:29
+#: ./Extended_Era/units/rpg/Dark_Elf_Marshal.cfg:62 ./Extended_Era/units/rpg/Dark_Elf_Marshal.cfg:97 ./Extended_Era/units/rpg/Dark_Elf_Captain.cfg:61 ./Extended_Era/units/rpg/Dark_Elf_Captain.cfg:96 ./Extended_Era/units/standard/Dark_Elf_Shadow.cfg:65 ./Extended_Era/units/standard/Kalifa_Mamluk.cfg:71 ./Extended_Era/units/standard/Kalifa_Ghulam.cfg:26 ./Extended_Era/units/standard/Aragwaith_Scout.cfg:72 ./Extended_Era/units/standard/Aragwaith_Lancer.cfg:79 ./Extended_Era/units/standard/Aragwaith_Spearman.cfg:45 ./Extended_Era/units/standard/Human_Outlaw_Ranger.cfg:98 ./Extended_Era/units/standard/Kalifa_Rami.cfg:95 ./Extended_Era/units/standard/Orcish_Shaman.cfg:59 ./Extended_Era/units/standard/Orcish_Shaman.cfg:143 ./Extended_Era/units/standard/Orcish_Shaman.cfg:227 ./Extended_Era/units/standard/Kalifa_Ghaznid.cfg:21 ./Extended_Era/units/standard/Kalifa_Falcon.cfg:46 ./Extended_Era/units/standard/Sidhe_Wanderer.cfg:25 ./Extended_Era/units/standard/Sidhe_Wanderer.cfg:48 ./Extended_Era/units/standard/Aragwaith_Archer.cfg:96 ./Extended_Era/units/standard/Dark_Elf_Stalker.cfg:66 ./Extended_Era/units/standard/Kalifa_Arif.cfg:29 ./Extended_Era/units/standard/Human_Outlaw_Huntsman.cfg:91 ./Extended_Era/units/standard/Chaos_Marauder.cfg:99 ./Extended_Era/units/standard/Aragwaith_Silver_Shield.cfg:87 ./Extended_Era/units/standard/Chaos_Headhunter.cfg:66 ./Extended_Era/units/standard/Kalifa_Elder_Falcon.cfg:48 ./Extended_Era/units/standard/Kalifa_Mubarizan.cfg:22 ./Extended_Era/units/standard/Chaos_Soulhunter.cfg:101 ./Extended_Era/units/standard/Human_Outlaw_Brigand.cfg:73 ./Extended_Era/units/standard/Sidhe_Tracker.cfg:25 ./Extended_Era/units/standard/Sidhe_Tracker.cfg:48 ./Extended_Era/units/standard/Dark_Elf_Lizard_Rider.cfg:54 ./Extended_Era/units/standard/Kalifa_Elite_Ghazi.cfg:56 ./Extended_Era/units/standard/Dark_Elf_Hunter.cfg:91 ./Extended_Era/units/standard/Aragwaith_Greatbow.cfg:133 ./Extended_Era/units/standard/Aragwaith_Slayer.cfg:191 ./Extended_Era/units/standard/Kalifa_Ghulam_al_Rami.cfg:62 ./Extended_Era/units/standard/Kalifa_Amir.cfg:21 ./Extended_Era/units/standard/Aragwaith_Flagbearer.cfg:38 ./Extended_Era/units/standard/Kalifa_Rami_al_Nuri.cfg:96 ./Extended_Era/units/standard/Human_Outlaw_Raider.cfg:74 ./Extended_Era/units/standard/Aragwaith_Guardian.cfg:30 ./Extended_Era/units/standard/Dark_Elf_Marshal.cfg:62 ./Extended_Era/units/standard/Dark_Elf_Marshal.cfg:97 ./Extended_Era/units/standard/Aragwaith_Strongbow.cfg:101 ./Extended_Era/units/standard/Kalifa_Karadis.cfg:70 ./Extended_Era/units/standard/Aragwaith_Captain.cfg:39 ./Extended_Era/units/standard/Kalifa_Ghazi.cfg:56 ./Extended_Era/units/standard/Sidhe_Windrunner.cfg:26 ./Extended_Era/units/standard/Sidhe_Windrunner.cfg:49 ./Extended_Era/units/standard/Kalifa_Naffatun.cfg:64 ./Extended_Era/units/standard/Aragwaith_Pikeman.cfg:29 ./Extended_Era/units/standard/Kalifa_Ahadath.cfg:56 ./Extended_Era/units/standard/Dark_Elf_Lizard_Master.cfg:24 ./Extended_Era/units/standard/Kalifa_Life_Guard.cfg:22 ./Extended_Era/units/standard/Dark_Elf_Captain.cfg:61 ./Extended_Era/units/standard/Dark_Elf_Captain.cfg:96 ./Extended_Era/units/standard/Kalifa_Immortal.cfg:29
 msgid "pierce"
 msgstr ""
 
@@ -228,6 +238,18 @@ msgstr ""
 
 #: ./Extended_Era/units/rpg/Dark_Elf_Noble.cfg:17 ./Extended_Era/units/standard/Dark_Elf_Noble.cfg:17
 msgid "The young Lords are rash and brave. They have spent their entire childhood training with the sword, and have been taught from the best Marshals battlefield tactics. They have highly decorative shields that they use in battle to attack and encourage their troops."
+msgstr ""
+
+#: ./Extended_Era/units/rpg/Human_Outlaw_Henchman.cfg:5 ./Extended_Era/units/standard/Human_Outlaw_Henchman.cfg:5
+msgid "Henchman"
+msgstr ""
+
+#: ./Extended_Era/units/rpg/Human_Outlaw_Henchman.cfg:18 ./Extended_Era/units/standard/Human_Outlaw_Henchman.cfg:18
+msgid "Henchmen are good for one thing: following orders.  They are not very smart or creative, neither of which is required to swing a club at an enemy.  Never far from their leader, they tend to work in groups (attacking one at a time).  With enough experience they can learn to swing a bigger club or throw things, but not both."
+msgstr ""
+
+#: ./Extended_Era/units/rpg/Human_Outlaw_Henchman.cfg:29 ./Extended_Era/units/standard/Human_Outlaw_Henchman.cfg:29 ./Extended_Era/units/standard/Chaos_Marauder.cfg:28 ./Extended_Era/units/standard/Chaos_Headhunter.cfg:30 ./Extended_Era/units/standard/Chaos_Soulhunter.cfg:29
+msgid "club"
 msgstr ""
 
 #: ./Extended_Era/units/rpg/Human_Outlaw_Rogue_Mage.cfg:5 ./Extended_Era/units/standard/Human_Outlaw_Rogue_Mage.cfg:5
@@ -298,11 +320,15 @@ msgstr ""
 msgid "Archer"
 msgstr ""
 
-#: ./Extended_Era/units/standard/Aragwaith_Archer.cfg:68 ./Extended_Era/units/standard/Aragwaith_Strongbow.cfg:63
+#: ./Extended_Era/units/standard/Aragwaith_Archer.cfg:17
+msgid "The Aragwaithi are a noble people, fragile in body, but their training makes them among the more deadly denizens of this world. Their archers are no exception. Their skills with a bow are comparable to those of some elves, and they are remarkably quick with their daggers."
+msgstr ""
+
+#: ./Extended_Era/units/standard/Aragwaith_Archer.cfg:69 ./Extended_Era/units/standard/Aragwaith_Strongbow.cfg:64
 msgid "knife"
 msgstr ""
 
-#: ./Extended_Era/units/standard/Human_Outlaw_Ranger.cfg:97 ./Extended_Era/units/standard/Aragwaith_Archer.cfg:94 ./Extended_Era/units/standard/Human_Outlaw_Huntsman.cfg:90 ./Extended_Era/units/standard/Aragwaith_Greatbow.cfg:131 ./Extended_Era/units/standard/Aragwaith_Slayer.cfg:189 ./Extended_Era/units/standard/Aragwaith_Strongbow.cfg:99
+#: ./Extended_Era/units/standard/Human_Outlaw_Ranger.cfg:97 ./Extended_Era/units/standard/Aragwaith_Archer.cfg:95 ./Extended_Era/units/standard/Human_Outlaw_Huntsman.cfg:90 ./Extended_Era/units/standard/Aragwaith_Greatbow.cfg:132 ./Extended_Era/units/standard/Aragwaith_Slayer.cfg:190 ./Extended_Era/units/standard/Aragwaith_Strongbow.cfg:100
 msgid "bow"
 msgstr ""
 
@@ -312,6 +338,10 @@ msgstr ""
 
 #: ./Extended_Era/units/standard/Aragwaith_Greatbow.cfg:5
 msgid "Greatbow"
+msgstr ""
+
+#: ./Extended_Era/units/standard/Aragwaith_Greatbow.cfg:19
+msgid "Finally moving on from the dirk and dagger to the sword, the Greatbow is superior to the Strongbow in melee combat, but not as powerful as the Slayer. Their bow, however, is a masterpiece of military design. Several months are spent crafting a single bow, and each bow is crafted by the user, to his individual specifications. Due to the incredible strength required to pull these bows, anyone but the crafter who attempts to draw it could suffer serious injury."
 msgstr ""
 
 #: ./Extended_Era/units/standard/Aragwaith_Guard.cfg:5
@@ -350,7 +380,11 @@ msgstr ""
 msgid "Slayer"
 msgstr ""
 
-#: ./Extended_Era/units/standard/Aragwaith_Slayer.cfg:66
+#: ./Extended_Era/units/standard/Aragwaith_Slayer.cfg:20
+msgid "While improving only marginally on the power of their bow, the Slayer abandons the blade in favor of training with a glaive, improving his skills in hand-to-hand combat. He is not as rugged as others of comparable skill, but far deadlier."
+msgstr ""
+
+#: ./Extended_Era/units/standard/Aragwaith_Slayer.cfg:67
 msgid "glaive"
 msgstr ""
 
@@ -372,6 +406,10 @@ msgstr ""
 
 #: ./Extended_Era/units/standard/Aragwaith_Strongbow.cfg:5
 msgid "Strongbow"
+msgstr ""
+
+#: ./Extended_Era/units/standard/Aragwaith_Strongbow.cfg:17
+msgid "By wielding a stronger bow and training almost constantly, the Aragwaith Strongbow fires a far deadlier shot than the average archer. Their dirks are longer than the daggers used by the typical archer, and they wield them far more effectively."
 msgstr ""
 
 #: ./Extended_Era/units/standard/Aragwaith_Swordmaster.cfg:5
@@ -411,7 +449,7 @@ msgid "Doom Guard"
 msgstr ""
 
 #: ./Extended_Era/units/standard/Chaos_Armorer.cfg:36
-msgid "Daemons know that, the only thing than can stop a tidal wave is a powerful wall. Armorers are such wall, wall of living flesh and steel. Devoid of bloodlust, their aggression is changed into fanatic loyalty. Armorers are not the ones to fight, they are the ones to stand against every possible enemy."
+msgid "Daemons know that, the only thing than can stop a tidal wave is a powerful wall. Doom Guards are such wall, wall of living flesh and steel. Devoid of bloodlust, their aggression is changed into fanatic loyalty. Doom Guards are not the ones to fight, they are the ones to stand against every possible enemy."
 msgstr ""
 
 #: ./Extended_Era/units/standard/Chaos_Blood_Knight.cfg:5
@@ -433,7 +471,7 @@ msgstr ""
 #: ./Extended_Era/units/standard/Chaos_Greater_Daemon.cfg:27 ./Extended_Era/units/standard/Chaos_Daemon.cfg:26 ./Extended_Era/units/standard/Chaos_Lesser_Daemon.cfg:26
 msgid ""
 "The lesser demons are the gift of the Gods of Chaos to those who have shown to be worthy enough to recieve\n"
-"aid from their sides, though barely any tougher than the averange human the lesser demons can easily turn the tide of a battle \n"
+"aid from their sides, though barely any tougher than the average human the lesser demons can easily turn the tide of a battle \n"
 "due to the combination of their nible movement and tough fighting.."
 msgstr ""
 
@@ -442,7 +480,7 @@ msgid "fireball"
 msgstr ""
 
 #: ./Extended_Era/units/standard/Chaos_Elite_Armorer.cfg:5
-msgid "Steel Lord"
+msgid "Hell Guardian"
 msgstr ""
 
 #: ./Extended_Era/units/standard/Chaos_Elite_Armorer.cfg:37
@@ -463,10 +501,6 @@ msgstr ""
 
 #: ./Extended_Era/units/standard/Chaos_Headhunter.cfg:26
 msgid "Given their souls to daemons, these lifeless scouts appear in the places, that will be infested with the daemonic plague. They are the ones to spread fear and message of daemonic invasions."
-msgstr ""
-
-#: ./Extended_Era/units/standard/Human_Outlaw_Henchman.cfg:29 ./Extended_Era/units/standard/Chaos_Marauder.cfg:28 ./Extended_Era/units/standard/Chaos_Headhunter.cfg:30 ./Extended_Era/units/standard/Chaos_Soulhunter.cfg:29
-msgid "club"
 msgstr ""
 
 #: ./Extended_Era/units/standard/Chaos_Hound.cfg:5
@@ -517,12 +551,12 @@ msgid "Chaos warriors share the common believe that any goverment and any god is
 msgstr ""
 
 #: ./Extended_Era/units/standard/Chaos_Knight.cfg:5
-msgid "Black Knight"
+msgid "Dark Knight"
 msgstr ""
 
 #: ./Extended_Era/units/standard/Chaos_Knight.cfg:32
 msgid ""
-"Tougher than the averange chaos follower, the Chaos Warrior attempts to confuse it's opponent by\n"
+"Tougher than the averange chaos follower, the Dark Knight attempts to confuse it's opponent by\n"
 "wielding a different weapon in each hand, he lets his style on combat alter depending on the situation which makes him a \n"
 "tough warrior to fight."
 msgstr ""
@@ -545,10 +579,6 @@ msgstr ""
 
 #: ./Extended_Era/units/standard/Chaos_Soulhunter.cfg:5
 msgid "Soulhunter"
-msgstr ""
-
-#: ./Extended_Era/units/standard/Chaos_Soulhunter.cfg:65
-msgid "melee"
 msgstr ""
 
 #: ./Extended_Era/units/standard/Chaos_Winged_Daemon.cfg:5
@@ -603,7 +633,7 @@ msgstr ""
 msgid "Lurking in the ever dark depths of the caves, the Hunters move around with out a sound, except for the twang of their crossbows."
 msgstr ""
 
-#: ./Extended_Era/units/standard/Dark_Elf_Shadow.cfg:24 ./Extended_Era/units/standard/Dark_Elf_Stalker.cfg:25 ./Extended_Era/units/standard/Human_Outlaw_Huntsman.cfg:44 ./Extended_Era/units/standard/Dwarvish_Flamethower.cfg:29 ./Extended_Era/units/standard/Dark_Elf_Hunter.cfg:53
+#: ./Extended_Era/units/standard/Dark_Elf_Shadow.cfg:24 ./Extended_Era/units/standard/Dark_Elf_Stalker.cfg:25 ./Extended_Era/units/standard/Human_Outlaw_Huntsman.cfg:44 ./Extended_Era/units/standard/Dwarvish_Flamethower.cfg:30 ./Extended_Era/units/standard/Dark_Elf_Hunter.cfg:53
 msgid "dagger"
 msgstr ""
 
@@ -731,7 +761,11 @@ msgstr ""
 msgid "Dwarvish Flamethrower"
 msgstr ""
 
-#: ./Extended_Era/units/standard/Dwarvish_Flamethower.cfg:65
+#: ./Extended_Era/units/standard/Dwarvish_Flamethower.cfg:26
+msgid "It is said that the Dwarven Flamethrowers have strange staves of wood and iron, similar to those of the Thunderguards. But instead of making a thunderous noise shooting a projectile, their weapon generates continous tongues of flames."
+msgstr ""
+
+#: ./Extended_Era/units/standard/Dwarvish_Flamethower.cfg:66
 msgid "firestick"
 msgstr ""
 
@@ -817,14 +851,6 @@ msgstr ""
 
 #: ./Extended_Era/units/standard/Human_Outlaw_Fugitive.cfg:132
 msgid "Veteran criminals become notorious among the authorities for both their battle prowess and ability to elude capture.  Beautiful and dangerous, their beauty is exceeded only by their dangerousness."
-msgstr ""
-
-#: ./Extended_Era/units/standard/Human_Outlaw_Henchman.cfg:5
-msgid "Henchman"
-msgstr ""
-
-#: ./Extended_Era/units/standard/Human_Outlaw_Henchman.cfg:18
-msgid "Henchmen are good for one thing: following orders.  They are not very smart or creative, neither of which is required to swing a club at an enemy.  Never far from their leader, they tend to work in groups (attacking one at a time).  With enough experience they can learn to swing a bigger club or throw things, but not both."
 msgstr ""
 
 #: ./Extended_Era/units/standard/Human_Outlaw_Highwayman.cfg:5
@@ -1123,7 +1149,7 @@ msgstr ""
 msgid "Revered warriors of old roam through the woods of the sidhe, visible only due to their shining silver swords. They are only partially present in the mortal realm, and wounds close as if they had never existed. Their voice can whisper in the wind the words that chill the hearts of their ennemies."
 msgstr ""
 
-#: ./Extended_Era/units/standard/Sidhe_Spirit_Ancestor.cfg:25 ./Extended_Era/units/standard/Sidhe_Spirit_Forefather.cfg:26 ./Extended_Era/units/standard/Sidhe_Spirit_Warrior.cfg:24
+#: ./Extended_Era/units/standard/Sidhe_Spirit_Ancestor.cfg:25 ./Extended_Era/units/standard/Sidhe_Spirit_Forefather.cfg:26 ./Extended_Era/units/standard/Sidhe_Spirit_Warrior.cfg:25
 msgid "ancient blade"
 msgstr ""
 
@@ -1143,7 +1169,7 @@ msgstr ""
 msgid "Warrior Spirit"
 msgstr ""
 
-#: ./Extended_Era/units/standard/Sidhe_Spirit_Warrior.cfg:20
+#: ./Extended_Era/units/standard/Sidhe_Spirit_Warrior.cfg:21
 msgid "The great sidhe warriors of times past are not quite gone. They roam through the forests of their former homes, seeking to perform the feats of arms they did in the past, and death is no obstacle..."
 msgstr ""
 
