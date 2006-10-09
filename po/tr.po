@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2006-09-11 13:04+0200\n"
+"POT-Creation-Date: 2006-10-09 12:25+0200\n"
 "PO-Revision-Date: 2005-05-18 10:15+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -129,6 +129,10 @@ msgstr ""
 #: Extended_Era/factions/loyalists-xrpg.cfg:5
 msgid "Loyalists"
 msgstr "Ulusalcılar"
+
+#: Extended_Era/factions/misc-xrpg.cfg:5
+msgid "Miscellanous"
+msgstr ""
 
 #: Extended_Era/factions/northerners-extended.cfg:5
 #: Extended_Era/factions/northerners-xrpg.cfg:5
@@ -315,6 +319,7 @@ msgstr "değnek"
 #: Extended_Era/units/standard/Chaos_Abomination.cfg:35
 #: Extended_Era/units/standard/Dwarvish_Thunderwheel.cfg:30
 #: Extended_Era/units/standard/Dwarvish_Steamwheel.cfg:30
+#: Extended_Era/units/standard/Aragwaith_Eagle_Rider.cfg:64
 #: Extended_Era/units/standard/Human_Outlaw_Fugitive.cfg:38
 #: Extended_Era/units/standard/Human_Outlaw_Fugitive.cfg:83
 #: Extended_Era/units/standard/Kalifa_Arif.cfg:103
@@ -498,14 +503,14 @@ msgstr ""
 #: Extended_Era/units/standard/Chaos_Overlord.cfg:38
 #: Extended_Era/units/standard/Dark_Elf_High_Lord.cfg:25
 #: Extended_Era/units/standard/Dark_Elf_Noble.cfg:21
-#: Extended_Era/units/standard/Aragwaith_Flagbearer.cfg:147
+#: Extended_Era/units/standard/Aragwaith_Flagbearer.cfg:148
 #: Extended_Era/units/standard/Sidhe_Stormlord.cfg:22
 #: Extended_Era/units/standard/Sidhe_Warmage.cfg:21
 #: Extended_Era/units/standard/Dark_Elf_Warrior.cfg:21
 #: Extended_Era/units/standard/Chaos_Invader.cfg:38
 #: Extended_Era/units/standard/Chaos_Blood_Knight.cfg:38
 #: Extended_Era/units/standard/Dark_Elf_Marshal.cfg:25
-#: Extended_Era/units/standard/Aragwaith_Captain.cfg:148
+#: Extended_Era/units/standard/Aragwaith_Captain.cfg:149
 #: Extended_Era/units/standard/Sidhe_Wildblade.cfg:21
 #: Extended_Era/units/standard/Aragwaith_Swordsman.cfg:52
 #: Extended_Era/units/standard/Sidhe_Fury.cfg:21
@@ -546,10 +551,12 @@ msgstr "kılıç"
 #: Extended_Era/units/standard/Sidhe_Bladespinner.cfg:23
 #: Extended_Era/units/standard/Sidhe_Tempest.cfg:23
 #: Extended_Era/units/standard/Kalifa_Falcon.cfg:20
+#: Extended_Era/units/standard/Aragwaith_Eagle_Master.cfg:28
 #: Extended_Era/units/standard/Aragwaith_Archer.cfg:71
 #: Extended_Era/units/standard/Drake_Armageddon.cfg:46
 #: Extended_Era/units/standard/Sidhe_Raindancer.cfg:23
 #: Extended_Era/units/standard/Dark_Elf_Stalker.cfg:27
+#: Extended_Era/units/standard/Aragwaith_Eagle_Rider.cfg:28
 #: Extended_Era/units/standard/Chaos_Knight.cfg:41
 #: Extended_Era/units/standard/Chaos_Knight.cfg:87
 #: Extended_Era/units/standard/Kalifa_Arif.cfg:64
@@ -574,7 +581,7 @@ msgstr "kılıç"
 #: Extended_Era/units/standard/Aragwaith_Shield_Guard.cfg:28
 #: Extended_Era/units/standard/Dark_Elf_Hunter.cfg:55
 #: Extended_Era/units/standard/Aragwaith_Greatbow.cfg:78
-#: Extended_Era/units/standard/Aragwaith_Slayer.cfg:68
+#: Extended_Era/units/standard/Aragwaith_Slayer.cfg:69
 #: Extended_Era/units/standard/Kalifa_Amir.cfg:56
 #: Extended_Era/units/standard/Sidhe_Shadowdancer.cfg:24
 #: Extended_Era/units/standard/Sidhe_Whirlwind.cfg:27
@@ -582,7 +589,7 @@ msgstr "kılıç"
 #: Extended_Era/units/standard/Chaos_Overlord.cfg:75
 #: Extended_Era/units/standard/Dark_Elf_High_Lord.cfg:27
 #: Extended_Era/units/standard/Dark_Elf_Noble.cfg:23
-#: Extended_Era/units/standard/Aragwaith_Flagbearer.cfg:149
+#: Extended_Era/units/standard/Aragwaith_Flagbearer.cfg:150
 #: Extended_Era/units/standard/Sidhe_Stormlord.cfg:24
 #: Extended_Era/units/standard/Sidhe_Warmage.cfg:23
 #: Extended_Era/units/standard/Dark_Elf_Warrior.cfg:22
@@ -598,7 +605,7 @@ msgstr "kılıç"
 #: Extended_Era/units/standard/Kalifa_Karadis.cfg:22
 #: Extended_Era/units/standard/Sidhe_Thunderblade.cfg:24
 #: Extended_Era/units/standard/Chaos_Daemon.cfg:31
-#: Extended_Era/units/standard/Aragwaith_Captain.cfg:150
+#: Extended_Era/units/standard/Aragwaith_Captain.cfg:151
 #: Extended_Era/units/standard/Sidhe_Wildblade.cfg:23
 #: Extended_Era/units/standard/Kalifa_Ghazi.cfg:21
 #: Extended_Era/units/standard/Aragwaith_Swordsman.cfg:54
@@ -636,11 +643,11 @@ msgstr "kesme"
 #: Extended_Era/units/standard/Sidhe_Tracker.cfg:24
 #: Extended_Era/units/standard/Sidhe_Tracker.cfg:47
 #: Extended_Era/units/standard/Kalifa_Amir.cfg:20
-#: Extended_Era/units/standard/Aragwaith_Flagbearer.cfg:37
+#: Extended_Era/units/standard/Aragwaith_Flagbearer.cfg:38
 #: Extended_Era/units/standard/Aragwaith_Guardian.cfg:28
 #: Extended_Era/units/standard/Dark_Elf_Marshal.cfg:61
 #: Extended_Era/units/standard/Dark_Elf_Marshal.cfg:96
-#: Extended_Era/units/standard/Aragwaith_Captain.cfg:38
+#: Extended_Era/units/standard/Aragwaith_Captain.cfg:39
 #: Extended_Era/units/standard/Sidhe_Windrunner.cfg:25
 #: Extended_Era/units/standard/Sidhe_Windrunner.cfg:48
 #: Extended_Era/units/standard/Aragwaith_Pikeman.cfg:27
@@ -669,6 +676,7 @@ msgstr "mızrak"
 #: Extended_Era/units/standard/Kalifa_Falcon.cfg:46
 #: Extended_Era/units/standard/Sidhe_Wanderer.cfg:25
 #: Extended_Era/units/standard/Sidhe_Wanderer.cfg:48
+#: Extended_Era/units/standard/Aragwaith_Eagle_Master.cfg:64
 #: Extended_Era/units/standard/Aragwaith_Archer.cfg:96
 #: Extended_Era/units/standard/Dark_Elf_Stalker.cfg:66
 #: Extended_Era/units/standard/Kalifa_Arif.cfg:29
@@ -686,10 +694,10 @@ msgstr "mızrak"
 #: Extended_Era/units/standard/Kalifa_Elite_Ghazi.cfg:56
 #: Extended_Era/units/standard/Dark_Elf_Hunter.cfg:91
 #: Extended_Era/units/standard/Aragwaith_Greatbow.cfg:133
-#: Extended_Era/units/standard/Aragwaith_Slayer.cfg:191
+#: Extended_Era/units/standard/Aragwaith_Slayer.cfg:192
 #: Extended_Era/units/standard/Kalifa_Ghulam_al_Rami.cfg:62
 #: Extended_Era/units/standard/Kalifa_Amir.cfg:21
-#: Extended_Era/units/standard/Aragwaith_Flagbearer.cfg:38
+#: Extended_Era/units/standard/Aragwaith_Flagbearer.cfg:39
 #: Extended_Era/units/standard/Kalifa_Rami_al_Nuri.cfg:96
 #: Extended_Era/units/standard/Human_Outlaw_Raider.cfg:74
 #: Extended_Era/units/standard/Aragwaith_Guardian.cfg:30
@@ -697,7 +705,7 @@ msgstr "mızrak"
 #: Extended_Era/units/standard/Dark_Elf_Marshal.cfg:97
 #: Extended_Era/units/standard/Aragwaith_Strongbow.cfg:101
 #: Extended_Era/units/standard/Kalifa_Karadis.cfg:70
-#: Extended_Era/units/standard/Aragwaith_Captain.cfg:39
+#: Extended_Era/units/standard/Aragwaith_Captain.cfg:40
 #: Extended_Era/units/standard/Kalifa_Ghazi.cfg:56
 #: Extended_Era/units/standard/Sidhe_Windrunner.cfg:26
 #: Extended_Era/units/standard/Sidhe_Windrunner.cfg:49
@@ -941,10 +949,42 @@ msgstr "bıçak"
 #: Extended_Era/units/standard/Aragwaith_Archer.cfg:95
 #: Extended_Era/units/standard/Human_Outlaw_Huntsman.cfg:90
 #: Extended_Era/units/standard/Aragwaith_Greatbow.cfg:132
-#: Extended_Era/units/standard/Aragwaith_Slayer.cfg:190
+#: Extended_Era/units/standard/Aragwaith_Slayer.cfg:191
 #: Extended_Era/units/standard/Aragwaith_Strongbow.cfg:100
 msgid "bow"
 msgstr "ok"
+
+#: Extended_Era/units/standard/Aragwaith_Eagle_Master.cfg:5
+msgid "Eagle Master"
+msgstr ""
+
+#: Extended_Era/units/standard/Aragwaith_Eagle_Master.cfg:19
+#: Extended_Era/units/standard/Aragwaith_Eagle_Rider.cfg:19
+msgid ""
+"Some young Aragwaithi take young eagles as a pet. Those aren't the common "
+"eagles, but a race of noble, giant bird of prey. When they are grown enough, "
+"they usually accept to serve as a mount for their best friend, and their "
+"young mates learn the art of riding those giant birds."
+msgstr ""
+
+#: Extended_Era/units/standard/Chaos_Winged_Daemon.cfg:36
+#: Extended_Era/units/standard/Kalifa_Falcon.cfg:19
+#: Extended_Era/units/standard/Aragwaith_Eagle_Master.cfg:26
+#: Extended_Era/units/standard/Drake_Armageddon.cfg:45
+#: Extended_Era/units/standard/Aragwaith_Eagle_Rider.cfg:26
+#: Extended_Era/units/standard/Kalifa_Elder_Falcon.cfg:21
+msgid "claws"
+msgstr "tırmalar"
+
+#: Extended_Era/units/standard/Aragwaith_Eagle_Master.cfg:62
+#: Extended_Era/units/standard/Aragwaith_Eagle_Rider.cfg:62
+#, fuzzy
+msgid "prey crush"
+msgstr "ezme"
+
+#: Extended_Era/units/standard/Aragwaith_Eagle_Rider.cfg:5
+msgid "Eagle Rider"
+msgstr ""
 
 #: Extended_Era/units/standard/Aragwaith_Flagbearer.cfg:5
 msgid "Flagbearer"
@@ -1001,7 +1041,7 @@ msgstr ""
 msgid "Slayer"
 msgstr ""
 
-#: Extended_Era/units/standard/Aragwaith_Slayer.cfg:20
+#: Extended_Era/units/standard/Aragwaith_Slayer.cfg:21
 msgid ""
 "While improving only marginally on the power of their bow, the Slayer "
 "abandons the blade in favor of training with a glaive, improving his skills "
@@ -1009,7 +1049,7 @@ msgid ""
 "but far deadlier."
 msgstr ""
 
-#: Extended_Era/units/standard/Aragwaith_Slayer.cfg:67
+#: Extended_Era/units/standard/Aragwaith_Slayer.cfg:68
 msgid "glaive"
 msgstr ""
 
@@ -1286,13 +1326,6 @@ msgid ""
 "pleasure at sudden strikes and appearing in the place, that no one could "
 "expect them."
 msgstr ""
-
-#: Extended_Era/units/standard/Chaos_Winged_Daemon.cfg:36
-#: Extended_Era/units/standard/Kalifa_Falcon.cfg:19
-#: Extended_Era/units/standard/Drake_Armageddon.cfg:45
-#: Extended_Era/units/standard/Kalifa_Elder_Falcon.cfg:21
-msgid "claws"
-msgstr "tırmalar"
 
 #: Extended_Era/units/standard/Dark_Elf_Cleric.cfg:5
 msgid "female^Cleric"
