@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2006-10-09 12:25+0200\n"
+"POT-Creation-Date: 2006-10-15 23:33+0200\n"
 "PO-Revision-Date: 2006-04-18 18:47+0200\n"
 "Last-Translator: Stefan Bergström (tephlon) <stefan DOT bergstrom AT gmail "
 "DOT com>\n"
@@ -35,6 +35,16 @@ msgid ""
 "unit adjacent to, of a lower level than, and allied to a unit with Allied "
 "Leadership engages in combat, its attacks do 25% more damage times the "
 "difference in their levels."
+msgstr ""
+
+#: Extended_Era/abilities/attack_only.cfg:8
+msgid "attack only"
+msgstr ""
+
+#: Extended_Era/abilities/attack_only.cfg:10
+msgid ""
+"Attack only:\n"
+"This weapon will never be used on defense."
 msgstr ""
 
 #: Extended_Era/abilities/cavestalk.cfg:5
@@ -309,7 +319,7 @@ msgstr "stav"
 #: Extended_Era/units/standard/Dwarvish_Gyrocopter.cfg:32
 #: Extended_Era/units/standard/Dwarvish_Runemaster.cfg:27
 #: Extended_Era/units/standard/Kalifa_Ghulam.cfg:63
-#: Extended_Era/units/standard/Chaos_Armorer.cfg:77
+#: Extended_Era/units/standard/Chaos_Armorer.cfg:68
 #: Extended_Era/units/standard/Chaos_Invoker.cfg:44
 #: Extended_Era/units/standard/Chaos_Hound_Flesh.cfg:38
 #: Extended_Era/units/standard/Orcish_Shaman.cfg:33
@@ -317,6 +327,7 @@ msgstr "stav"
 #: Extended_Era/units/standard/Orcish_Shaman.cfg:201
 #: Extended_Era/units/standard/Kalifa_Ghaznid.cfg:58
 #: Extended_Era/units/standard/Kalifa_Ekim_Haram.cfg:29
+#: Extended_Era/units/standard/Aragwaith_Eagle_Master.cfg:64
 #: Extended_Era/units/standard/Human_Outlaw_Henchman.cfg:30
 #: Extended_Era/units/standard/Chaos_Abomination.cfg:35
 #: Extended_Era/units/standard/Dwarvish_Thunderwheel.cfg:30
@@ -330,7 +341,7 @@ msgstr "stav"
 #: Extended_Era/units/standard/Chaos_Headhunter.cfg:31
 #: Extended_Era/units/standard/Dwarvish_Steamcopter.cfg:33
 #: Extended_Era/units/standard/Chaos_Soulhunter.cfg:30
-#: Extended_Era/units/standard/Chaos_Elite_Armorer.cfg:78
+#: Extended_Era/units/standard/Chaos_Elite_Armorer.cfg:69
 #: Extended_Era/units/standard/Dwarvish_Arcanister.cfg:28
 #: Extended_Era/units/standard/Dark_Elf_Cleric.cfg:27
 #: Extended_Era/units/standard/Dwarvish_Runesmith.cfg:27
@@ -480,7 +491,7 @@ msgstr ""
 #: Extended_Era/units/standard/Sidhe_Windlasher.cfg:21
 #: Extended_Era/units/standard/Sidhe_Warsinger.cfg:25
 #: Extended_Era/units/standard/Sidhe_Warrior.cfg:21
-#: Extended_Era/units/standard/Chaos_Armorer.cfg:40
+#: Extended_Era/units/standard/Chaos_Armorer.cfg:31
 #: Extended_Era/units/standard/Sidhe_Wardancer.cfg:22
 #: Extended_Era/units/standard/Sidhe_Herald.cfg:24
 #: Extended_Era/units/standard/Human_Outlaw_Ranger.cfg:51
@@ -492,7 +503,7 @@ msgstr ""
 #: Extended_Era/units/standard/Dark_Elf_Lord.cfg:24
 #: Extended_Era/units/standard/Aragwaith_Swordmaster.cfg:77
 #: Extended_Era/units/standard/Sidhe_Veiledblade.cfg:21
-#: Extended_Era/units/standard/Chaos_Elite_Armorer.cfg:41
+#: Extended_Era/units/standard/Chaos_Elite_Armorer.cfg:32
 #: Extended_Era/units/standard/Aragwaith_Longswordsman.cfg:61
 #: Extended_Era/units/standard/Aragwaith_Shield_Guard.cfg:26
 #: Extended_Era/units/standard/Aragwaith_Greatbow.cfg:76
@@ -540,7 +551,7 @@ msgstr "svärd"
 #: Extended_Era/units/standard/Human_Outlaw_Rogue_Mage.cfg:31
 #: Extended_Era/units/standard/Chaos_Hound.cfg:32
 #: Extended_Era/units/standard/Sidhe_Warrior.cfg:23
-#: Extended_Era/units/standard/Chaos_Armorer.cfg:41
+#: Extended_Era/units/standard/Chaos_Armorer.cfg:32
 #: Extended_Era/units/standard/Sidhe_Wardancer.cfg:24
 #: Extended_Era/units/standard/Sidhe_Spirit_Ancestor.cfg:27
 #: Extended_Era/units/standard/Sidhe_Herald.cfg:26
@@ -568,7 +579,7 @@ msgstr "svärd"
 #: Extended_Era/units/standard/Kalifa_Mubarizan.cfg:60
 #: Extended_Era/units/standard/Sidhe_Veiledblade.cfg:23
 #: Extended_Era/units/standard/Chaos_Soulhunter.cfg:65
-#: Extended_Era/units/standard/Chaos_Elite_Armorer.cfg:42
+#: Extended_Era/units/standard/Chaos_Elite_Armorer.cfg:33
 #: Extended_Era/units/standard/Aragwaith_Longswordsman.cfg:63
 #: Extended_Era/units/standard/Human_Outlaw_Brigand.cfg:37
 #: Extended_Era/units/standard/Dwarvish_Runner.cfg:28
@@ -674,7 +685,6 @@ msgstr "spjut"
 #: Extended_Era/units/standard/Kalifa_Falcon.cfg:46
 #: Extended_Era/units/standard/Sidhe_Wanderer.cfg:25
 #: Extended_Era/units/standard/Sidhe_Wanderer.cfg:48
-#: Extended_Era/units/standard/Aragwaith_Eagle_Master.cfg:64
 #: Extended_Era/units/standard/Aragwaith_Archer.cfg:96
 #: Extended_Era/units/standard/Dark_Elf_Stalker.cfg:66
 #: Extended_Era/units/standard/Kalifa_Arif.cfg:29
@@ -750,9 +760,9 @@ msgstr ""
 #: Extended_Era/units/rpg/Dark_Elf_Lord.cfg:60
 #: Extended_Era/units/rpg/Dark_Elf_High_Lord.cfg:61
 #: Extended_Era/units/rpg/Dark_Elf_Noble.cfg:57
-#: Extended_Era/units/standard/Chaos_Armorer.cfg:76
+#: Extended_Era/units/standard/Chaos_Armorer.cfg:67
 #: Extended_Era/units/standard/Dark_Elf_Lord.cfg:60
-#: Extended_Era/units/standard/Chaos_Elite_Armorer.cfg:77
+#: Extended_Era/units/standard/Chaos_Elite_Armorer.cfg:68
 #: Extended_Era/units/standard/Dark_Elf_High_Lord.cfg:61
 #: Extended_Era/units/standard/Dark_Elf_Noble.cfg:57
 msgid "shield"
@@ -1044,9 +1054,8 @@ msgstr ""
 msgid "glaive"
 msgstr "glaive"
 
-#: Extended_Era/units/standard/Dark_Elf_Sorcerer.cfg:5
 #: Extended_Era/units/standard/Aragwaith_Sorcerer.cfg:5
-msgid "Sorcerer"
+msgid "Aragwaith^Sorcerer"
 msgstr ""
 
 #: Extended_Era/units/standard/Aragwaith_Wizard.cfg:57
@@ -1056,7 +1065,7 @@ msgid "mage-bolt"
 msgstr ""
 
 #: Extended_Era/units/standard/Aragwaith_Sorcerer.cfg:117
-msgid "Sorceress"
+msgid "Aragwaith^Sorceress"
 msgstr ""
 
 #: Extended_Era/units/standard/Aragwaith_Spearman.cfg:5
@@ -1084,17 +1093,15 @@ msgid "Swordman"
 msgstr ""
 
 #: Extended_Era/units/standard/Aragwaith_Warlock.cfg:5
-#: Extended_Era/units/standard/Dark_Elf_Warlock.cfg:5
-msgid "Warlock"
+msgid "Aragwaith^Warlock"
 msgstr ""
 
 #: Extended_Era/units/standard/Aragwaith_Warlock.cfg:125
 msgid "female^Warlock"
 msgstr ""
 
-#: Extended_Era/units/standard/Dark_Elf_Wizard.cfg:5
 #: Extended_Era/units/standard/Aragwaith_Wizard.cfg:5
-msgid "Wizard"
+msgid "Aragwaith^Wizard"
 msgstr ""
 
 #: Extended_Era/units/standard/Aragwaith_Wizard.cfg:115
@@ -1116,7 +1123,7 @@ msgstr "krossa"
 msgid "Doom Guard"
 msgstr ""
 
-#: Extended_Era/units/standard/Chaos_Armorer.cfg:36
+#: Extended_Era/units/standard/Chaos_Armorer.cfg:27
 msgid ""
 "Daemons know that, the only thing than can stop a tidal wave is a powerful "
 "wall. Doom Guards are such wall, wall of living flesh and steel. Devoid of "
@@ -1184,7 +1191,7 @@ msgstr "eldklot"
 msgid "Hell Guardian"
 msgstr "Väktare"
 
-#: Extended_Era/units/standard/Chaos_Elite_Armorer.cfg:37
+#: Extended_Era/units/standard/Chaos_Elite_Armorer.cfg:28
 msgid ""
 "Only the toughest of armorers are worthy of greatest armors, that are forged "
 "in burning pits of daemonic homeworld. It is said, that if they were "
@@ -1451,6 +1458,10 @@ msgid ""
 "time, slowly taking the life away from their prey ."
 msgstr ""
 
+#: Extended_Era/units/standard/Dark_Elf_Sorcerer.cfg:5
+msgid "Dark Elf^Sorcerer"
+msgstr ""
+
 #: Extended_Era/units/standard/Dark_Elf_Sorcerer.cfg:18
 msgid ""
 "Sorcerers are Wizards that have gone deeper into the studying of the arcane "
@@ -1460,7 +1471,7 @@ msgid ""
 msgstr ""
 
 #: Extended_Era/units/standard/Dark_Elf_Sorceress.cfg:5
-msgid "female^Sorceress"
+msgid "Dark Elf^Sorceress"
 msgstr ""
 
 #: Extended_Era/units/standard/Dark_Elf_Sorceress.cfg:21
@@ -1483,6 +1494,10 @@ msgid ""
 "thud of a dead body tells you they are near."
 msgstr ""
 
+#: Extended_Era/units/standard/Dark_Elf_Warlock.cfg:5
+msgid "Dark Elf^Warlock"
+msgstr ""
+
 #: Extended_Era/units/standard/Dark_Elf_Warlock.cfg:18
 msgid ""
 "The best of their kind, these Warlocks have immense power, rivaling even "
@@ -1500,6 +1515,10 @@ msgid ""
 "These Warriors have devoted themselves totally to mastering the use of dual "
 "weapons. With their balanced blades, they can shave a Dwarf. Only few become "
 "Corsairs."
+msgstr ""
+
+#: Extended_Era/units/standard/Dark_Elf_Wizard.cfg:5
+msgid "Dark Elf^Wizard"
 msgstr ""
 
 #: Extended_Era/units/standard/Dark_Elf_Wizard.cfg:18
