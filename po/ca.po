@@ -1,11 +1,19 @@
+#
+# Catalan translations for Battle for Wesnoth package.
+# Copyright (C) 2006 Wesnoth development team
+# This file is distributed under the same license as the Battle for
+# Wesnoth package.
+#
+# Jose Gordillo <kilder@hotmail.com>, 2006.
+#
 msgid ""
 msgstr ""
-"Project-Id-Version: wescamp-i 18n\n"
+"Project-Id-Version: ca\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2006-10-20 23:03+0200\n"
-"PO-Revision-Date: 2005-05-18 10:15+0200\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2006-10-30 18:04+0100\n"
+"Last-Translator: Jose Gordillo <kilder@hotmail.com>\n"
+"Language-Team: Català <wesnoth-ca@ettin.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -16,7 +24,7 @@ msgstr ""
 #: Extended_Era/abilities/allied_leadership.cfg:112
 #: Extended_Era/abilities/allied_leadership.cfg:172
 msgid "allied leadership"
-msgstr ""
+msgstr "general"
 
 #: Extended_Era/abilities/allied_leadership.cfg:14
 #: Extended_Era/abilities/allied_leadership.cfg:35
@@ -33,6 +41,13 @@ msgid ""
 "Leadership engages in combat, its attacks do 25% more damage times the "
 "difference in their levels."
 msgstr ""
+"General:\n"
+"Aquesta unitat pot liderar unitats amigues adjacents, cosa que fa que "
+"lluiten millor.\n"
+"\n"
+"Les unitats amigues de nivell inferior que estiguen al seu costat causaran "
+"més dany. Quan una unitat amiga, adjacent al líder aliat, entre en combat, "
+"el seus atacs causaran un 25% més de dany per cada nivell de diferència."
 
 #: Extended_Era/abilities/attack_only.cfg:8
 msgid "attack only"
@@ -47,7 +62,7 @@ msgstr ""
 #: Extended_Era/abilities/cavestalk.cfg:5
 #: Extended_Era/abilities/cavestalk.cfg:10
 msgid "cavestalk"
-msgstr ""
+msgstr "cavernícola"
 
 #: Extended_Era/abilities/cavestalk.cfg:9
 #: Extended_Era/abilities/cavestalk.cfg:14
@@ -59,11 +74,18 @@ msgid ""
 "any turn immediately after this unit has attacked, or if there are enemy "
 "units next to this unit."
 msgstr ""
+"Cavernícola:\n"
+"Aquesta unitat pot amagar-se dins les coves i romandre invisible a ulls dels "
+"enemics.\n"
+"\n"
+"Les unitats enemigues no poden veure o atacar aquesta unitat mentre siga a "
+"les coves, excepte si aquesta unitat ha atacat el torn anterior o si hi ha "
+"cap unitat al seu costat."
 
 #: Extended_Era/abilities/sylvan_spark.cfg:10
 #: Extended_Era/abilities/sylvan_spark.cfg:13
 msgid "sylvan spark"
-msgstr ""
+msgstr "vitalitat silvana"
 
 #: Extended_Era/abilities/sylvan_spark.cfg:12
 #: Extended_Era/abilities/sylvan_spark.cfg:15
@@ -72,11 +94,15 @@ msgid ""
 "While in the forest (or mushroom grove), the unit will heal itself 6 hp per "
 "turn. If it is poisoned, it will remove the poison instead of healing."
 msgstr ""
+"Vitalitat Silvana:\n"
+"Mentre siga a un bosc (d'arbres o bolets), la unitat recuperarà 6 punts de "
+"vida per torn. Si està enverinada, eliminarà el verí del seu cos en lloc de "
+"curar-se."
 
 #: Extended_Era/abilities/terror.cfg:8 Extended_Era/abilities/terror.cfg:44
 #: Extended_Era/abilities/terror.cfg:94
 msgid "terror"
-msgstr ""
+msgstr "terror"
 
 #: Extended_Era/abilities/terror.cfg:12 Extended_Era/abilities/terror.cfg:48
 #: Extended_Era/abilities/terror.cfg:98
@@ -90,33 +116,39 @@ msgid ""
 "of the unit with Terror engages in combat, its attacks do 15% less damage "
 "times the difference in their levels + 15%."
 msgstr ""
+"Terror:\n"
+"Aquesta unitat pot espantar les unitats de nivell inferior, cosa que fa que "
+"causen menys dany en combat. Quan una unitat adjacent del mateix o inferior "
+"nivell i enemiga de la unitat que causa Terror entra en combat, els seus "
+"atacs causen un 15% menys de dany per cada nivell de diferència + 15%."
 
 #: Extended_Era/eras/extended-rpg.cfg:6
 msgid "Extended RPG"
-msgstr ""
+msgstr "Era ampliada: JdR"
 
 #: Extended_Era/eras/extended.cfg:6
 msgid "Extended Era"
-msgstr ""
+msgstr "Era ampliada"
 
 #: Extended_Era/eras/kalifa.cfg:6
+#, fuzzy
 msgid "Kalifa Era"
-msgstr ""
+msgstr "Kalifa"
 
 #: Extended_Era/factions/aragwaithi-extended.cfg:5
 #: Extended_Era/factions/aragwaithi-xrpg.cfg:5
 msgid "Aragwaith"
-msgstr ""
+msgstr "Aragwaith"
 
 #: Extended_Era/factions/chaos-extended.cfg:5
 #: Extended_Era/factions/chaos-xrpg.cfg:5
 msgid "Chaos"
-msgstr ""
+msgstr "Caos"
 
 #: Extended_Era/factions/dark_elves-extended.cfg:5
 #: Extended_Era/factions/dark_elves-xrpg.cfg:5
 msgid "Dark Elves"
-msgstr ""
+msgstr "Elfs obscurs"
 
 #: Extended_Era/factions/drakes-extended.cfg:5
 #: Extended_Era/factions/drakes-xrpg.cfg:5
@@ -126,17 +158,17 @@ msgstr "Dracs"
 #: Extended_Era/factions/dwarves-xrpg.cfg:5
 #: Extended_Era/factions/dwarves-extended.cfg:5
 msgid "Dwarves"
-msgstr ""
+msgstr "Nans"
 
 #: Extended_Era/factions/elves-xrpg.cfg:5
 #: Extended_Era/factions/elves-extended.cfg:5
 msgid "Wood Elves"
-msgstr ""
+msgstr "Elfs"
 
 #: Extended_Era/factions/kalifa-xrpg.cfg:5
 #: Extended_Era/factions/kalifa-extended.cfg:5
 msgid "Kalifa"
-msgstr ""
+msgstr "Kalifa"
 
 #: Extended_Era/factions/loyalists-extended.cfg:5
 #: Extended_Era/factions/loyalists-xrpg.cfg:5
@@ -145,7 +177,7 @@ msgstr "Lleials"
 
 #: Extended_Era/factions/misc-xrpg.cfg:5
 msgid "Miscellanous"
-msgstr ""
+msgstr "Miscel·lània"
 
 #: Extended_Era/factions/northerners-extended.cfg:5
 #: Extended_Era/factions/northerners-xrpg.cfg:5
@@ -155,12 +187,12 @@ msgstr "Tramuntaners"
 #: Extended_Era/factions/outlaws-extended.cfg:5
 #: Extended_Era/factions/outlaws-xrpg.cfg:5
 msgid "Outlaws"
-msgstr ""
+msgstr "Proscrits"
 
 #: Extended_Era/factions/sidhe-xrpg.cfg:5
 #: Extended_Era/factions/sidhe-extended.cfg:5
 msgid "Sidhe"
-msgstr ""
+msgstr "Sidhe"
 
 #: Extended_Era/factions/undead-xrpg.cfg:5
 #: Extended_Era/factions/undead-extended.cfg:5
@@ -192,6 +224,28 @@ msgid ""
 "Thammuz,Turiel,Urobach,Valac,Valefar,Vapula,Vassago,Verrine,Vine,Vual,Xaphan,"
 "Yeqon,Yeter'el,Yomiel,Zagan,Zaqiel,Zepar"
 msgstr ""
+"Abalam,Abbadon,Abigor,Adramalech,Agaliarept,Agares,Aim,Akvan,Aldebaran,"
+"Alocer,Amducious,Amdusias,Amon,Ananiel,Andhaka,Andras,Andrealphus,"
+"Andromalius,Antares,Apep,Araqiel,Arioch,Armaros,Asael,Asag,Asb'el,Asmodeus,"
+"Astaroth,Azazel,Baal,Baalberith,Balam,Balberith,Babeal,Baphomet,Baraqel,"
+"Barbas,Barbatos,Batariel,Bathin,Beball,Beelzebub,Behamoth,Behemoth,Beleth,"
+"Belial,Beliel,Belphegore,Belzebuth,Beowulf,Berith,Beur,Bezaliel,Bifrons,"
+"Botis,Buer,Bune,Caim,Camal,Carniveau,Cerberus,Chamos,Chazaqiel,Corson,"
+"Daalberith,Dagon,Daniel,Dantalion,Decarabia,Demogorgon,Dumah,Eligos,"
+"Eurynomous,Fomalhaut,Flauros,Flereous,Focalor,Foras,Forcas,Forneus,Furcas,"
+"Furfur,Gaap,Gader'el,Glasya-Labolas,Gusion,Haagenti,Humbaba,Iblis,Ipos,Jutas,"
+"Juvart,Kabhanda,Karo,Kasadya,Kasdaye,Kimaris,Kobal,Kokabiel,Legion,Lempo,"
+"Leonard,Leraje,Lix Tetrax,Lucifer,Lucifuge Rofocale,Malphas,Malthus,Mammon,"
+"Marchocias,Maricha,Mastema,Melchom,Mephisto,Mephistopholes,Mesphito,Merihim,"
+"Moloch,Morax,Mulciber,Murmur,Naberius,Nebiros,Neqa'el,Nergal,Nisroch,Oeillet,"
+"Olivier,Orcus,Orias,Ornias,Orobas,Ose,Oulotep,Pan,Paimon,Pazuzu,Penemue,"
+"Phlegathon,Phenex,Pinem'e,Pithius,Piru,Pluto,Procell,Pruflas,Purson,Pytho,"
+"Pyhton,Rahab,Rahovart,Ramiel,Raum,Razakel,Regent,Regulus,Rimmon,Rhotomago,"
+"Ronove,Ronwe,Rosier,Sabnock,Saleos,Samael,Samigina,Samyaza,Sariel,Satan,"
+"Satanachia,Satariel,Seir,Shaitan,Shamsiel,Shax,Shezmu,Sidragasum,Sitri,"
+"Sonnillon,Soufflet,Stolas,Surgat,Tabaet,Tamiel,Tannin,Teeraal,Temeluchus,"
+"Thammuz,Turiel,Urobach,Valac,Valefar,Vapula,Vassago,Verrine,Vine,Vual,Xaphan,"
+"Yeqon,Yeter'el,Yomiel,Zagan,Zaqiel,Zepar"
 
 #: Extended_Era/races/chaos.cfg:8
 msgid ""
@@ -201,6 +255,11 @@ msgid ""
 "Melusine,Naamah,Neuralger,Onoskelis,Prosperpine,Rangda,Rusalka,Satana,Sheol,"
 "Selene,Sonnielion,Stheno,Sycorax,Taweret,Tzitzimime,Unsere,Uzza,Verrier,Vepar"
 msgstr ""
+"Agiel,Agrat-bat-mahlaht,Ammit,Amy,Ashtaroth,Astarte,Astoreth,Barbelo,Bruja,"
+"Delepitore,Eisheth Zenunil,Empusa,Euryale,Gremory,Gresil,Hecate,Kindite,"
+"Lamashtu,Lamia,Leviathan,Lilim,Lilin,Lilith,Lilitu,Mara,Medusa,Melchiresa,"
+"Melusine,Naamah,Neuralger,Onoskelis,Prosperpine,Rangda,Rusalka,Satana,Sheol,"
+"Selene,Sonnielion,Stheno,Sycorax,Taweret,Tzitzimime,Unsere,Uzza,Verrier,Vepar"
 
 #: Extended_Era/races/kailfa.cfg:7
 msgid ""
@@ -279,11 +338,85 @@ msgid ""
 "Yusuf,Zafar,Zafir,Zahid,Zahir,Zayd,Zaim,Zayn,Zarif,Zakarriya,Zaki,Zakwan,"
 "Ziyad,Zubayr,Zuhayr"
 msgstr ""
+"Aban,Abbas,Abbud,Abdul-'Adl,Abdul-Ahad,Abdul-Alim,Abdul-Aliyy,Abdul-Azim,"
+"Abdul-Aziz,Abdul-Badi,Abdul-Ba'ith,Abdul-Baqi,Abdul-Bari,Abdul-Barr,Abdul-"
+"Basir,Abdul-Basit,Abdul-Fattah,Abdul-Ghaffar,Abdul-Ghafur,Abdul-Ghani,Abdul-"
+"Hadi,Abdul-Hafiz,Abdul-Hakam,Abdul-Hakim,Abdul-Halim,Abdul-Hamid,Abdul-Haqq,"
+"Abdul-Hasib,Abdul-Hayy,Abdul-Jabbar,Abdul-Jalil,Abdul-Karim,Abdul-Khabir,"
+"Abdul-Khaliq,Abdul-Latif,Abdul-Malik,Abdul-Majid,Abdul-Matin,Abdul-Mubdi',"
+"Abdul-Mughni,Abdul-Muhaimin,Abdul-Muhsi,Abdul-Muhyi,Abdul-Mu'id,Abdul-Mu'izz,"
+"Abdul-Mujib,Abdul-Mumin,Abdul-Muqaddim,Abdul-Muqtadir,Abdul-Musawwir,Abdul-"
+"Muta'al,Abdul-Nafi,Abdul-Nasser,Abdul-Nasir,Abdul-Nur,Abdul-Qadir,Abdul-"
+"Qahhar,Abdul-Qawi,Abdul-Qayyum,Abdul-Quddus,Abdul-Rafi,Abdul-Rahim,Abdul-"
+"Rahman,Abdul-Rashid,Abdul-Ra'uf,Abdul-Razzaq,Abdul-Shakur,Abdul-Tawwab,Abdul-"
+"Wadud,Abdul-Wahhab,Abdul-Wahid,Abdul-Wajid,Abdul-Wakil,Abdul-Wali,Abdul-"
+"Waliy,Abdul-Warith,Abdul-Zahir,Abdullah,'Abid,'Abidin,Abu Bakr,Aby al-Khayr,"
+"Adil,Adham,Adib,'Adli,'Adnan,'Afif,Ahmad,'Ajib,'Akif,Akil,Akram,Ala',Ala' al-"
+"Din,Al' Abbas,Aladdin,Al-Bara,Al-Hakam,Al-Harith,Alhasan,Alhusain,Ali,Alim,"
+"Almahdi,Al-Safi,Altaf,Altair,Al-Tayyib,Al-Tijani,Al-Tufail,Amid,'Amid,Amin,"
+"Amir,'Amir,Amjad,'Ammar,'Amro,Anas,Anis,'Antarah,Anwar,'Aqil,Arfan,"
+"Arif,'Arif,Asad,As'ad,Asadel,Ashraf,Asif,'Asim,Aswad,Ata',Ata' Allah,Ata' al-"
+"Rahman,Athil,Athir,'Atif,'Awad,'Awf,Aws,Awwab,Ayham,Ayman,Ayser,Ayyub,"
+"Aza,'Azab,Azhar,Azim,'Aziz,'Azzam,Badi,Badi al-Zaman,Badr,Badr al-Din,Badri,"
+"Baha',Bahiyy al-Din,Bahij,Bahir,Bakr,Bakri,Baligh,Bandar,Barakah,Barir,"
+"Bashshar,Basil,Basim,Bassam,Bayezid,Bayhas,Bilal,Bishr,Boulos,Budail,Burhan,"
+"Bushr,Butrus,Dabir,Dani,Darwish,Da'ud,Dhakir,Dhakiy,Dhakwan,Dhul Fiqar,Dirar,"
+"Diya,Diya al-Din,Duqaq,Fadi,Fadil,Fadl,Fadl Allah,Fahd,Fahad,Fahmi,Faisal,"
+"Fa'iz,Fakhir,Fakhr al-Din,Fakhri,Fakih,Falah,Falih,Faraj,Farhan,Farid,Fariq,"
+"Fariq,Faris,Faruq,Fath,Fathi,Fatih,Fatin,Fawwaz,Fawzan,Fawzi,Fayyad,Ferran,"
+"Fida,Fikri,Firas,Fu'ad,Fudail,Gamal,Ghayth,Ghali,Ghalib,Ghanim,Ghassan,"
+"Ghawth,Ghazwan,Ghiyath,Habbab,Habib,Haddad,Hadi,Hafiz,Hakem,Hakim,Halim,"
+"Hamal,Hamas,Hamdan,Hamdi,Hamid,Hamim,Hamzah,Hana,Hana'i,Hanbal,Hani,Hanif,"
+"Hannad,Haris,Harith,Harun,Hashim,Hassan,Hatim,Haydar,Haytham,Hayyan,Hazim,"
+"Hilal,Hilmi,Hisham,Hud,Hudad,Hudhafah,Hudhayfah,Humam,Hussein,Husam,Husam al-"
+"Din,Ibrahim,'Id,Idris,Ihsan,Ihtisham,'Ikrimah,Ilias,'Imad,Imad al-Din,Imran,"
+"Imtiyaz,In'am,Iqbal,'Irfan,'Isa,'Isam,Ishaq,Isma'il,Iyad,Iyas,Izz al-Din,"
+"Jabbar,Jabr,Jabir,Jad Allah,Ja'far,Jal,Jalal,Jalal al-Din,Jalil,Jamal,Jamal "
+"al-Din,Jamil,Jarir,Jasim,Jaul,Jaun,Jawad,Jawdah,Jawhar,Jibran,Jibril,Jubair,"
+"Jul,Jumah,Junayd,Juwain,Kadar,Kadin,Kadir,Kahil,Kaliq,Kamal,Kamil,Karam,"
+"Kardal,Karif,Karim,Kasib,Kasim,Katib,Kazim,Khalaf,Khaldun,Khalid,Khalil,"
+"Khalil al-Allah,Khalis,Khatib,Khair al-Din,Khairi,Khoury,Khulus,Khuzaymah,"
+"Kutaiba,Labib,Lablab,Latif,Layth,Lu'ayLubayd,Luqman,Lut,Lutfi,Ma'd,Madani,"
+"Mahbub,Mahdi,Mahfuz,Mahir,Mahjub,Mahmud,Mahrus,Maimun,Majd,Majdy,Majd al-Din,"
+"Majid,Makin,Malik,Mamduh,Ma'mun,Ma'in,Mandhur,Mansur,Marghub,Marid,Ma'ruf,"
+"Marwan,Marzuq,Mash'al,Mashhur,Masrur,Mas'ud,Masun,Maysarah,Mazhar,Mazin,"
+"Mehmed,Mihran,Mihyar,Mika'il,Miqdad,Misbah,Mish'al,Miyaz,Mu'adh,Mu'awiyah,"
+"Mu'ayyad,Mubarak,Mubin,Mudar,Muddaththir,Mufid,Muflih,Muhab,Muhayr,Muhammad,"
+"Muhanna,Muhannad,Muhib,Muhibb,Muhsin,Muhtadi,Muhyi al-Din,Mu'in,Mu'izz,Mujab,"
+"Mujahid,Mukarram,Mukhlis,Mukhtar,Mulham,Mulhim,Mu'mmar,Mu'min,Mumtaz,Munahid,"
+"Mundhir,Munib,Munif,Munir,Mu'nis,Munjid,Munsif,Muntasir,Murad,Murid,Murshid,"
+"Murtada,Musa,Mus'ab,Musa'id,Mushtaq,Muslih,Muslim,Mutafa,Muta',Mu'tasim,"
+"Mutawalli,Mu'tazz,Muthanna,Muti,Muwaffaq,Muyassar,Muzaffar,Mussammil,Nabhan,"
+"Nabighah,Nabih,Nabil,Nadhir,Nadim,Nadir,Nafi',Nahid,Na'il,Na'im,Naji,Najib,"
+"Najid,Najjar,Najm al-Din,Na'aman,Namir,Nash'ah,Nash'at,Nashwan,Nasib,Nasih,"
+"Nasim,Nasir,Nasir al-Din,Nasr,Nasri,Nasuh,Nawaf,Nawfal,Nayif,Nazih,Nazim,"
+"Nazmi,Nibras,Nidal,Nijad,Nimr,Nizar,Nu'aym,Nuh,Nuhayd,Numair,Nu'man,Nur al-"
+"Din,Nuri,Nusrah,Nusrat,Omar,Orhan,Osman,Qasim,Qays,Qudamah,Qusay,Qatadah,"
+"Qutaybah,Qutb,Qutuz,Rabah,Rabi,Radi,Rafi,Rafid,Rafiq,Raghib,Rahman,Ra'id,"
+"Ra'if,Rais,Rajaa,Rajab,Raji,Rajih,Rakin,Rami,Ramih,Ramiz,Ramzi,Rani,Rashad,"
+"Rashid,Rasil,Rasin,Rasmi,Rasul,Ratib,Ra'uf,Rayhan,Rayyan,Razin,Ridha,Ridwan,"
+"Rihab,Riyad,Rizq,Ruhi,Rushd,Rushdi,Ruwayd,Saad,Sa'adah,Sab,Sabih,Sabir,Sabri,"
+"Sa'd,Sa'd al-Din,Sadad,Sadid,Sadiq,Sa'dun,Sa'id,Safi,Safiy,Safiy al-Din,"
+"Safuh,Safwah,Safwat,Safwan,Sahib,Sahir,Sahl,Sa'ib,Saif,Saif al-Din,Sajid,"
+"Sajjad,Sakhr,Salah,Salah al-Din,Salamah,Salih,Salim,Salman,Sami,Samih,Samir,"
+"Samman,Saqr,Sariyah,Sati,Saud,Sayyid,Sha'ban,Shadi,Shadin,Shafi,Shafiq,"
+"Shahid,Shahin,Shahir,Shakib,Shakir,Shams al-Din,Shamal,Shamil,Shamim,Sharaf,"
+"Sharif,Shawqi,Shihab,Shihab al-Din,Shihad,Shu'ayb,Shukri,Shumayl,Siddiq,"
+"Sinan,Siraj,Siraj al-Din,Sofian,Subhi,Sufyan,Suhayb,Suhayl,Suhaym,Sulaiman,"
+"Sumrah,Suraqah,Su'ud,Tahir,Tahsin,Taym Allah,Taj,Taj al-Din,Talal,Talib,"
+"Tamim,Tamir,Tamam,Tammam,Taqiy,Tarif,Tariq,Taslim,Tawfiq,Tawhid,Taymullah,"
+"Taysir,Tayyib,Thabit,Thamir,Thaqib,Thawab,Thawban,'Ubaidah,Ubaid,"
+"Ubayy,'Udayl,'Uday,'Umar,Umarah,Umair,'Urwah,Usaym,Usama,'Utbah,Uthal,Uthman,"
+"Waddah,Wadi,Wadid,Wafiq,Wahab,Wahhab,Wahid,Wa'il,Wajdi,Wajid,Wajih,Wakil,"
+"Walid,Walif,Waliy Allah,Waliy al-Din,Waqar,Waqqas,Ward,Wasif,Wasil,Wasim,"
+"Wazir,Yahya,Yaman,Ya'qub,Yasar,Yasin,Yasir,Yazan,Yazid,Yunus,Yushua,Yusri,"
+"Yusuf,Zafar,Zafir,Zahid,Zahir,Zayd,Zaim,Zayn,Zarif,Zakarriya,Zaki,Zakwan,"
+"Ziyad,Zubayr,Zuhayr"
 
 #: Extended_Era/units/rpg/Chaos_Demonologist.cfg:5
 #: Extended_Era/units/standard/Chaos_Demonologist.cfg:5
 msgid "Demonologist"
-msgstr ""
+msgstr "Demonologista"
 
 #: Extended_Era/units/rpg/Chaos_Demonologist.cfg:31
 #: Extended_Era/units/standard/Chaos_Demonologist.cfg:31
@@ -293,6 +426,10 @@ msgid ""
 "human in these creatures are only bodies and memories of invokers and magi, "
 "who finally achieved the true power of their lords."
 msgstr ""
+"El domini sobre els dimonis radica en convertir-se u mateix en un dimoni. "
+"Els demonologistes són unes ments tancades dins d'un cos humà. El que resta "
+"d'humà en aquestes criatures només són els cossos i la vaga memòria d'un mag "
+"o invocador que finalment ha assolit el vertader poder dels seus senyors."
 
 #: Extended_Era/units/rpg/Chaos_Invoker.cfg:43
 #: Extended_Era/units/rpg/Chaos_Magus.cfg:46
@@ -377,7 +514,7 @@ msgstr "impacte"
 #: Extended_Era/units/standard/Chaos_Magus.cfg:82
 #: Extended_Era/units/standard/Chaos_Demonologist.cfg:71
 msgid "chaos blast"
-msgstr ""
+msgstr "explosió de caos"
 
 #: Extended_Era/units/rpg/Human_Outlaw_Shadow_Mage.cfg:77
 #: Extended_Era/units/rpg/Human_Outlaw_Rogue_Mage.cfg:86
@@ -403,7 +540,7 @@ msgstr "fred"
 #: Extended_Era/units/rpg/Chaos_Demonologist.cfg:103
 #: Extended_Era/units/standard/Chaos_Demonologist.cfg:103
 msgid "infernal storm"
-msgstr ""
+msgstr "tempesta infernal"
 
 #: Extended_Era/units/rpg/Chaos_Demonologist.cfg:104
 #: Extended_Era/units/standard/Sidhe_Windlasher.cfg:46
@@ -435,7 +572,7 @@ msgstr "foc"
 #: Extended_Era/units/rpg/Chaos_Invoker.cfg:5
 #: Extended_Era/units/standard/Chaos_Invoker.cfg:5
 msgid "Invoker"
-msgstr ""
+msgstr "Invocador"
 
 #: Extended_Era/units/rpg/Chaos_Invoker.cfg:27
 #: Extended_Era/units/standard/Chaos_Invoker.cfg:27
@@ -447,11 +584,18 @@ msgid ""
 "mortal. The only difference is they have no soul, for they sold theirs to "
 "their daemonic Gods."
 msgstr ""
+"Els pots reconèixer fàcilment entre la primera línia de la marea del Caos "
+"Rodejats de xicotets grups de guerrers, aquests adeptes en les quasi "
+"incontrolables arts del Caos comanden l'avantguarda de les hordes, buscant "
+"les millors oportunitats d'ascendir dins la jerarquia del Caos. En aquest "
+"punt, la seua ment encara pot comparar-se amb la d'un mortal, l'única "
+"diferència és que no tenen ànima, doncs l'han venuda als seus senyors "
+"demoníacs."
 
 #: Extended_Era/units/rpg/Chaos_Magus.cfg:5
 #: Extended_Era/units/standard/Chaos_Magus.cfg:5
 msgid "Magus"
-msgstr ""
+msgstr "Mag"
 
 #: Extended_Era/units/rpg/Chaos_Magus.cfg:30
 #: Extended_Era/units/standard/Chaos_Magus.cfg:30
@@ -463,12 +607,18 @@ msgid ""
 "turning back, but aspire to lose their humanity and succumb to the very core "
 "of Chaos."
 msgstr ""
+"Són ells qui reuneixen els grans grups de guerrers del caos, recolzant-los "
+"amb màgies en la batalla. Segons l'essència demoníaca els afecta, guanyen "
+"una perspicàcia afiladíssima i una manera de pensar més propera a la dels "
+"dimonis que a la dels humans. Atrapats entre la forma humana i demoníaca, no "
+"busquen tornar enrere sinó perdre la seua humanitat i rendir-se al vertader "
+"nucli del Caos."
 
 #: Extended_Era/units/rpg/Dark_Elf_Captain.cfg:5
 #: Extended_Era/units/standard/Aragwaith_Captain.cfg:5
 #: Extended_Era/units/standard/Dark_Elf_Captain.cfg:5
 msgid "Captain"
-msgstr ""
+msgstr "Capità"
 
 #: Extended_Era/units/rpg/Dark_Elf_Captain.cfg:20
 #: Extended_Era/units/standard/Dark_Elf_Captain.cfg:20
@@ -478,6 +628,9 @@ msgid ""
 "to do their best to defend the Matron Mother with their swords and short "
 "spears."
 msgstr ""
+"Aquestos elfs han sigut un exemple per als seus soldats i han guanyat el "
+"rang de capità. Encara que mai poden esdevenir senyors, intenten esforçar-se "
+"al màxim per defendre la Mare Matrona amb les seues espases i llances curtes."
 
 #: Extended_Era/units/rpg/Sidhe_Warsinger.cfg:25
 #: Extended_Era/units/rpg/Sidhe_Warrior.cfg:21
@@ -741,11 +894,14 @@ msgid ""
 "training. Dark Elves believe that only the best should have the honor of "
 "fighting for the Matron Mother."
 msgstr ""
+"Els iniciats dins de l'exèrcit de la seua Casa, molts lluitadors moren per "
+"falta d'entrenament. Els Elfs Obscurs creuen que només els millors deuen "
+"tindre l'honor de lluitar per la Mare Matrona."
 
 #: Extended_Era/units/rpg/Dark_Elf_High_Lord.cfg:5
 #: Extended_Era/units/standard/Dark_Elf_High_Lord.cfg:5
 msgid "High Lord"
-msgstr ""
+msgstr "Alt Senyor"
 
 #: Extended_Era/units/rpg/Dark_Elf_High_Lord.cfg:21
 #: Extended_Era/units/standard/Dark_Elf_High_Lord.cfg:21
@@ -757,6 +913,13 @@ msgid ""
 "follow them fearlessly, confident that through their Lords guidance, none "
 "can stand before them."
 msgstr ""
+"Quan està al seu castell, l'Alt Senyor vigila els seus esclaus, alimenta els "
+"fardatxos i té uns pocs altres deures. Vesteixen amb unes simples robes "
+"púrpura i es pentinen el seu monyo. Tanmateix, enmig d'una batalla són tan "
+"valents i atrevits com qualsevol altre. Després de molts anys d'experiència, "
+"coneixen cada trampa i truc en la seua professió. Els seus hòmens els "
+"segueixen sense por, ja que saben que amb la guia dels Alts Senyor ningú no "
+"podrà plantar-los cara."
 
 #: Extended_Era/units/rpg/Dark_Elf_Lord.cfg:60
 #: Extended_Era/units/rpg/Dark_Elf_High_Lord.cfg:61
@@ -782,11 +945,15 @@ msgid ""
 "lead their men in battle, and hold the law with an iron grip. They lead as "
 "an example to the life of a warrior in the realm of the Dark Elves."
 msgstr ""
+"Aquestos hòmens, àmpliament condecorats, han guanyat el títol de senyor "
+"gràcies a la seua astúcia, força, poder i valentia. Comanden les províncies "
+"amb mà de ferro, a més de liderar els seus hòmens a la batalla. Per tot açò, "
+"són models a seguir dins la militarista societat dels Elfs Obscurs."
 
 #: Extended_Era/units/rpg/Dark_Elf_Marshal.cfg:5
 #: Extended_Era/units/standard/Dark_Elf_Marshal.cfg:5
 msgid "Marshal"
-msgstr ""
+msgstr "Mariscal"
 
 #: Extended_Era/units/rpg/Dark_Elf_Marshal.cfg:21
 #: Extended_Era/units/standard/Dark_Elf_Marshal.cfg:21
@@ -796,11 +963,16 @@ msgid ""
 "Although they can never become Lords, they still strive to do their best to "
 "defend the Matron Mother with their swords and short spears."
 msgstr ""
+"Aquestos elfs han guanyat el respecte de tota la societat dins i fora del "
+"camp de batalla amb el seu caràcter i les seues maneres, cosa que els ha "
+"valgut el rang de Mariscal. Encara que mai poden esdevenir senyors, encara "
+"intenten esforçar-se al màxim per defendre la Mare Matrona amb les seues "
+"espases i llances curtes."
 
 #: Extended_Era/units/rpg/Dark_Elf_Noble.cfg:5
 #: Extended_Era/units/standard/Dark_Elf_Noble.cfg:5
 msgid "Noble"
-msgstr ""
+msgstr "Noble"
 
 #: Extended_Era/units/rpg/Dark_Elf_Noble.cfg:17
 #: Extended_Era/units/standard/Dark_Elf_Noble.cfg:17
@@ -810,6 +982,10 @@ msgid ""
 "battlefield tactics. They have highly decorative shields that they use in "
 "battle to attack and encourage their troops."
 msgstr ""
+"Els joves senyors són violents i valents. Han passat tota la seua infància "
+"entrenant-se amb l'espasa, i els millors mariscals els han ensenyat "
+"tàctiques. Tenen uns escuts especialment decorats que empren en la batalla "
+"per atacar i envalentir les seues tropes."
 
 #: Extended_Era/units/rpg/Human_Outlaw_Henchman.cfg:5
 #: Extended_Era/units/standard/Human_Outlaw_Henchman.cfg:5
@@ -828,9 +1004,9 @@ msgstr ""
 "Els sequaços només saben fer una cosa: seguir ordres. No són molt "
 "intel·ligents ni creatius, però cap de les dues és necessària per pegar amb "
 "un garrot a l'enemic. No mai estan molt lluny del seu líder, i solen "
-"treballar en grups atacant d'un en un). Amb prou experiència, poden aprendre "
-"a pegar amb un garrot més gran o disparar coses, però no ambdues al mateix "
-"temps."
+"treballar en grups (atacant d'un en un). Amb prou experiència, poden "
+"aprendre a pegar amb un garrot més gran o disparar coses, però no ambdues al "
+"mateix temps."
 
 #: Extended_Era/units/rpg/Human_Outlaw_Henchman.cfg:29
 #: Extended_Era/units/standard/Human_Outlaw_Henchman.cfg:29
@@ -896,7 +1072,7 @@ msgstr "míssil de gelor"
 #: Extended_Era/units/rpg/Sidhe_Herald.cfg:5
 #: Extended_Era/units/standard/Sidhe_Herald.cfg:5
 msgid "Herald"
-msgstr ""
+msgstr "Herald"
 
 #: Extended_Era/units/rpg/Sidhe_Herald.cfg:20
 #: Extended_Era/units/standard/Sidhe_Herald.cfg:20
@@ -904,6 +1080,8 @@ msgid ""
 "The Heralds are sidhe who go out onto the battlefield, singing the warrior "
 "chants that drive the others onwards."
 msgstr ""
+"Els Heralds són aquells sidhe que es mouen pel camp de batalla cantant els "
+"cants marcials que animen la resta."
 
 #: Extended_Era/units/rpg/Sidhe_Warrior.cfg:5
 #: Extended_Era/units/standard/Sidhe_Warrior.cfg:5
@@ -918,11 +1096,15 @@ msgid ""
 "fast, strong blows and avoiding them just as easily. Their only weakness is "
 "the frailty due to their distaste for armor."
 msgstr ""
+"Els guerrers sidhe, forts i àgils, són uns espadatxins mortífers, capaços de "
+"donar cops forts i ràpids i d'evitar-los al mateix temps amb la mateixa "
+"facilitat. Tanmateix, donat que no els agrada portar armadura, poden ser una "
+"miqueta fràgils, el seu únic punt feble."
 
 #: Extended_Era/units/rpg/Sidhe_Warsinger.cfg:5
 #: Extended_Era/units/standard/Sidhe_Warsinger.cfg:5
 msgid "Warsinger"
-msgstr ""
+msgstr "Cantor"
 
 #: Extended_Era/units/rpg/Sidhe_Warsinger.cfg:21
 #: Extended_Era/units/standard/Sidhe_Warsinger.cfg:21
@@ -930,10 +1112,13 @@ msgid ""
 "The Warsinger is a master of the songs of combat. A powerful warrior "
 "himself, he can drive his companions into battle frenzies."
 msgstr ""
+"El Cantor és un mestre de les cançons marcials. A més de ser un poderós "
+"guerrer per sí mateix, pot fer que els seus companys entren en un estat de "
+"fúria assassina."
 
 #: Extended_Era/units/standard/Aragwaith_Archer.cfg:5
 msgid "Archer"
-msgstr ""
+msgstr "Arquer"
 
 #: Extended_Era/units/standard/Aragwaith_Archer.cfg:17
 msgid ""
@@ -942,6 +1127,11 @@ msgid ""
 "exception. Their skills with a bow are comparable to those of some elves, "
 "and they are remarkably quick with their daggers."
 msgstr ""
+"Els aragwaith són una gent noble, de constitució més aviat fràgil, però amb "
+"un entrenament que els situa entre els habitants més mortífers d'aquest món. "
+"Els arquers no són una excepció, les seues habilitats amb l'arc són "
+"comparables a les d'alguns elfs i són remarcablement ràpids amb les seues "
+"dagues."
 
 #: Extended_Era/units/standard/Aragwaith_Archer.cfg:69
 #: Extended_Era/units/standard/Aragwaith_Strongbow.cfg:64
@@ -959,7 +1149,7 @@ msgstr "arc"
 
 #: Extended_Era/units/standard/Aragwaith_Eagle_Master.cfg:5
 msgid "Eagle Master"
-msgstr ""
+msgstr "Mestre d'àguiles"
 
 #: Extended_Era/units/standard/Aragwaith_Eagle_Master.cfg:19
 #: Extended_Era/units/standard/Aragwaith_Eagle_Rider.cfg:19
@@ -969,6 +1159,10 @@ msgid ""
 "they usually accept to serve as a mount for their best friend, and their "
 "young mates learn the art of riding those giant birds."
 msgstr ""
+"Alguns joves aragwaith adopten àguiles com a mascotes. No són les àguiles "
+"típiques, sinó una raça d'aus de pressa nobles i gegants. Quan són prou "
+"grans, normalment accepten servir com a muntura del seu millor amic, i els "
+"seus joves companys aprenen l'art de cavalcar aquestes aus gegants."
 
 #: Extended_Era/units/standard/Chaos_Winged_Daemon.cfg:36
 #: Extended_Era/units/standard/Kalifa_Falcon.cfg:21
@@ -981,21 +1175,20 @@ msgstr "urpes"
 
 #: Extended_Era/units/standard/Aragwaith_Eagle_Master.cfg:62
 #: Extended_Era/units/standard/Aragwaith_Eagle_Rider.cfg:62
-#, fuzzy
 msgid "prey crush"
-msgstr "esclafa"
+msgstr "picat"
 
 #: Extended_Era/units/standard/Aragwaith_Eagle_Rider.cfg:5
 msgid "Eagle Rider"
-msgstr ""
+msgstr "Genet d'àguila"
 
 #: Extended_Era/units/standard/Aragwaith_Flagbearer.cfg:5
 msgid "Flagbearer"
-msgstr ""
+msgstr "Portaestendard"
 
 #: Extended_Era/units/standard/Aragwaith_Greatbow.cfg:5
 msgid "Greatbow"
-msgstr ""
+msgstr "GranArc"
 
 #: Extended_Era/units/standard/Aragwaith_Greatbow.cfg:19
 msgid ""
@@ -1007,6 +1200,13 @@ msgid ""
 "pull these bows, anyone but the crafter who attempts to draw it could suffer "
 "serious injury."
 msgstr ""
+"Una vegada superada la daga i el ganivet per una espasa, el GranArc és "
+"superior al FortArc en combat de melé, però no tan poderós com els Matadors. "
+"Els seus arcs, tanmateix, són unes veritables obres d'art de l'enginyeria "
+"militar. Es sol tardar mesos en construir un sol arc i cadascun està creat "
+"segons les especificacions individuals de cada usuari. A més a més, la força "
+"per usar-lo és tal que qualsevol que no siga l'usuari o l'artesà podria "
+"sofrir una greu lesió."
 
 #: Extended_Era/units/standard/Aragwaith_Guard.cfg:5
 msgid "Guard"
@@ -1014,7 +1214,7 @@ msgstr "Guàrdia"
 
 #: Extended_Era/units/standard/Aragwaith_Guardian.cfg:5
 msgid "Guardian"
-msgstr ""
+msgstr "Guarda"
 
 #: Extended_Era/units/standard/Aragwaith_Lancer.cfg:5
 msgid "Lancer"
@@ -1022,7 +1222,7 @@ msgstr "Llancer"
 
 #: Extended_Era/units/standard/Aragwaith_Longswordsman.cfg:5
 msgid "Longswordsman"
-msgstr ""
+msgstr "Espadatxí"
 
 #: Extended_Era/units/standard/Aragwaith_Pikeman.cfg:5
 msgid "Pikeman"
@@ -1030,19 +1230,19 @@ msgstr "Piquer"
 
 #: Extended_Era/units/standard/Aragwaith_Scout.cfg:5
 msgid "Scout"
-msgstr ""
+msgstr "Explorador"
 
 #: Extended_Era/units/standard/Aragwaith_Shield_Guard.cfg:5
 msgid "Shield Guard"
-msgstr ""
+msgstr "Protector"
 
 #: Extended_Era/units/standard/Aragwaith_Silver_Shield.cfg:5
 msgid "Silver Shield"
-msgstr ""
+msgstr "Guardià"
 
 #: Extended_Era/units/standard/Aragwaith_Slayer.cfg:5
 msgid "Slayer"
-msgstr ""
+msgstr "Matador"
 
 #: Extended_Era/units/standard/Aragwaith_Slayer.cfg:21
 msgid ""
@@ -1051,24 +1251,30 @@ msgid ""
 "in hand-to-hand combat. He is not as rugged as others of comparable skill, "
 "but far deadlier."
 msgstr ""
+"Encara que les seues habilitats amb l'arc només han millorat un poc, el "
+"Matador ha canviat l'espassa per una alabarda, millorant la seua tècnica de "
+"lluita. Encara que no siga tan dur com altres d'habilitat comparable, és "
+"prou més mortífer."
 
 #: Extended_Era/units/standard/Aragwaith_Slayer.cfg:68
 msgid "glaive"
-msgstr ""
+msgstr "alabarda"
 
 #: Extended_Era/units/standard/Aragwaith_Sorcerer.cfg:5
+#, fuzzy
 msgid "Aragwaith^Sorcerer"
-msgstr ""
+msgstr "Aragwaith"
 
 #: Extended_Era/units/standard/Aragwaith_Wizard.cfg:57
 #: Extended_Era/units/standard/Aragwaith_Warlock.cfg:67
 #: Extended_Era/units/standard/Aragwaith_Sorcerer.cfg:59
 msgid "mage-bolt"
-msgstr ""
+msgstr "raig màgic"
 
 #: Extended_Era/units/standard/Aragwaith_Sorcerer.cfg:117
+#, fuzzy
 msgid "Aragwaith^Sorceress"
-msgstr ""
+msgstr "Aragwaith"
 
 #: Extended_Era/units/standard/Aragwaith_Spearman.cfg:5
 msgid "Spearman"
@@ -1076,7 +1282,7 @@ msgstr "Soldat"
 
 #: Extended_Era/units/standard/Aragwaith_Strongbow.cfg:5
 msgid "Strongbow"
-msgstr ""
+msgstr "FortArc"
 
 #: Extended_Era/units/standard/Aragwaith_Strongbow.cfg:17
 msgid ""
@@ -1085,34 +1291,40 @@ msgid ""
 "longer than the daggers used by the typical archer, and they wield them far "
 "more effectively."
 msgstr ""
+"Amb un entrenament quasi constant i un arc prou més fort, el FortArc "
+"aragwaith té una potència de foc àmpliament superior a la de l'arquer "
+"normal. Els seus ganivets són més llargs que les dagues que usa l'arquer "
+"típic, i les utilitzen amb molta més efectivitat."
 
 #: Extended_Era/units/standard/Aragwaith_Swordmaster.cfg:5
 msgid "Swordmaster"
-msgstr ""
+msgstr "Mestre d'espasa"
 
 #: Extended_Era/units/standard/Aragwaith_Swordsman.cfg:5
 msgid "Swordman"
-msgstr ""
+msgstr "Espadatxí"
 
 #: Extended_Era/units/standard/Aragwaith_Warlock.cfg:5
+#, fuzzy
 msgid "Aragwaith^Warlock"
-msgstr ""
+msgstr "Aragwaith"
 
 #: Extended_Era/units/standard/Aragwaith_Warlock.cfg:125
 msgid "female^Warlock"
-msgstr ""
+msgstr "Maga"
 
 #: Extended_Era/units/standard/Aragwaith_Wizard.cfg:5
+#, fuzzy
 msgid "Aragwaith^Wizard"
-msgstr ""
+msgstr "Aragwaith"
 
 #: Extended_Era/units/standard/Aragwaith_Wizard.cfg:115
 msgid "female^Wizard"
-msgstr ""
+msgstr "Bruixa"
 
 #: Extended_Era/units/standard/Chaos_Abomination.cfg:5
 msgid "Abomination"
-msgstr ""
+msgstr "Abominació"
 
 #: Extended_Era/units/standard/Chaos_Abomination.cfg:31
 #: Extended_Era/units/standard/Chaos_Lesser_Mutation.cfg:30
@@ -1123,7 +1335,7 @@ msgstr "esclafa"
 
 #: Extended_Era/units/standard/Chaos_Armorer.cfg:5
 msgid "Doom Guard"
-msgstr ""
+msgstr "Guàrdia Final"
 
 #: Extended_Era/units/standard/Chaos_Armorer.cfg:27
 msgid ""
@@ -1133,10 +1345,15 @@ msgid ""
 "not the ones to fight, they are the ones to stand against every possible "
 "enemy."
 msgstr ""
+"Els dimonis saben que l'única cosa que pot aturar una marea és una poderosa "
+"muralla. La guàrdia final és aqueixa muralla, una muralla de carn i acer. La "
+"seua agressivitat ha sigut canviada per una fanàtica lleialtat, buida de "
+"tota sed de sang. La guàrdia final no és l'única que lluita, però sí és "
+"l'única que pot resistir contra qualsevol enemic."
 
 #: Extended_Era/units/standard/Chaos_Blood_Knight.cfg:5
 msgid "Blood Knight"
-msgstr ""
+msgstr "Cavallers de la Sang"
 
 #: Extended_Era/units/standard/Chaos_Blood_Knight.cfg:34
 msgid ""
@@ -1145,6 +1362,10 @@ msgid ""
 "Lords, they promote them to the rank of Blood Knights, supreme warriors of "
 "Chaos."
 msgstr ""
+"L'habilitat extrema requereix una sacrifici extrem. Els cavallers de la Sang "
+"s'obren les venes i deixen fluir la seua sang. Si el sabor de la sang agrada "
+"als Senyors del Caos, l'ascendeixen a cavaller de la Sang, els guerrers "
+"suprems del Caos."
 
 #: Extended_Era/units/standard/Chaos_Greater_Daemon.cfg:31
 #: Extended_Era/units/standard/Chaos_Knight.cfg:86
@@ -1168,7 +1389,7 @@ msgstr "destral"
 
 #: Extended_Era/units/standard/Chaos_Daemon.cfg:5
 msgid "Chaos Daemon"
-msgstr ""
+msgstr "Dimoni del Caos"
 
 #: Extended_Era/units/standard/Chaos_Greater_Daemon.cfg:27
 #: Extended_Era/units/standard/Chaos_Daemon.cfg:26
@@ -1180,6 +1401,11 @@ msgid ""
 "lesser demons can easily turn the tide of a battle \n"
 "due to the combination of their nible movement and tough fighting.."
 msgstr ""
+"Els dimonis menors són un regal dels Déus del Caos a aquells que han "
+"demostrat ser prou valuosos com per rebre \n"
+"ajuda dels seus superiors. Encara que aquestos dimonis no són més forts o "
+"resistents que l'humà típic, poden canviar fàcilment el curs de la batalla \n"
+"amb la seua combinació d'àgil moviment i fort combat..."
 
 #: Extended_Era/units/standard/Chaos_Winged_Daemon.cfg:72
 #: Extended_Era/units/standard/Chaos_Greater_Daemon.cfg:67
@@ -1190,7 +1416,7 @@ msgstr "bola de foc"
 
 #: Extended_Era/units/standard/Chaos_Elite_Armorer.cfg:5
 msgid "Hell Guardian"
-msgstr ""
+msgstr "Guardià de l'infern"
 
 #: Extended_Era/units/standard/Chaos_Elite_Armorer.cfg:28
 msgid ""
@@ -1199,18 +1425,22 @@ msgid ""
 "commanded to, they could easily withstand the avalanche without stepping "
 "back."
 msgstr ""
+"Només els més forts dels servidors del caos mereixen les millors armadures, "
+"forjades en els ardents pous del regne demoníac. Es diu que si se'ls "
+"ordenara detenir un alud, podrien aturar-los sense necessitar donar un pas "
+"enrere."
 
 #: Extended_Era/units/standard/Chaos_Greater_Daemon.cfg:5
 msgid "Greater Daemon"
-msgstr ""
+msgstr "Gran Dimoni"
 
 #: Extended_Era/units/standard/Chaos_Greater_Mutation.cfg:5
 msgid "Greater Mutation"
-msgstr ""
+msgstr "Gran Mutació"
 
 #: Extended_Era/units/standard/Chaos_Headhunter.cfg:5
 msgid "Headhunter"
-msgstr ""
+msgstr "Caçador de caps"
 
 #: Extended_Era/units/standard/Chaos_Headhunter.cfg:26
 msgid ""
@@ -1218,10 +1448,13 @@ msgid ""
 "that will be infested with the daemonic plague. They are the ones to spread "
 "fear and message of daemonic invasions."
 msgstr ""
+"Aquestos exploradors que han entregat la seua ànima als dimonis apareixen en "
+"aquells llocs que prompte seran envaïts per la plaga demoníaca. Són els que "
+"escampen la por i el missatge de les invasions."
 
 #: Extended_Era/units/standard/Chaos_Hound.cfg:5
 msgid "Hound"
-msgstr ""
+msgstr "Mastí"
 
 #: Extended_Era/units/standard/Chaos_Hound.cfg:19
 #: Extended_Era/units/standard/Chaos_Hound_Warp.cfg:27
@@ -1233,6 +1466,12 @@ msgid ""
 "a tougher adversary, their nimble bodies allow them to penetrate far into "
 "enemy lines and severely damage support units."
 msgstr ""
+"Els mastins del Caos estan afectats totalment per la màgia dels mags del "
+"Caos, que provoca al cap i a la fi un estat\n"
+"de fúria assassina que els converteix en unes màquines de matar. Encara que "
+"un rival més resistent pot acabar amb ells ràpidament, \n"
+"poden infiltrar-se entre les línies enemigues i ferir greument les unitats "
+"secundàries."
 
 #: Extended_Era/units/standard/Chaos_Hound.cfg:30
 #: Extended_Era/units/standard/Chaos_Hound_Warp.cfg:38
@@ -1242,7 +1481,7 @@ msgstr "ullals"
 
 #: Extended_Era/units/standard/Chaos_Hound_Flesh.cfg:5
 msgid "Flesh Hound"
-msgstr ""
+msgstr "Antropomastí"
 
 #: Extended_Era/units/standard/Chaos_Hound_Flesh.cfg:25
 msgid ""
@@ -1250,6 +1489,10 @@ msgid ""
 "humane beings. Walking on their rear legs, they are muscled berserkers "
 "trained to feel the stench of blood and react like their hound proprietors."
 msgstr ""
+"Els antropomastins són uns estranys mastins que han estat tocats per una "
+"mutació que els fa parèixer d'una manera llunyana a un humà. Caminen sobre "
+"les seues potes darreres i són una mena de berserkers fortíssims, entrenats "
+"per sentir l'olor de la sang i reaccionar com un veritable mastí."
 
 #: Extended_Era/units/standard/Chaos_Hound_Flesh.cfg:36
 #: Extended_Era/units/standard/Troll_Shaman.cfg:29
@@ -1258,7 +1501,7 @@ msgstr "puny"
 
 #: Extended_Era/units/standard/Chaos_Hound_Rabid.cfg:5
 msgid "Rabid Hound"
-msgstr ""
+msgstr "Mastí rabiós"
 
 #: Extended_Era/units/standard/Chaos_Hound_Rabid.cfg:24
 msgid ""
@@ -1266,14 +1509,18 @@ msgid ""
 "daemons, twice larger than ordinary hounds. They charge only at the commands "
 "of other daemonic beings, with the desire of bloodbath."
 msgstr ""
+"Aquestes criatures són prou més que uns mastins normals, més aviat són unes "
+"màquines violentes i sanguinàries que semblen un dimoni i són quasi el doble "
+"de grans que els mastins habituals. Es llancen al combat espentats pels seus "
+"amos demoníacs, amb el desig de causar un bany de sang."
 
 #: Extended_Era/units/standard/Chaos_Hound_Warp.cfg:5
 msgid "Warp Hound"
-msgstr ""
+msgstr "Mastí aterrestrial"
 
 #: Extended_Era/units/standard/Chaos_Invader.cfg:5
 msgid "Invader"
-msgstr ""
+msgstr "Invasor"
 
 #: Extended_Era/units/standard/Chaos_Invader.cfg:33
 msgid ""
@@ -1281,10 +1528,14 @@ msgid ""
 "corrupt by default, by this thought they fufill the bidding of chaos lords "
 "who do not suger coat their reign and let their men face the harsh truth."
 msgstr ""
+"Els guerrers del Caos comparteixen la creença que tot govern i tot déu és "
+"corrupte per definició i amb aquest pensament sempre segueixen els desitjos "
+"dels senyors del caos, que no endolceixen el seu regne i deixen que els seus "
+"subordinats coneguen la veritat."
 
 #: Extended_Era/units/standard/Chaos_Knight.cfg:5
 msgid "Dark Knight"
-msgstr ""
+msgstr "Cavaller Obscur"
 
 #: Extended_Era/units/standard/Chaos_Knight.cfg:32
 msgid ""
@@ -1294,30 +1545,33 @@ msgid ""
 "depending on the situation which makes him a \n"
 "tough warrior to fight."
 msgstr ""
+"Més forts que l'habitual seguidor dels déus del caos, els Cavallers Obscurs "
+"confonen els seus enemics usant una arma en cada mà i canviant el seu estil "
+"de combatre segons l'ocasió ho requerisca."
 
 #: Extended_Era/units/standard/Chaos_Lesser_Daemon.cfg:5
 msgid "Lesser Daemon"
-msgstr ""
+msgstr "Dimoni Menor"
 
 #: Extended_Era/units/standard/Chaos_Lesser_Mutation.cfg:5
 msgid "Lesser Mutation"
-msgstr ""
+msgstr "Mutació Minor"
 
 #: Extended_Era/units/standard/Chaos_Marauder.cfg:5
 msgid "Marauder"
-msgstr ""
+msgstr "Assaltador"
 
 #: Extended_Era/units/standard/Chaos_Overlord.cfg:5
 msgid "Overlord"
-msgstr ""
+msgstr "Gran Senyor"
 
 #: Extended_Era/units/standard/Chaos_Soulhunter.cfg:5
 msgid "Soulhunter"
-msgstr ""
+msgstr "Caçador d'ànimes"
 
 #: Extended_Era/units/standard/Chaos_Winged_Daemon.cfg:5
 msgid "Winged Daemon"
-msgstr ""
+msgstr "Dimoni alat"
 
 #: Extended_Era/units/standard/Chaos_Winged_Daemon.cfg:25
 msgid ""
@@ -1326,10 +1580,13 @@ msgid ""
 "pleasure at sudden strikes and appearing in the place, that no one could "
 "expect them."
 msgstr ""
+"Alguns dimonis reben poder, altres velocitat. Els dimonis alats són els "
+"missatgers i la avantguarda del Corpus Daemonicum i sempre aprofiten "
+"l'ocasió per atacar on ningú no els espera i atacar."
 
 #: Extended_Era/units/standard/Dark_Elf_Cleric.cfg:5
 msgid "female^Cleric"
-msgstr ""
+msgstr "Clergue"
 
 #: Extended_Era/units/standard/Dark_Elf_Cleric.cfg:22
 msgid ""
@@ -1338,6 +1595,10 @@ msgid ""
 "they use for their sadistic pleasure. Terribly seductive, they are both "
 "feared and admired for their beauty and cruelty."
 msgstr ""
+"Un clergue és apte tant amb els poder màgics com amb les seues maces, cosa "
+"que els nans van descobrir. Poden fer ús de l'habilitat de curar, normalment "
+"amb intencions sàdiques. Terriblement seductores, són temudes i admirades "
+"per la seua bellesa tant com per la seua crueltat."
 
 #: Extended_Era/units/standard/Kalifa_Ghulam.cfg:64
 #: Extended_Era/units/standard/Kalifa_Ghaznid.cfg:59
@@ -1364,7 +1625,7 @@ msgstr "màgic"
 
 #: Extended_Era/units/standard/Dark_Elf_Corsair.cfg:5
 msgid "Corsair"
-msgstr ""
+msgstr "Corsari"
 
 #: Extended_Era/units/standard/Dark_Elf_Corsair.cfg:18
 msgid ""
@@ -1372,10 +1633,13 @@ msgid ""
 "run. With they're razor sharp swords, they can splice and dice a dwarves "
 "beard."
 msgstr ""
+"Cap ésser pot plantar cara a un Corsari dels elfs obscurs. Si cap vegada "
+"veus un, fuig! Amb les seus espases extremadament afilades poden tallar i "
+"trossejar la barba d'un nan sense que aquest s'adone."
 
 #: Extended_Era/units/standard/Dark_Elf_Enchantress.cfg:5
 msgid "female^Enchantress"
-msgstr ""
+msgstr "Bruixa"
 
 #: Extended_Era/units/standard/Dark_Elf_Enchantress.cfg:18
 msgid ""
@@ -1385,16 +1649,23 @@ msgid ""
 "Through the guiding of the Clerics, someday they will become a mighty "
 "Sorceress."
 msgstr ""
+"Les elfes obscures freqüentment s'uneixen a l'Ordre dels Clergues quan són "
+"molt joves. Comencen amb el rang de fetilleres, amb unes habilitats físiques "
+"i màgiques limitades, i encara només han començat a practicar la tortura. "
+"Amb la guia de les clergues, algun dia poden arribar a ser poderoses "
+"fetilleres."
 
 #: Extended_Era/units/standard/Dark_Elf_Hunter.cfg:5
 msgid "Hunter"
-msgstr ""
+msgstr "Caçador"
 
 #: Extended_Era/units/standard/Dark_Elf_Hunter.cfg:27
 msgid ""
 "Lurking in the ever dark depths of the caves, the Hunters move around with "
 "out a sound, except for the twang of their crossbows."
 msgstr ""
+"Amagats entre les profunditats més fosques de les coves, els caçadors es "
+"mouen sense produir cap soroll fins que no disparen les seues ballestes."
 
 #: Extended_Era/units/standard/Dark_Elf_Shadow.cfg:24
 #: Extended_Era/units/standard/Dark_Elf_Stalker.cfg:25
@@ -1414,7 +1685,7 @@ msgstr "ballesta"
 
 #: Extended_Era/units/standard/Dark_Elf_Lizard_Master.cfg:5
 msgid "Lizard Master"
-msgstr ""
+msgstr "Mestre dels fardatxos"
 
 #: Extended_Era/units/standard/Dark_Elf_Lizard_Master.cfg:18
 msgid ""
@@ -1422,11 +1693,14 @@ msgid ""
 "Many an Dwarf has been cut in two by it's strong jaws. It would be well to "
 "recruit several of these powerful units."
 msgstr ""
+"Encara que un fardatxo no és tan ràpid com un cavall, és molt més fort. Més "
+"d'un nan ha acabat tallat en dos entre els seus forts ullals. Sempre va bé "
+"reclutar un parell d'aquestes poderoses unitats."
 
 #: Extended_Era/units/standard/Dark_Elf_Lizard_Rider.cfg:52
 #: Extended_Era/units/standard/Dark_Elf_Lizard_Master.cfg:22
 msgid "deathlance"
-msgstr ""
+msgstr "llança mortal"
 
 #: Extended_Era/units/standard/Dark_Elf_Lizard_Master.cfg:63
 msgid "bite"
@@ -1434,7 +1708,7 @@ msgstr "mossegada"
 
 #: Extended_Era/units/standard/Dark_Elf_Lizard_Rider.cfg:5
 msgid "Lizard Rider"
-msgstr ""
+msgstr "Genet de fardatxo"
 
 #: Extended_Era/units/standard/Dark_Elf_Lizard_Rider.cfg:31
 msgid ""
@@ -1443,10 +1717,14 @@ msgid ""
 "unknown, to go where no Dark Elf has gone before. Some day, they will become "
 "Master of the Lizard."
 msgstr ""
+"Des que eren xiquets han estat entrenant-se amb la seua bèstia, alimentant-"
+"la, curant-la i dormint amb ella. La seua feina és explorarallò desconegut, "
+"on cap elf obscur ha anat mai. Algun dia arribaran a ser un mestre dels "
+"fardatxos."
 
 #: Extended_Era/units/standard/Dark_Elf_Lizard_Rider.cfg:93
 msgid "claw"
-msgstr ""
+msgstr "urpa"
 
 #: Extended_Era/units/standard/Dark_Elf_Shadow.cfg:5
 msgid "Shadow"
@@ -1458,10 +1736,14 @@ msgid ""
 "least expect it. Despite their frailty, they can inflict great damage over "
 "time, slowly taking the life away from their prey ."
 msgstr ""
+"Fins que no t'ataquen, no mai sabràs sota quina ombra dins d'una caverna han "
+"estat amagant-se segurs. No obstant la seua fragilitat, poden infringir un "
+"greu dany amb prou de temps, llevant-li poc a poc la vida a la seua víctima."
 
 #: Extended_Era/units/standard/Dark_Elf_Sorcerer.cfg:5
+#, fuzzy
 msgid "Dark Elf^Sorcerer"
-msgstr ""
+msgstr "Fetiller"
 
 #: Extended_Era/units/standard/Dark_Elf_Sorcerer.cfg:18
 msgid ""
@@ -1470,10 +1752,16 @@ msgid ""
 "down a path toward the dark arts practiced by the Necromancers and Lichs. "
 "Their mighty cold blast can freeze any foe that dares to cross their path."
 msgstr ""
+"Les fetilleres són unes magues que han arribat més lluny en els seus estudis "
+"de les arts arcanes. Aquesta cerca les espenta cap a terribles desitjos de "
+"poder i cap a un camí que també petgen els nigromants i els lich. El seu "
+"poderós cop de gelor pot congelar qualsevol enemic que s'atrevisca a creuar "
+"el seu camí."
 
 #: Extended_Era/units/standard/Dark_Elf_Sorceress.cfg:5
+#, fuzzy
 msgid "Dark Elf^Sorceress"
-msgstr ""
+msgstr "Fetillera"
 
 #: Extended_Era/units/standard/Dark_Elf_Sorceress.cfg:21
 msgid ""
@@ -1483,10 +1771,14 @@ msgid ""
 "Very soon, they will become Clerics, the terribly seductive sadistic "
 "torturers."
 msgstr ""
+"Les elfes obscures freqüentment s'uneixen a l'Ordre dels Clergues quan són "
+"molt joves. Aquestes ja han arribat al rang de fetilleres, i quasi han "
+"dominat l'art de curar, torturar i curar de nou els seus presoners. Prompte "
+"arribaran a clegues, les terriblement seductores torturadores."
 
 #: Extended_Era/units/standard/Dark_Elf_Stalker.cfg:5
 msgid "Stalker"
-msgstr ""
+msgstr "Furtiu"
 
 #: Extended_Era/units/standard/Dark_Elf_Stalker.cfg:21
 msgid ""
@@ -1494,10 +1786,14 @@ msgid ""
 "daggers and crossbows. They are completely hidden in the caves, only the "
 "thud of a dead body tells you they are near."
 msgstr ""
+"Uns guerrers astuts i àgils, els furtius són hàbils tant amb les dagues com "
+"amb les ballestes. Son capaços de confondre's amb el terreny d'una cova i "
+"només la pudor d'un cos mort pot assenyalar-te que són a prop."
 
 #: Extended_Era/units/standard/Dark_Elf_Warlock.cfg:5
+#, fuzzy
 msgid "Dark Elf^Warlock"
-msgstr ""
+msgstr "Maga"
 
 #: Extended_Era/units/standard/Dark_Elf_Warlock.cfg:18
 msgid ""
@@ -1506,6 +1802,10 @@ msgid ""
 "and have the power to drain life from their opponents with a single touch, "
 "and add it to their own."
 msgstr ""
+"Els millors dins la seua espècie, aquestos mags tenen un poder enorme que "
+"pot rivalitzar amb el d'un arximag. Han descobert els secrets de les arts "
+"obscures i tenen el poder de drenar la vida dels seus enemics amb un senzill "
+"toc, i convertir-la en seua."
 
 #: Extended_Era/units/standard/Dark_Elf_Warlock.cfg:22
 msgid "touch"
@@ -1517,10 +1817,14 @@ msgid ""
 "weapons. With their balanced blades, they can shave a Dwarf. Only few become "
 "Corsairs."
 msgstr ""
+"Aquestos guerrers s'han entregat totalment a dominar l'us de dos armes. Amb "
+"les seues fulles especials, poden alçar de terra fins i tot un nan. Només "
+"uns pocs poden arribar a ser corsaris."
 
 #: Extended_Era/units/standard/Dark_Elf_Wizard.cfg:5
+#, fuzzy
 msgid "Dark Elf^Wizard"
-msgstr ""
+msgstr "Bruixa"
 
 #: Extended_Era/units/standard/Dark_Elf_Wizard.cfg:18
 msgid ""
@@ -1529,10 +1833,15 @@ msgid ""
 "the slaves, and other such things. However, in time of conflict, they can do "
 "great damage, even though they lack any training in close-combat."
 msgstr ""
+"Alguns elfs obscurs prefereixen estudiar les arts arcanes abans que el "
+"combat personal. Normalment se'ls dona càrrecs menors dins d'una Casa, com "
+"ara el manteniment, vigilar els esclaus i altres coses per l'estil. "
+"Tanmateix, en temps de guerra, poden causar un gran dany, encara que no "
+"tinguen cap entrenament en la lluita de melé."
 
 #: Extended_Era/units/standard/Drake_Armageddon.cfg:5
 msgid "Armageddon Drake"
-msgstr ""
+msgstr "Drac apocalíptic"
 
 #: Extended_Era/units/standard/Drake_Armageddon.cfg:37
 msgid ""
@@ -1546,6 +1855,14 @@ msgid ""
 "against \n"
 "cold attacks than most other drakes."
 msgstr ""
+"Els dracs apocalíptics estan, sense cap dubte, entre els dracs més durs i "
+"resistents de tots, estan tan acostumats a viure prop del foc que han "
+"desenvolupat una immunitat quasi absoluta fins al punt que un coixí és un "
+"arma més efectiva que una torxa. La seua armadura és molt pareguda a la del "
+"seu cosí menor el drac infernal, més aviat un símbol d'estatus, encara que "
+"està feta de minerals extremadament durs recollits al fons dels rius de "
+"magma que els donen una lleugera resistència contra els atacs basats en la "
+"gelor."
 
 #: Extended_Era/units/standard/Drake_Armageddon.cfg:101
 msgid "fire breath"
@@ -1553,7 +1870,7 @@ msgstr "alè de foc"
 
 #: Extended_Era/units/standard/Dwarvish_Arcanister.cfg:5
 msgid "Dwarvish Arcanister"
-msgstr ""
+msgstr "Nan Arcanista"
 
 #: Extended_Era/units/standard/Dwarvish_Arcanister.cfg:23
 msgid ""
@@ -1562,6 +1879,10 @@ msgid ""
 "that is his intent. His skill in runecrafting is unrivaled, and the glyphs "
 "he carves into his weapons and armor deflect the blows of his enemies."
 msgstr ""
+"Els més poderosos de tots les mestres rúnics nans, els arcanistes "
+"destrueixen els enemics ferits quasi instantàniament, i rara vegada erren "
+"els seus atacs. Llurs coneixements de les runes no tenen igual, i els grius "
+"que inscriu en llurs armes i armadures rebutgen els cops dels seus enemics."
 
 #: Extended_Era/units/standard/Dwarvish_Runemaster.cfg:26
 #: Extended_Era/units/standard/Dwarvish_Arcanister.cfg:27
@@ -1571,7 +1892,7 @@ msgstr "martell"
 
 #: Extended_Era/units/standard/Dwarvish_Axemaster.cfg:5
 msgid "Dwarvish Axemaster"
-msgstr ""
+msgstr "Mestre de la destral"
 
 #: Extended_Era/units/standard/Dwarvish_Axemaster.cfg:23
 msgid ""
@@ -1579,20 +1900,27 @@ msgid ""
 "deadly with lightning-fast blades.  They are not the strongest fighters in "
 "the dwarvish kingdom, but are well-respected nonetheless."
 msgstr ""
+"Un mestre de la destral no deixa de ser una raresa dins la societat dels "
+"nans: ràpid, àgil i mortífer amb les seues fulles, que desapareixen en un "
+"terbolí quan ataca. Potser no siguen els lluitadors més forts de tot el "
+"regne nan, però són, si més no, respectats."
 
 #: Extended_Era/units/standard/Dwarvish_Axethrower.cfg:5
 msgid "Dwarvish Axethrower"
-msgstr ""
+msgstr "Llançador de destrals"
 
 #: Extended_Era/units/standard/Dwarvish_Axethrower.cfg:22
 msgid ""
 "Axethrowers have improved their skill hurling their bladed weapons while "
 "retaining their natural speed - a dangerous combination."
 msgstr ""
+"Els llançadors de destrals han millorat les seues habilitat a l'hora de "
+"llançar destrals, però mantenen al mateix temps la seua velocitat natural..."
+"Una combinació perillosa."
 
 #: Extended_Era/units/standard/Dwarvish_Flamethower.cfg:5
 msgid "Dwarvish Flamethrower"
-msgstr ""
+msgstr "Llançaflames nan"
 
 #: Extended_Era/units/standard/Dwarvish_Flamethower.cfg:26
 msgid ""
@@ -1601,19 +1929,23 @@ msgid ""
 "thunderous noise shooting a projectile, their weapon generates continous "
 "tongues of flames."
 msgstr ""
+"Es sol dir que els llançaflames nans tenen uns bastons de fusta i ferro que "
+"semblen molt similars a les dels guardians del tro. Tanmateix, en lloc de "
+"fer un soroll ensordidor quan disparen un projectil, la seua arma crea rius "
+"de foc."
 
 #: Extended_Era/units/standard/Dwarvish_Flamethower.cfg:66
 msgid "firestick"
-msgstr ""
+msgstr "bastó de foc"
 
 #: Extended_Era/units/standard/Dwarvish_Gyrocopter.cfg:5
 msgid "Gyrocopter"
-msgstr ""
+msgstr "Girocòpter"
 
 #: Extended_Era/units/standard/Dwarvish_Gyrocopter.cfg:31
 #: Extended_Era/units/standard/Dwarvish_Steamcopter.cfg:32
 msgid "bombs"
-msgstr ""
+msgstr "bombes"
 
 #: Extended_Era/units/standard/Dwarvish_Runemaster.cfg:5
 msgid "Dwarvish Runemaster"
@@ -1628,10 +1960,16 @@ msgid ""
 "their runes cause the physical blows of their enemies to deal less damage "
 "than would be expected."
 msgstr ""
+"Exceptuant aquells que tinguen una habilitat sobrenatural, el rang més alt "
+"que pot assolir un nan dedicat a les runes és el de Mestre rúnic. Ataquen "
+"amb uns cops que són quasi tan forts com els dels millors guerrers, i ja "
+"serien temibles sense les seues arts, però amb elles són virtualment "
+"invencibles, doncs les seues runes fan que els atacs físics dels seus "
+"enemics causen menys mal de l'esperat."
 
 #: Extended_Era/units/standard/Dwarvish_Runesmith.cfg:5
 msgid "Dwarvish Runesmith"
-msgstr ""
+msgstr "Forjador de runes nan"
 
 #: Extended_Era/units/standard/Dwarvish_Runesmith.cfg:22
 msgid ""
@@ -1640,10 +1978,14 @@ msgid ""
 "and accuracy, and disrupt the blows of their enemies, causing them to strike "
 "softly, weakly and on the armor of the defender."
 msgstr ""
+"Els forjadors de runes nans, ara ja entrenats en el seu art, graven runes "
+"arcanes en llurs armes i armadura. Aquestes runes reforcen la precisió i "
+"poder dels seus atacs, i a més, limiten el mal que causen els atacs del "
+"enemics, ja que els fa copejar dèbilment l'armadura del defensor."
 
 #: Extended_Era/units/standard/Dwarvish_Runner.cfg:5
 msgid "Dwarvish Runner"
-msgstr ""
+msgstr "Corredor nan"
 
 #: Extended_Era/units/standard/Dwarvish_Runner.cfg:22
 msgid ""
@@ -1651,14 +1993,17 @@ msgid ""
 "Dwarves' natural endurance serves the runners well, who are trained to throw "
 "their axes to protect themselves on patrol."
 msgstr ""
+"Aquells nans que poden moure's ràpids solen formar part dels exploradors. La "
+"tradicional resistència dels nans els és molt útil, que estan entrenats per "
+"llançar les seues destrals per defendre's mentre estan patrullant."
 
 #: Extended_Era/units/standard/Dwarvish_Steamcopter.cfg:5
 msgid "Steamcopter"
-msgstr ""
+msgstr "Vaporcòpter"
 
 #: Extended_Era/units/standard/Dwarvish_Steamwheel.cfg:5
 msgid "Steamwheel"
-msgstr ""
+msgstr "Carro de vapor"
 
 #: Extended_Era/units/standard/Dwarvish_Thunderwheel.cfg:28
 #: Extended_Era/units/standard/Dwarvish_Steamwheel.cfg:28
@@ -1668,11 +2013,11 @@ msgstr "cop"
 
 #: Extended_Era/units/standard/Dwarvish_Thunderwheel.cfg:5
 msgid "Thunderwheel"
-msgstr ""
+msgstr "Carro de trons"
 
 #: Extended_Era/units/standard/Dwarvish_Warwheel.cfg:5
 msgid "Warwheel"
-msgstr ""
+msgstr "Carro de guerra"
 
 #: Extended_Era/units/standard/Human_Outlaw_Brigand.cfg:5
 msgid "Brigand"
@@ -1759,7 +2104,7 @@ msgstr ""
 
 #: Extended_Era/units/standard/Human_Outlaw_Raider.cfg:5
 msgid "Raider"
-msgstr ""
+msgstr "Assaltant"
 
 #: Extended_Era/units/standard/Human_Outlaw_Raider.cfg:33
 msgid ""
@@ -1769,6 +2114,12 @@ msgid ""
 "fights most of the time. They also usually build or buy (or steal) a better "
 "crosbow and their accuracy and skill have both improved with practice."
 msgstr ""
+"Després de quatre o cinc robatoris, aquells bandolers que sobrevisquen "
+"normalment troben alguna mena d'espasa. Normalment és un sabre perquè la "
+"seua presa més habitual són els esgrimidors, que solen anar d'un lloc cap a "
+"altre solitàriament per camins secundaris i buscant lluites. A més, també "
+"solen poder construir o comprar (o furtar) una ballesta millor, i la seua "
+"precisió i habilitat amb ella han millorat amb la pràctica."
 
 #: Extended_Era/units/standard/Human_Outlaw_Raider.cfg:36
 msgid "sabre"
@@ -1793,13 +2144,16 @@ msgstr ""
 
 #: Extended_Era/units/standard/Kalifa_Ahadath.cfg:5
 msgid "Ahadath"
-msgstr ""
+msgstr "Ahadaţ"
 
 #: Extended_Era/units/standard/Kalifa_Ahadath.cfg:18
 msgid ""
 "The Kalifa uses these Hillmen as their foot force.  The are versatile and "
 "excell in hilly terrain."
 msgstr ""
+"Els Kalifa usen aquestos hòmens de les colines com a la seua força "
+"d'infanteria bàsica. Són molt versàtils i excel·lents lluitant en les "
+"colines."
 
 #: Extended_Era/units/standard/Kalifa_Mamluk.cfg:72
 #: Extended_Era/units/standard/Kalifa_Rami.cfg:96
@@ -1811,11 +2165,11 @@ msgstr ""
 #: Extended_Era/units/standard/Kalifa_Naffatun.cfg:65
 #: Extended_Era/units/standard/Kalifa_Ahadath.cfg:57
 msgid "composite bow"
-msgstr ""
+msgstr "arc compost"
 
 #: Extended_Era/units/standard/Kalifa_Amir.cfg:5
 msgid "Amir"
-msgstr ""
+msgstr "Amir"
 
 #: Extended_Era/units/standard/Kalifa_Amir.cfg:18
 msgid ""
@@ -1823,6 +2177,10 @@ msgid ""
 "against fortified enemy positions where their valor and skill with a sword "
 "allows them to assault seemingly inpenetrable defenses."
 msgstr ""
+"Els amir són la columna vertebral de qualsevol atac dels Kalifa. Solen "
+"enviar-los per assaltar posicions fortificades enemigues, on el seu valor i "
+"habilitat amb l'espasa els permet assaltar defenses virtualment "
+"impenetrables."
 
 #: Extended_Era/units/standard/Kalifa_Rami.cfg:22
 #: Extended_Era/units/standard/Kalifa_Arif.cfg:65
@@ -1831,46 +2189,54 @@ msgstr ""
 #: Extended_Era/units/standard/Kalifa_Rami_al_Nuri.cfg:23
 #: Extended_Era/units/standard/Kalifa_Immortal.cfg:65
 msgid "long sword"
-msgstr ""
+msgstr "espasa llarga"
 
 #: Extended_Era/units/standard/Kalifa_Arif.cfg:5
 msgid "Arif"
-msgstr ""
+msgstr "Arif"
 
 #: Extended_Era/units/standard/Kalifa_Arif.cfg:18
 msgid ""
 "The Arif are made up of the more defensive minded Amir veterans.  They have "
 "become very skilled in using their shield to tire and stun their enemies."
 msgstr ""
+"Els arif estan formats pels veterans amir amb una mentalitat més defensiva. "
+"han esdevingut molt hàbils en l'ús del seu escut per cansar i atordir els "
+"seus enemics."
 
 #: Extended_Era/units/standard/Kalifa_Arif.cfg:104
 #: Extended_Era/units/standard/Kalifa_Immortal.cfg:104
 msgid "shield bash"
-msgstr ""
+msgstr "cop amb l'escut"
 
 #: Extended_Era/units/standard/Kalifa_Ekim.cfg:5
 msgid "Ekim"
-msgstr ""
+msgstr "Ekim"
 
 #: Extended_Era/units/standard/Kalifa_Ekim.cfg:24
 msgid ""
 "Ekim use their knowledge of ancient medicine and herbal concoctions to "
 "quickly bring the Kalifa soldiers back to the front lines."
 msgstr ""
+"Els ekim usen el seu coneixement de medicina antiga i pocions herbals per "
+"fer tornar ràpidament els soldats Kalifa a la primera línia."
 
 #: Extended_Era/units/standard/Kalifa_Ekim_Haram.cfg:5
 msgid "Ekim Haram"
-msgstr ""
+msgstr "Ekim Haram"
 
 #: Extended_Era/units/standard/Kalifa_Ekim_Haram.cfg:26
 msgid ""
 "These sages have reached the absolute epitome medical knowledge and freely "
 "use their herbal concoctions on themselves without fear of side-effects."
 msgstr ""
+"Aquestos savis han assolit un coneixement absolut i total de la ciència "
+"mèdica i poden usar les seues pocions herbals en sí mateixos sense témer cap "
+"efecte secundari."
 
 #: Extended_Era/units/standard/Kalifa_Elder_Falcon.cfg:5
 msgid "Elder Falcon"
-msgstr ""
+msgstr "Falcó Major"
 
 #: Extended_Era/units/standard/Kalifa_Elder_Falcon.cfg:19
 msgid ""
@@ -1878,39 +2244,44 @@ msgid ""
 "them.  Their dives can be so fast that stories abound of them taking a foe's "
 "head clean off."
 msgstr ""
+"Aquestos falcons han sofert tants perills i, d'alguna manera, han aconseguit "
+"sobreviure. Els seus picats són tan ràpids que hi ha històries en les que "
+"arriben a tallar el cap dels seus enemics d'un colp."
 
 #: Extended_Era/units/standard/Kalifa_Falcon.cfg:47
 #: Extended_Era/units/standard/Kalifa_Elder_Falcon.cfg:49
 msgid "beak"
-msgstr ""
+msgstr "pic"
 
 #: Extended_Era/units/standard/Kalifa_Elite_Ghazi.cfg:5
 msgid "Elite Ghazi"
-msgstr ""
+msgstr "Ghazi d'elit"
 
 #: Extended_Era/units/standard/Kalifa_Elite_Ghazi.cfg:18
 msgid ""
 "The Elite Ghazi are simply heros among their people.  Winner of countless "
 "combats and harbingers of victory."
 msgstr ""
+"Els Ghazi d'elit són, senzillament, herois entre la seua gent. Guanyadors "
+"d'incomptables combats i heralds de la victòria."
 
 #: Extended_Era/units/standard/Kalifa_Falcon.cfg:5
 msgid "Falcon"
-msgstr ""
+msgstr "Falcó"
 
 #: Extended_Era/units/standard/Kalifa_Ghazi.cfg:5
 msgid "Ghazi"
-msgstr ""
+msgstr "Ghazi"
 
 #: Extended_Era/units/standard/Kalifa_Ghazi.cfg:18
 msgid ""
 "The Ghazi rise from only the most talented and fiercest fighters among the "
 "Ahadath."
-msgstr ""
+msgstr "Els Ghazi ixen d'entre els ahadaz més talentosos i fers de tots."
 
 #: Extended_Era/units/standard/Kalifa_Ghaznid.cfg:5
 msgid "Ghaznid"
-msgstr ""
+msgstr "Ghaznid"
 
 #: Extended_Era/units/standard/Kalifa_Ghaznid.cfg:18
 msgid ""
@@ -1918,6 +2289,9 @@ msgid ""
 "metal, and horse baring down upon one with lance at level has caused many a "
 "many to flee in terror."
 msgstr ""
+"Una càrrega d'un Ghaznid és una experiència horrible. Una gran massa "
+"d'hòmens, metall i cavall llançant-se contra u amb les seues llances "
+"anivellades pot causar tal terror que ha fet fugir a més de dos i tres."
 
 #: Extended_Era/units/standard/Kalifa_Ghulam.cfg:27
 #: Extended_Era/units/standard/Kalifa_Ghaznid.cfg:22
@@ -1927,7 +2301,7 @@ msgstr "llança"
 
 #: Extended_Era/units/standard/Kalifa_Ghulam.cfg:5
 msgid "Ghulam"
-msgstr ""
+msgstr "Ghulam"
 
 #: Extended_Era/units/standard/Kalifa_Ghulam.cfg:19
 msgid ""
@@ -1935,10 +2309,13 @@ msgid ""
 "lance charge in order to save their poor horses' stamina before switching "
 "over to their trusty maces."
 msgstr ""
+"Els Ghulam proten una veritable armadura pesada i per tant només fan una "
+"gran càrrega amb les seues llances abans de canviar a les seues fiables "
+"maces, per tal d'estalviar la resistència dels seus pobres cavalls."
 
 #: Extended_Era/units/standard/Kalifa_Ghulam_al_Rami.cfg:5
 msgid "Ghulam al Rami"
-msgstr ""
+msgstr "Ghulam ar-rami"
 
 #: Extended_Era/units/standard/Kalifa_Ghulam_al_Rami.cfg:20
 msgid ""
@@ -1947,20 +2324,27 @@ msgid ""
 "enemy arrows so they can use their bows with relative impunity.  Ghulam al "
 "Rami also aquit themselves well during melee with a heavy mace."
 msgstr ""
+"Els Ghulam-ar-rami combinen algunes de les millors característiques tant "
+"dels karadis com dels ghulam. A més, modifiquen especialment les seues "
+"armadures per protegir-se de les fletxes enemigues per tal de poder causar "
+"danys amb els seus arcs amb relativa impunitat. Els ghulam-ar-rami, a més, "
+"també poden defendre's eficientment en combat amb les seues maces pesades."
 
 #: Extended_Era/units/standard/Kalifa_Immortal.cfg:5
 msgid "Immortal"
-msgstr ""
+msgstr "Immortal"
 
 #: Extended_Era/units/standard/Kalifa_Immortal.cfg:18
 msgid ""
 "These Arif have become so skilled that thier foes wonder whether they can "
 "die at all."
 msgstr ""
+"Aquestos Arif han arribat a ser tan hàbils que els seus enemics es pregunten "
+"si realment poden morir."
 
 #: Extended_Era/units/standard/Kalifa_Karadis.cfg:5
 msgid "Karadis"
-msgstr ""
+msgstr "Karadis"
 
 #: Extended_Era/units/standard/Kalifa_Karadis.cfg:19
 msgid ""
@@ -1968,34 +2352,43 @@ msgid ""
 "they.  They love to circle and harass enemies from afar while using their "
 "superior speed to avoid hevy counter attack.."
 msgstr ""
+"Els karadis són uns excel·lents genets i pocs poden disparar tan bé com ells "
+"des dels cavalls. Els encanta donar voltes al voltant dels enemics mentre "
+"els cusen a fletxes, i sempre poden usar la seua velocitat superior per "
+"evitar un contraatac."
 
 #: Extended_Era/units/standard/Kalifa_Mamluk.cfg:24
 #: Extended_Era/units/standard/Kalifa_Karadis.cfg:23
 msgid "cavalry sword"
-msgstr ""
+msgstr "espasa de cavalleria"
 
 #: Extended_Era/units/standard/Kalifa_Life_Guard.cfg:5
 msgid "Life Guard"
-msgstr ""
+msgstr "Guàrdia de la vida"
 
 #: Extended_Era/units/standard/Kalifa_Life_Guard.cfg:19
 msgid ""
 "Only the greatest mounter warriors in the land are taken into the Life Guard."
 msgstr ""
+"Només els més grans guerrers muntats de tota la terra poden entrar a formar "
+"part de la Guàrdia de la vida."
 
 #: Extended_Era/units/standard/Kalifa_Mamluk.cfg:5
 msgid "Mamluk"
-msgstr ""
+msgstr "Mameluc"
 
 #: Extended_Era/units/standard/Kalifa_Mamluk.cfg:20
 msgid ""
 "Mamluks are the absolute best shots from among the Karadis and are allotted "
 "the best horses so this skill does not go to waste."
 msgstr ""
+"Els mamelucs són, sense cap mena de dubte, els millors tiradors entre els "
+"karadis, i se'ls dona els millors cavalls per tal que no es balafie la seua "
+"habilitat."
 
 #: Extended_Era/units/standard/Kalifa_Mubarizan.cfg:5
 msgid "Mubarizan"
-msgstr ""
+msgstr "Mubarian"
 
 #: Extended_Era/units/standard/Kalifa_Mubarizan.cfg:19
 msgid ""
@@ -2003,22 +2396,28 @@ msgid ""
 "They regularly take down heavily fortified castles and seldom fail to "
 "inflict grievous losses on their foemen."
 msgstr ""
+"Els mubarizan s'enorgulleixen de dirigir sempre les primeres línies de "
+"qualsevol ofensiva. Poden prendre castells curosament fortificats amb una "
+"regularitat esbalaïdora, i rara vegada no causen greus baixes entre els seus "
+"enemics."
 
 #: Extended_Era/units/standard/Kalifa_Naffatun.cfg:5
 msgid "Naffatun"
-msgstr ""
+msgstr "Naffatun"
 
 #: Extended_Era/units/standard/Kalifa_Naffatun.cfg:23
 msgid "Naffutun use naptha to show their enemies true fear."
 msgstr ""
+"Els naffatun usen nafta per ensenyar els seus enemics què significa la "
+"paraula por."
 
 #: Extended_Era/units/standard/Kalifa_Naffatun.cfg:27
 msgid "naptha throw"
-msgstr ""
+msgstr "nafta"
 
 #: Extended_Era/units/standard/Kalifa_Rami.cfg:5
 msgid "Rami"
-msgstr ""
+msgstr "Rami"
 
 #: Extended_Era/units/standard/Kalifa_Rami.cfg:18
 msgid ""
@@ -2026,25 +2425,31 @@ msgid ""
 "generally sow terror amongst the enemy.  Such tactics may also have other "
 "uses in a land of many strange wonders..."
 msgstr ""
+"Els rami solen usar fletxes flamejants per encendre els fortificacions "
+"enemigues i normalment sembren el terror entre els enemics. Aquestes "
+"tàctiques també tenen altres utilitats en una terra plena de coses "
+"estranyes..."
 
 #: Extended_Era/units/standard/Kalifa_Rami.cfg:58
 #: Extended_Era/units/standard/Kalifa_Rami_al_Nuri.cfg:59
 msgid "fire arrow"
-msgstr ""
+msgstr "fletxa flamejant"
 
 #: Extended_Era/units/standard/Kalifa_Rami_al_Nuri.cfg:5
 msgid "Rami al Nuri"
-msgstr ""
+msgstr "Rami an-nuri"
 
 #: Extended_Era/units/standard/Kalifa_Rami_al_Nuri.cfg:19
 msgid ""
 "The maelstrom created by even a few Rami al Nuri can turn the tide of many a "
 "battle.  Use them wisely."
 msgstr ""
+"El caos que poden provocar fins i tot uns pocs Rami-an-nuri pot canviar el "
+"curs de la batalla. Usa'ls amb saviesa."
 
 #: Extended_Era/units/standard/Orcish_Shaman.cfg:5
 msgid "Orcish Shaman"
-msgstr ""
+msgstr "Xamà orc"
 
 #: Extended_Era/units/standard/Orcish_Shaman.cfg:22
 msgid ""
@@ -2055,6 +2460,12 @@ msgid ""
 "Orcs), Orcish Shamans are good spell casters and can curse their enemies, "
 "draining their life."
 msgstr ""
+"Els xamans orcs són els guardians de la màgia orca. Són tan respectats entre "
+"les tribus orques que formen el consell orc, el qual pren importants "
+"decisions per a tota la comunitat orca i arbitra els més que freqüents "
+"conflictes que sorgeixen entre les tribus d'aquesta bel·licosa raça. Encara "
+"que són físicament dèbils (per a ser uns orcs), els xamans orcs són uns bons "
+"fetillers que poden maleir els seus enemics, drenant-los la vida."
 
 #: Extended_Era/units/standard/Orcish_Shaman.cfg:58
 #: Extended_Era/units/standard/Orcish_Shaman.cfg:142
@@ -2064,7 +2475,7 @@ msgstr "maledicció"
 
 #: Extended_Era/units/standard/Orcish_Shaman.cfg:89
 msgid "Novice Orcish Shaman"
-msgstr ""
+msgstr "Xamà orc novici"
 
 #: Extended_Era/units/standard/Orcish_Shaman.cfg:106
 msgid ""
@@ -2076,10 +2487,18 @@ msgid ""
 "draining their life. Novice Shamans are still young and vigorous, but their "
 "spell-casting ability still needs improvement."
 msgstr ""
+"Els xamans orcs són els guardians de la màgia orca. Són tan respectats entre "
+"les tribus orques que formen el consell orc, el qual pren importants "
+"decisions per a tota la comunitat orca i arbitra els més que freqüents "
+"conflictes que sorgeixen entre les tribus d'aquesta bel·licosa raça. Encara "
+"que són físicament dèbils (per a ser uns orcs), els xamans orcs són uns bons "
+"fetillers que poden maleir els seus enemics, drenant-los la vida. Els xamans "
+"novicis encara són jóvens i vigorosos, però la seua capacitat màgica encara "
+"requereix millores."
 
 #: Extended_Era/units/standard/Orcish_Shaman.cfg:173
 msgid "Old Orcish Shaman"
-msgstr ""
+msgstr "Vell xamà orc"
 
 #: Extended_Era/units/standard/Orcish_Shaman.cfg:190
 msgid ""
@@ -2091,20 +2510,30 @@ msgid ""
 "draining their life. Old Orcish Shamans are shamans that have mastered "
 "magic, although their physical strength has declined with age."
 msgstr ""
+"Els xamans orcs són els guardians de la màgia orca. Són tan respectats entre "
+"les tribus orques que formen el consell orc, el qual pren importants "
+"decisions per a tota la comunitat orca i arbitra els més que freqüents "
+"conflictes que sorgeixen entre les tribus d'aquesta bel·licosa raça. Encara "
+"que són físicament dèbils (per a ser uns orcs), els xamans orcs són uns bons "
+"fetillers que poden maleir els seus enemics, drenant-los la vida. Els vells "
+"xamans ja han assolit el domini de la màgia però la seua força física ha "
+"minvat amb el pas dels anys."
 
 #: Extended_Era/units/standard/Sidhe_Bladespinner.cfg:5
 msgid "Bladespinner"
-msgstr ""
+msgstr "Revoltafulles"
 
 #: Extended_Era/units/standard/Sidhe_Bladespinner.cfg:17
 msgid ""
 "The better warriors of the sidhe are known as bladespinners. They can, it is "
 "said, cut a man in three different places before he will lift his weapon."
 msgstr ""
+"Els miilors guerrers dels sidhe s'anomen els 'revoltafulles'. Poden, es diu, "
+"tallar un home per tres llocs diferents abans que alce la seua arma."
 
 #: Extended_Era/units/standard/Sidhe_Fury.cfg:5
 msgid "Fury"
-msgstr ""
+msgstr "Fúria"
 
 #: Extended_Era/units/standard/Sidhe_Fury.cfg:17
 msgid ""
@@ -2112,10 +2541,13 @@ msgid ""
 "of the battle, he will throw himself in an all-out attack, fighting untile "
 "either he or his ennemy is dead."
 msgstr ""
+"Un fúria és un guerrer sidhe peculiar, mig místic, mig boig. En el calor de "
+"la batalla, es llança contra l'enemic en un atac suïcida, a mort, fins que "
+"bé el seu enemic, bé ell mateix és mort."
 
 #: Extended_Era/units/standard/Sidhe_Raindancer.cfg:5
 msgid "Raindancer"
-msgstr ""
+msgstr "Dansarí de la pluja"
 
 #: Extended_Era/units/standard/Sidhe_Raindancer.cfg:17
 msgid ""
@@ -2125,6 +2557,11 @@ msgid ""
 "young and brash noblemen are uninterested in study, and more likely to go "
 "practice their swordplay than their magic."
 msgstr ""
+"Els nobles dels sidhe són uns mags poderosos. Han concentrat els seus poders "
+"en cridar els llampecs d'un cel que, d'altra manera, estaria clar. Són "
+"precisament aquestes danses entre els llampecs les que els van donar el nom "
+"de dansarins de la pluja. Malauradament, els joves i violents nobles estan "
+"més interessats en l'esgrima que en l'estudi màgic."
 
 #: Extended_Era/units/standard/Sidhe_Windlasher.cfg:45
 #: Extended_Era/units/standard/Sidhe_Tempest.cfg:45
@@ -2137,7 +2574,7 @@ msgstr "llampec"
 
 #: Extended_Era/units/standard/Sidhe_Shadowdancer.cfg:5
 msgid "Shadowdancer"
-msgstr ""
+msgstr "Dansarí de les ombres"
 
 #: Extended_Era/units/standard/Sidhe_Shadowdancer.cfg:18
 msgid ""
@@ -2145,10 +2582,13 @@ msgid ""
 "advised not to do so in his face, lest they wish to have their sword in "
 "their back."
 msgstr ""
+"Alguns potser menyspreen l'especialitat dels dansarins de les ombres, però "
+"és un bon consell que no els ho diguen a la cara, a no ser que vulguen "
+"tindre una espasa clavada en l'esquena."
 
 #: Extended_Era/units/standard/Sidhe_Spirit_Ancestor.cfg:5
 msgid "Sidhe Ancestor"
-msgstr ""
+msgstr "Avantpassat sidhe"
 
 #: Extended_Era/units/standard/Sidhe_Spirit_Ancestor.cfg:21
 msgid ""
@@ -2157,21 +2597,26 @@ msgid ""
 "mortal realm, and wounds close as if they had never existed. Their voice can "
 "whisper in the wind the words that chill the hearts of their ennemies."
 msgstr ""
+"Uns reverenciats guerrers d'antany vaguen pels boscos dels sidhe, només "
+"visibles per les seues espases argentes. Només estan parcialment presents en "
+"el món mortal, i les seues ferides es tanquen com si mai hagueren existit. "
+"La seua veu pot xiuxiuejar al vent unes paraules que poden gelar els cors "
+"dels seus enemics."
 
 #: Extended_Era/units/standard/Sidhe_Spirit_Ancestor.cfg:25
 #: Extended_Era/units/standard/Sidhe_Spirit_Forefather.cfg:26
 #: Extended_Era/units/standard/Sidhe_Spirit_Warrior.cfg:25
 msgid "ancient blade"
-msgstr ""
+msgstr "espasa antiga"
 
 #: Extended_Era/units/standard/Sidhe_Spirit_Ancestor.cfg:49
 #: Extended_Era/units/standard/Sidhe_Spirit_Forefather.cfg:50
 msgid "requiem"
-msgstr ""
+msgstr "rèquiem"
 
 #: Extended_Era/units/standard/Sidhe_Spirit_Forefather.cfg:5
 msgid "Sidhe Forefather"
-msgstr ""
+msgstr "Sidhe ancestral"
 
 #: Extended_Era/units/standard/Sidhe_Spirit_Forefather.cfg:22
 msgid ""
@@ -2179,10 +2624,13 @@ msgid ""
 "death chant, echoing through the trees, know that their silver blades are "
 "also near."
 msgstr ""
+"Els grans guerrers dels sidhe no han desaparegut, com molts podrien pensar. "
+"Quan sentes el seu cant de mort amb el seu particular eco entre els arbres, "
+"pots endevinar fàcilment que les seues espases argentes estan prop."
 
 #: Extended_Era/units/standard/Sidhe_Spirit_Warrior.cfg:5
 msgid "Warrior Spirit"
-msgstr ""
+msgstr "Esperit Guerrer"
 
 #: Extended_Era/units/standard/Sidhe_Spirit_Warrior.cfg:21
 msgid ""
@@ -2190,10 +2638,13 @@ msgid ""
 "the forests of their former homes, seeking to perform the feats of arms they "
 "did in the past, and death is no obstacle..."
 msgstr ""
+"Els grans guerrers dels sidhe no han desaparegut, com molts podrien pensar. "
+"Vaguen pels boscos de ses antigues cases, buscant repetir les gestes "
+"guerreres que van realitzar en el passat, i la mort no és cap obstacle..."
 
 #: Extended_Era/units/standard/Sidhe_Stormlord.cfg:5
 msgid "Stormlord"
-msgstr ""
+msgstr "Senyor de la tempesta"
 
 #: Extended_Era/units/standard/Sidhe_Stormlord.cfg:18
 msgid ""
@@ -2202,10 +2653,14 @@ msgid ""
 "distrust them because of this, but they fear them even more. And if a sidhe "
 "fears someone..."
 msgstr ""
+"Un senyor de la tempesta ha passat tota la seua vida estudiant màgia. Ha "
+"abandonat la pràctica amb les armes i la majoria d'actes físics per açò. "
+"Molts elfs salvatges desconfien d'ells per això, però encara els temen més. "
+"I si un sidhe tem algú..."
 
 #: Extended_Era/units/standard/Sidhe_Tempest.cfg:5
 msgid "Tempest"
-msgstr ""
+msgstr "Tempestat"
 
 #: Extended_Era/units/standard/Sidhe_Tempest.cfg:17
 msgid ""
@@ -2213,10 +2668,13 @@ msgid ""
 "They call down lightning with ease and use a magic whose raw destructive "
 "power is almost unequaled."
 msgstr ""
+"Els mags més majors, que els sidhe veuen com savis, reben el nom de "
+"tempestat. Poden cridar els llampecs amb facilitat i usen una màgia amb un "
+"poder de destrucció inigualable."
 
 #: Extended_Era/units/standard/Sidhe_Thunderblade.cfg:5
 msgid "Thunderblade"
-msgstr ""
+msgstr "Espasa de llampecs"
 
 #: Extended_Era/units/standard/Sidhe_Thunderblade.cfg:18
 msgid ""
@@ -2226,14 +2684,19 @@ msgid ""
 "be awarded a thunderblade, a special sword enchanted with a fragment of the "
 "sidhe lord's great weapon."
 msgstr ""
+"Quan va morir el primer senyor sidhe en batalla, els sidhe van recollir tots "
+"els trossos de la seua espada i els seus mags els van conservar com si d'un "
+"tresor es tractara. Si un sidhe demostra ser un gran guerrer i té la màgia "
+"dels nobles, pot rebre una espasa de llampecs, una espasa especial encantada "
+"amb un fragment de l'espasa d'aquell noble senyor."
 
 #: Extended_Era/units/standard/Sidhe_Thunderblade.cfg:22
 msgid "thunderblade"
-msgstr ""
+msgstr "espasa de llampecs"
 
 #: Extended_Era/units/standard/Sidhe_Tracker.cfg:5
 msgid "Tracker"
-msgstr ""
+msgstr "Rastrejador"
 
 #: Extended_Era/units/standard/Sidhe_Tracker.cfg:20
 msgid ""
@@ -2241,10 +2704,14 @@ msgid ""
 "skilled in both hand to hand and ranged combat when using short spears. "
 "Their complete lack of armor is a liability, though."
 msgstr ""
+"Els rastrejadors dels elfs salvatges, assenyalats com uns dels millors "
+"exploradors coneguts, són hàbils tant en el combat cos a cos com a distància "
+"amb les seus llances curtes. Tanmateix, l'absència d'armadura potser un greu "
+"problema."
 
 #: Extended_Era/units/standard/Sidhe_Veiledblade.cfg:5
 msgid "Veiledblade"
-msgstr ""
+msgstr "Espasa secreta"
 
 #: Extended_Era/units/standard/Sidhe_Veiledblade.cfg:17
 msgid ""
@@ -2252,10 +2719,13 @@ msgid ""
 "through the ennemy's defense, and stealthily hit an unexpecting foe, often "
 "mortally so."
 msgstr ""
+"No tots els sidhe prefereixen lluitar cara a cara. Els obscurs espases "
+"secretes poden travessar els defenses enemigues i atacar sense que ningú "
+"s'adone un enemic que no s'ho espere, normalment amb resultats mortals."
 
 #: Extended_Era/units/standard/Sidhe_Wanderer.cfg:5
 msgid "Wanderer"
-msgstr ""
+msgstr "Caminant"
 
 #: Extended_Era/units/standard/Sidhe_Wanderer.cfg:20
 msgid ""
@@ -2265,20 +2735,29 @@ msgid ""
 "usefulness is for running ahead. Their extreme swiftness comes, however, at "
 "a price as they fight almost armorless and die fast in direct combat."
 msgstr ""
+"Alguns dels sidhe tenen un temperament més solitari i prefereixen rastrejar "
+"i explorar abans que combatre. Aquesta gent, coneguda com caminants, van "
+"armats amb unes llances que usen d'una manera prou... convincent, diríem. "
+"Tanmateix, el seu millor rol en la batalla és caminar endavant de l'exèrcit. "
+"La seua increïble velocitat, tanmateix, té un preu: l'absència d'armadura fa "
+"que caiguen ràpidament en un combat directe."
 
 #: Extended_Era/units/standard/Sidhe_Wardancer.cfg:5
 msgid "Wardancer"
-msgstr ""
+msgstr "Dansarí de guerra"
 
 #: Extended_Era/units/standard/Sidhe_Wardancer.cfg:18
 msgid ""
 "Wardancers are legends among the sidhe. The skill of a bladespinner may seem "
 "unbelievable, but he is an amateur compared to a mighty wardancer."
 msgstr ""
+"Els dansarins de guerra són unes llegendes entre els sidhe. L'habilitat d'un "
+"revoltafulles pot semblar increïble, però no és més que un amateur comparat "
+"amb els dansarins de guerra."
 
 #: Extended_Era/units/standard/Sidhe_Warmage.cfg:5
 msgid "War Mage"
-msgstr ""
+msgstr "Mag de guerra"
 
 #: Extended_Era/units/standard/Sidhe_Warmage.cfg:17
 msgid ""
@@ -2287,10 +2766,15 @@ msgid ""
 "sword in hand. Their prowesses with the sword are easily those of a warrior "
 "and their magic is a welcome ally."
 msgstr ""
+"Pocs sidhe poden passar molt de temps allunyats de la batalla. Els mags de "
+"guerra són nobles sidhe que, encara que s'han entrenat com mags, gasten la "
+"major part del seu temps amb una espasa en la mà. Les seues habilitats amb "
+"l'espasa són equivalents a les d'un guerrer, i la seua màgia sempre és una "
+"aliada benvinguda."
 
 #: Extended_Era/units/standard/Sidhe_Whirlwind.cfg:5
 msgid "Whirlwind"
-msgstr ""
+msgstr "Huracà"
 
 #: Extended_Era/units/standard/Sidhe_Whirlwind.cfg:21
 msgid ""
@@ -2298,10 +2782,13 @@ msgid ""
 "own way, he is feared by all sidhe who fear his rage. When he wishes to kill "
 "nothing and no one can stop him."
 msgstr ""
+"Un huracà és una fulla salvatge que ha sobreviscut moltes batalles. Una "
+"llegenda per sí mateix, tot sidhe tem la seva ira. Quan desitja matar, no hi "
+"ha res ni ningú que l'aturi."
 
 #: Extended_Era/units/standard/Sidhe_Wildblade.cfg:5
 msgid "Wildblade"
-msgstr ""
+msgstr "Fulla salvatge"
 
 #: Extended_Era/units/standard/Sidhe_Wildblade.cfg:17
 msgid ""
@@ -2309,10 +2796,13 @@ msgid ""
 "behold. Hitting left and right with a strength and a devotion rarely seen, "
 "he cares not for pain, or even death..."
 msgstr ""
+"Un fulla salvatge, una vegada ha entrat en el frenesí de la batalla, és "
+"terrorífic. Colpejant a dreta i esquerra amb una força i entrega "
+"inigualables, no es preocupa pel dolor, ni tan sols per la mort..."
 
 #: Extended_Era/units/standard/Sidhe_Windlasher.cfg:5
 msgid "Windlasher"
-msgstr ""
+msgstr "Ventador"
 
 #: Extended_Era/units/standard/Sidhe_Windlasher.cfg:17
 msgid ""
@@ -2320,10 +2810,14 @@ msgid ""
 "one. He must stop the training in arms and devote himself to the study of "
 "magic. Few choose this path, but it is a worthy one."
 msgstr ""
+"El sidhe que es dedique a seguir el camí dels estudis per ser un ventador "
+"trobarà que la seua és una vida difícil. Deu deixar de banda les pràctiques "
+"amb les armes i entregar-se a la màgia. Pocs trien aquest camí, però de ben "
+"segur que és profitós."
 
 #: Extended_Era/units/standard/Sidhe_Windrunner.cfg:5
 msgid "Windrunner"
-msgstr ""
+msgstr "Fill del vent"
 
 #: Extended_Era/units/standard/Sidhe_Windrunner.cfg:21
 msgid ""
@@ -2331,6 +2825,10 @@ msgid ""
 "unbelievable, and their prowesses with their spears, whether thrown or in "
 "hand to hand, are amazing. They might die fast in direct combat, though."
 msgstr ""
+"Els fills del vent són els millors exploradors que el sidhe tenen al seu "
+"abast. La  seua velocitat és increïble, a l'igual que la seua habilitat amb "
+"les llances, siga en combat cos a cos o a distància. Això sí, potser moren "
+"prompte en combat directe."
 
 #: Extended_Era/units/standard/Troll_Shaman.cfg:4
 msgid "Troll Shaman"
@@ -2342,14 +2840,18 @@ msgid ""
 "or tough as other trolls, their true power lies in their fire magic, which "
 "they use to blast enemies with gouts of fire."
 msgstr ""
+"Els xamans trol són els líders místics de la tribu dels trols. Encara que no "
+"són ni tan forts ni tan resistents com els altres, el seu vertader poder "
+"resideix en la seua màgia del foc, que usen per colpejar els seus enemics "
+"amb tempestes de foc."
 
 #: Extended_Era/units/standard/Troll_Shaman.cfg:54
 msgid "flame blast"
-msgstr ""
+msgstr "cop de foc"
 
 #: Extended_Era/units/standard/Wose_Shaman.cfg:6
 msgid "Wose Shaman"
-msgstr ""
+msgstr "Xaman wose"
 
 #: Extended_Era/units/standard/Wose_Shaman.cfg:26
 msgid ""
@@ -2358,6 +2860,10 @@ msgid ""
 "\n"
 "Special Notes:"
 msgstr ""
+"Aquestos wose són capaços d'ordenar a algunes plantes dels boscos, com ara "
+"les vinyes o els esbarzerars, que obstaculitzen els moviments dels enemics.\n"
+"\n"
+"Notes especials:"
 
 #: Extended_Era/units/standard/Wose_Shaman.cfg:72
 msgid "entangle"
@@ -2365,6 +2871,15 @@ msgstr "enredar"
 
 #~ msgid "leadership"
 #~ msgstr "lideratge"
+
+#~ msgid "Sorceress"
+#~ msgstr "Fetillera"
+
+#~ msgid "Warlock"
+#~ msgstr "Mag"
+
+#~ msgid "Wizard"
+#~ msgstr "Bruixot"
 
 #~ msgid "melee"
 #~ msgstr "melé"
