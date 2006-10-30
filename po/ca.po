@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: ca\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2006-10-20 23:03+0200\n"
-"PO-Revision-Date: 2006-10-30 18:04+0100\n"
+"PO-Revision-Date: 2006-10-30 18:26+0100\n"
 "Last-Translator: Jose Gordillo <kilder@hotmail.com>\n"
 "Language-Team: Català <wesnoth-ca@ettin.org>\n"
 "MIME-Version: 1.0\n"
@@ -51,13 +51,15 @@ msgstr ""
 
 #: Extended_Era/abilities/attack_only.cfg:8
 msgid "attack only"
-msgstr ""
+msgstr "només atac"
 
 #: Extended_Era/abilities/attack_only.cfg:10
 msgid ""
 "Attack only:\n"
 "This weapon will never be used on defense."
 msgstr ""
+"Només atac:\n"
+"Aquesta arma mai infligirà mal en la defensa."
 
 #: Extended_Era/abilities/cavestalk.cfg:5
 #: Extended_Era/abilities/cavestalk.cfg:10
@@ -131,9 +133,8 @@ msgid "Extended Era"
 msgstr "Era ampliada"
 
 #: Extended_Era/eras/kalifa.cfg:6
-#, fuzzy
 msgid "Kalifa Era"
-msgstr "Kalifa"
+msgstr "Era Kalifa"
 
 #: Extended_Era/factions/aragwaithi-extended.cfg:5
 #: Extended_Era/factions/aragwaithi-xrpg.cfg:5
@@ -1188,7 +1189,7 @@ msgstr "Portaestendard"
 
 #: Extended_Era/units/standard/Aragwaith_Greatbow.cfg:5
 msgid "Greatbow"
-msgstr "GranArc"
+msgstr "Arc gran"
 
 #: Extended_Era/units/standard/Aragwaith_Greatbow.cfg:19
 msgid ""
@@ -1200,13 +1201,13 @@ msgid ""
 "pull these bows, anyone but the crafter who attempts to draw it could suffer "
 "serious injury."
 msgstr ""
-"Una vegada superada la daga i el ganivet per una espasa, el GranArc és "
-"superior al FortArc en combat de melé, però no tan poderós com els Matadors. "
-"Els seus arcs, tanmateix, són unes veritables obres d'art de l'enginyeria "
-"militar. Es sol tardar mesos en construir un sol arc i cadascun està creat "
-"segons les especificacions individuals de cada usuari. A més a més, la força "
-"per usar-lo és tal que qualsevol que no siga l'usuari o l'artesà podria "
-"sofrir una greu lesió."
+"Una vegada superada la daga i el ganivet per una espasa, l'arc gran és "
+"superior a l'arc fort en combat de melé, però no tan poderós com els "
+"Matadors. Els seus arcs, tanmateix, són unes veritables obres d'art de "
+"l'enginyeria militar. Es sol tardar mesos en construir un sol arc i cadascun "
+"està creat segons les especificacions individuals de cada usuari. A més a "
+"més, la força per usar-lo és tal que qualsevol que no siga l'usuari o "
+"l'artesà podria sofrir una greu lesió."
 
 #: Extended_Era/units/standard/Aragwaith_Guard.cfg:5
 msgid "Guard"
@@ -1261,9 +1262,8 @@ msgid "glaive"
 msgstr "alabarda"
 
 #: Extended_Era/units/standard/Aragwaith_Sorcerer.cfg:5
-#, fuzzy
 msgid "Aragwaith^Sorcerer"
-msgstr "Aragwaith"
+msgstr "Fetiller"
 
 #: Extended_Era/units/standard/Aragwaith_Wizard.cfg:57
 #: Extended_Era/units/standard/Aragwaith_Warlock.cfg:67
@@ -1272,9 +1272,8 @@ msgid "mage-bolt"
 msgstr "raig màgic"
 
 #: Extended_Era/units/standard/Aragwaith_Sorcerer.cfg:117
-#, fuzzy
 msgid "Aragwaith^Sorceress"
-msgstr "Aragwaith"
+msgstr "Fetillera"
 
 #: Extended_Era/units/standard/Aragwaith_Spearman.cfg:5
 msgid "Spearman"
@@ -1282,7 +1281,7 @@ msgstr "Soldat"
 
 #: Extended_Era/units/standard/Aragwaith_Strongbow.cfg:5
 msgid "Strongbow"
-msgstr "FortArc"
+msgstr "Arc fort"
 
 #: Extended_Era/units/standard/Aragwaith_Strongbow.cfg:17
 msgid ""
@@ -1291,7 +1290,7 @@ msgid ""
 "longer than the daggers used by the typical archer, and they wield them far "
 "more effectively."
 msgstr ""
-"Amb un entrenament quasi constant i un arc prou més fort, el FortArc "
+"Amb un entrenament quasi constant i un arc prou més fort, l'arc fort "
 "aragwaith té una potència de foc àmpliament superior a la de l'arquer "
 "normal. Els seus ganivets són més llargs que les dagues que usa l'arquer "
 "típic, i les utilitzen amb molta més efectivitat."
@@ -1305,18 +1304,16 @@ msgid "Swordman"
 msgstr "Espadatxí"
 
 #: Extended_Era/units/standard/Aragwaith_Warlock.cfg:5
-#, fuzzy
 msgid "Aragwaith^Warlock"
-msgstr "Aragwaith"
+msgstr "Mag"
 
 #: Extended_Era/units/standard/Aragwaith_Warlock.cfg:125
 msgid "female^Warlock"
 msgstr "Maga"
 
 #: Extended_Era/units/standard/Aragwaith_Wizard.cfg:5
-#, fuzzy
 msgid "Aragwaith^Wizard"
-msgstr "Aragwaith"
+msgstr "Bruixot"
 
 #: Extended_Era/units/standard/Aragwaith_Wizard.cfg:115
 msgid "female^Wizard"
@@ -1741,7 +1738,6 @@ msgstr ""
 "greu dany amb prou de temps, llevant-li poc a poc la vida a la seua víctima."
 
 #: Extended_Era/units/standard/Dark_Elf_Sorcerer.cfg:5
-#, fuzzy
 msgid "Dark Elf^Sorcerer"
 msgstr "Fetiller"
 
@@ -1759,7 +1755,6 @@ msgstr ""
 "el seu camí."
 
 #: Extended_Era/units/standard/Dark_Elf_Sorceress.cfg:5
-#, fuzzy
 msgid "Dark Elf^Sorceress"
 msgstr "Fetillera"
 
@@ -1791,9 +1786,8 @@ msgstr ""
 "només la pudor d'un cos mort pot assenyalar-te que són a prop."
 
 #: Extended_Era/units/standard/Dark_Elf_Warlock.cfg:5
-#, fuzzy
 msgid "Dark Elf^Warlock"
-msgstr "Maga"
+msgstr "Mag"
 
 #: Extended_Era/units/standard/Dark_Elf_Warlock.cfg:18
 msgid ""
@@ -1822,9 +1816,8 @@ msgstr ""
 "uns pocs poden arribar a ser corsaris."
 
 #: Extended_Era/units/standard/Dark_Elf_Wizard.cfg:5
-#, fuzzy
 msgid "Dark Elf^Wizard"
-msgstr "Bruixa"
+msgstr "Bruixot"
 
 #: Extended_Era/units/standard/Dark_Elf_Wizard.cfg:18
 msgid ""
