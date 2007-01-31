@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Battle of Wesnoth\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2007-01-16 21:47+0100\n"
+"POT-Creation-Date: 2007-01-31 17:50+0100\n"
 "PO-Revision-Date: 2006-07-09 09:16+0200\n"
 "Last-Translator: Oto 'tapik' Buchta <tapik@buchtovi.cz>\n"
 "Language-Team: Czech <wesnoth-cs-l@buchtovi.cz>\n"
@@ -463,7 +463,7 @@ msgstr "oštěp"
 #: Extended_Era/units/standard/Orcish_Shaman.cfg:233
 #: Extended_Era/units/standard/Steppe_Orc_Skewer.cfg:29
 #: Extended_Era/units/standard/Kalifa_Ghaznid.cfg:24
-#: Extended_Era/units/standard/Kalifa_Falcon.cfg:51
+#: Extended_Era/units/standard/Kalifa_Falcon.cfg:52
 #: Extended_Era/units/standard/Sidhe_Wanderer.cfg:27
 #: Extended_Era/units/standard/Sidhe_Wanderer.cfg:51
 #: Extended_Era/units/standard/Aragwaith_Archer.cfg:98
@@ -475,7 +475,7 @@ msgstr "oštěp"
 #: Extended_Era/units/standard/Aragwaith_Silver_Shield.cfg:88
 #: Extended_Era/units/standard/Steppe_Goblin_Hunter.cfg:68
 #: Extended_Era/units/standard/Chaos_Headhunter.cfg:67
-#: Extended_Era/units/standard/Kalifa_Elder_Falcon.cfg:53
+#: Extended_Era/units/standard/Kalifa_Elder_Falcon.cfg:54
 #: Extended_Era/units/standard/Kalifa_Mubarizan.cfg:25
 #: Extended_Era/units/standard/Chaos_Soulhunter.cfg:104
 #: Extended_Era/units/standard/Human_Outlaw_Brigand.cfg:76
@@ -655,7 +655,7 @@ msgstr "meč"
 #: Extended_Era/units/standard/Kalifa_Rami.cfg:24
 #: Extended_Era/units/standard/Sidhe_Bladespinner.cfg:24
 #: Extended_Era/units/standard/Sidhe_Tempest.cfg:24
-#: Extended_Era/units/standard/Kalifa_Falcon.cfg:24
+#: Extended_Era/units/standard/Kalifa_Falcon.cfg:25
 #: Extended_Era/units/standard/Aragwaith_Eagle_Master.cfg:29
 #: Extended_Era/units/standard/Aragwaith_Archer.cfg:72
 #: Extended_Era/units/standard/Naga_Hunter.cfg:27
@@ -673,7 +673,7 @@ msgstr "meč"
 #: Extended_Era/units/standard/Dark_Elf_Lord.cfg:27
 #: Extended_Era/units/standard/Aragwaith_Swordmaster.cfg:80
 #: Extended_Era/units/standard/Steppe_Goblin_Hunter.cfg:29
-#: Extended_Era/units/standard/Kalifa_Elder_Falcon.cfg:26
+#: Extended_Era/units/standard/Kalifa_Elder_Falcon.cfg:27
 #: Extended_Era/units/standard/Dwarvish_Flamethower.cfg:33
 #: Extended_Era/units/standard/Kalifa_Mubarizan.cfg:64
 #: Extended_Era/units/standard/Sidhe_Veiledblade.cfg:27
@@ -1376,16 +1376,16 @@ msgstr ""
 
 #: Extended_Era/units/standard/Chaos_Winged_Daemon.cfg:38
 #: Extended_Era/units/standard/Chaos_Winged_Daemon.cfg:39
-#: Extended_Era/units/standard/Kalifa_Falcon.cfg:22
 #: Extended_Era/units/standard/Kalifa_Falcon.cfg:23
+#: Extended_Era/units/standard/Kalifa_Falcon.cfg:24
 #: Extended_Era/units/standard/Aragwaith_Eagle_Master.cfg:26
 #: Extended_Era/units/standard/Aragwaith_Eagle_Master.cfg:27
 #: Extended_Era/units/standard/Drake_Armageddon.cfg:45
 #: Extended_Era/units/standard/Drake_Armageddon.cfg:46
 #: Extended_Era/units/standard/Aragwaith_Eagle_Rider.cfg:26
 #: Extended_Era/units/standard/Aragwaith_Eagle_Rider.cfg:27
-#: Extended_Era/units/standard/Kalifa_Elder_Falcon.cfg:24
 #: Extended_Era/units/standard/Kalifa_Elder_Falcon.cfg:25
+#: Extended_Era/units/standard/Kalifa_Elder_Falcon.cfg:26
 msgid "claws"
 msgstr "klepeta"
 
@@ -1541,7 +1541,7 @@ msgid ""
 msgstr ""
 
 #: Extended_Era/units/standard/Aragwaith_Swordman.cfg:5
-msgid "Swordman"
+msgid "Swordsman"
 msgstr ""
 
 #: Extended_Era/units/standard/Aragwaith_Swordman.cfg:25
@@ -2478,17 +2478,17 @@ msgstr ""
 msgid "Elder Falcon"
 msgstr ""
 
-#: Extended_Era/units/standard/Kalifa_Elder_Falcon.cfg:20
+#: Extended_Era/units/standard/Kalifa_Elder_Falcon.cfg:21
 msgid ""
 "These falcons have been through many perils and somehow managed to surivive "
 "them.  Their dives can be so fast that stories abound of them taking a foe's "
 "head clean off."
 msgstr ""
 
-#: Extended_Era/units/standard/Kalifa_Falcon.cfg:49
 #: Extended_Era/units/standard/Kalifa_Falcon.cfg:50
-#: Extended_Era/units/standard/Kalifa_Elder_Falcon.cfg:51
+#: Extended_Era/units/standard/Kalifa_Falcon.cfg:51
 #: Extended_Era/units/standard/Kalifa_Elder_Falcon.cfg:52
+#: Extended_Era/units/standard/Kalifa_Elder_Falcon.cfg:53
 msgid "beak"
 msgstr ""
 
@@ -3107,14 +3107,22 @@ msgstr ""
 msgid "Icewind Drover"
 msgstr ""
 
-#: Extended_Era/units/standard/Steppe_Orc_Icewind_Drover.cfg:19
+#: Extended_Era/units/standard/Steppe_Orc_Icewind_Drover.cfg:22
 msgid ""
 "A Herder of sufficiant ability can become what the Steppe Orcs call a "
 "Drover, the elite of the IceWind order. With age and experience in the "
 "control of elemental magics. Some have claimed to be capable of summoning "
 "forth fierce blizzards from a clear sky, an unlikely feat unconfirmed by "
 "outsiders. When asked about the mechanics of their abilities they often "
-"answer by refering to themselves as "
+"answer by refering to themselves as 'conduits'. Just what it is that they "
+"channel is never revealed. \n"
+"The tribespeople claim to notice a blue tinge that begins to pervade their "
+"normally brown complexion and a crystalline hardness of their skin. Other "
+"steppe orcs whisper that this is because their hearts pump not blood, but "
+"ice. \n"
+"\n"
+"Special Notes: The Frost attack inflicted by the IceWind Drover is magical "
+"in nature and always has a high chance of hitting an enemy."
 msgstr ""
 
 #: Extended_Era/units/standard/Steppe_Orc_Icewind_Master.cfg:72
@@ -3131,7 +3139,7 @@ msgstr "kousnutí"
 msgid "Icewind Herder"
 msgstr ""
 
-#: Extended_Era/units/standard/Steppe_Orc_Icewind_Herder.cfg:21
+#: Extended_Era/units/standard/Steppe_Orc_Icewind_Herder.cfg:24
 msgid ""
 "There is an old tale about the creation of the the IceWind order: A gang of "
 "children were fishing when a very young female, hooking something bigger "
@@ -3148,7 +3156,14 @@ msgid ""
 "She became the founder of the IceWind order, every year she would select "
 "children from the tribe to train. Whatever she taught them, it granted them "
 "a mysterious influence over the elements of their habitat. The Herders "
-"themselves describe this influence as "
+"themselves describe this influence as 'union'. Within her lifetime the order "
+"became an accepted part of the clan. \n"
+"The child refused outright to reveal what had happened in the frozen pool "
+"and when she died many years later the secret died with her. \n"
+"\n"
+"Special Notes: In battle Herder's are able to conjure up a field of lethal "
+"cold. This is magical in nature and always has a high chance of damaging an "
+"enemy."
 msgstr ""
 
 #: Extended_Era/units/standard/Steppe_Orc_Icewind_Master.cfg:5
