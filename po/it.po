@@ -880,7 +880,7 @@ msgstr "Portabandiera"
 #: Extended_Era/units/rpg/Aragwaith_Spearman.cfg:5
 #: Extended_Era/units/standard/Aragwaith_Spearman.cfg:5
 msgid "Spearman"
-msgstr "Lanciere"
+msgstr "Fante"
 
 #: Extended_Era/units/rpg/Aragwaith_Spearman.cfg:19
 #: Extended_Era/units/standard/Aragwaith_Spearman.cfg:19
@@ -1135,7 +1135,7 @@ msgid ""
 msgstr ""
 "Questi elfi sono stati di esempio per i propri compagni soldati e si sono "
 "meritati il grado di capitano. Anche se non potranno mai diventare signori, "
-"fanno delo loro meglio per difendere la Madre Matrona con le loro spade e "
+"fanno del loro meglio per difendere la Madre Matrona con le loro spade e "
 "lance corte."
 
 #: Extended_Era/units/rpg/Dark_Elf_Fighter.cfg:5
@@ -1202,10 +1202,6 @@ msgid ""
 "lead their men in battle, and hold the law with an iron grip. They lead as "
 "an example to the life of a warrior in the realm of the Dark Elves."
 msgstr ""
-"Highly decorated, These men have gained the title of Lord through their "
-"cunning, their prowess, bravery, and strength. They command their provinces, "
-"lead their men in battle, and hold the law with an iron grip. They lead as "
-"an example to the life of a warrior in the realm of the Dark Elves."
 
 #: Extended_Era/units/rpg/Dark_Elf_Marshal.cfg:5
 #: Extended_Era/units/standard/Dark_Elf_Marshal.cfg:5
@@ -1489,7 +1485,7 @@ msgid ""
 msgstr ""
 "Gli Aragwaithi sono un popolo nobile; seppure gracili nel fisico, attraverso "
 "l'allenamento riescono a diventare tra i più letali cittadini di questo "
-"mondo. I loro arceri non fanno eccezione. La loro abilità con l'arco è "
+"mondo. I loro arcieri non fanno eccezione. La loro abilità con l'arco è "
 "paragonabile a quella di alcuni elfi e sono dannatamente veloci con i loro "
 "pugnali."
 
@@ -2607,10 +2603,10 @@ msgid ""
 "the cover of night.  Most rulers are afraid of rangers and would rather put "
 "them in the dungeon than put their abilities to use."
 msgstr ""
-"I rangers sono padroni delle zone selvagge di foresta e collina. Abilissimi "
+"I ranger sono padroni delle zone selvagge di foresta e collina. Abilissimi "
 "nel seguire le tracce, sono ottimi esploratori e arcieri, riescono a "
 "muoversi liberamente attraverso la campagna con la protezione del buoi. La "
-"maggior parte dei regnanti temono i rangers e piuttosto che utilizzare le "
+"maggior parte dei regnanti temono i ranger e piuttosto che utilizzare le "
 "loro abilità preferirebbero imprigionarli nelle segrete."
 
 #: Extended_Era/units/standard/Kalifa_Ahadath.cfg:5
@@ -3264,7 +3260,7 @@ msgid ""
 "behold. Hitting left and right with a strength and a devotion rarely seen, "
 "he cares not for pain, or even death..."
 msgstr ""
-"Quando la battglia è cominciata, la lama folle è uno spettacolo "
+"Quando la battaglia è cominciata, la lama folle è uno spettacolo "
 "terrificante. Colpisce a destra e manca con forza e determinazione rare, non "
 "la frena il dolore né la paura di morire..."
 
@@ -3586,7 +3582,7 @@ msgstr ""
 
 #: Extended_Era/units/standard/Steppe_Orc_Spearman.cfg:5
 msgid "Steppe Spearman"
-msgstr "Lanciere delle steppe"
+msgstr "Fante delle steppe"
 
 #: Extended_Era/units/standard/Steppe_Orc_Spearman.cfg:19
 msgid ""
