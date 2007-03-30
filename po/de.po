@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2007-01-31 17:50+0100\n"
+"POT-Creation-Date: 2007-03-30 20:27+0200\n"
 "PO-Revision-Date: 2007-03-15 20:01+0100\n"
 "Last-Translator: CIB <cib123@googlemail.com>\n"
 "Language-Team: German <gnome-de@gnome.org>\n"
@@ -552,9 +552,6 @@ msgstr "Speer"
 #: Extended_Era/units/standard/Steppe_Orc_Spearman.cfg:26
 #: Extended_Era/units/standard/Human_Outlaw_Ranger.cfg:100
 #: Extended_Era/units/standard/Kalifa_Rami.cfg:100
-#: Extended_Era/units/standard/Orcish_Shaman.cfg:61
-#: Extended_Era/units/standard/Orcish_Shaman.cfg:147
-#: Extended_Era/units/standard/Orcish_Shaman.cfg:233
 #: Extended_Era/units/standard/Steppe_Orc_Skewer.cfg:29
 #: Extended_Era/units/standard/Kalifa_Ghaznid.cfg:24
 #: Extended_Era/units/standard/Kalifa_Falcon.cfg:52
@@ -630,6 +627,8 @@ msgstr "Stich"
 #: Extended_Era/units/rpg/Dark_Elf_Captain.cfg:26
 #: Extended_Era/units/standard/Dark_Elf_Corsair.cfg:22
 #: Extended_Era/units/standard/Dark_Elf_Corsair.cfg:23
+#: Extended_Era/units/standard/Sidhe_Blizzardlord.cfg:21
+#: Extended_Era/units/standard/Sidhe_Blizzardlord.cfg:22
 #: Extended_Era/units/standard/Sidhe_Windlasher.cfg:21
 #: Extended_Era/units/standard/Sidhe_Windlasher.cfg:22
 #: Extended_Era/units/standard/Sidhe_Warsinger.cfg:25
@@ -640,8 +639,6 @@ msgstr "Stich"
 #: Extended_Era/units/standard/Sidhe_Warrior.cfg:22
 #: Extended_Era/units/standard/Chaos_Armorer.cfg:31
 #: Extended_Era/units/standard/Chaos_Armorer.cfg:32
-#: Extended_Era/units/standard/Aragwaith_Swordman.cfg:54
-#: Extended_Era/units/standard/Aragwaith_Swordman.cfg:55
 #: Extended_Era/units/standard/Sidhe_Wardancer.cfg:22
 #: Extended_Era/units/standard/Sidhe_Wardancer.cfg:23
 #: Extended_Era/units/standard/Sidhe_Herald.cfg:24
@@ -666,6 +663,8 @@ msgstr "Stich"
 #: Extended_Era/units/standard/Aragwaith_Swordmaster.cfg:78
 #: Extended_Era/units/standard/Sidhe_Veiledblade.cfg:24
 #: Extended_Era/units/standard/Sidhe_Veiledblade.cfg:25
+#: Extended_Era/units/standard/Sidhe_Snowdancer.cfg:20
+#: Extended_Era/units/standard/Sidhe_Snowdancer.cfg:21
 #: Extended_Era/units/standard/Chaos_Elite_Armorer.cfg:32
 #: Extended_Era/units/standard/Chaos_Elite_Armorer.cfg:33
 #: Extended_Era/units/standard/Aragwaith_Longswordsman.cfg:61
@@ -698,10 +697,14 @@ msgstr "Stich"
 #: Extended_Era/units/standard/Chaos_Blood_Knight.cfg:39
 #: Extended_Era/units/standard/Dark_Elf_Marshal.cfg:26
 #: Extended_Era/units/standard/Dark_Elf_Marshal.cfg:27
+#: Extended_Era/units/standard/Sidhe_Hoarfroster.cfg:20
+#: Extended_Era/units/standard/Sidhe_Hoarfroster.cfg:21
 #: Extended_Era/units/standard/Aragwaith_Captain.cfg:148
 #: Extended_Era/units/standard/Aragwaith_Captain.cfg:149
 #: Extended_Era/units/standard/Sidhe_Wildblade.cfg:21
 #: Extended_Era/units/standard/Sidhe_Wildblade.cfg:22
+#: Extended_Era/units/standard/Aragwaith_Swordsman.cfg:54
+#: Extended_Era/units/standard/Aragwaith_Swordsman.cfg:55
 #: Extended_Era/units/standard/Sidhe_Fury.cfg:21
 #: Extended_Era/units/standard/Sidhe_Fury.cfg:22
 #: Extended_Era/units/standard/Aragwaith_Guard.cfg:55
@@ -729,8 +732,10 @@ msgstr "Schwert"
 #: Extended_Era/units/rpg/Dark_Elf_Captain.cfg:28
 #: Extended_Era/units/standard/Dark_Elf_Corsair.cfg:25
 #: Extended_Era/units/standard/Human_Outlaw_Shadow_Mage.cfg:36
+#: Extended_Era/units/standard/Sidhe_Blizzardlord.cfg:24
 #: Extended_Era/units/standard/Dark_Elf_Shadow.cfg:28
 #: Extended_Era/units/standard/Kalifa_Mamluk.cfg:27
+#: Extended_Era/units/standard/Bear_Young.cfg:49
 #: Extended_Era/units/standard/Sidhe_Windlasher.cfg:24
 #: Extended_Era/units/standard/Chaos_Winged_Daemon.cfg:41
 #: Extended_Era/units/standard/Chaos_Greater_Daemon.cfg:33
@@ -740,7 +745,6 @@ msgstr "Schwert"
 #: Extended_Era/units/standard/Naga_Depthstalker.cfg:56
 #: Extended_Era/units/standard/Sidhe_Warrior.cfg:24
 #: Extended_Era/units/standard/Chaos_Armorer.cfg:33
-#: Extended_Era/units/standard/Aragwaith_Swordman.cfg:57
 #: Extended_Era/units/standard/Sidhe_Wardancer.cfg:25
 #: Extended_Era/units/standard/Steppe_Goblin_Striker.cfg:30
 #: Extended_Era/units/standard/Sidhe_Spirit_Ancestor.cfg:28
@@ -771,6 +775,7 @@ msgstr "Schwert"
 #: Extended_Era/units/standard/Dwarvish_Flamethower.cfg:33
 #: Extended_Era/units/standard/Kalifa_Mubarizan.cfg:64
 #: Extended_Era/units/standard/Sidhe_Veiledblade.cfg:27
+#: Extended_Era/units/standard/Sidhe_Snowdancer.cfg:23
 #: Extended_Era/units/standard/Chaos_Soulhunter.cfg:68
 #: Extended_Era/units/standard/Chaos_Elite_Armorer.cfg:35
 #: Extended_Era/units/standard/Steppe_Orc_Vanguard.cfg:73
@@ -809,11 +814,13 @@ msgstr "Schwert"
 #: Extended_Era/units/standard/Kalifa_Karadis.cfg:26
 #: Extended_Era/units/standard/Sidhe_Thunderblade.cfg:25
 #: Extended_Era/units/standard/Chaos_Daemon.cfg:32
+#: Extended_Era/units/standard/Sidhe_Hoarfroster.cfg:23
 #: Extended_Era/units/standard/Aragwaith_Captain.cfg:151
 #: Extended_Era/units/standard/Steppe_Orc_Bladesman.cfg:26
 #: Extended_Era/units/standard/Sidhe_Wildblade.cfg:24
 #: Extended_Era/units/standard/Kalifa_Ghazi.cfg:24
 #: Extended_Era/units/standard/Steppe_Goblin_Flanker.cfg:30
+#: Extended_Era/units/standard/Aragwaith_Swordsman.cfg:57
 #: Extended_Era/units/standard/Sidhe_Spirit_Forefather.cfg:29
 #: Extended_Era/units/standard/Kalifa_Ahadath.cfg:24
 #: Extended_Era/units/standard/Sidhe_Spirit_Warrior.cfg:28
@@ -824,6 +831,7 @@ msgstr "Schwert"
 #: Extended_Era/units/standard/Steppe_Orc_Massif.cfg:27
 #: Extended_Era/units/standard/Chaos_Hound_Rabid.cfg:39
 #: Extended_Era/units/standard/Dark_Elf_Lizard_Master.cfg:68
+#: Extended_Era/units/standard/Bear.cfg:50
 #: Extended_Era/units/standard/Aragwaith_Guard.cfg:58
 #: Extended_Era/units/standard/Chaos_Lesser_Daemon.cfg:32
 #: Extended_Era/units/standard/Dark_Elf_Captain.cfg:28
@@ -883,14 +891,12 @@ msgstr ""
 #: Extended_Era/units/rpg/Chaos_Magus.cfg:47
 #: Extended_Era/units/rpg/Chaos_Demonologist.cfg:35
 #: Extended_Era/units/rpg/Chaos_Demonologist.cfg:36
+#: Extended_Era/units/standard/Orcish_Witch_Doctor.cfg:33
+#: Extended_Era/units/standard/Orcish_Witch_Doctor.cfg:34
 #: Extended_Era/units/standard/Chaos_Invoker.cfg:43
 #: Extended_Era/units/standard/Chaos_Invoker.cfg:44
 #: Extended_Era/units/standard/Orcish_Shaman.cfg:32
 #: Extended_Era/units/standard/Orcish_Shaman.cfg:33
-#: Extended_Era/units/standard/Orcish_Shaman.cfg:118
-#: Extended_Era/units/standard/Orcish_Shaman.cfg:119
-#: Extended_Era/units/standard/Orcish_Shaman.cfg:204
-#: Extended_Era/units/standard/Orcish_Shaman.cfg:205
 #: Extended_Era/units/standard/Steppe_Orc_Icewind_Master.cfg:33
 #: Extended_Era/units/standard/Steppe_Orc_Icewind_Master.cfg:34
 #: Extended_Era/units/standard/Aragwaith_Wizard.cfg:31
@@ -903,6 +909,8 @@ msgstr ""
 #: Extended_Era/units/standard/Chaos_Demonologist.cfg:36
 #: Extended_Era/units/standard/Steppe_Orc_Icewind_Herder.cfg:35
 #: Extended_Era/units/standard/Steppe_Orc_Icewind_Herder.cfg:36
+#: Extended_Era/units/standard/Orcish_Warlock.cfg:33
+#: Extended_Era/units/standard/Orcish_Warlock.cfg:34
 #: Extended_Era/units/standard/Steppe_Orc_Icewind_Drover.cfg:33
 #: Extended_Era/units/standard/Steppe_Orc_Icewind_Drover.cfg:34
 #: Extended_Era/units/standard/Aragwaith_Sorcerer.cfg:36
@@ -921,16 +929,16 @@ msgstr "Stab"
 #: Extended_Era/units/rpg/Dark_Elf_High_Lord.cfg:65
 #: Extended_Era/units/rpg/Dark_Elf_Noble.cfg:61
 #: Extended_Era/units/rpg/Steppe_Orc_Khan.cfg:33
+#: Extended_Era/units/standard/Bear_Young.cfg:24
 #: Extended_Era/units/standard/Dwarvish_Gyrocopter.cfg:38
 #: Extended_Era/units/standard/Dwarvish_Runemaster.cfg:28
+#: Extended_Era/units/standard/Orcish_Witch_Doctor.cfg:35
 #: Extended_Era/units/standard/Kalifa_Ghulam.cfg:67
 #: Extended_Era/units/standard/Chaos_Armorer.cfg:70
 #: Extended_Era/units/standard/Chaos_Invoker.cfg:45
 #: Extended_Era/units/standard/Chaos_Hound_Flesh.cfg:40
 #: Extended_Era/units/standard/Steppe_Orc_Juggernaut.cfg:29
 #: Extended_Era/units/standard/Orcish_Shaman.cfg:34
-#: Extended_Era/units/standard/Orcish_Shaman.cfg:120
-#: Extended_Era/units/standard/Orcish_Shaman.cfg:206
 #: Extended_Era/units/standard/Steppe_Orc_Stoic.cfg:35
 #: Extended_Era/units/standard/Kalifa_Ghaznid.cfg:62
 #: Extended_Era/units/standard/Kalifa_Ekim_Haram.cfg:32
@@ -974,16 +982,18 @@ msgstr "Stab"
 #: Extended_Era/units/standard/Steppe_Orc_Khan.cfg:33
 #: Extended_Era/units/standard/Kalifa_Ekim.cfg:30
 #: Extended_Era/units/standard/Naga_Sentinel.cfg:30
+#: Extended_Era/units/standard/Orcish_Warlock.cfg:35
 #: Extended_Era/units/standard/Naga_Warden.cfg:29
 #: Extended_Era/units/standard/Dark_Elf_Sorceress.cfg:27
 #: Extended_Era/units/standard/Chaos_Greater_Mutation.cfg:36
 #: Extended_Era/units/standard/Dark_Elf_Enchantress.cfg:24
 #: Extended_Era/units/standard/Steppe_Orc_Rigid.cfg:34
 #: Extended_Era/units/standard/Steppe_Orc_Icewind_Drover.cfg:36
+#: Extended_Era/units/standard/Bear.cfg:25
 #: Extended_Era/units/standard/Kalifa_Life_Guard.cfg:63
 #: Extended_Era/units/standard/Human_Outlaw_Highwayman.cfg:50
 #: Extended_Era/units/standard/Aragwaith_Sorcerer.cfg:39
-#: Extended_Era/units/standard/Troll_Shaman.cfg:33
+#: Extended_Era/units/standard/Troll_Shaman.cfg:34
 #: Extended_Era/units/standard/Kalifa_Immortal.cfg:108
 msgid "impact"
 msgstr "Wucht"
@@ -1010,10 +1020,14 @@ msgstr "Chaos Welle"
 #: Extended_Era/units/rpg/Chaos_Magus.cfg:85
 #: Extended_Era/units/rpg/Chaos_Demonologist.cfg:75
 #: Extended_Era/units/standard/Human_Outlaw_Shadow_Mage.cfg:75
+#: Extended_Era/units/standard/Sidhe_Blizzardlord.cfg:49
 #: Extended_Era/units/standard/Human_Outlaw_Rogue_Mage.cfg:89
+#: Extended_Era/units/standard/Orcish_Witch_Doctor.cfg:62
 #: Extended_Era/units/standard/Chaos_Invoker.cfg:82
 #: Extended_Era/units/standard/Sidhe_Spirit_Ancestor.cfg:53
 #: Extended_Era/units/standard/Dark_Elf_Wizard.cfg:25
+#: Extended_Era/units/standard/Orcish_Shaman.cfg:61
+#: Extended_Era/units/standard/Sidhe_Snowdancer.cfg:48
 #: Extended_Era/units/standard/Steppe_Orc_Pariah.cfg:28
 #: Extended_Era/units/standard/Human_Outlaw_Shadow_Lord.cfg:136
 #: Extended_Era/units/standard/Steppe_Orc_Icewind_Master.cfg:75
@@ -1024,19 +1038,21 @@ msgstr "Chaos Welle"
 #: Extended_Era/units/standard/Steppe_Orc_Icewind_Herder.cfg:77
 #: Extended_Era/units/standard/Dark_Elf_Warlock.cfg:26
 #: Extended_Era/units/standard/Dark_Elf_Warlock.cfg:66
+#: Extended_Era/units/standard/Sidhe_Hoarfroster.cfg:48
+#: Extended_Era/units/standard/Orcish_Warlock.cfg:62
 #: Extended_Era/units/standard/Sidhe_Spirit_Forefather.cfg:54
 #: Extended_Era/units/standard/Steppe_Orc_Icewind_Drover.cfg:75
 msgid "cold"
 msgstr "Kälte"
 
-#: Extended_Era/units/rpg/Chaos_Demonologist.cfg:105
-#: Extended_Era/units/rpg/Chaos_Demonologist.cfg:106
-#: Extended_Era/units/standard/Chaos_Demonologist.cfg:105
-#: Extended_Era/units/standard/Chaos_Demonologist.cfg:106
+#: Extended_Era/units/rpg/Chaos_Demonologist.cfg:128
+#: Extended_Era/units/rpg/Chaos_Demonologist.cfg:129
+#: Extended_Era/units/standard/Chaos_Demonologist.cfg:128
+#: Extended_Era/units/standard/Chaos_Demonologist.cfg:129
 msgid "infernal storm"
 msgstr "Feuersbrunst"
 
-#: Extended_Era/units/rpg/Chaos_Demonologist.cfg:108
+#: Extended_Era/units/rpg/Chaos_Demonologist.cfg:131
 #: Extended_Era/units/standard/Sidhe_Windlasher.cfg:48
 #: Extended_Era/units/standard/Chaos_Winged_Daemon.cfg:77
 #: Extended_Era/units/standard/Chaos_Greater_Daemon.cfg:70
@@ -1048,7 +1064,7 @@ msgstr "Feuersbrunst"
 #: Extended_Era/units/standard/Dark_Elf_Cleric.cfg:65
 #: Extended_Era/units/standard/Aragwaith_Wizard.cfg:61
 #: Extended_Era/units/standard/Aragwaith_Warlock.cfg:74
-#: Extended_Era/units/standard/Chaos_Demonologist.cfg:107
+#: Extended_Era/units/standard/Chaos_Demonologist.cfg:130
 #: Extended_Era/units/standard/Sidhe_Stormlord.cfg:49
 #: Extended_Era/units/standard/Sidhe_Warmage.cfg:48
 #: Extended_Era/units/standard/Kalifa_Rami_al_Nuri.cfg:63
@@ -1059,7 +1075,7 @@ msgstr "Feuersbrunst"
 #: Extended_Era/units/standard/Dark_Elf_Enchantress.cfg:61
 #: Extended_Era/units/standard/Chaos_Lesser_Daemon.cfg:68
 #: Extended_Era/units/standard/Aragwaith_Sorcerer.cfg:66
-#: Extended_Era/units/standard/Troll_Shaman.cfg:58
+#: Extended_Era/units/standard/Troll_Shaman.cfg:59
 msgid "fire"
 msgstr "Feuer"
 
@@ -1580,6 +1596,8 @@ msgstr ""
 "verhalten. Als Adlermeister müssen sie ihren Reittieren nicht länger Befehle "
 "geben, denn sie handeln schon vorweg. "
 
+#: Extended_Era/units/standard/Bear_Young.cfg:46
+#: Extended_Era/units/standard/Bear_Young.cfg:47
 #: Extended_Era/units/standard/Chaos_Winged_Daemon.cfg:38
 #: Extended_Era/units/standard/Chaos_Winged_Daemon.cfg:39
 #: Extended_Era/units/standard/Kalifa_Falcon.cfg:23
@@ -1592,6 +1610,8 @@ msgstr ""
 #: Extended_Era/units/standard/Aragwaith_Eagle_Rider.cfg:27
 #: Extended_Era/units/standard/Kalifa_Elder_Falcon.cfg:25
 #: Extended_Era/units/standard/Kalifa_Elder_Falcon.cfg:26
+#: Extended_Era/units/standard/Bear.cfg:47
+#: Extended_Era/units/standard/Bear.cfg:48
 msgid "claws"
 msgstr "Klauen"
 
@@ -1785,11 +1805,15 @@ msgstr ""
 "gewöhnliche Bogenschütze. Sein Dolch ist ebenfalls länger als der eines "
 "normalen Bogenschützen und er benutzt ihn auch effektiver."
 
-#: Extended_Era/units/standard/Aragwaith_Swordman.cfg:5
+#: Extended_Era/units/standard/Aragwaith_Swordmaster.cfg:5
+msgid "Swordmaster"
+msgstr "Schwertmeister"
+
+#: Extended_Era/units/standard/Aragwaith_Swordsman.cfg:5
 msgid "Swordsman"
 msgstr "Schwertkämpfer"
 
-#: Extended_Era/units/standard/Aragwaith_Swordman.cfg:25
+#: Extended_Era/units/standard/Aragwaith_Swordsman.cfg:25
 msgid ""
 "While the Agarwaith are slight of body, they are also fast and nimble. These "
 "abilites, coupled with the intensive training given to the Agarwaithi "
@@ -1801,10 +1825,6 @@ msgstr ""
 "Training, das sie absolvieren, werden die Aragwaithi zu hervorragenden "
 "Schwertkämpfern. Schwertkämpfer tragen nur ein leichtes Kettenhemd - was "
 "besser ist, um den Klingen ihrer Gegner zu widerstehen."
-
-#: Extended_Era/units/standard/Aragwaith_Swordmaster.cfg:5
-msgid "Swordmaster"
-msgstr "Schwertmeister"
 
 #: Extended_Era/units/standard/Aragwaith_Warlock.cfg:5
 msgid "Aragwaith^Warlock"
@@ -1850,6 +1870,30 @@ msgstr "Magier"
 #: Extended_Era/units/standard/Aragwaith_Wizard.cfg:91
 msgid "female^Wizard"
 msgstr "Magierin"
+
+#: Extended_Era/units/standard/Bear.cfg:5
+#, fuzzy
+msgid "Bear"
+msgstr "Speer"
+
+#: Extended_Era/units/standard/Bear.cfg:18
+msgid "just a bear"
+msgstr ""
+
+#: Extended_Era/units/standard/Bear_Young.cfg:21
+#: Extended_Era/units/standard/Bear_Young.cfg:22
+#: Extended_Era/units/standard/Bear.cfg:22
+#: Extended_Era/units/standard/Bear.cfg:23
+msgid "bearhug"
+msgstr ""
+
+#: Extended_Era/units/standard/Bear_Young.cfg:5
+msgid "Young Bear"
+msgstr ""
+
+#: Extended_Era/units/standard/Bear_Young.cfg:17
+msgid "a young bear"
+msgstr ""
 
 #: Extended_Era/units/standard/Chaos_Abomination.cfg:5
 #, fuzzy
@@ -2056,8 +2100,8 @@ msgstr ""
 
 #: Extended_Era/units/standard/Chaos_Hound_Flesh.cfg:37
 #: Extended_Era/units/standard/Chaos_Hound_Flesh.cfg:38
-#: Extended_Era/units/standard/Troll_Shaman.cfg:30
 #: Extended_Era/units/standard/Troll_Shaman.cfg:31
+#: Extended_Era/units/standard/Troll_Shaman.cfg:32
 msgid "fist"
 msgstr "Faust"
 
@@ -2178,20 +2222,14 @@ msgstr ""
 msgid "mace"
 msgstr "Streitkolben"
 
-#: Extended_Era/units/standard/Dark_Elf_Wizard.cfg:23
-#: Extended_Era/units/standard/Dark_Elf_Wizard.cfg:24
 #: Extended_Era/units/standard/Dark_Elf_Cleric.cfg:62
 #: Extended_Era/units/standard/Dark_Elf_Cleric.cfg:63
-#: Extended_Era/units/standard/Dark_Elf_Sorcerer.cfg:23
-#: Extended_Era/units/standard/Dark_Elf_Sorcerer.cfg:24
-#: Extended_Era/units/standard/Dark_Elf_Warlock.cfg:63
-#: Extended_Era/units/standard/Dark_Elf_Warlock.cfg:64
 #: Extended_Era/units/standard/Dark_Elf_Sorceress.cfg:61
 #: Extended_Era/units/standard/Dark_Elf_Sorceress.cfg:62
 #: Extended_Era/units/standard/Dark_Elf_Enchantress.cfg:58
 #: Extended_Era/units/standard/Dark_Elf_Enchantress.cfg:59
-msgid "magic"
-msgstr "Kälteschock"
+msgid "magic torture"
+msgstr ""
 
 #: Extended_Era/units/standard/Dark_Elf_Corsair.cfg:5
 msgid "Corsair"
@@ -2343,6 +2381,16 @@ msgstr ""
 "den dunklen Künsten bringt, die von Totenbeschwörern und Lichen gebraucht "
 "werden. Ihr mystischer Kälstestoß kann jeden Feind zum erfrieren bringen, "
 "der es wagt, ihren Weg zu kreuzen."
+
+#: Extended_Era/units/standard/Dark_Elf_Wizard.cfg:23
+#: Extended_Era/units/standard/Dark_Elf_Wizard.cfg:24
+#: Extended_Era/units/standard/Dark_Elf_Sorcerer.cfg:23
+#: Extended_Era/units/standard/Dark_Elf_Sorcerer.cfg:24
+#: Extended_Era/units/standard/Dark_Elf_Warlock.cfg:63
+#: Extended_Era/units/standard/Dark_Elf_Warlock.cfg:64
+#, fuzzy
+msgid "dark wave"
+msgstr "Dunkel Elfen"
 
 #: Extended_Era/units/standard/Dark_Elf_Sorceress.cfg:5
 msgid "Dark Elf^Sorceress"
@@ -3096,7 +3144,8 @@ msgstr ""
 msgid "Orcish Shaman"
 msgstr "Orkschamane"
 
-#: Extended_Era/units/standard/Orcish_Shaman.cfg:22
+#: Extended_Era/units/standard/Orcish_Witch_Doctor.cfg:22
+#: Extended_Era/units/standard/Orcish_Shaman.cfg:21
 msgid ""
 "Orcish Shamans are the guardians of orcish magic. Respected among orcish "
 "tribes, they form the Orcish Council, which makes important decisions for "
@@ -3114,28 +3163,28 @@ msgstr ""
 "durch ihre Fähigkeit Magie herauf zu beschwören und Ihren Feinden mit "
 "Flüchen die Lebensenergie auszusaugen, nicht zu verachten."
 
+#: Extended_Era/units/standard/Orcish_Witch_Doctor.cfg:60
+#: Extended_Era/units/standard/Orcish_Witch_Doctor.cfg:61
 #: Extended_Era/units/standard/Orcish_Shaman.cfg:59
 #: Extended_Era/units/standard/Orcish_Shaman.cfg:60
-#: Extended_Era/units/standard/Orcish_Shaman.cfg:145
-#: Extended_Era/units/standard/Orcish_Shaman.cfg:146
-#: Extended_Era/units/standard/Orcish_Shaman.cfg:231
-#: Extended_Era/units/standard/Orcish_Shaman.cfg:232
+#: Extended_Era/units/standard/Orcish_Warlock.cfg:60
+#: Extended_Era/units/standard/Orcish_Warlock.cfg:61
 msgid "curse"
 msgstr "Fluch"
 
-#: Extended_Era/units/standard/Orcish_Shaman.cfg:91
-msgid "Novice Orcish Shaman"
-msgstr "Junger Orkschamane"
+#: Extended_Era/units/standard/Orcish_Warlock.cfg:5
+#, fuzzy
+msgid "Orcish Warlock"
+msgstr "Zauberer"
 
-#: Extended_Era/units/standard/Orcish_Shaman.cfg:108
+#: Extended_Era/units/standard/Orcish_Warlock.cfg:22
+#, fuzzy
 msgid ""
 "Orcish Shamans are the guardians of orcish magic. Respected among orcish "
 "tribes, they form the Orcish Council, which makes important decisions for "
 "the whole Orcish community and arbitrates the many conflicts that arise "
 "between tribes of this argumentative race. Although physically weak (for "
-"Orcs), Orcish Shamans are good spell casters and can curse their enemies, "
-"draining their life. Novice Shamans are still young and vigorous, but their "
-"spell-casting ability still needs improvement."
+"Orcs), Orcish Shamans are good spell casters and can curse their enemies."
 msgstr ""
 "Orkschamanen sind die Bewahrer der orkischen Magiekunde. Respektiert in "
 "allen Stämmen, bilden sie Mitglieder des orkischen Gemeinderats, welcher die "
@@ -3146,31 +3195,9 @@ msgstr ""
 "durch ihre Fähigkeit Magie herauf zu beschwören und Ihren Feinden mit "
 "Flüchen die Lebensenergie auszusaugen, nicht zu verachten."
 
-#: Extended_Era/units/standard/Orcish_Shaman.cfg:177
-msgid "Old Orcish Shaman"
-msgstr "Alter Orkschamane"
-
-#: Extended_Era/units/standard/Orcish_Shaman.cfg:194
-msgid ""
-"Orcish Shamans are the guardians of orcish magic. Respected among orcish "
-"tribes, they form the Orcish Council, which makes important decisions for "
-"the whole Orcish community and arbitrates the many conflicts that arise "
-"between tribes of this argumentative race. Although physically weak (for "
-"Orcs), Orcish Shamans are good spell casters and can curse their enemies, "
-"draining their life. Old Orcish Shamans are shamans that have mastered "
-"magic, although their physical strength has declined with age."
+#: Extended_Era/units/standard/Orcish_Witch_Doctor.cfg:5
+msgid "Orcish Witch Doctor"
 msgstr ""
-"Orkschamanen sind die Bewahrer der orkischen Magiekunde. Respektiert in "
-"allen Stämmen, bilden sie Mitglieder des orkischen Gemeinderats, welcher die "
-"wichtigsten Entscheidungen des gesamten Stammes trifft und dafür "
-"verantwortlich ist Streite zu schlichten, die allzu oft zwischen den "
-"verschiedenen Stämmen dieser kriegerischen Wesen aufflammen. Trotz der "
-"körperlichen Schwäche (im Vergleich zu anderen Orks), sind sie im Kampf "
-"durch ihre Fähigkeit Magie herauf zu beschwören und Ihren Feinden mit "
-"Flüchen die Lebensenergie auszusaugen, nicht zu verachten.  Alte "
-"Orkschamanen sind Schamanen, welche Ihre Magischen Fähigkeiten "
-"perfektioniert haben, allerdings hat auch Ihre Körperliche Kraft durch das "
-"hohe Alter weiter abgenommen."
 
 #: Extended_Era/units/standard/Sidhe_Bladespinner.cfg:5
 msgid "Bladespinner"
@@ -3180,6 +3207,19 @@ msgstr ""
 msgid ""
 "The better warriors of the sidhe are known as bladespinners. They can, it is "
 "said, cut a man in three different places before he will lift his weapon."
+msgstr ""
+
+#: Extended_Era/units/standard/Sidhe_Blizzardlord.cfg:5
+msgid "Blizzardlord"
+msgstr ""
+
+#: Extended_Era/units/standard/Sidhe_Blizzardlord.cfg:46
+#: Extended_Era/units/standard/Sidhe_Blizzardlord.cfg:47
+#: Extended_Era/units/standard/Sidhe_Snowdancer.cfg:45
+#: Extended_Era/units/standard/Sidhe_Snowdancer.cfg:46
+#: Extended_Era/units/standard/Sidhe_Hoarfroster.cfg:45
+#: Extended_Era/units/standard/Sidhe_Hoarfroster.cfg:46
+msgid "snow wind"
 msgstr ""
 
 #: Extended_Era/units/standard/Sidhe_Fury.cfg:5
@@ -3192,6 +3232,11 @@ msgid ""
 "of the battle, he will throw himself in an all-out attack, fighting untile "
 "either he or his ennemy is dead."
 msgstr ""
+
+#: Extended_Era/units/standard/Sidhe_Hoarfroster.cfg:5
+#, fuzzy
+msgid "Hoarfroster"
+msgstr "Frostbiss"
 
 #: Extended_Era/units/standard/Sidhe_Raindancer.cfg:5
 msgid "Raindancer"
@@ -3231,6 +3276,11 @@ msgid ""
 "advised not to do so in his face, lest they wish to have their sword in "
 "their back."
 msgstr ""
+
+#: Extended_Era/units/standard/Sidhe_Snowdancer.cfg:5
+#, fuzzy
+msgid "Snowdancer"
+msgstr "Lanzenreiter"
 
 #: Extended_Era/units/standard/Sidhe_Spirit_Ancestor.cfg:5
 msgid "Sidhe Ancestor"
@@ -3809,7 +3859,7 @@ msgstr ""
 msgid "Troll Shaman"
 msgstr "Trollschamane"
 
-#: Extended_Era/units/standard/Troll_Shaman.cfg:24
+#: Extended_Era/units/standard/Troll_Shaman.cfg:25
 msgid ""
 "Troll shamans are the mystical leaders of the trolls. Though not as strong "
 "or tough as other trolls, their true power lies in their fire magic, which "
@@ -3819,8 +3869,8 @@ msgstr ""
 "stark wie andere Trolle, aber ihre wahre Macht liegt in ihrer Feuermagie, "
 "mit der sie ihren Feinden eine Gischt aus Feuer entgegen schleudern."
 
-#: Extended_Era/units/standard/Troll_Shaman.cfg:56
 #: Extended_Era/units/standard/Troll_Shaman.cfg:57
+#: Extended_Era/units/standard/Troll_Shaman.cfg:58
 msgid "flame blast"
 msgstr "Flammenstoß"
 
@@ -3842,6 +3892,54 @@ msgstr ""
 #: Extended_Era/units/standard/Wose_Shaman.cfg:75
 msgid "entangle"
 msgstr "Sandsturm"
+
+#~ msgid "magic"
+#~ msgstr "Kälteschock"
+
+#~ msgid "Novice Orcish Shaman"
+#~ msgstr "Junger Orkschamane"
+
+#~ msgid ""
+#~ "Orcish Shamans are the guardians of orcish magic. Respected among orcish "
+#~ "tribes, they form the Orcish Council, which makes important decisions for "
+#~ "the whole Orcish community and arbitrates the many conflicts that arise "
+#~ "between tribes of this argumentative race. Although physically weak (for "
+#~ "Orcs), Orcish Shamans are good spell casters and can curse their enemies, "
+#~ "draining their life. Novice Shamans are still young and vigorous, but "
+#~ "their spell-casting ability still needs improvement."
+#~ msgstr ""
+#~ "Orkschamanen sind die Bewahrer der orkischen Magiekunde. Respektiert in "
+#~ "allen Stämmen, bilden sie Mitglieder des orkischen Gemeinderats, welcher "
+#~ "die wichtigsten Entscheidungen des gesamten Stammes trifft und dafür "
+#~ "verantwortlich ist Streite zu schlichten, die allzu oft zwischen den "
+#~ "verschiedenen Stämmen dieser kriegerischen Wesen aufflammen. Trotz der "
+#~ "körperlichen Schwäche (im Vergleich zu anderen Orks), sind sie im Kampf "
+#~ "durch ihre Fähigkeit Magie herauf zu beschwören und Ihren Feinden mit "
+#~ "Flüchen die Lebensenergie auszusaugen, nicht zu verachten."
+
+#~ msgid "Old Orcish Shaman"
+#~ msgstr "Alter Orkschamane"
+
+#~ msgid ""
+#~ "Orcish Shamans are the guardians of orcish magic. Respected among orcish "
+#~ "tribes, they form the Orcish Council, which makes important decisions for "
+#~ "the whole Orcish community and arbitrates the many conflicts that arise "
+#~ "between tribes of this argumentative race. Although physically weak (for "
+#~ "Orcs), Orcish Shamans are good spell casters and can curse their enemies, "
+#~ "draining their life. Old Orcish Shamans are shamans that have mastered "
+#~ "magic, although their physical strength has declined with age."
+#~ msgstr ""
+#~ "Orkschamanen sind die Bewahrer der orkischen Magiekunde. Respektiert in "
+#~ "allen Stämmen, bilden sie Mitglieder des orkischen Gemeinderats, welcher "
+#~ "die wichtigsten Entscheidungen des gesamten Stammes trifft und dafür "
+#~ "verantwortlich ist Streite zu schlichten, die allzu oft zwischen den "
+#~ "verschiedenen Stämmen dieser kriegerischen Wesen aufflammen. Trotz der "
+#~ "körperlichen Schwäche (im Vergleich zu anderen Orks), sind sie im Kampf "
+#~ "durch ihre Fähigkeit Magie herauf zu beschwören und Ihren Feinden mit "
+#~ "Flüchen die Lebensenergie auszusaugen, nicht zu verachten.  Alte "
+#~ "Orkschamanen sind Schamanen, welche Ihre Magischen Fähigkeiten "
+#~ "perfektioniert haben, allerdings hat auch Ihre Körperliche Kraft durch "
+#~ "das hohe Alter weiter abgenommen."
 
 #~ msgid "leadership"
 #~ msgstr "Führungsqualitäten"
