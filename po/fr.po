@@ -3,9 +3,9 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2007-03-30 20:27+0200\n"
-"PO-Revision-Date: 2007-02-03 00:27+0100\n"
+"PO-Revision-Date: 2007-03-30 23:12+0200\n"
 "Last-Translator: Benoît Timbert <benoit.timbert@free.fr>\n"
-"Language-Team: none\n"
+"Language-Team: Équipe de traduction française <wesnoth@ml.free.fr>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -1897,28 +1897,27 @@ msgid "female^Wizard"
 msgstr "Mage"
 
 #: Extended_Era/units/standard/Bear.cfg:5
-#, fuzzy
 msgid "Bear"
-msgstr "lance"
+msgstr "Ours"
 
 #: Extended_Era/units/standard/Bear.cfg:18
 msgid "just a bear"
-msgstr ""
+msgstr "Un simple ours"
 
 #: Extended_Era/units/standard/Bear_Young.cfg:21
 #: Extended_Era/units/standard/Bear_Young.cfg:22
 #: Extended_Era/units/standard/Bear.cfg:22
 #: Extended_Era/units/standard/Bear.cfg:23
 msgid "bearhug"
-msgstr ""
+msgstr "prise de l'ours"
 
 #: Extended_Era/units/standard/Bear_Young.cfg:5
 msgid "Young Bear"
-msgstr ""
+msgstr "Jeune ours"
 
 #: Extended_Era/units/standard/Bear_Young.cfg:17
 msgid "a young bear"
-msgstr ""
+msgstr "Un jeune ours"
 
 #: Extended_Era/units/standard/Chaos_Abomination.cfg:5
 msgid "Abomination"
@@ -2263,7 +2262,7 @@ msgstr "massue"
 #: Extended_Era/units/standard/Dark_Elf_Enchantress.cfg:58
 #: Extended_Era/units/standard/Dark_Elf_Enchantress.cfg:59
 msgid "magic torture"
-msgstr ""
+msgstr "torture magique"
 
 #: Extended_Era/units/standard/Dark_Elf_Corsair.cfg:5
 msgid "Corsair"
@@ -2418,9 +2417,8 @@ msgstr ""
 #: Extended_Era/units/standard/Dark_Elf_Sorcerer.cfg:24
 #: Extended_Era/units/standard/Dark_Elf_Warlock.cfg:63
 #: Extended_Era/units/standard/Dark_Elf_Warlock.cfg:64
-#, fuzzy
 msgid "dark wave"
-msgstr "Elfes des ténèbres"
+msgstr "rafale des ténèbres"
 
 #: Extended_Era/units/standard/Dark_Elf_Sorceress.cfg:5
 msgid "Dark Elf^Sorceress"
@@ -3317,12 +3315,10 @@ msgid "curse"
 msgstr "malédiction"
 
 #: Extended_Era/units/standard/Orcish_Warlock.cfg:5
-#, fuzzy
 msgid "Orcish Warlock"
-msgstr "Magicien"
+msgstr "Sorcier orc"
 
 #: Extended_Era/units/standard/Orcish_Warlock.cfg:22
-#, fuzzy
 msgid ""
 "Orcish Shamans are the guardians of orcish magic. Respected among orcish "
 "tribes, they form the Orcish Council, which makes important decisions for "
@@ -3334,12 +3330,11 @@ msgstr ""
 "forment le Conseil des Orcs, qui prend des décisions importantes et arbitre "
 "les nombreux conflits qui surgissent entre les tribus de cette race "
 "turbulente. Bien que physiquement fragiles (pour des orcs), les chamans orcs "
-"sont de bon lanceurs de sorts et peuvent maudire leur ennemis, drainant leur "
-"vie."
+"sont de bon lanceurs de sorts et peuvent maudire leur ennemis."
 
 #: Extended_Era/units/standard/Orcish_Witch_Doctor.cfg:5
 msgid "Orcish Witch Doctor"
-msgstr ""
+msgstr "Maléfacteur orc"
 
 #: Extended_Era/units/standard/Sidhe_Bladespinner.cfg:5
 msgid "Bladespinner"
@@ -3356,7 +3351,7 @@ msgstr ""
 
 #: Extended_Era/units/standard/Sidhe_Blizzardlord.cfg:5
 msgid "Blizzardlord"
-msgstr ""
+msgstr "Maître-blizzard"
 
 #: Extended_Era/units/standard/Sidhe_Blizzardlord.cfg:46
 #: Extended_Era/units/standard/Sidhe_Blizzardlord.cfg:47
@@ -3365,7 +3360,7 @@ msgstr ""
 #: Extended_Era/units/standard/Sidhe_Hoarfroster.cfg:45
 #: Extended_Era/units/standard/Sidhe_Hoarfroster.cfg:46
 msgid "snow wind"
-msgstr ""
+msgstr "vent de neige"
 
 #: Extended_Era/units/standard/Sidhe_Fury.cfg:5
 msgid "Fury"
@@ -3382,9 +3377,8 @@ msgstr ""
 "jusqu'à celle de son adversaire."
 
 #: Extended_Era/units/standard/Sidhe_Hoarfroster.cfg:5
-#, fuzzy
 msgid "Hoarfroster"
-msgstr "morsure de froid"
+msgstr "Givreur"
 
 #: Extended_Era/units/standard/Sidhe_Raindancer.cfg:5
 msgid "Raindancer"
@@ -3435,9 +3429,8 @@ msgstr ""
 "s'ils ne veulent pas se retrouver avec une épée plantée dans le dos."
 
 #: Extended_Era/units/standard/Sidhe_Snowdancer.cfg:5
-#, fuzzy
 msgid "Snowdancer"
-msgstr "Danseur de l'ombre"
+msgstr "Danseur des neiges"
 
 #: Extended_Era/units/standard/Sidhe_Spirit_Ancestor.cfg:5
 msgid "Sidhe Ancestor"
