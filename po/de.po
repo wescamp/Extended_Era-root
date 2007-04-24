@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2007-04-20 17:22+0200\n"
+"POT-Creation-Date: 2007-04-25 01:02+0200\n"
 "PO-Revision-Date: 2007-04-20 16:48+0100\n"
 "Last-Translator: CIB <cib123@googlemail.com>\n"
 "Language-Team: German <gnome-de@gnome.org>\n"
@@ -581,6 +581,7 @@ msgstr "Speer"
 #: Extended_Era/units/standard/Kalifa_Amir.cfg:24
 #: Extended_Era/units/standard/Aragwaith_Flagbearer.cfg:41
 #: Extended_Era/units/standard/Kalifa_Rami_al_Nuri.cfg:101
+#: Extended_Era/units/standard/Naga_Assassin.cfg:56
 #: Extended_Era/units/standard/Human_Outlaw_Raider.cfg:76
 #: Extended_Era/units/standard/Aragwaith_Guardian.cfg:31
 #: Extended_Era/units/standard/Dark_Elf_Marshal.cfg:65
@@ -693,6 +694,8 @@ msgstr "Stich"
 #: Extended_Era/units/standard/Dark_Elf_Warrior.cfg:22
 #: Extended_Era/units/standard/Chaos_Invader.cfg:38
 #: Extended_Era/units/standard/Chaos_Invader.cfg:39
+#: Extended_Era/units/standard/Naga_Assassin.cfg:28
+#: Extended_Era/units/standard/Naga_Assassin.cfg:29
 #: Extended_Era/units/standard/Chaos_Blood_Knight.cfg:38
 #: Extended_Era/units/standard/Chaos_Blood_Knight.cfg:39
 #: Extended_Era/units/standard/Dark_Elf_Marshal.cfg:26
@@ -804,6 +807,7 @@ msgstr "Schwert"
 #: Extended_Era/units/standard/Dark_Elf_Warrior.cfg:23
 #: Extended_Era/units/standard/Kalifa_Rami_al_Nuri.cfg:26
 #: Extended_Era/units/standard/Chaos_Invader.cfg:40
+#: Extended_Era/units/standard/Naga_Assassin.cfg:31
 #: Extended_Era/units/standard/Dwarvish_Axethrower.cfg:30
 #: Extended_Era/units/standard/Dwarvish_Axethrower.cfg:158
 #: Extended_Era/units/standard/Human_Outlaw_Raider.cfg:39
@@ -1569,6 +1573,8 @@ msgstr "Messer"
 #: Extended_Era/units/standard/Aragwaith_Greatbow.cfg:134
 #: Extended_Era/units/standard/Aragwaith_Slayer.cfg:192
 #: Extended_Era/units/standard/Aragwaith_Slayer.cfg:193
+#: Extended_Era/units/standard/Naga_Assassin.cfg:53
+#: Extended_Era/units/standard/Naga_Assassin.cfg:54
 #: Extended_Era/units/standard/Aragwaith_Strongbow.cfg:101
 #: Extended_Era/units/standard/Aragwaith_Strongbow.cfg:102
 msgid "bow"
@@ -3154,6 +3160,25 @@ msgid ""
 "battle.  Use them wisely."
 msgstr ""
 
+#: Extended_Era/units/standard/Naga_Assassin.cfg:5
+#, fuzzy
+msgid "Naga Assassin"
+msgstr "Naga Wächter"
+
+#: Extended_Era/units/standard/Naga_Hunter.cfg:20
+#: Extended_Era/units/standard/Naga_Assassin.cfg:20
+msgid ""
+"Naga Hunters are Naga who are skilled at hunting with a bow. Since the naga "
+"are naturally resistant to poison, they have no qualms about hunting with "
+"poisoned arrows. These two foot long shafts, tipped with a potent poison, "
+"have been known to slay many kinds of prey."
+msgstr ""
+"Naga Jäger sind Nagas, die durch die Jagd Erfahrung mit Pfeil und Bogen "
+"haben. Da Nagas eine natürliche Resistenz gegen Gift besitzen, haben sie "
+"keine Bedenken, mit vergifteten Pfeilen zu jagen. Diese zwei Fuß langen "
+"Stiele, die an der Spitze mit Gift versehen sind, haben sich als sehr "
+"effektive Waffe erwiesen."
+
 #: Extended_Era/units/standard/Naga_Depthstalker.cfg:5
 msgid "Naga Depthstalker"
 msgstr "Naga Tiefenjäger"
@@ -3196,19 +3221,6 @@ msgstr ""
 #: Extended_Era/units/standard/Naga_Hunter.cfg:5
 msgid "Naga Hunter"
 msgstr "Naga Jäger"
-
-#: Extended_Era/units/standard/Naga_Hunter.cfg:20
-msgid ""
-"Naga Hunters are Naga who are skilled at hunting with a bow. Since the naga "
-"are naturally resistant to poison, they have no qualms about hunting with "
-"poisoned arrows. These two foot long shafts, tipped with a potent poison, "
-"have been known to slay many kinds of prey."
-msgstr ""
-"Naga Jäger sind Nagas, die durch die Jagd Erfahrung mit Pfeil und Bogen "
-"haben. Da Nagas eine natürliche Resistenz gegen Gift besitzen, haben sie "
-"keine Bedenken, mit vergifteten Pfeilen zu jagen. Diese zwei Fuß langen "
-"Stiele, die an der Spitze mit Gift versehen sind, haben sich als sehr "
-"effektive Waffe erwiesen."
 
 #: Extended_Era/units/standard/Naga_Sentinel.cfg:5
 msgid "Naga Sentinel"

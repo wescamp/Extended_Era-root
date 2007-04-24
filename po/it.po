@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: utbs-it\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2007-03-30 20:27+0200\n"
+"POT-Creation-Date: 2007-04-25 01:02+0200\n"
 "PO-Revision-Date: 2007-01-26 08:44+0100\n"
 "Last-Translator: Luciano Montanaro <mikelima@cirulla.net>\n"
 "Language-Team: Italian <kde-i18n-it@kde.org>\n"
@@ -622,6 +622,7 @@ msgstr "lancia"
 #: Extended_Era/units/standard/Kalifa_Amir.cfg:24
 #: Extended_Era/units/standard/Aragwaith_Flagbearer.cfg:41
 #: Extended_Era/units/standard/Kalifa_Rami_al_Nuri.cfg:101
+#: Extended_Era/units/standard/Naga_Assassin.cfg:56
 #: Extended_Era/units/standard/Human_Outlaw_Raider.cfg:76
 #: Extended_Era/units/standard/Aragwaith_Guardian.cfg:31
 #: Extended_Era/units/standard/Dark_Elf_Marshal.cfg:65
@@ -734,6 +735,8 @@ msgstr "perforazione"
 #: Extended_Era/units/standard/Dark_Elf_Warrior.cfg:22
 #: Extended_Era/units/standard/Chaos_Invader.cfg:38
 #: Extended_Era/units/standard/Chaos_Invader.cfg:39
+#: Extended_Era/units/standard/Naga_Assassin.cfg:28
+#: Extended_Era/units/standard/Naga_Assassin.cfg:29
 #: Extended_Era/units/standard/Chaos_Blood_Knight.cfg:38
 #: Extended_Era/units/standard/Chaos_Blood_Knight.cfg:39
 #: Extended_Era/units/standard/Dark_Elf_Marshal.cfg:26
@@ -845,6 +848,7 @@ msgstr "spada"
 #: Extended_Era/units/standard/Dark_Elf_Warrior.cfg:23
 #: Extended_Era/units/standard/Kalifa_Rami_al_Nuri.cfg:26
 #: Extended_Era/units/standard/Chaos_Invader.cfg:40
+#: Extended_Era/units/standard/Naga_Assassin.cfg:31
 #: Extended_Era/units/standard/Dwarvish_Axethrower.cfg:30
 #: Extended_Era/units/standard/Dwarvish_Axethrower.cfg:158
 #: Extended_Era/units/standard/Human_Outlaw_Raider.cfg:39
@@ -949,10 +953,10 @@ msgid "staff"
 msgstr "bastone"
 
 #: Extended_Era/units/rpg/Chaos_Invoker.cfg:45
-#: Extended_Era/units/rpg/Human_Outlaw_Henchman.cfg:31
 #: Extended_Era/units/rpg/Dark_Elf_Lord.cfg:64
 #: Extended_Era/units/rpg/Steppe_Orc_Vanguard.cfg:31
 #: Extended_Era/units/rpg/Human_Outlaw_Shadow_Lord.cfg:176
+#: Extended_Era/units/rpg/Human_Outlaw_Ruffian.cfg:37
 #: Extended_Era/units/rpg/Chaos_Magus.cfg:48
 #: Extended_Era/units/rpg/Chaos_Demonologist.cfg:38
 #: Extended_Era/units/rpg/Steppe_Orc_Spearhead.cfg:28
@@ -973,7 +977,6 @@ msgstr "bastone"
 #: Extended_Era/units/standard/Kalifa_Ghaznid.cfg:62
 #: Extended_Era/units/standard/Kalifa_Ekim_Haram.cfg:32
 #: Extended_Era/units/standard/Aragwaith_Eagle_Master.cfg:66
-#: Extended_Era/units/standard/Human_Outlaw_Henchman.cfg:31
 #: Extended_Era/units/standard/Chaos_Abomination.cfg:37
 #: Extended_Era/units/standard/Dwarvish_Thunderwheel.cfg:35
 #: Extended_Era/units/standard/Dwarvish_Steamwheel.cfg:35
@@ -999,6 +1002,7 @@ msgstr "bastone"
 #: Extended_Era/units/standard/Aragwaith_Wizard.cfg:34
 #: Extended_Era/units/standard/Aragwaith_Warlock.cfg:37
 #: Extended_Era/units/standard/Steppe_Orc_Savage.cfg:47
+#: Extended_Era/units/standard/Human_Outlaw_Ruffian.cfg:37
 #: Extended_Era/units/standard/Kalifa_Ghulam_al_Rami.cfg:30
 #: Extended_Era/units/standard/Chaos_Magus.cfg:48
 #: Extended_Era/units/standard/Chaos_Demonologist.cfg:37
@@ -1251,40 +1255,6 @@ msgid ""
 "battle to attack and encourage their troops."
 msgstr ""
 
-#: Extended_Era/units/rpg/Human_Outlaw_Henchman.cfg:5
-#: Extended_Era/units/standard/Human_Outlaw_Henchman.cfg:5
-msgid "Henchman"
-msgstr "Tirapiedi"
-
-#: Extended_Era/units/rpg/Human_Outlaw_Henchman.cfg:18
-#: Extended_Era/units/standard/Human_Outlaw_Henchman.cfg:18
-msgid ""
-"Henchmen are good for one thing: following orders.  They are not very smart "
-"or creative, neither of which is required to swing a club at an enemy.  "
-"Never far from their leader, they tend to work in groups (attacking one at a "
-"time).  With enough experience they can learn to swing a bigger club or "
-"throw things, but not both."
-msgstr ""
-"I tirapiedi sono buoni per una cosa: eseguire gli ordini. Non sono molto "
-"astuti o creativi, qualità che non sono richieste per colpire il nemico con "
-"una mazza. Mai lontani dal loro capo, tendono a lavorare in gruppi "
-"(attaccando uno alla volta). Con abbastanza esperienza possono imparare a "
-"maneggiare una mazza più grande o a scagliare oggetti, ma non entrambe le "
-"cose."
-
-#: Extended_Era/units/rpg/Human_Outlaw_Henchman.cfg:29
-#: Extended_Era/units/rpg/Human_Outlaw_Henchman.cfg:30
-#: Extended_Era/units/standard/Human_Outlaw_Henchman.cfg:29
-#: Extended_Era/units/standard/Human_Outlaw_Henchman.cfg:30
-#: Extended_Era/units/standard/Chaos_Marauder.cfg:28
-#: Extended_Era/units/standard/Chaos_Marauder.cfg:29
-#: Extended_Era/units/standard/Chaos_Headhunter.cfg:29
-#: Extended_Era/units/standard/Chaos_Headhunter.cfg:30
-#: Extended_Era/units/standard/Chaos_Soulhunter.cfg:29
-#: Extended_Era/units/standard/Chaos_Soulhunter.cfg:30
-msgid "club"
-msgstr "mazza"
-
 #: Extended_Era/units/rpg/Human_Outlaw_Rogue_Mage.cfg:5
 #: Extended_Era/units/standard/Human_Outlaw_Rogue_Mage.cfg:5
 msgid "Rogue Mage"
@@ -1307,6 +1277,33 @@ msgstr "spada corta"
 #: Extended_Era/units/standard/Human_Outlaw_Rogue_Mage.cfg:88
 msgid "missile"
 msgstr "missile"
+
+#: Extended_Era/units/rpg/Human_Outlaw_Ruffian.cfg:5
+#: Extended_Era/units/standard/Human_Outlaw_Ruffian.cfg:5
+msgid "Ruffian"
+msgstr ""
+
+#: Extended_Era/units/rpg/Human_Outlaw_Ruffian.cfg:19
+#: Extended_Era/units/standard/Human_Outlaw_Ruffian.cfg:19
+msgid ""
+"Some men without particular skills cannot or will not make an honest living. "
+"Those that attempt to make their way through life by the heavy end of a "
+"stick, are known as 'Ruffians'.  With enough experience they can learn to "
+"swing a bigger club or throw things, but not both."
+msgstr ""
+
+#: Extended_Era/units/rpg/Human_Outlaw_Ruffian.cfg:35
+#: Extended_Era/units/rpg/Human_Outlaw_Ruffian.cfg:36
+#: Extended_Era/units/standard/Chaos_Marauder.cfg:28
+#: Extended_Era/units/standard/Chaos_Marauder.cfg:29
+#: Extended_Era/units/standard/Chaos_Headhunter.cfg:29
+#: Extended_Era/units/standard/Chaos_Headhunter.cfg:30
+#: Extended_Era/units/standard/Chaos_Soulhunter.cfg:29
+#: Extended_Era/units/standard/Chaos_Soulhunter.cfg:30
+#: Extended_Era/units/standard/Human_Outlaw_Ruffian.cfg:35
+#: Extended_Era/units/standard/Human_Outlaw_Ruffian.cfg:36
+msgid "club"
+msgstr "mazza"
 
 #: Extended_Era/units/rpg/Human_Outlaw_Shadow_Lord.cfg:5
 #: Extended_Era/units/standard/Human_Outlaw_Shadow_Lord.cfg:5
@@ -1530,6 +1527,8 @@ msgstr "coltello"
 #: Extended_Era/units/standard/Aragwaith_Greatbow.cfg:134
 #: Extended_Era/units/standard/Aragwaith_Slayer.cfg:192
 #: Extended_Era/units/standard/Aragwaith_Slayer.cfg:193
+#: Extended_Era/units/standard/Naga_Assassin.cfg:53
+#: Extended_Era/units/standard/Naga_Assassin.cfg:54
 #: Extended_Era/units/standard/Aragwaith_Strongbow.cfg:101
 #: Extended_Era/units/standard/Aragwaith_Strongbow.cfg:102
 msgid "bow"
@@ -2941,6 +2940,20 @@ msgid ""
 "battle.  Use them wisely."
 msgstr ""
 
+#: Extended_Era/units/standard/Naga_Assassin.cfg:5
+#, fuzzy
+msgid "Naga Assassin"
+msgstr "Naga guardiano"
+
+#: Extended_Era/units/standard/Naga_Hunter.cfg:20
+#: Extended_Era/units/standard/Naga_Assassin.cfg:20
+msgid ""
+"Naga Hunters are Naga who are skilled at hunting with a bow. Since the naga "
+"are naturally resistant to poison, they have no qualms about hunting with "
+"poisoned arrows. These two foot long shafts, tipped with a potent poison, "
+"have been known to slay many kinds of prey."
+msgstr ""
+
 #: Extended_Era/units/standard/Naga_Depthstalker.cfg:5
 msgid "Naga Depthstalker"
 msgstr "Naga assassino degli abissi"
@@ -2976,14 +2989,6 @@ msgstr ""
 #: Extended_Era/units/standard/Naga_Hunter.cfg:5
 msgid "Naga Hunter"
 msgstr "Naga cacciatore"
-
-#: Extended_Era/units/standard/Naga_Hunter.cfg:20
-msgid ""
-"Naga Hunters are Naga who are skilled at hunting with a bow. Since the naga "
-"are naturally resistant to poison, they have no qualms about hunting with "
-"poisoned arrows. These two foot long shafts, tipped with a potent poison, "
-"have been known to slay many kinds of prey."
-msgstr ""
 
 #: Extended_Era/units/standard/Naga_Sentinel.cfg:5
 msgid "Naga Sentinel"
@@ -3713,6 +3718,23 @@ msgstr ""
 #: Extended_Era/units/standard/Wose_Shaman.cfg:75
 msgid "entangle"
 msgstr "intrappolamento"
+
+#~ msgid "Henchman"
+#~ msgstr "Tirapiedi"
+
+#~ msgid ""
+#~ "Henchmen are good for one thing: following orders.  They are not very "
+#~ "smart or creative, neither of which is required to swing a club at an "
+#~ "enemy.  Never far from their leader, they tend to work in groups "
+#~ "(attacking one at a time).  With enough experience they can learn to "
+#~ "swing a bigger club or throw things, but not both."
+#~ msgstr ""
+#~ "I tirapiedi sono buoni per una cosa: eseguire gli ordini. Non sono molto "
+#~ "astuti o creativi, qualità che non sono richieste per colpire il nemico "
+#~ "con una mazza. Mai lontani dal loro capo, tendono a lavorare in gruppi "
+#~ "(attaccando uno alla volta). Con abbastanza esperienza possono imparare a "
+#~ "maneggiare una mazza più grande o a scagliare oggetti, ma non entrambe le "
+#~ "cose."
 
 #~ msgid "magic"
 #~ msgstr "magia"
