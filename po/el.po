@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2007-04-25 01:02+0200\n"
+"POT-Creation-Date: 2007-05-01 19:49+0200\n"
 "PO-Revision-Date: 2005-05-18 10:15+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -425,8 +425,8 @@ msgstr ""
 #: Extended_Era/units/standard/Dark_Elf_Captain.cfg:63
 #: Extended_Era/units/standard/Dark_Elf_Captain.cfg:98
 #: Extended_Era/units/standard/Dark_Elf_Captain.cfg:99
-#: Extended_Era/units/standard/Kalifa_Immortal.cfg:30
 #: Extended_Era/units/standard/Kalifa_Immortal.cfg:31
+#: Extended_Era/units/standard/Kalifa_Immortal.cfg:32
 msgid "spear"
 msgstr "δόρυ"
 
@@ -453,7 +453,7 @@ msgstr "δόρυ"
 #: Extended_Era/units/standard/Sidhe_Wanderer.cfg:27
 #: Extended_Era/units/standard/Sidhe_Wanderer.cfg:51
 #: Extended_Era/units/standard/Aragwaith_Archer.cfg:98
-#: Extended_Era/units/standard/Naga_Hunter.cfg:52
+#: Extended_Era/units/standard/Naga_Hunter.cfg:69
 #: Extended_Era/units/standard/Dark_Elf_Stalker.cfg:69
 #: Extended_Era/units/standard/Kalifa_Arif.cfg:32
 #: Extended_Era/units/standard/Human_Outlaw_Huntsman.cfg:93
@@ -495,7 +495,7 @@ msgstr "δόρυ"
 #: Extended_Era/units/standard/Kalifa_Life_Guard.cfg:25
 #: Extended_Era/units/standard/Dark_Elf_Captain.cfg:64
 #: Extended_Era/units/standard/Dark_Elf_Captain.cfg:100
-#: Extended_Era/units/standard/Kalifa_Immortal.cfg:32
+#: Extended_Era/units/standard/Kalifa_Immortal.cfg:33
 msgid "pierce"
 msgstr "τρύπημα"
 
@@ -523,8 +523,8 @@ msgstr "τρύπημα"
 #: Extended_Era/units/rpg/Dark_Elf_Captain.cfg:26
 #: Extended_Era/units/standard/Dark_Elf_Corsair.cfg:22
 #: Extended_Era/units/standard/Dark_Elf_Corsair.cfg:23
-#: Extended_Era/units/standard/Sidhe_Blizzardlord.cfg:21
 #: Extended_Era/units/standard/Sidhe_Blizzardlord.cfg:22
+#: Extended_Era/units/standard/Sidhe_Blizzardlord.cfg:23
 #: Extended_Era/units/standard/Sidhe_Windlasher.cfg:21
 #: Extended_Era/units/standard/Sidhe_Windlasher.cfg:22
 #: Extended_Era/units/standard/Sidhe_Warsinger.cfg:25
@@ -545,8 +545,8 @@ msgstr "τρύπημα"
 #: Extended_Era/units/standard/Sidhe_Bladespinner.cfg:22
 #: Extended_Era/units/standard/Sidhe_Tempest.cfg:21
 #: Extended_Era/units/standard/Sidhe_Tempest.cfg:22
-#: Extended_Era/units/standard/Naga_Hunter.cfg:24
-#: Extended_Era/units/standard/Naga_Hunter.cfg:25
+#: Extended_Era/units/standard/Naga_Hunter.cfg:41
+#: Extended_Era/units/standard/Naga_Hunter.cfg:42
 #: Extended_Era/units/standard/Sidhe_Raindancer.cfg:21
 #: Extended_Era/units/standard/Sidhe_Raindancer.cfg:22
 #: Extended_Era/units/standard/Chaos_Knight.cfg:38
@@ -559,8 +559,8 @@ msgstr "τρύπημα"
 #: Extended_Era/units/standard/Aragwaith_Swordmaster.cfg:78
 #: Extended_Era/units/standard/Sidhe_Veiledblade.cfg:24
 #: Extended_Era/units/standard/Sidhe_Veiledblade.cfg:25
-#: Extended_Era/units/standard/Sidhe_Snowdancer.cfg:20
 #: Extended_Era/units/standard/Sidhe_Snowdancer.cfg:21
+#: Extended_Era/units/standard/Sidhe_Snowdancer.cfg:22
 #: Extended_Era/units/standard/Chaos_Elite_Armorer.cfg:32
 #: Extended_Era/units/standard/Chaos_Elite_Armorer.cfg:33
 #: Extended_Era/units/standard/Aragwaith_Longswordsman.cfg:61
@@ -595,8 +595,8 @@ msgstr "τρύπημα"
 #: Extended_Era/units/standard/Chaos_Blood_Knight.cfg:39
 #: Extended_Era/units/standard/Dark_Elf_Marshal.cfg:26
 #: Extended_Era/units/standard/Dark_Elf_Marshal.cfg:27
-#: Extended_Era/units/standard/Sidhe_Hoarfroster.cfg:20
 #: Extended_Era/units/standard/Sidhe_Hoarfroster.cfg:21
+#: Extended_Era/units/standard/Sidhe_Hoarfroster.cfg:22
 #: Extended_Era/units/standard/Aragwaith_Captain.cfg:148
 #: Extended_Era/units/standard/Aragwaith_Captain.cfg:149
 #: Extended_Era/units/standard/Sidhe_Wildblade.cfg:21
@@ -630,7 +630,7 @@ msgstr "σπαθί"
 #: Extended_Era/units/rpg/Dark_Elf_Captain.cfg:28
 #: Extended_Era/units/standard/Dark_Elf_Corsair.cfg:25
 #: Extended_Era/units/standard/Human_Outlaw_Shadow_Mage.cfg:36
-#: Extended_Era/units/standard/Sidhe_Blizzardlord.cfg:24
+#: Extended_Era/units/standard/Sidhe_Blizzardlord.cfg:25
 #: Extended_Era/units/standard/Dark_Elf_Shadow.cfg:28
 #: Extended_Era/units/standard/Kalifa_Mamluk.cfg:27
 #: Extended_Era/units/standard/Bear_Young.cfg:49
@@ -654,7 +654,7 @@ msgstr "σπαθί"
 #: Extended_Era/units/standard/Kalifa_Falcon.cfg:25
 #: Extended_Era/units/standard/Aragwaith_Eagle_Master.cfg:29
 #: Extended_Era/units/standard/Aragwaith_Archer.cfg:72
-#: Extended_Era/units/standard/Naga_Hunter.cfg:27
+#: Extended_Era/units/standard/Naga_Hunter.cfg:44
 #: Extended_Era/units/standard/Drake_Armageddon.cfg:47
 #: Extended_Era/units/standard/Sidhe_Raindancer.cfg:24
 #: Extended_Era/units/standard/Dark_Elf_Stalker.cfg:29
@@ -673,7 +673,7 @@ msgstr "σπαθί"
 #: Extended_Era/units/standard/Dwarvish_Flamethower.cfg:33
 #: Extended_Era/units/standard/Kalifa_Mubarizan.cfg:64
 #: Extended_Era/units/standard/Sidhe_Veiledblade.cfg:27
-#: Extended_Era/units/standard/Sidhe_Snowdancer.cfg:23
+#: Extended_Era/units/standard/Sidhe_Snowdancer.cfg:24
 #: Extended_Era/units/standard/Chaos_Soulhunter.cfg:68
 #: Extended_Era/units/standard/Chaos_Elite_Armorer.cfg:35
 #: Extended_Era/units/standard/Steppe_Orc_Vanguard.cfg:73
@@ -713,7 +713,7 @@ msgstr "σπαθί"
 #: Extended_Era/units/standard/Kalifa_Karadis.cfg:26
 #: Extended_Era/units/standard/Sidhe_Thunderblade.cfg:25
 #: Extended_Era/units/standard/Chaos_Daemon.cfg:32
-#: Extended_Era/units/standard/Sidhe_Hoarfroster.cfg:23
+#: Extended_Era/units/standard/Sidhe_Hoarfroster.cfg:24
 #: Extended_Era/units/standard/Aragwaith_Captain.cfg:151
 #: Extended_Era/units/standard/Steppe_Orc_Bladesman.cfg:26
 #: Extended_Era/units/standard/Sidhe_Wildblade.cfg:24
@@ -734,7 +734,7 @@ msgstr "σπαθί"
 #: Extended_Era/units/standard/Aragwaith_Guard.cfg:58
 #: Extended_Era/units/standard/Chaos_Lesser_Daemon.cfg:32
 #: Extended_Era/units/standard/Dark_Elf_Captain.cfg:28
-#: Extended_Era/units/standard/Kalifa_Immortal.cfg:68
+#: Extended_Era/units/standard/Kalifa_Immortal.cfg:69
 msgid "blade"
 msgstr "λεπίδα"
 
@@ -882,7 +882,7 @@ msgstr "ραβδί"
 #: Extended_Era/units/standard/Human_Outlaw_Highwayman.cfg:50
 #: Extended_Era/units/standard/Aragwaith_Sorcerer.cfg:39
 #: Extended_Era/units/standard/Troll_Shaman.cfg:34
-#: Extended_Era/units/standard/Kalifa_Immortal.cfg:108
+#: Extended_Era/units/standard/Kalifa_Immortal.cfg:109
 msgid "impact"
 msgstr "κρούση"
 
@@ -908,14 +908,14 @@ msgstr ""
 #: Extended_Era/units/rpg/Chaos_Magus.cfg:85
 #: Extended_Era/units/rpg/Chaos_Demonologist.cfg:75
 #: Extended_Era/units/standard/Human_Outlaw_Shadow_Mage.cfg:75
-#: Extended_Era/units/standard/Sidhe_Blizzardlord.cfg:49
+#: Extended_Era/units/standard/Sidhe_Blizzardlord.cfg:50
 #: Extended_Era/units/standard/Human_Outlaw_Rogue_Mage.cfg:89
 #: Extended_Era/units/standard/Orcish_Witch_Doctor.cfg:62
 #: Extended_Era/units/standard/Chaos_Invoker.cfg:82
 #: Extended_Era/units/standard/Sidhe_Spirit_Ancestor.cfg:53
 #: Extended_Era/units/standard/Dark_Elf_Wizard.cfg:25
 #: Extended_Era/units/standard/Orcish_Shaman.cfg:61
-#: Extended_Era/units/standard/Sidhe_Snowdancer.cfg:48
+#: Extended_Era/units/standard/Sidhe_Snowdancer.cfg:49
 #: Extended_Era/units/standard/Steppe_Orc_Pariah.cfg:28
 #: Extended_Era/units/standard/Human_Outlaw_Shadow_Lord.cfg:136
 #: Extended_Era/units/standard/Steppe_Orc_Icewind_Master.cfg:75
@@ -926,7 +926,7 @@ msgstr ""
 #: Extended_Era/units/standard/Steppe_Orc_Icewind_Herder.cfg:77
 #: Extended_Era/units/standard/Dark_Elf_Warlock.cfg:26
 #: Extended_Era/units/standard/Dark_Elf_Warlock.cfg:66
-#: Extended_Era/units/standard/Sidhe_Hoarfroster.cfg:48
+#: Extended_Era/units/standard/Sidhe_Hoarfroster.cfg:49
 #: Extended_Era/units/standard/Orcish_Warlock.cfg:62
 #: Extended_Era/units/standard/Sidhe_Spirit_Forefather.cfg:54
 #: Extended_Era/units/standard/Steppe_Orc_Icewind_Drover.cfg:75
@@ -1354,8 +1354,8 @@ msgstr "μαχαίρι"
 #: Extended_Era/units/standard/Human_Outlaw_Ranger.cfg:99
 #: Extended_Era/units/standard/Aragwaith_Archer.cfg:96
 #: Extended_Era/units/standard/Aragwaith_Archer.cfg:97
-#: Extended_Era/units/standard/Naga_Hunter.cfg:49
-#: Extended_Era/units/standard/Naga_Hunter.cfg:50
+#: Extended_Era/units/standard/Naga_Hunter.cfg:66
+#: Extended_Era/units/standard/Naga_Hunter.cfg:67
 #: Extended_Era/units/standard/Human_Outlaw_Huntsman.cfg:91
 #: Extended_Era/units/standard/Human_Outlaw_Huntsman.cfg:92
 #: Extended_Era/units/standard/Aragwaith_Greatbow.cfg:133
@@ -2453,8 +2453,8 @@ msgstr ""
 #: Extended_Era/units/standard/Kalifa_Amir.cfg:59
 #: Extended_Era/units/standard/Kalifa_Rami_al_Nuri.cfg:23
 #: Extended_Era/units/standard/Kalifa_Rami_al_Nuri.cfg:24
-#: Extended_Era/units/standard/Kalifa_Immortal.cfg:66
 #: Extended_Era/units/standard/Kalifa_Immortal.cfg:67
+#: Extended_Era/units/standard/Kalifa_Immortal.cfg:68
 msgid "long sword"
 msgstr ""
 
@@ -2476,8 +2476,8 @@ msgstr ""
 #: Extended_Era/units/standard/Steppe_Orc_Shieldbearer.cfg:32
 #: Extended_Era/units/standard/Steppe_Orc_Rigid.cfg:31
 #: Extended_Era/units/standard/Steppe_Orc_Rigid.cfg:32
-#: Extended_Era/units/standard/Kalifa_Immortal.cfg:106
 #: Extended_Era/units/standard/Kalifa_Immortal.cfg:107
+#: Extended_Era/units/standard/Kalifa_Immortal.cfg:108
 msgid "shield bash"
 msgstr ""
 
@@ -2590,7 +2590,7 @@ msgstr ""
 msgid "Immortal"
 msgstr ""
 
-#: Extended_Era/units/standard/Kalifa_Immortal.cfg:18
+#: Extended_Era/units/standard/Kalifa_Immortal.cfg:19
 msgid ""
 "These Arif have become so skilled that thier foes wonder whether they can "
 "die at all."
@@ -2689,7 +2689,7 @@ msgstr ""
 msgid "Naga Assassin"
 msgstr ""
 
-#: Extended_Era/units/standard/Naga_Hunter.cfg:20
+#: Extended_Era/units/standard/Naga_Hunter.cfg:19
 #: Extended_Era/units/standard/Naga_Assassin.cfg:20
 msgid ""
 "Naga Hunters are Naga who are skilled at hunting with a bow. Since the naga "
@@ -2722,12 +2722,10 @@ msgid "Naga Guardian"
 msgstr ""
 
 #: Extended_Era/units/standard/Naga_Guardian.cfg:23
-#: Extended_Era/units/standard/Naga_Warden.cfg:23
 msgid ""
-"These heavy fighters are the elite guards of the naga. They are slower and "
-"more heavily armored than most naga and wield huge maces which they use to "
-"crush their enemies. They mostly guard naga outposts, but occasionally "
-"participate in offensive raids."
+"These heavy fighters are slower and more heavily armored than most naga and "
+"wield huge maces which they use to crush their enemies. They mostly guard "
+"naga outposts, but occasionally participate in offensive raids."
 msgstr ""
 
 #: Extended_Era/units/standard/Naga_Hunter.cfg:5
@@ -2740,14 +2738,23 @@ msgstr ""
 
 #: Extended_Era/units/standard/Naga_Sentinel.cfg:24
 msgid ""
-"The heavy fighters are the elite guards of the naga. They are slower and "
-"more heavily armored than most naga and wield huge maces which they use to "
-"crush their enemies. They mostly guard naga outposts, but occasionally "
-"participate in offensive raids."
+"These heavy fighters are elite guards of the naga, choosen by their "
+"dedication and skill, their purpose is to defend their sleeping brethen from "
+"any menace or guarding their hidden cities from outside invasors until the "
+"great awake of their civilization arrive. These nagas are mostly unknow in "
+"Wesnoth since they can only be found near Naga cities."
 msgstr ""
 
 #: Extended_Era/units/standard/Naga_Warden.cfg:5
 msgid "Naga Warden"
+msgstr ""
+
+#: Extended_Era/units/standard/Naga_Warden.cfg:23
+msgid ""
+"These heavy fighters are the elite guards of the naga. They are slower and "
+"more heavily armored than most naga and wield huge maces which they use to "
+"crush their enemies. They mostly guard naga outposts, but occasionally "
+"participate in offensive raids."
 msgstr ""
 
 #: Extended_Era/units/standard/Orcish_Shaman.cfg:5
@@ -2805,12 +2812,21 @@ msgstr ""
 msgid "Blizzardlord"
 msgstr ""
 
-#: Extended_Era/units/standard/Sidhe_Blizzardlord.cfg:46
+#: Extended_Era/units/standard/Sidhe_Blizzardlord.cfg:18
+msgid ""
+"The Sidhe nobility, though not accepting commoners into their ranks, "
+"nonetheless pick the most skilled and loyal Snowdancers and raise them to "
+"the rank of Blizzardlord, giving them authority over the Hoarfrosters and "
+"Snowdancers. The expectation is that the Blizzardlords will keep their "
+"fellows loyal and obedient to the nobility and train new recruits."
+msgstr ""
+
 #: Extended_Era/units/standard/Sidhe_Blizzardlord.cfg:47
-#: Extended_Era/units/standard/Sidhe_Snowdancer.cfg:45
+#: Extended_Era/units/standard/Sidhe_Blizzardlord.cfg:48
 #: Extended_Era/units/standard/Sidhe_Snowdancer.cfg:46
-#: Extended_Era/units/standard/Sidhe_Hoarfroster.cfg:45
+#: Extended_Era/units/standard/Sidhe_Snowdancer.cfg:47
 #: Extended_Era/units/standard/Sidhe_Hoarfroster.cfg:46
+#: Extended_Era/units/standard/Sidhe_Hoarfroster.cfg:47
 msgid "snow wind"
 msgstr ""
 
@@ -2829,6 +2845,15 @@ msgstr ""
 #, fuzzy
 msgid "Hoarfroster"
 msgstr "δάγκωμα"
+
+#: Extended_Era/units/standard/Sidhe_Hoarfroster.cfg:17
+msgid ""
+"Some Sidhe commoners long for the prestige of their magic-using betters. "
+"They try with all their might to master the art of casting lightning at "
+"their foes with deadly precision, but find it is beyond them. At the last, "
+"however, they discover that there is an element they can somewhat control -- "
+"frozen water. This is their claim to greatness."
+msgstr ""
 
 #: Extended_Era/units/standard/Sidhe_Raindancer.cfg:5
 msgid "Raindancer"
@@ -2873,6 +2898,16 @@ msgstr ""
 #, fuzzy
 msgid "Snowdancer"
 msgstr "Εφιππος Σαρισσοφόρος"
+
+#: Extended_Era/units/standard/Sidhe_Snowdancer.cfg:17
+msgid ""
+"The Sidhe nobility do not lightly accept the fact that some among their "
+"subjects seek to join the ranks of the mages, but they are pragmatic and "
+"acknowledge that even weak ice magic is a useful supplement to their own "
+"skills, as long as its practitioners remember their place. Therefore, they "
+"have established the rank of Snowdancer as a reward for Hoarfrosters who "
+"excel in both skill and loyalty."
+msgstr ""
 
 #: Extended_Era/units/standard/Sidhe_Spirit_Ancestor.cfg:5
 msgid "Sidhe Ancestor"
