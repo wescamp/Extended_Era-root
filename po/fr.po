@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2007-05-04 21:08+0200\n"
-"PO-Revision-Date: 2007-03-30 23:12+0200\n"
+"PO-Revision-Date: 2007-05-04 22:08+0200\n"
 "Last-Translator: Benoît Timbert <benoit.timbert@free.fr>\n"
 "Language-Team: Équipe de traduction française <wesnoth@ml.free.fr>\n"
 "MIME-Version: 1.0\n"
@@ -1316,7 +1316,7 @@ msgstr "missile"
 #: Extended_Era/units/rpg/Human_Outlaw_Ruffian.cfg:5
 #: Extended_Era/units/standard/Human_Outlaw_Ruffian.cfg:5
 msgid "Ruffian"
-msgstr ""
+msgstr "Voyou"
 
 #: Extended_Era/units/rpg/Human_Outlaw_Ruffian.cfg:19
 #: Extended_Era/units/standard/Human_Outlaw_Ruffian.cfg:19
@@ -1326,6 +1326,11 @@ msgid ""
 "stick, are known as 'Ruffians'.  With enough experience they can learn to "
 "swing a bigger club or throw things, but not both."
 msgstr ""
+"Certains hommes sans talent particulier ne veulent ou ne peuvent pas vivre "
+"une existence honnête. Ceux qui tentent de tracer leur chemin à coups de "
+"bâton sont connu sous le nom de « Voyous ». Avec un peu d'expérience, ils "
+"peuvent apprendre à manier un plus grand gourdin ou lancer des objets, mais "
+"pas les deux."
 
 #: Extended_Era/units/rpg/Human_Outlaw_Ruffian.cfg:35
 #: Extended_Era/units/rpg/Human_Outlaw_Ruffian.cfg:36
@@ -2055,22 +2060,21 @@ msgstr ""
 
 #: Extended_Era/units/standard/Chaos_Evil_Crab.cfg:5
 msgid "Evil Crab"
-msgstr ""
+msgstr "Crabe infernal"
 
 #: Extended_Era/units/standard/Chaos_Hell_Crab.cfg:25
 #: Extended_Era/units/standard/Chaos_Hell_Crab.cfg:26
 #: Extended_Era/units/standard/Chaos_Evil_Crab.cfg:24
 #: Extended_Era/units/standard/Chaos_Evil_Crab.cfg:25
-#, fuzzy
 msgid "pincers"
-msgstr "perforant"
+msgstr "pinces"
 
 #: Extended_Era/units/standard/Chaos_Hell_Crab.cfg:49
 #: Extended_Era/units/standard/Chaos_Hell_Crab.cfg:50
 #: Extended_Era/units/standard/Chaos_Evil_Crab.cfg:48
 #: Extended_Era/units/standard/Chaos_Evil_Crab.cfg:49
 msgid "evil eye"
-msgstr ""
+msgstr "mauvail oeil"
 
 #: Extended_Era/units/standard/Chaos_Greater_Daemon.cfg:5
 msgid "Greater Daemon"
@@ -2095,9 +2099,8 @@ msgstr ""
 "répandent la peur et les rumeurs d'invasions démoniaques."
 
 #: Extended_Era/units/standard/Chaos_Hell_Crab.cfg:5
-#, fuzzy
 msgid "Hell Crab"
-msgstr "Gardien des enfers"
+msgstr "Crabe des enfers"
 
 #: Extended_Era/units/standard/Chaos_Hound.cfg:5
 msgid "Hound"
@@ -3232,9 +3235,8 @@ msgstr ""
 "cours de nombreuses batailles. Utilisez-les à bon escient."
 
 #: Extended_Era/units/standard/Naga_Assassin.cfg:5
-#, fuzzy
 msgid "Naga Assassin"
-msgstr "Gardien naga"
+msgstr "Assassin naga"
 
 #: Extended_Era/units/standard/Naga_Hunter.cfg:19
 #: Extended_Era/units/standard/Naga_Assassin.cfg:20
@@ -3279,17 +3281,15 @@ msgid "Naga Guardian"
 msgstr "Gardien naga"
 
 #: Extended_Era/units/standard/Naga_Guardian.cfg:23
-#, fuzzy
 msgid ""
 "These heavy fighters are slower and more heavily armored than most naga and "
 "wield huge maces which they use to crush their enemies. They mostly guard "
 "naga outposts, but occasionally participate in offensive raids."
 msgstr ""
-"Ces combattants puissamment armés sont les gardes d'élite des nagas. Ils "
-"sont plus lents et plus lourdement protégés que la plupart des nagas et ils "
-"portent d'énormes masses pour écraser leurs ennemis. Ils surveillent "
-"principalement les avant-postes nagas mais participent parfois à des raids "
-"d'attaque."
+"Ces combattants puissamment armés sont plus lents et plus lourdement "
+"protégés que la plupart des nagas et ils portent d'énormes masses pour "
+"écraser leurs ennemis. Ils surveillent principalement les avant-postes nagas "
+"mais participent parfois à des raids d'attaque."
 
 #: Extended_Era/units/standard/Naga_Hunter.cfg:5
 msgid "Naga Hunter"
@@ -3307,6 +3307,12 @@ msgid ""
 "great awake of their civilization arrive. These nagas are mostly unknow in "
 "Wesnoth since they can only be found near Naga cities."
 msgstr ""
+"Ces combattants puissamment armés forme la garde d'élite des nagas. Ils sont "
+"séléctionnés pour leur adresse et leur dévouement; leur rôle est de défendre "
+"leur semblables endormis de toute menace ou de défendre leur villes secrètes "
+"contre tout envahisseur extérieur, jusqu'à ce qu'arrive un grand réveil de "
+"leur civilisation. Ces nagas, puisqu'ils ne sont visibles que dans les "
+"villes naga, sont en général inconnus de Wesnoth."
 
 #: Extended_Era/units/standard/Naga_Warden.cfg:5
 msgid "Naga Warden"
@@ -3402,6 +3408,12 @@ msgid ""
 "Snowdancers. The expectation is that the Blizzardlords will keep their "
 "fellows loyal and obedient to the nobility and train new recruits."
 msgstr ""
+"La noblesse sidh, bien que n'acceptant pas de roturiers dans leur rangs, "
+"néamoins choisit les danseurs des neiges les plus doués et fidèles, et les "
+"élève au rang de Maître-Blizzard qui leur accorde autorité sur les givreurs "
+"et les danseur des neiges. L'idée est que les maîtres-blizzard feront en "
+"sorte que ceux de leur confrérie resteront fidèles et dociles, et "
+"entraineront leur nouvelles recrues."
 
 #: Extended_Era/units/standard/Sidhe_Blizzardlord.cfg:47
 #: Extended_Era/units/standard/Sidhe_Blizzardlord.cfg:48
@@ -3438,6 +3450,12 @@ msgid ""
 "however, they discover that there is an element they can somewhat control -- "
 "frozen water. This is their claim to greatness."
 msgstr ""
+"Quelques sidhs de la populace envient avec impatience le prestige des "
+"magiciens. Il essaient de tout leur être de maîtriser l'art de lancer avec "
+"une précision mortelle des éclairs sur leur ennemis, mais s'aperçoivent que "
+"c'est au dessus de leur forces. Cependant, ils découvent qu'il existe "
+"néamoins un autre élément qu'ils peuvent contrôler : la glace. Cela leur "
+"suffit pour revandiquer la grandeur."
 
 #: Extended_Era/units/standard/Sidhe_Raindancer.cfg:5
 msgid "Raindancer"
@@ -3500,6 +3518,13 @@ msgid ""
 "have established the rank of Snowdancer as a reward for Hoarfrosters who "
 "excel in both skill and loyalty."
 msgstr ""
+"La noblesse sidh a du mal à accepter que certains de leur inférieurs "
+"cherchent à rejoindre les rangs des mages, mais ils sont pragmatiques et "
+"veulent bien reconnaître que même si elle est peu puissante, cette nouvelle "
+"magie de la glace est utile car complémentaire à la leur, tant que ses "
+"practiciens se souviennent de leur place. Par conséquent, ils ont accordé le "
+"rang de Danseur des neiges comme récompense aux givreurs excellant à la fois "
+"dans leur art et dans la fidélité."
 
 #: Extended_Era/units/standard/Sidhe_Spirit_Ancestor.cfg:5
 msgid "Sidhe Ancestor"
