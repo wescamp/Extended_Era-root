@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2007-05-01 19:49+0200\n"
+"POT-Creation-Date: 2007-05-04 21:08+0200\n"
 "PO-Revision-Date: 2006-06-16 00:02+0100\n"
 "Last-Translator: Karol 'grzywacz' Nowak <grzywacz@sul.uni.lodz.pl>\n"
 "Language-Team: none\n"
@@ -664,6 +664,7 @@ msgstr "miecz"
 #: Extended_Era/units/standard/Aragwaith_Eagle_Rider.cfg:29
 #: Extended_Era/units/standard/Chaos_Knight.cfg:40
 #: Extended_Era/units/standard/Chaos_Knight.cfg:87
+#: Extended_Era/units/standard/Chaos_Hell_Crab.cfg:27
 #: Extended_Era/units/standard/Kalifa_Arif.cfg:68
 #: Extended_Era/units/standard/Human_Outlaw_Huntsman.cfg:47
 #: Extended_Era/units/standard/Chaos_Marauder.cfg:66
@@ -711,6 +712,7 @@ msgstr "miecz"
 #: Extended_Era/units/standard/Human_Outlaw_Raider.cfg:39
 #: Extended_Era/units/standard/Chaos_Blood_Knight.cfg:40
 #: Extended_Era/units/standard/Chaos_Blood_Knight.cfg:87
+#: Extended_Era/units/standard/Chaos_Evil_Crab.cfg:26
 #: Extended_Era/units/standard/Dark_Elf_Marshal.cfg:29
 #: Extended_Era/units/standard/Aragwaith_Strongbow.cfg:67
 #: Extended_Era/units/standard/Kalifa_Karadis.cfg:26
@@ -918,6 +920,7 @@ msgstr ""
 #: Extended_Era/units/standard/Sidhe_Spirit_Ancestor.cfg:53
 #: Extended_Era/units/standard/Dark_Elf_Wizard.cfg:25
 #: Extended_Era/units/standard/Orcish_Shaman.cfg:61
+#: Extended_Era/units/standard/Chaos_Hell_Crab.cfg:52
 #: Extended_Era/units/standard/Sidhe_Snowdancer.cfg:49
 #: Extended_Era/units/standard/Steppe_Orc_Pariah.cfg:28
 #: Extended_Era/units/standard/Human_Outlaw_Shadow_Lord.cfg:136
@@ -929,6 +932,7 @@ msgstr ""
 #: Extended_Era/units/standard/Steppe_Orc_Icewind_Herder.cfg:77
 #: Extended_Era/units/standard/Dark_Elf_Warlock.cfg:26
 #: Extended_Era/units/standard/Dark_Elf_Warlock.cfg:66
+#: Extended_Era/units/standard/Chaos_Evil_Crab.cfg:51
 #: Extended_Era/units/standard/Sidhe_Hoarfroster.cfg:49
 #: Extended_Era/units/standard/Orcish_Warlock.cfg:62
 #: Extended_Era/units/standard/Sidhe_Spirit_Forefather.cfg:54
@@ -1744,6 +1748,26 @@ msgid ""
 "back."
 msgstr ""
 
+#: Extended_Era/units/standard/Chaos_Evil_Crab.cfg:5
+msgid "Evil Crab"
+msgstr ""
+
+#: Extended_Era/units/standard/Chaos_Hell_Crab.cfg:25
+#: Extended_Era/units/standard/Chaos_Hell_Crab.cfg:26
+#: Extended_Era/units/standard/Chaos_Evil_Crab.cfg:24
+#: Extended_Era/units/standard/Chaos_Evil_Crab.cfg:25
+#, fuzzy
+msgid "pincers"
+msgstr "kłująca"
+
+#: Extended_Era/units/standard/Chaos_Hell_Crab.cfg:49
+#: Extended_Era/units/standard/Chaos_Hell_Crab.cfg:50
+#: Extended_Era/units/standard/Chaos_Evil_Crab.cfg:48
+#: Extended_Era/units/standard/Chaos_Evil_Crab.cfg:49
+#, fuzzy
+msgid "evil eye"
+msgstr "wręcz"
+
 #: Extended_Era/units/standard/Chaos_Greater_Daemon.cfg:5
 msgid "Greater Daemon"
 msgstr ""
@@ -1761,6 +1785,10 @@ msgid ""
 "Given their souls to daemons, these lifeless scouts appear in the places, "
 "that will be infested with the daemonic plague. They are the ones to spread "
 "fear and message of daemonic invasions."
+msgstr ""
+
+#: Extended_Era/units/standard/Chaos_Hell_Crab.cfg:5
+msgid "Hell Crab"
 msgstr ""
 
 #: Extended_Era/units/standard/Chaos_Hound.cfg:5
@@ -3501,6 +3529,3 @@ msgstr "oplątanie"
 
 #~ msgid "leadership"
 #~ msgstr "dowodzenie"
-
-#~ msgid "melee"
-#~ msgstr "wręcz"
