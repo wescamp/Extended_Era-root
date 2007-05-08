@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2007-05-04 21:08+0200\n"
-"PO-Revision-Date: 2007-04-02 17:58+0200\n"
+"PO-Revision-Date: 2007-05-08 17:58+0200\n"
 "Last-Translator: Joe Hansen <joedalton2@yahoo.dk>\n"
 "Language-Team: Danish <dansk@dansk-gruppen.dk>\n"
 "MIME-Version: 1.0\n"
@@ -1858,28 +1858,27 @@ msgstr ""
 #: Extended_Era/units/standard/Chaos_Hell_Crab.cfg:26
 #: Extended_Era/units/standard/Chaos_Evil_Crab.cfg:24
 #: Extended_Era/units/standard/Chaos_Evil_Crab.cfg:25
-#, fuzzy
 msgid "pincers"
-msgstr "stik"
+msgstr "klosakse"
 
 #: Extended_Era/units/standard/Chaos_Hell_Crab.cfg:49
 #: Extended_Era/units/standard/Chaos_Hell_Crab.cfg:50
 #: Extended_Era/units/standard/Chaos_Evil_Crab.cfg:48
 #: Extended_Era/units/standard/Chaos_Evil_Crab.cfg:49
 msgid "evil eye"
-msgstr ""
+msgstr "ondt øje"
 
 #: Extended_Era/units/standard/Chaos_Greater_Daemon.cfg:5
 msgid "Greater Daemon"
-msgstr ""
+msgstr "Stordæmon"
 
 #: Extended_Era/units/standard/Chaos_Greater_Mutation.cfg:5
 msgid "Greater Mutation"
-msgstr ""
+msgstr "Stormutation"
 
 #: Extended_Era/units/standard/Chaos_Headhunter.cfg:5
 msgid "Headhunter"
-msgstr ""
+msgstr "Hovedjæger"
 
 #: Extended_Era/units/standard/Chaos_Headhunter.cfg:25
 msgid ""
@@ -1986,7 +1985,7 @@ msgstr ""
 
 #: Extended_Era/units/standard/Chaos_Overlord.cfg:5
 msgid "Overlord"
-msgstr ""
+msgstr "Storlensherre"
 
 #: Extended_Era/units/standard/Chaos_Soulhunter.cfg:5
 msgid "Soulhunter"
@@ -2054,7 +2053,7 @@ msgstr "morgenstjerne"
 #: Extended_Era/units/standard/Dark_Elf_Enchantress.cfg:58
 #: Extended_Era/units/standard/Dark_Elf_Enchantress.cfg:59
 msgid "magic torture"
-msgstr ""
+msgstr "magisk tortur"
 
 #: Extended_Era/units/standard/Dark_Elf_Corsair.cfg:5
 msgid "Corsair"
@@ -2190,7 +2189,7 @@ msgstr ""
 
 #: Extended_Era/units/standard/Dark_Elf_Sorceress.cfg:5
 msgid "Dark Elf^Sorceress"
-msgstr ""
+msgstr "Troldmand"
 
 #: Extended_Era/units/standard/Dark_Elf_Sorceress.cfg:21
 msgid ""
@@ -3600,4 +3599,4 @@ msgstr ""
 #: Extended_Era/units/standard/Wose_Shaman.cfg:74
 #: Extended_Era/units/standard/Wose_Shaman.cfg:75
 msgid "entangle"
-msgstr ""
+msgstr "vikle ind"
