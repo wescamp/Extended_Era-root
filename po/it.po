@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: utbs-it\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2007-05-04 21:08+0200\n"
-"PO-Revision-Date: 2007-01-26 08:44+0100\n"
+"PO-Revision-Date: 2007-05-14 16:35+0100\n"
 "Last-Translator: Luciano Montanaro <mikelima@cirulla.net>\n"
 "Language-Team: Italian <kde-i18n-it@kde.org>\n"
 "MIME-Version: 1.0\n"
@@ -21,7 +21,7 @@ msgstr ""
 #: Extended_Era/abilities/allied_leadership.cfg:112
 #: Extended_Era/abilities/allied_leadership.cfg:172
 msgid "allied leadership"
-msgstr "comando alleato"
+msgstr "comando degli alleati"
 
 #: Extended_Era/abilities/allied_leadership.cfg:14
 #: Extended_Era/abilities/allied_leadership.cfg:35
@@ -38,7 +38,7 @@ msgid ""
 "Leadership engages in combat, its attacks do 25% more damage times the "
 "difference in their levels."
 msgstr ""
-"Comando alleato:\n"
+"Comando degli alleati:\n"
 "Questa unità può comandare le unità alleate vicine facendole combattere "
 "meglio.\n"
 "\n"
@@ -48,20 +48,18 @@ msgstr ""
 "ogni livello di differenza."
 
 #: Extended_Era/abilities/allied_protection.cfg:11
-#, fuzzy
 msgid "allied protection"
-msgstr "protezione"
+msgstr "protezione degli alleati"
 
 #: Extended_Era/abilities/allied_protection.cfg:13
-#, fuzzy
 msgid ""
 "Allied Protection:\n"
 "Adjacent friendly units receive a +20% bonus to all resistances (up to a "
 "maximum of 50%)."
 msgstr ""
-"Protezione:\n"
-"Le unità adiacenti ricevono un bonus +20% per tutte le resistenze (fino a "
-"una resistenza massima del 50%)."
+"Protezione degli alleati:\n"
+"Le unità adiacenti alleate ricevono un bonus +20% per tutte le resistenze "
+"(fino a una resistenza massima del 50%)."
 
 #: Extended_Era/abilities/attack_only.cfg:8
 msgid "attack only"
@@ -129,7 +127,6 @@ msgid "protection"
 msgstr "protezione"
 
 #: Extended_Era/abilities/protection.cfg:11
-#, fuzzy
 msgid ""
 "Protection:\n"
 "Adjacent units of this side receive a +20% bonus to all resistances (up to a "
@@ -906,6 +903,12 @@ msgid ""
 "\n"
 "Special Notes:"
 msgstr ""
+"Gli Aragwaith più forti e meno agili usano la lancia. Utile in battaglia, "
+"questa arma è anche letale sul campo di battaglia. Molti guerrieri troppi "
+"impetuosi hanno trovato se stessi o le loro cavalcature trafitte dalla punta "
+"di una lancia Aragwaith.\n"
+"\n"
+"Note speciali:"
 
 #: Extended_Era/units/rpg/Chaos_Demonologist.cfg:5
 #: Extended_Era/units/standard/Chaos_Demonologist.cfg:5
@@ -1285,7 +1288,7 @@ msgstr "missile"
 #: Extended_Era/units/rpg/Human_Outlaw_Ruffian.cfg:5
 #: Extended_Era/units/standard/Human_Outlaw_Ruffian.cfg:5
 msgid "Ruffian"
-msgstr ""
+msgstr "Ruffiano"
 
 #: Extended_Era/units/rpg/Human_Outlaw_Ruffian.cfg:19
 #: Extended_Era/units/standard/Human_Outlaw_Ruffian.cfg:19
@@ -1736,12 +1739,11 @@ msgstr ""
 #: Extended_Era/units/standard/Aragwaith_Swordmaster.cfg:5
 #, fuzzy
 msgid "Swordmaster"
-msgstr "Maestro d'armi"
+msgstr "Maestro di spada"
 
 #: Extended_Era/units/standard/Aragwaith_Swordsman.cfg:5
-#, fuzzy
 msgid "Swordsman"
-msgstr "Maestro di spada"
+msgstr "Spadaccino"
 
 #: Extended_Era/units/standard/Aragwaith_Swordsman.cfg:25
 msgid ""
@@ -1789,13 +1791,12 @@ msgid "female^Wizard"
 msgstr "Maga"
 
 #: Extended_Era/units/standard/Bear.cfg:5
-#, fuzzy
 msgid "Bear"
-msgstr "lancia"
+msgstr "Orso"
 
 #: Extended_Era/units/standard/Bear.cfg:18
 msgid "just a bear"
-msgstr ""
+msgstr "solo un orso"
 
 #: Extended_Era/units/standard/Bear_Young.cfg:21
 #: Extended_Era/units/standard/Bear_Young.cfg:22
@@ -1806,11 +1807,11 @@ msgstr ""
 
 #: Extended_Era/units/standard/Bear_Young.cfg:5
 msgid "Young Bear"
-msgstr ""
+msgstr "Orso giovane"
 
 #: Extended_Era/units/standard/Bear_Young.cfg:17
 msgid "a young bear"
-msgstr ""
+msgstr "un orso giovane"
 
 #: Extended_Era/units/standard/Chaos_Abomination.cfg:5
 msgid "Abomination"
@@ -1928,7 +1929,7 @@ msgstr ""
 
 #: Extended_Era/units/standard/Chaos_Evil_Crab.cfg:5
 msgid "Evil Crab"
-msgstr ""
+msgstr "Granchio maligno"
 
 #: Extended_Era/units/standard/Chaos_Hell_Crab.cfg:25
 #: Extended_Era/units/standard/Chaos_Hell_Crab.cfg:26
@@ -1936,15 +1937,14 @@ msgstr ""
 #: Extended_Era/units/standard/Chaos_Evil_Crab.cfg:25
 #, fuzzy
 msgid "pincers"
-msgstr "perforazione"
+msgstr "chele"
 
 #: Extended_Era/units/standard/Chaos_Hell_Crab.cfg:49
 #: Extended_Era/units/standard/Chaos_Hell_Crab.cfg:50
 #: Extended_Era/units/standard/Chaos_Evil_Crab.cfg:48
 #: Extended_Era/units/standard/Chaos_Evil_Crab.cfg:49
-#, fuzzy
 msgid "evil eye"
-msgstr "ravvicinato"
+msgstr "malocchio"
 
 #: Extended_Era/units/standard/Chaos_Greater_Daemon.cfg:5
 msgid "Greater Daemon"
@@ -1968,7 +1968,7 @@ msgstr ""
 #: Extended_Era/units/standard/Chaos_Hell_Crab.cfg:5
 #, fuzzy
 msgid "Hell Crab"
-msgstr "Guardiano infernale"
+msgstr "Granchio dell'inferno"
 
 #: Extended_Era/units/standard/Chaos_Hound.cfg:5
 msgid "Hound"
@@ -2136,7 +2136,7 @@ msgstr "mazza"
 #: Extended_Era/units/standard/Dark_Elf_Enchantress.cfg:58
 #: Extended_Era/units/standard/Dark_Elf_Enchantress.cfg:59
 msgid "magic torture"
-msgstr ""
+msgstr "tortura magica"
 
 #: Extended_Era/units/standard/Dark_Elf_Corsair.cfg:5
 msgid "Corsair"
@@ -2292,9 +2292,8 @@ msgstr ""
 #: Extended_Era/units/standard/Dark_Elf_Sorcerer.cfg:24
 #: Extended_Era/units/standard/Dark_Elf_Warlock.cfg:63
 #: Extended_Era/units/standard/Dark_Elf_Warlock.cfg:64
-#, fuzzy
 msgid "dark wave"
-msgstr "Elfi neri"
+msgstr "onda oscura"
 
 #: Extended_Era/units/standard/Dark_Elf_Sorceress.cfg:5
 msgid "Dark Elf^Sorceress"
@@ -2970,9 +2969,8 @@ msgid ""
 msgstr ""
 
 #: Extended_Era/units/standard/Naga_Assassin.cfg:5
-#, fuzzy
 msgid "Naga Assassin"
-msgstr "Naga guardiano"
+msgstr "Naga assassino"
 
 #: Extended_Era/units/standard/Naga_Hunter.cfg:19
 #: Extended_Era/units/standard/Naga_Assassin.cfg:20
@@ -3073,9 +3071,8 @@ msgid "curse"
 msgstr "maledetto"
 
 #: Extended_Era/units/standard/Orcish_Warlock.cfg:5
-#, fuzzy
 msgid "Orcish Warlock"
-msgstr "Stregone"
+msgstr "Orco stregone"
 
 #: Extended_Era/units/standard/Orcish_Warlock.cfg:22
 #, fuzzy
@@ -3194,9 +3191,8 @@ msgid ""
 msgstr ""
 
 #: Extended_Era/units/standard/Sidhe_Snowdancer.cfg:5
-#, fuzzy
 msgid "Snowdancer"
-msgstr "Danzatore delle ombre"
+msgstr "Danzatore della neve"
 
 #: Extended_Era/units/standard/Sidhe_Snowdancer.cfg:17
 msgid ""
