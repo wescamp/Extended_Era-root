@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2007-06-17 19:51+0200\n"
-"PO-Revision-Date: 2007-06-04 21:56+0200\n"
+"PO-Revision-Date: 2007-06-17 20:32+0200\n"
 "Last-Translator: Benoît Timbert <benoit.timbert@free.fr>\n"
 "Language-Team: Équipe de traduction française <wesnoth@ml.free.fr>\n"
 "MIME-Version: 1.0\n"
@@ -1703,6 +1703,11 @@ msgid ""
 "peace, or on the battlefield in times of war, their role is always the same: "
 "defending the Warlock nobilty."
 msgstr ""
+"Choisis parmis les plus solides spadassins, les gardes acceptent d'oublier "
+"un peut de leur mobilité pour les avantages de l'armure. Que ce soit à un "
+"poste protocolaire lors de la paix, ou sur le champ de bataille pendant les "
+"guerres, leur rôle est toujours le même : défendre la noblesse des "
+"enchanteurs."
 
 #: Extended_Era/units/standard/Aragwaith_Guardian.cfg:5
 msgid "Guardian"
@@ -1724,12 +1729,16 @@ msgid ""
 "adopted a longer blade than the Swordsmen, yet they are able to wield it "
 "with equal grace and skill."
 msgstr ""
+"Bien que les spadassins aragwaithi soient étonnament doués par rapport aux "
+"épéeistes des autres races, les aragwaithi réservent leur admiration pour "
+"les escrimeurs. Ces guerriers sont devenu tellement adeptes des parades et "
+"des estocades qu'ils ont opté pour une épée plus longue que celle des "
+"spadassins, qu'ils manient avec autant de grâce et d'aisance."
 
 #: Extended_Era/units/standard/Aragwaith_Swordmaster.cfg:79
 #: Extended_Era/units/standard/Aragwaith_Swordmaster.cfg:80
 #: Extended_Era/units/standard/Aragwaith_Longswordsman.cfg:62
 #: Extended_Era/units/standard/Aragwaith_Longswordsman.cfg:63
-#, fuzzy
 msgid "longsword"
 msgstr "épée longue"
 
@@ -1865,6 +1874,13 @@ msgid ""
 "young, passing on the proud Aragwaithi martial traditions. Even the Royal "
 "Guards of Wesnoth respect the Swordmasters."
 msgstr ""
+"Les maîtres des épées n'acquièrent pas facilement leur titre. ils ont enduré "
+"des années d'entrainement militaire rigoureux aragwaithi, et survécu à "
+"maintes batailles féroces. Leur habileté à l'épée terrifie les rares ennemis "
+"les ayant vu, et leur ayant survécu.\n"
+"Leur titre acquis, les maîtres des épées ont la charge d'instruire les "
+"jeunes, en leur inculquant les fières traditions martiales aragwaithi. Même "
+"les gardes royaux de Wesnoth ont de l'estime pour les maître des épées."
 
 #: Extended_Era/units/standard/Aragwaith_Swordsman.cfg:5
 msgid "Swordsman"
