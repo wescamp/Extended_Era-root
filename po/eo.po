@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2007-05-04 21:08+0200\n"
+"POT-Creation-Date: 2007-06-17 19:51+0200\n"
 "PO-Revision-Date: 2005-11-28 10:44+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -555,16 +555,12 @@ msgstr "piko"
 #: Extended_Era/units/standard/Dark_Elf_Fighter.cfg:51
 #: Extended_Era/units/standard/Dark_Elf_Lord.cfg:24
 #: Extended_Era/units/standard/Dark_Elf_Lord.cfg:25
-#: Extended_Era/units/standard/Aragwaith_Swordmaster.cfg:77
-#: Extended_Era/units/standard/Aragwaith_Swordmaster.cfg:78
 #: Extended_Era/units/standard/Sidhe_Veiledblade.cfg:24
 #: Extended_Era/units/standard/Sidhe_Veiledblade.cfg:25
 #: Extended_Era/units/standard/Sidhe_Snowdancer.cfg:21
 #: Extended_Era/units/standard/Sidhe_Snowdancer.cfg:22
 #: Extended_Era/units/standard/Chaos_Elite_Armorer.cfg:32
 #: Extended_Era/units/standard/Chaos_Elite_Armorer.cfg:33
-#: Extended_Era/units/standard/Aragwaith_Longswordsman.cfg:61
-#: Extended_Era/units/standard/Aragwaith_Longswordsman.cfg:62
 #: Extended_Era/units/standard/Aragwaith_Shield_Guard.cfg:27
 #: Extended_Era/units/standard/Aragwaith_Shield_Guard.cfg:28
 #: Extended_Era/units/standard/Aragwaith_Greatbow.cfg:76
@@ -668,7 +664,7 @@ msgstr "glavo"
 #: Extended_Era/units/standard/Dark_Elf_Fighter.cfg:53
 #: Extended_Era/units/standard/Steppe_Orc_Warrior.cfg:26
 #: Extended_Era/units/standard/Dark_Elf_Lord.cfg:27
-#: Extended_Era/units/standard/Aragwaith_Swordmaster.cfg:80
+#: Extended_Era/units/standard/Aragwaith_Swordmaster.cfg:82
 #: Extended_Era/units/standard/Steppe_Goblin_Hunter.cfg:29
 #: Extended_Era/units/standard/Kalifa_Elder_Falcon.cfg:27
 #: Extended_Era/units/standard/Dwarvish_Flamethower.cfg:33
@@ -678,7 +674,7 @@ msgstr "glavo"
 #: Extended_Era/units/standard/Chaos_Soulhunter.cfg:68
 #: Extended_Era/units/standard/Chaos_Elite_Armorer.cfg:35
 #: Extended_Era/units/standard/Steppe_Orc_Vanguard.cfg:73
-#: Extended_Era/units/standard/Aragwaith_Longswordsman.cfg:64
+#: Extended_Era/units/standard/Aragwaith_Longswordsman.cfg:65
 #: Extended_Era/units/standard/Human_Outlaw_Brigand.cfg:38
 #: Extended_Era/units/standard/Dwarvish_Runner.cfg:30
 #: Extended_Era/units/standard/Dwarvish_Runner.cfg:128
@@ -1444,10 +1440,10 @@ msgstr ""
 
 #: Extended_Era/units/standard/Aragwaith_Guard.cfg:22
 msgid ""
-"Under the soliders of wesnoth there are stories of wild warriors wearing big "
-"shields who always came with the dawn. The claimed that they have seen them "
-"pierced by dozen arrows but they should kept on cutting through their lines "
-"like the reaper though a corn field."
+"Chosen from the toughest Swordsmen, Guards willingly forgo some of thier "
+"mobility for the advantages of armor. Whether in ceremonial posts during "
+"peace, or on the battlefield in times of war, their role is always the same: "
+"defending the Warlock nobilty."
 msgstr ""
 
 #: Extended_Era/units/standard/Aragwaith_Guardian.cfg:5
@@ -1461,6 +1457,23 @@ msgstr "Lancistoj"
 #: Extended_Era/units/standard/Aragwaith_Longswordsman.cfg:5
 msgid "Longswordsman"
 msgstr ""
+
+#: Extended_Era/units/standard/Aragwaith_Longswordsman.cfg:17
+msgid ""
+"While Aragwaithi Swordsmen seem uncannily skilled to blade-wielders of other "
+"races, the Aragwaithi reserve their own admiration for Longswordsmen. These "
+"warriors have become so adept at the arts of thrust and parry that they have "
+"adopted a longer blade than the Swordsmen, yet they are able to wield it "
+"with equal grace and skill."
+msgstr ""
+
+#: Extended_Era/units/standard/Aragwaith_Swordmaster.cfg:79
+#: Extended_Era/units/standard/Aragwaith_Swordmaster.cfg:80
+#: Extended_Era/units/standard/Aragwaith_Longswordsman.cfg:62
+#: Extended_Era/units/standard/Aragwaith_Longswordsman.cfg:63
+#, fuzzy
+msgid "longsword"
+msgstr "glavo"
 
 #: Extended_Era/units/standard/Aragwaith_Pikeman.cfg:5
 msgid "Pikeman"
@@ -1556,6 +1569,17 @@ msgstr ""
 
 #: Extended_Era/units/standard/Aragwaith_Swordmaster.cfg:5
 msgid "Swordmaster"
+msgstr ""
+
+#: Extended_Era/units/standard/Aragwaith_Swordmaster.cfg:19
+msgid ""
+"Swordmasters do not come into their title lightly. They have endured years "
+"of rigorous Aragwaithi military training, and survived many ferocious "
+"battles. Their skill with their blades is spoken of with awe among those few "
+"foes who have witnessed it - and lived.\n"
+"Having won thier title, Swordmasters take responsibility for instructing the "
+"young, passing on the proud Aragwaithi martial traditions. Even the Royal "
+"Guards of Wesnoth respect the Swordmasters."
 msgstr ""
 
 #: Extended_Era/units/standard/Aragwaith_Swordsman.cfg:5
