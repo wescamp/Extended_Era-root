@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2007-06-17 19:51+0200\n"
-"PO-Revision-Date: 2007-05-08 17:58+0200\n"
+"PO-Revision-Date: 2007-07-16 17:58+0200\n"
 "Last-Translator: Joe Hansen <joedalton2@yahoo.dk>\n"
 "Language-Team: Danish <dansk@dansk-gruppen.dk>\n"
 "MIME-Version: 1.0\n"
@@ -141,6 +141,14 @@ msgid ""
 "of the unit with Terror engages in combat, its attacks do 15% less damage "
 "times the difference in their levels + 15%."
 msgstr ""
+"Terror:\n"
+"Denne enhed kan skræmme enheder den står tæt på, hvilket får dem til at "
+"kæmpe dårligere.\n"
+"\n"
+"Nærvedstående fjendtlige enheder med lavere niveau vil gøre mindre skade i "
+"kamp. Når en nærvedstående fjendtlig enhed på samme niveau eller på et "
+"lavere niveau går i kamp gør dens angreb 15 % mindre skade ganget med "
+"forskellen i deres niveau + 15 %."
 
 #: Extended_Era/eras/extended.cfg:6
 msgid "Extended Era"
@@ -191,7 +199,7 @@ msgstr "Skovelver"
 #: Extended_Era/factions/kalifa-xrpg.cfg:5
 #: Extended_Era/factions/kalifa-extended.cfg:5
 msgid "Kalifa"
-msgstr ""
+msgstr "Kalifa"
 
 #: Extended_Era/factions/loyalists-extended.cfg:5
 #: Extended_Era/factions/loyalists-xrpg.cfg:5
@@ -223,12 +231,12 @@ msgstr "Fredløse"
 #: Extended_Era/factions/sidhe-xrpg.cfg:5
 #: Extended_Era/factions/sidhe-extended.cfg:5
 msgid "Sidhe Elves"
-msgstr ""
+msgstr "Sidhe elver"
 
 #: Extended_Era/factions/steppe_orcs-extended.cfg:5
 #: Extended_Era/factions/steppe_orcs-xrpg.cfg:5
 msgid "Steppe Orcs"
-msgstr ""
+msgstr "Steppeorker"
 
 #: Extended_Era/factions/undead-xrpg.cfg:5
 #: Extended_Era/factions/undead-extended.cfg:5
@@ -305,7 +313,7 @@ msgstr ""
 
 #: Extended_Era/races/dwarves.cfg:8
 msgid "(+15% to all resistances, -1 movement)"
-msgstr ""
+msgstr "(+15 % til alle modstandskrafte, -1 bevægelse)"
 
 #: Extended_Era/races/kailfa.cfg:7 Extended_Era/races/kalifa.cfg:7
 msgid ""
@@ -1577,9 +1585,8 @@ msgstr ""
 #: Extended_Era/units/standard/Aragwaith_Swordmaster.cfg:80
 #: Extended_Era/units/standard/Aragwaith_Longswordsman.cfg:62
 #: Extended_Era/units/standard/Aragwaith_Longswordsman.cfg:63
-#, fuzzy
 msgid "longsword"
-msgstr "sværd"
+msgstr "langsværd"
 
 #: Extended_Era/units/standard/Aragwaith_Pikeman.cfg:5
 msgid "Pikeman"
@@ -1591,7 +1598,7 @@ msgstr "Spejder"
 
 #: Extended_Era/units/standard/Aragwaith_Shield_Guard.cfg:5
 msgid "Shield Guard"
-msgstr ""
+msgstr "Skjoldvagt"
 
 #: Extended_Era/units/standard/Aragwaith_Shield_Guard.cfg:23
 msgid ""
@@ -1702,7 +1709,7 @@ msgstr ""
 
 #: Extended_Era/units/standard/Aragwaith_Warlock.cfg:5
 msgid "Aragwaith^Warlock"
-msgstr ""
+msgstr "Krigsherre"
 
 #: Extended_Era/units/standard/Aragwaith_Warlock.cfg:23
 msgid ""
@@ -1713,10 +1720,16 @@ msgid ""
 "\n"
 "Special Notes:"
 msgstr ""
+"De magisk egnede blandt Aragwaith modtager ikke kun krigerisk træning som er "
+"så udbredt i Aragwaithi-samfundet, men også i kunsten at kunne helbrede, og "
+"selvfølgelig i magi. Bærende en magtfuld ild, kompetente med deres stave, en "
+"helbredende hånd, krigsherrer er de ædleste af et ædelt folk.\n"
+"\n"
+"Specielle bemærkninger:"
 
 #: Extended_Era/units/standard/Aragwaith_Warlock.cfg:109
 msgid "female^Warlock"
-msgstr ""
+msgstr "Krigsherskerinde"
 
 #: Extended_Era/units/standard/Aragwaith_Warlock.cfg:114
 msgid ""
@@ -1728,6 +1741,12 @@ msgid ""
 "\n"
 "Special Notes:"
 msgstr ""
+"De magisk egnede blandt Aragwaith modtager ikke kun krigerisk træning som er "
+"så udbredt i Aragwaithi-samfundet, men også i kunsten at kunne helbrede, og "
+"selvfølgelig i magi. Bærende en magtfuld ild, kompetente med deres stave, en "
+"helbredende hånd, krigsherrer er de ædleste af et ædelt folk.\n"
+"\n"
+"Specielle bemærkninger:"
 
 #: Extended_Era/units/standard/Aragwaith_Wizard.cfg:5
 msgid "Aragwaith^Wizard"
@@ -1777,7 +1796,7 @@ msgstr "knus"
 
 #: Extended_Era/units/standard/Chaos_Armorer.cfg:5
 msgid "Doom Guard"
-msgstr ""
+msgstr "Dommedagsvagt"
 
 #: Extended_Era/units/standard/Chaos_Armorer.cfg:27
 msgid ""
@@ -1787,6 +1806,11 @@ msgid ""
 "not the ones to fight, they are the ones to stand against every possible "
 "enemy."
 msgstr ""
+"Dæmoner ved at den eneste ting som kan stoppe en tidevandsbølge er en "
+"magtfuld væg. Dommedagsvagter er sådanne vægge, vægge af levende kød og "
+"stål. Blottet for blodlyst, er deres aggression ændret til fanatisk "
+"loyalitet. Dommedagsvagter er ikke kamptropper, men dem som forsvarer imod "
+"enhver fjende."
 
 #: Extended_Era/units/standard/Chaos_Blood_Knight.cfg:5
 msgid "Blood Knight"
@@ -1799,6 +1823,10 @@ msgid ""
 "Lords, they promote them to the rank of Blood Knights, supreme warriors of "
 "Chaos."
 msgstr ""
+"Den fuldendte ekspertviden kommer med det største offer. Mørke riddere åbner "
+"deres årer og lader deres blod flyde. Hvis smagen af deres blod "
+"tilfredsstiller Kaoslensherren forfremmes de til blodriddere, de største "
+"krigere i kaos."
 
 #: Extended_Era/units/standard/Chaos_Greater_Daemon.cfg:31
 #: Extended_Era/units/standard/Chaos_Greater_Daemon.cfg:32
@@ -1850,6 +1878,10 @@ msgid ""
 "tougher than the average human the lesser demons can easily turn the tide of "
 "a battle due to the combination of their nible movement and tough fighting..."
 msgstr ""
+"De mindre dæmoner er kaosgudernes gave til dem som har vist sig værdige til "
+"at modtage hjælp fra kaos, selvom de ikke er meget stærkere end et "
+"gennemsnitligt menneske kan mindre dæmoner hurtigt vende krigslykken på "
+"grund af deres kombination af hurtig bevægelse og hårde kamp..."
 
 #: Extended_Era/units/standard/Chaos_Winged_Daemon.cfg:75
 #: Extended_Era/units/standard/Chaos_Winged_Daemon.cfg:76
@@ -2164,7 +2196,7 @@ msgstr "bid"
 
 #: Extended_Era/units/standard/Dark_Elf_Lizard_Rider.cfg:5
 msgid "Lizard Rider"
-msgstr ""
+msgstr "Øglerytter"
 
 #: Extended_Era/units/standard/Dark_Elf_Lizard_Rider.cfg:32
 msgid ""
@@ -2371,7 +2403,7 @@ msgstr ""
 #: Extended_Era/units/standard/Dwarvish_Steamcopter.cfg:36
 #: Extended_Era/units/standard/Dwarvish_Steamcopter.cfg:37
 msgid "bombs"
-msgstr ""
+msgstr "bomber"
 
 #: Extended_Era/units/standard/Dwarvish_Runemaster.cfg:5
 msgid "Dwarvish Runemaster"
@@ -2479,7 +2511,7 @@ msgstr ""
 
 #: Extended_Era/units/standard/Human_Outlaw_Fugitive.cfg:5
 msgid "Fugitive"
-msgstr ""
+msgstr "Flygtning"
 
 #: Extended_Era/units/standard/Human_Outlaw_Fugitive.cfg:26
 msgid ""
@@ -2612,11 +2644,11 @@ msgstr ""
 #: Extended_Era/units/standard/Kalifa_Immortal.cfg:67
 #: Extended_Era/units/standard/Kalifa_Immortal.cfg:68
 msgid "long sword"
-msgstr ""
+msgstr "langsværd"
 
 #: Extended_Era/units/standard/Kalifa_Arif.cfg:5
 msgid "Arif"
-msgstr ""
+msgstr "Arif"
 
 #: Extended_Era/units/standard/Kalifa_Arif.cfg:18
 msgid ""
@@ -2691,7 +2723,7 @@ msgstr ""
 
 #: Extended_Era/units/standard/Kalifa_Ghazi.cfg:5
 msgid "Ghazi"
-msgstr ""
+msgstr "Ghazi"
 
 #: Extended_Era/units/standard/Kalifa_Ghazi.cfg:18
 msgid ""
@@ -2701,7 +2733,7 @@ msgstr ""
 
 #: Extended_Era/units/standard/Kalifa_Ghaznid.cfg:5
 msgid "Ghaznid"
-msgstr ""
+msgstr "Ghaznid"
 
 #: Extended_Era/units/standard/Kalifa_Ghaznid.cfg:18
 msgid ""
@@ -2721,7 +2753,7 @@ msgstr "lanse"
 
 #: Extended_Era/units/standard/Kalifa_Ghulam.cfg:5
 msgid "Ghulam"
-msgstr ""
+msgstr "Ghulam"
 
 #: Extended_Era/units/standard/Kalifa_Ghulam.cfg:19
 msgid ""
@@ -2732,7 +2764,7 @@ msgstr ""
 
 #: Extended_Era/units/standard/Kalifa_Ghulam_al_Rami.cfg:5
 msgid "Ghulam al Rami"
-msgstr ""
+msgstr "Ghulam al Rami"
 
 #: Extended_Era/units/standard/Kalifa_Ghulam_al_Rami.cfg:20
 msgid ""
@@ -2768,7 +2800,7 @@ msgstr ""
 #: Extended_Era/units/standard/Kalifa_Karadis.cfg:23
 #: Extended_Era/units/standard/Kalifa_Karadis.cfg:24
 msgid "cavalry sword"
-msgstr ""
+msgstr "kavalerisværd"
 
 #: Extended_Era/units/standard/Kalifa_Life_Guard.cfg:5
 msgid "Life Guard"
@@ -2791,7 +2823,7 @@ msgstr ""
 
 #: Extended_Era/units/standard/Kalifa_Mubarizan.cfg:5
 msgid "Mubarizan"
-msgstr ""
+msgstr "Mubarizan"
 
 #: Extended_Era/units/standard/Kalifa_Mubarizan.cfg:19
 msgid ""
@@ -2843,7 +2875,7 @@ msgstr ""
 
 #: Extended_Era/units/standard/Naga_Assassin.cfg:5
 msgid "Naga Assassin"
-msgstr ""
+msgstr "Nagasnigmorder"
 
 #: Extended_Era/units/standard/Naga_Hunter.cfg:19
 #: Extended_Era/units/standard/Naga_Assassin.cfg:20
@@ -2886,11 +2918,11 @@ msgstr ""
 
 #: Extended_Era/units/standard/Naga_Hunter.cfg:5
 msgid "Naga Hunter"
-msgstr ""
+msgstr "Nagajæger"
 
 #: Extended_Era/units/standard/Naga_Sentinel.cfg:5
 msgid "Naga Sentinel"
-msgstr ""
+msgstr "Nagavagtpost"
 
 #: Extended_Era/units/standard/Naga_Sentinel.cfg:24
 msgid ""
@@ -2915,7 +2947,7 @@ msgstr ""
 
 #: Extended_Era/units/standard/Orcish_Shaman.cfg:5
 msgid "Orcish Shaman"
-msgstr ""
+msgstr "Orkshaman"
 
 #: Extended_Era/units/standard/Orcish_Witch_Doctor.cfg:22
 #: Extended_Era/units/standard/Orcish_Shaman.cfg:21
@@ -2952,7 +2984,7 @@ msgstr ""
 
 #: Extended_Era/units/standard/Orcish_Witch_Doctor.cfg:5
 msgid "Orcish Witch Doctor"
-msgstr ""
+msgstr "Orkheksedoktor"
 
 #: Extended_Era/units/standard/Sidhe_Bladespinner.cfg:5
 msgid "Bladespinner"
@@ -3590,7 +3622,7 @@ msgstr ""
 
 #: Extended_Era/units/standard/Troll_Shaman.cfg:4
 msgid "Troll Shaman"
-msgstr ""
+msgstr "Troldeshaman"
 
 #: Extended_Era/units/standard/Troll_Shaman.cfg:25
 msgid ""
