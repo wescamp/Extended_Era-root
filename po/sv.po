@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2007-06-17 19:51+0200\n"
-"PO-Revision-Date: 2007-06-27 23:22+0200\n"
+"PO-Revision-Date: 2007-07-25 18:00+0200\n"
 "Last-Translator: Stefan Bergström (tephlon) <stefan DOT bergstrom AT gmail "
 "DOT com>\n"
 "Language-Team: Swedish\n"
@@ -176,8 +176,9 @@ msgstr "Drakfolket"
 
 #: Extended_Era/factions/dwarves-xrpg.cfg:5
 #: Extended_Era/factions/dwarves-extended.cfg:5
+#, fuzzy
 msgid "Dwarves"
-msgstr ""
+msgstr "Dvärgar"
 
 #: Extended_Era/factions/elves-xrpg.cfg:5
 #: Extended_Era/factions/elves-extended.cfg:5
@@ -1074,8 +1075,9 @@ msgstr ""
 
 #: Extended_Era/units/rpg/Dark_Elf_Marshal.cfg:5
 #: Extended_Era/units/standard/Dark_Elf_Marshal.cfg:5
+#, fuzzy
 msgid "Marshal"
-msgstr ""
+msgstr "Överste"
 
 #: Extended_Era/units/rpg/Dark_Elf_Marshal.cfg:22
 #: Extended_Era/units/standard/Dark_Elf_Marshal.cfg:22
@@ -1125,17 +1127,23 @@ msgstr "projektil"
 
 #: Extended_Era/units/rpg/Human_Outlaw_Ruffian.cfg:5
 #: Extended_Era/units/standard/Human_Outlaw_Ruffian.cfg:5
+#, fuzzy
 msgid "Ruffian"
-msgstr ""
+msgstr "Råskinn"
 
 #: Extended_Era/units/rpg/Human_Outlaw_Ruffian.cfg:19
 #: Extended_Era/units/standard/Human_Outlaw_Ruffian.cfg:19
+#, fuzzy
 msgid ""
 "Some men without particular skills cannot or will not make an honest living. "
 "Those that attempt to make their way through life by the heavy end of a "
 "stick, are known as 'Ruffians'.  With enough experience they can learn to "
 "swing a bigger club or throw things, but not both."
 msgstr ""
+"Människor utan någon särskild förmåga finner det svårt att få ett hederligt "
+"arbete. De som försöker försörja sig med hjälp av den tunga änden av en käpp "
+"kallas råskinn. Utan särskild kunskap kan de lära sig att svinga en stor "
+"klubba eller att kasta saker, men inte både och. "
 
 #: Extended_Era/units/rpg/Human_Outlaw_Ruffian.cfg:35
 #: Extended_Era/units/rpg/Human_Outlaw_Ruffian.cfg:36
@@ -1203,8 +1211,9 @@ msgstr ""
 #: Extended_Era/units/rpg/Sidhe_Warrior.cfg:5
 #: Extended_Era/units/standard/Sidhe_Warrior.cfg:5
 #: Extended_Era/units/standard/Dark_Elf_Warrior.cfg:5
+#, fuzzy
 msgid "Warrior"
-msgstr ""
+msgstr "Krigare"
 
 #: Extended_Era/units/rpg/Sidhe_Warrior.cfg:17
 #: Extended_Era/units/standard/Sidhe_Warrior.cfg:17
@@ -1265,8 +1274,9 @@ msgstr ""
 #: Extended_Era/units/standard/Steppe_Orc_Spearhead.cfg:26
 #: Extended_Era/units/standard/Steppe_Orc_Khan.cfg:30
 #: Extended_Era/units/standard/Steppe_Orc_Khan.cfg:31
+#, fuzzy
 msgid "flail"
-msgstr ""
+msgstr "stridsgissel"
 
 #: Extended_Era/units/rpg/Steppe_Orc_Vanguard.cfg:70
 #: Extended_Era/units/rpg/Steppe_Orc_Vanguard.cfg:71
@@ -1282,8 +1292,9 @@ msgstr ""
 #: Extended_Era/units/standard/Steppe_Orc_Bladesman.cfg:24
 #: Extended_Era/units/standard/Steppe_Orc_Massif.cfg:24
 #: Extended_Era/units/standard/Steppe_Orc_Massif.cfg:25
+#, fuzzy
 msgid "battle axe"
-msgstr ""
+msgstr "stridsyxa"
 
 #: Extended_Era/units/rpg/Steppe_Orc_Spearhead.cfg:5
 #: Extended_Era/units/standard/Steppe_Orc_Spearhead.cfg:5
@@ -1585,8 +1596,9 @@ msgid ""
 msgstr ""
 
 #: Extended_Era/units/standard/Aragwaith_Swordsman.cfg:5
+#, fuzzy
 msgid "Swordsman"
-msgstr ""
+msgstr "Svärdssoldat"
 
 #: Extended_Era/units/standard/Aragwaith_Swordsman.cfg:25
 msgid ""
@@ -1782,7 +1794,7 @@ msgstr ""
 #: Extended_Era/units/standard/Chaos_Evil_Crab.cfg:25
 #, fuzzy
 msgid "pincers"
-msgstr "stick"
+msgstr "gripklor"
 
 #: Extended_Era/units/standard/Chaos_Hell_Crab.cfg:49
 #: Extended_Era/units/standard/Chaos_Hell_Crab.cfg:50
@@ -2173,8 +2185,9 @@ msgid ""
 msgstr ""
 
 #: Extended_Era/units/standard/Drake_Armageddon.cfg:5
+#, fuzzy
 msgid "Armageddon Drake"
-msgstr ""
+msgstr "Harmageddondrake"
 
 #: Extended_Era/units/standard/Drake_Armageddon.cfg:37
 msgid ""
@@ -2781,12 +2794,17 @@ msgstr "Väktare"
 
 #: Extended_Era/units/standard/Naga_Hunter.cfg:19
 #: Extended_Era/units/standard/Naga_Assassin.cfg:20
+#, fuzzy
 msgid ""
 "Naga Hunters are Naga who are skilled at hunting with a bow. Since the naga "
 "are naturally resistant to poison, they have no qualms about hunting with "
 "poisoned arrows. These two foot long shafts, tipped with a potent poison, "
 "have been known to slay many kinds of prey."
 msgstr ""
+"Nagajägare är skickliga på att jaga med båge. Eftersom nagafolket har ett "
+"naturligt skydd mot gift så har de inga skrupler mot att jaga med förgiftade "
+"pilar. Dessa två fot långa skaft, doppade i ett starkt gift, är kända för "
+"att fälla många sorters byten."
 
 #: Extended_Era/units/standard/Naga_Depthstalker.cfg:5
 msgid "Naga Depthstalker"
@@ -2810,7 +2828,7 @@ msgstr ""
 #: Extended_Era/units/standard/Naga_Guardian.cfg:5
 #, fuzzy
 msgid "Naga Guardian"
-msgstr "Väktare"
+msgstr "Nagaväktare"
 
 #: Extended_Era/units/standard/Naga_Guardian.cfg:23
 msgid ""
@@ -2820,12 +2838,14 @@ msgid ""
 msgstr ""
 
 #: Extended_Era/units/standard/Naga_Hunter.cfg:5
+#, fuzzy
 msgid "Naga Hunter"
-msgstr ""
+msgstr "Nagajägare"
 
 #: Extended_Era/units/standard/Naga_Sentinel.cfg:5
+#, fuzzy
 msgid "Naga Sentinel"
-msgstr ""
+msgstr "Nagahedersvakt"
 
 #: Extended_Era/units/standard/Naga_Sentinel.cfg:24
 msgid ""
@@ -2837,16 +2857,22 @@ msgid ""
 msgstr ""
 
 #: Extended_Era/units/standard/Naga_Warden.cfg:5
+#, fuzzy
 msgid "Naga Warden"
-msgstr ""
+msgstr "Nagavakt"
 
 #: Extended_Era/units/standard/Naga_Warden.cfg:23
+#, fuzzy
 msgid ""
 "These heavy fighters are the elite guards of the naga. They are slower and "
 "more heavily armored than most naga and wield huge maces which they use to "
 "crush their enemies. They mostly guard naga outposts, but occasionally "
 "participate in offensive raids."
 msgstr ""
+"Dessa tunga kämpar är nagafolkets elitvakter. De är långsammare och tyngre "
+"beväpnade än sina fränder och svingar stora stridsklubbor som de använder "
+"till att krossa sina fiender. De brukar vakta nagafolkets utposter, men "
+"deltar ibland i räder."
 
 #: Extended_Era/units/standard/Orcish_Shaman.cfg:5
 msgid "Orcish Shaman"
@@ -3562,12 +3588,16 @@ msgid "Wose Shaman"
 msgstr "Entschaman"
 
 #: Extended_Era/units/standard/Wose_Shaman.cfg:26
+#, fuzzy
 msgid ""
 "These woses are able to command forest plants such as vines and creepers to "
 "hinder their enemies.\n"
 "\n"
 "Special Notes:"
 msgstr ""
+"Dessa enter har förmågan att få slingerväxter att hindra deras fiender.\n"
+"\n"
+"Anmärkning:"
 
 #: Extended_Era/units/standard/Wose_Shaman.cfg:74
 #: Extended_Era/units/standard/Wose_Shaman.cfg:75
