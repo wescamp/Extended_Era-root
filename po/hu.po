@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2007-09-23 00:49+0200\n"
+"POT-Creation-Date: 2007-09-26 15:11+0200\n"
 "PO-Revision-Date: 2005-05-18 10:15+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -598,13 +598,13 @@ msgid ""
 "they no longer need to give orders to their mounts, those anticipate them."
 msgstr ""
 
-#: Extended_Era/units/standard/Bear_Young.cfg:47
+#: Extended_Era/units/standard/Bear_Young.cfg:31
 #: Extended_Era/units/standard/Chaos_Winged_Daemon.cfg:39
 #: Extended_Era/units/standard/Kalifa_Falcon.cfg:24
 #: Extended_Era/units/standard/Aragwaith_Eagle_Master.cfg:27
 #: Extended_Era/units/standard/Aragwaith_Eagle_Rider.cfg:29
 #: Extended_Era/units/standard/Kalifa_Elder_Falcon.cfg:26
-#: Extended_Era/units/standard/Bear.cfg:48
+#: Extended_Era/units/standard/Bear.cfg:32
 msgid "claws"
 msgstr "karmok"
 
@@ -741,9 +741,9 @@ msgid ""
 msgstr ""
 
 #: Extended_Era/units/standard/Human_Outlaw_Queen.cfg:95
-#: Extended_Era/units/standard/Orcish_Witch_Doctor.cfg:26
+#: Extended_Era/units/standard/Orcish_Witch_Doctor.cfg:28
 #: Extended_Era/units/standard/Chaos_Invoker.cfg:44
-#: Extended_Era/units/standard/Orcish_Shaman.cfg:26
+#: Extended_Era/units/standard/Orcish_Shaman.cfg:28
 #: Extended_Era/units/standard/Human_Outlaw_Princess.cfg:92
 #: Extended_Era/units/standard/Steppe_Orc_Icewind_Master.cfg:34
 #: Extended_Era/units/standard/Aragwaith_Wizard.cfg:32
@@ -873,7 +873,13 @@ msgid "Bear"
 msgstr "dárda"
 
 #: Extended_Era/units/standard/Bear.cfg:18
-msgid "just a bear"
+msgid ""
+"Adult bears are known for going their own way; most bears would sooner flee "
+"a melee than throw themselves at risk. Some, though, for whatever reason, "
+"choose not to run. These bears are a terrifying sight to behold. An adult "
+"bear is a mass of muscle, claw, fur, and fury of almost unrivalled "
+"proportions: even the most skilled of warriors will not look lightly on the "
+"bulk of an angry, advancing bear."
 msgstr ""
 
 #: Extended_Era/units/standard/Bear_Young.cfg:22
@@ -886,7 +892,14 @@ msgid "Young Bear"
 msgstr ""
 
 #: Extended_Era/units/standard/Bear_Young.cfg:17
-msgid "a young bear"
+msgid ""
+"It's rare to see bears motivated enough to enter a fight in a meaningful "
+"way. Nevertheless, occasionally one of these enormous beasts will find some "
+"motivation, whether it be danger to its territory, desperation for food, or "
+"even through service to an ally. Even a juvenile bear is a fearsome sight on "
+"the battlefield, rending and tearing with its claws and crushing with its "
+"powerful limbs and sheer mass. Its heavy fur, thick skin, and already "
+"impressive bulk defy its surprising agility in the forest."
 msgstr ""
 
 #: Extended_Era/units/standard/Chaos_Abomination.cfg:5
@@ -898,7 +911,7 @@ msgstr ""
 #: Extended_Era/units/standard/Chaos_Abomination.cfg:33
 #: Extended_Era/units/standard/Windsong_Courier.cfg:23
 #: Extended_Era/units/standard/Chaos_Lesser_Mutation.cfg:32
-#: Extended_Era/units/standard/Wose_Shaman.cfg:40
+#: Extended_Era/units/standard/Wose_Shaman.cfg:33
 #: Extended_Era/units/standard/Chaos_Greater_Mutation.cfg:32
 #: Extended_Era/units/standard/Windsong_Emissary.cfg:24
 msgid "crush"
@@ -942,17 +955,17 @@ msgstr ""
 #: Extended_Era/units/standard/Chaos_Marauder.cfg:65
 #: Extended_Era/units/standard/Chaos_Soulhunter.cfg:66
 #: Extended_Era/units/standard/Dwarvish_Runner.cfg:30
-#: Extended_Era/units/standard/Dwarvish_Runner.cfg:128
+#: Extended_Era/units/standard/Dwarvish_Runner.cfg:38
 #: Extended_Era/units/standard/Kalifa_Elite_Ghazi.cfg:23
 #: Extended_Era/units/standard/Chaos_Overlord.cfg:77
 #: Extended_Era/units/standard/Dwarvish_Axethrower.cfg:30
-#: Extended_Era/units/standard/Dwarvish_Axethrower.cfg:158
+#: Extended_Era/units/standard/Dwarvish_Axethrower.cfg:38
 #: Extended_Era/units/standard/Chaos_Blood_Knight.cfg:86
 #: Extended_Era/units/standard/Chaos_Daemon.cfg:31
 #: Extended_Era/units/standard/Kalifa_Ghazi.cfg:23
 #: Extended_Era/units/standard/Kalifa_Ahadath.cfg:23
 #: Extended_Era/units/standard/Dwarvish_Axemaster.cfg:31
-#: Extended_Era/units/standard/Dwarvish_Axemaster.cfg:159
+#: Extended_Era/units/standard/Dwarvish_Axemaster.cfg:39
 #: Extended_Era/units/standard/Chaos_Lesser_Daemon.cfg:31
 msgid "axe"
 msgstr "csatabárd"
@@ -1215,8 +1228,8 @@ msgid ""
 msgstr ""
 
 #: Extended_Era/units/standard/Naga_Abomination.cfg:75
-#: Extended_Era/units/standard/Kalifa_Ghulam.cfg:66
-#: Extended_Era/units/standard/Kalifa_Ghaznid.cfg:61
+#: Extended_Era/units/standard/Kalifa_Ghulam.cfg:36
+#: Extended_Era/units/standard/Kalifa_Ghaznid.cfg:31
 #: Extended_Era/units/standard/Kalifa_Ekim_Haram.cfg:31
 #: Extended_Era/units/standard/Naga_Guardian.cfg:28
 #: Extended_Era/units/standard/Dark_Elf_Cleric.cfg:27
@@ -1226,7 +1239,7 @@ msgstr ""
 #: Extended_Era/units/standard/Naga_Warden.cfg:28
 #: Extended_Era/units/standard/Dark_Elf_Sorceress.cfg:26
 #: Extended_Era/units/standard/Dark_Elf_Enchantress.cfg:23
-#: Extended_Era/units/standard/Kalifa_Life_Guard.cfg:62
+#: Extended_Era/units/standard/Kalifa_Life_Guard.cfg:32
 msgid "mace"
 msgstr "buzogány"
 
@@ -1489,9 +1502,21 @@ msgid ""
 "he carves into his weapons and armor deflect the blows of his enemies."
 msgstr ""
 
-#: Extended_Era/units/standard/Dwarvish_Runemaster.cfg:28
-#: Extended_Era/units/standard/Dwarvish_Arcanister.cfg:29
-#: Extended_Era/units/standard/Dwarvish_Runesmith.cfg:28
+#: Extended_Era/units/standard/Dwarvish_Runemaster.cfg:25
+#: Extended_Era/units/standard/Dwarvish_Thunderwheel.cfg:22
+#: Extended_Era/units/standard/Dwarvish_Steamwheel.cfg:22
+#: Extended_Era/units/standard/Dwarvish_Arcanister.cfg:26
+#: Extended_Era/units/standard/Dwarvish_Runesmith.cfg:25
+#: Extended_Era/units/standard/Dwarvish_Warwheel.cfg:23
+msgid ""
+"\n"
+"\n"
+"Special Notes:"
+msgstr ""
+
+#: Extended_Era/units/standard/Dwarvish_Runemaster.cfg:30
+#: Extended_Era/units/standard/Dwarvish_Arcanister.cfg:31
+#: Extended_Era/units/standard/Dwarvish_Runesmith.cfg:30
 msgid "hammer"
 msgstr "kalapács"
 
@@ -1528,7 +1553,7 @@ msgid ""
 "tongue of flame."
 msgstr ""
 
-#: Extended_Era/units/standard/Dwarvish_Flamethower.cfg:69
+#: Extended_Era/units/standard/Dwarvish_Flamethower.cfg:41
 msgid "firestick"
 msgstr ""
 
@@ -1609,9 +1634,9 @@ msgid ""
 "genies, thus they are called 'Steamwheels'."
 msgstr ""
 
-#: Extended_Era/units/standard/Dwarvish_Thunderwheel.cfg:33
-#: Extended_Era/units/standard/Dwarvish_Steamwheel.cfg:33
-#: Extended_Era/units/standard/Dwarvish_Warwheel.cfg:34
+#: Extended_Era/units/standard/Dwarvish_Thunderwheel.cfg:35
+#: Extended_Era/units/standard/Dwarvish_Steamwheel.cfg:35
+#: Extended_Era/units/standard/Dwarvish_Warwheel.cfg:36
 msgid "slam"
 msgstr "becsapódás"
 
@@ -1785,15 +1810,15 @@ msgid ""
 "excell in hilly terrain."
 msgstr ""
 
-#: Extended_Era/units/standard/Kalifa_Mamluk.cfg:74
-#: Extended_Era/units/standard/Kalifa_Rami.cfg:101
-#: Extended_Era/units/standard/Kalifa_Elite_Ghazi.cfg:59
-#: Extended_Era/units/standard/Kalifa_Ghulam_al_Rami.cfg:65
-#: Extended_Era/units/standard/Kalifa_Rami_al_Nuri.cfg:102
-#: Extended_Era/units/standard/Kalifa_Karadis.cfg:73
-#: Extended_Era/units/standard/Kalifa_Ghazi.cfg:59
-#: Extended_Era/units/standard/Kalifa_Naffatun.cfg:38
-#: Extended_Era/units/standard/Kalifa_Ahadath.cfg:59
+#: Extended_Era/units/standard/Kalifa_Mamluk.cfg:34
+#: Extended_Era/units/standard/Kalifa_Rami.cfg:41
+#: Extended_Era/units/standard/Kalifa_Elite_Ghazi.cfg:31
+#: Extended_Era/units/standard/Kalifa_Ghulam_al_Rami.cfg:37
+#: Extended_Era/units/standard/Kalifa_Rami_al_Nuri.cfg:42
+#: Extended_Era/units/standard/Kalifa_Karadis.cfg:33
+#: Extended_Era/units/standard/Kalifa_Ghazi.cfg:31
+#: Extended_Era/units/standard/Kalifa_Naffatun.cfg:37
+#: Extended_Era/units/standard/Kalifa_Ahadath.cfg:31
 msgid "composite bow"
 msgstr ""
 
@@ -1809,11 +1834,11 @@ msgid ""
 msgstr ""
 
 #: Extended_Era/units/standard/Kalifa_Rami.cfg:23
-#: Extended_Era/units/standard/Kalifa_Arif.cfg:67
-#: Extended_Era/units/standard/Kalifa_Mubarizan.cfg:63
-#: Extended_Era/units/standard/Kalifa_Amir.cfg:59
+#: Extended_Era/units/standard/Kalifa_Arif.cfg:39
+#: Extended_Era/units/standard/Kalifa_Mubarizan.cfg:35
+#: Extended_Era/units/standard/Kalifa_Amir.cfg:31
 #: Extended_Era/units/standard/Kalifa_Rami_al_Nuri.cfg:24
-#: Extended_Era/units/standard/Kalifa_Immortal.cfg:68
+#: Extended_Era/units/standard/Kalifa_Immortal.cfg:40
 msgid "long sword"
 msgstr ""
 
@@ -1828,10 +1853,10 @@ msgid ""
 msgstr ""
 
 #: Extended_Era/units/standard/Steppe_Orc_Stoic.cfg:33
-#: Extended_Era/units/standard/Kalifa_Arif.cfg:103
+#: Extended_Era/units/standard/Kalifa_Arif.cfg:51
 #: Extended_Era/units/standard/Steppe_Orc_Shieldbearer.cfg:32
 #: Extended_Era/units/standard/Steppe_Orc_Rigid.cfg:32
-#: Extended_Era/units/standard/Kalifa_Immortal.cfg:108
+#: Extended_Era/units/standard/Kalifa_Immortal.cfg:52
 msgid "shield bash"
 msgstr ""
 
@@ -1866,8 +1891,8 @@ msgid ""
 "head clean off."
 msgstr ""
 
-#: Extended_Era/units/standard/Kalifa_Falcon.cfg:51
-#: Extended_Era/units/standard/Kalifa_Elder_Falcon.cfg:53
+#: Extended_Era/units/standard/Kalifa_Falcon.cfg:33
+#: Extended_Era/units/standard/Kalifa_Elder_Falcon.cfg:35
 msgid "beak"
 msgstr ""
 
@@ -2014,8 +2039,8 @@ msgid ""
 "uses in a land of many strange wonders..."
 msgstr ""
 
-#: Extended_Era/units/standard/Kalifa_Rami.cfg:60
-#: Extended_Era/units/standard/Kalifa_Rami_al_Nuri.cfg:61
+#: Extended_Era/units/standard/Kalifa_Rami.cfg:32
+#: Extended_Era/units/standard/Kalifa_Rami_al_Nuri.cfg:33
 msgid "fire arrow"
 msgstr ""
 
@@ -2122,20 +2147,22 @@ msgstr ""
 msgid "Orcish Shaman"
 msgstr ""
 
-#: Extended_Era/units/standard/Orcish_Witch_Doctor.cfg:21
-#: Extended_Era/units/standard/Orcish_Shaman.cfg:20
+#: Extended_Era/units/standard/Orcish_Witch_Doctor.cfg:23
+#: Extended_Era/units/standard/Orcish_Shaman.cfg:22
 msgid ""
 "Orcish Shamans are the guardians of orcish magic. Respected among orcish "
 "tribes, they form the Orcish Council, which makes important decisions for "
 "the whole Orcish community and arbitrates the many conflicts that arise "
 "between tribes of this argumentative race. Although physically weak (for "
 "Orcs), Orcish Shamans are good spell casters and can curse their enemies, "
-"draining their life."
+"draining their life.\n"
+"\n"
+"Special Notes:"
 msgstr ""
 
-#: Extended_Era/units/standard/Orcish_Witch_Doctor.cfg:65
-#: Extended_Era/units/standard/Orcish_Shaman.cfg:65
-#: Extended_Era/units/standard/Orcish_Warlock.cfg:65
+#: Extended_Era/units/standard/Orcish_Witch_Doctor.cfg:37
+#: Extended_Era/units/standard/Orcish_Shaman.cfg:37
+#: Extended_Era/units/standard/Orcish_Warlock.cfg:35
 msgid "curse"
 msgstr "átok"
 
@@ -2891,7 +2918,7 @@ msgid ""
 "they use to blast enemies with gouts of fire."
 msgstr ""
 
-#: Extended_Era/units/standard/Troll_Shaman.cfg:62
+#: Extended_Era/units/standard/Troll_Shaman.cfg:42
 msgid "flame blast"
 msgstr ""
 
@@ -3123,7 +3150,7 @@ msgid ""
 "Special Notes:"
 msgstr ""
 
-#: Extended_Era/units/standard/Wose_Shaman.cfg:77
+#: Extended_Era/units/standard/Wose_Shaman.cfg:42
 msgid "entangle"
 msgstr "behálózás"
 
