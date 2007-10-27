@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2007-10-14 18:46+0200\n"
+"POT-Creation-Date: 2007-10-27 18:25+0200\n"
 "PO-Revision-Date: 2007-06-19 23:39+0200\n"
 "Last-Translator: Benoît Timbert <benoit.timbert@free.fr>\n"
 "Language-Team: Équipe de traduction française <wesnoth@ml.free.fr>\n"
@@ -128,6 +128,23 @@ msgid ""
 msgstr ""
 "Défensif uniquement :\n"
 "Cette arme ne peut être utilisée qu'en défense."
+
+#: Extended_Era/abilities/distract.cfg:6
+msgid "distract"
+msgstr ""
+
+#: Extended_Era/abilities/distract.cfg:8
+msgid ""
+"Distract:\n"
+"This unit negates enemy Zones of Control around itself for friendly units "
+"(but not for itself)."
+msgstr ""
+
+#: Extended_Era/abilities/distract.cfg:17
+msgid ""
+"This unit is capable of distracting oponents, allowing friendly unis to "
+"trespass their Zones of Control and move unhindered around them."
+msgstr ""
 
 #: Extended_Era/abilities/dread.cfg:6 Extended_Era/abilities/dread.cfg:7
 msgid "dread"
@@ -558,24 +575,24 @@ msgstr ""
 msgid "race^Fairies"
 msgstr ""
 
-#: Extended_Era/races/windsong.cfg:5
+#: Extended_Era/races/windsong.cfg:6
 msgid "incorporeal"
 msgstr ""
 
-#: Extended_Era/races/windsong.cfg:6
+#: Extended_Era/races/windsong.cfg:7
 #, fuzzy
 msgid "female^incorporeal"
 msgstr "Enchanteresse"
 
-#: Extended_Era/races/windsong.cfg:7
+#: Extended_Era/races/windsong.cfg:8
 msgid "Immune to drain, poison and plague"
 msgstr ""
 
-#: Extended_Era/races/windsong.cfg:13
+#: Extended_Era/races/windsong.cfg:18
 msgid "race^Windsong"
 msgstr ""
 
-#: Extended_Era/races/windsong.cfg:16
+#: Extended_Era/races/windsong.cfg:21
 msgid ""
 "Ana,Arala,Ala,Asare,Ashara,Athesa,Ama,Averana,Atharuna,Amoshe,Ahurena,Alera,"
 "Ave,Arila,Ai,Atha,Ashe,Aru,Amasela,Aoshe,Amelara,Alura,Eva,Elena,Esure,Ena,"
@@ -598,7 +615,7 @@ msgid ""
 "Shara,Shena,Shira,Shamane,Shefia,Shune,Shai,Shena,Shalia,Shasi,Shava,Shura"
 msgstr ""
 
-#: Extended_Era/races/windsong.cfg:20
+#: Extended_Era/races/windsong.cfg:25
 msgid "race^Abstraction"
 msgstr ""
 
