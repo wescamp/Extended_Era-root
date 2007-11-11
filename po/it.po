@@ -56,7 +56,6 @@ msgstr "protezione degli alleati"
 #: Extended_Era/abilities/allied_protection.cfg:13
 #: Extended_Era/abilities/allied_protection.cfg:36
 #: Extended_Era/abilities/allied_protection.cfg:62
-#, fuzzy
 msgid ""
 "Allied Protection:\n"
 "Adjacent friendly units of lower level receive a +20% bonus to all "
@@ -102,20 +101,22 @@ msgstr ""
 "parte dell'unità nascosta o se ci sono unità nemiche vicina a questa unità."
 
 #: Extended_Era/abilities/counter.cfg:6 Extended_Era/abilities/counter.cfg:9
-#, fuzzy
 msgid "counter"
-msgstr "Cacciatore"
+msgstr "contrattacco"
 
 #: Extended_Era/abilities/counter.cfg:8 Extended_Era/abilities/counter.cfg:11
 msgid ""
 "Counter:\n"
 "When used defensively, this attack always has at least a 60% chance to hit."
 msgstr ""
+"Contrattacco:\n"
+"Quando viene usato in difesa, questo attacco ha sempre almeno il 60% di "
+"probabilità di andare a segno."
 
 #: Extended_Era/abilities/dauntless.cfg:6
 #: Extended_Era/abilities/dauntless.cfg:9
 msgid "dauntless"
-msgstr ""
+msgstr "intrepido"
 
 #: Extended_Era/abilities/dauntless.cfg:8
 #: Extended_Era/abilities/dauntless.cfg:11
@@ -124,6 +125,9 @@ msgid ""
 "While attacking, this unit's resistances are doubled, up to a maximum of 50. "
 "Weaknesses are not affected."
 msgstr ""
+"Intrepido:\n"
+" In attacco, le resistenze di questa unitàsono raddoppiate, fino a un "
+"massimo di 50. Le debolezze non cambiano."
 
 #: Extended_Era/abilities/defend_only.cfg:8
 msgid "defend only"
@@ -159,14 +163,13 @@ msgid "dread"
 msgstr "paura"
 
 #: Extended_Era/abilities/dread.cfg:9 Extended_Era/abilities/dread.cfg:11
-#, fuzzy
 msgid ""
 "Dread:\n"
 "When this attack is used offensively, this unit takes one third less damage "
 "in retaliation."
 msgstr ""
 "Paura:\n"
-"Quando questo attacco è usato in attacco, l'unità riceve un terzo dei danni "
+"Quando questa abilità è usata in attacco, l'unità riceve un terzo dei danni "
 "in meno nell'attacco di risposta."
 
 #: Extended_Era/abilities/protection.cfg:9
@@ -178,7 +181,6 @@ msgstr "protezione"
 #: Extended_Era/abilities/protection.cfg:11
 #: Extended_Era/abilities/protection.cfg:33
 #: Extended_Era/abilities/protection.cfg:58
-#, fuzzy
 msgid ""
 "Protection:\n"
 "Adjacent units of lower level from this side receive a +20% bonus to all "
@@ -323,14 +325,12 @@ msgid "Windsong"
 msgstr ""
 
 #: Extended_Era/races/aragwaithi.cfg:5
-#, fuzzy
 msgid "race^Aragwaithi"
-msgstr "Aragwaith"
+msgstr "Aragwaithi"
 
 #: Extended_Era/races/chaos.cfg:5
-#, fuzzy
 msgid "race^Demons"
-msgstr "Demone maggiore"
+msgstr "Demoni"
 
 #: Extended_Era/races/chaos.cfg:8
 msgid ""
@@ -397,7 +397,6 @@ msgstr ""
 "Verrier,Vepar"
 
 #: Extended_Era/races/dark-elves.cfg:5
-#, fuzzy
 msgid "race^Dark Elves"
 msgstr "Elfi neri"
 
@@ -573,28 +572,27 @@ msgstr "Falco"
 
 #: Extended_Era/races/sidhe.cfg:5
 msgid "race^Sidhe"
-msgstr ""
+msgstr "Sidhe"
 
 #: Extended_Era/races/sidhe.cfg:13
 msgid "race^Bears"
-msgstr ""
+msgstr "Orsi"
 
 #: Extended_Era/races/sylvans.cfg:5
 msgid "race^Fairies"
-msgstr ""
+msgstr "fate"
 
 #: Extended_Era/races/windsong.cfg:6
 msgid "incorporeal"
-msgstr ""
+msgstr "incorporeo"
 
 #: Extended_Era/races/windsong.cfg:7
-#, fuzzy
 msgid "female^incorporeal"
-msgstr "Incantatrice"
+msgstr "incorporea"
 
 #: Extended_Era/races/windsong.cfg:8
 msgid "Immune to drain, poison and plague"
-msgstr ""
+msgstr "Immune ad assorbimento, veleno e contagio"
 
 #: Extended_Era/races/windsong.cfg:18
 msgid "race^Windsong"
@@ -622,6 +620,25 @@ msgid ""
 "Vana,Vele,Veshere,Vanesa,Vithia,Hana,Haru,Heshia,Hia,Holaria,Hasha,Hena,"
 "Shara,Shena,Shira,Shamane,Shefia,Shune,Shai,Shena,Shalia,Shasi,Shava,Shura"
 msgstr ""
+"Ana,Arala,Ala,Asare,Ashara,Athesa,Ama,Averana,Atharuna,Amoshe,Ahurena,Alera,"
+"Ave,Arila,Ai,Atha,Ashe,Aru,Amasela,Aoshe,Amelara,Alura,Eva,Elena,Esure,Ena,"
+"Ethe,Eme,Eira,Ela,Efara,Evina,Eshe,Ethara,Esaora,Eumane,Ehuva,Ere,Emi,Eshi,"
+"Enemura,Sela,Sara,Sula,Salura,Sana,Semisha,Soshire,Suvana,Sife,Saletha,"
+"Sitheri,Surei,Somile,Sahama,Salarema,Sea,Severa,Suthe,Sithame,Ola,Omana,"
+"Osheura,Olena,Onethe,Ovenatha,Fira,Fesha,Fena,Felai,Foma,Furava,Fusatha,Fala,"
+"Famia,Fesea,Fenoma,Fihama,Fama,Fia,Famori,Irena,Ima,Ishama,Iolara,Imaha,"
+"Inithe,Imana,Isora,Ilameshe,Ila,Ishe,Ithoe,Ivie,Imia,Iralura,Isanare,Ihama,"
+"Iri,Ithania,Isavora,Ila,Mana,Mia,Mara,Mura,Masohe,Mushena,Malesa,Minaru,"
+"Minare,Monia,Mesere,Mulasha,Mathe,Minashema,Mesa,Mirana,Mifa,Mivareshana,Une,"
+"Uara,Ushala,Uhima,Uthe,Unaluthe,Thesa,Thema,Thirala,Thoshe,Thofara,Thami,"
+"Thise,Therama,Thila,Thama,Therasa,Thurana,Thalia,Therana,Thomena,Thosa,Thene,"
+"Thime,Thamele,Theshia,Nai,Nama,Norale,Nethala,Nisha,Nemene,Nefe,Navaru,Nula,"
+"Nusina,Naria,Nosua,Naomi,Nahasa,Nila,Nuralena,Nema,Lisa,Lara,Loe,Lasama,"
+"Lemeshe,Lathia,Leshara,Laisa,Line,Lenesa,Loma,Lura,Lesamia,Lehara,Lana,Lashe,"
+"Larena,Lotha,Limia,Lania,Larie,Lafana,Lerava,Love,Rama,Runa,Rashe,Ria,Rovena,"
+"Riva,Rufa,Rithia,Raina,Rava,Rashama,Rei,Rosha,Vena,Via,Velara,Veruna,Visha,"
+"Vana,Vele,Veshere,Vanesa,Vithia,Hana,Haru,Heshia,Hia,Holaria,Hasha,Hena,"
+"Shara,Shena,Shira,Shamane,Shefia,Shune,Shai,Shena,Shalia,Shasi,Shava,Shura"
 
 #: Extended_Era/races/windsong.cfg:25
 msgid "race^Abstraction"
@@ -789,9 +806,8 @@ msgstr "chele"
 
 #: Extended_Era/units/standard/Aragwaith_Eagle_Master.cfg:36
 #: Extended_Era/units/standard/Aragwaith_Eagle_Rider.cfg:37
-#, fuzzy
 msgid "prey crush"
-msgstr "impatto"
+msgstr ""
 
 #: Extended_Era/units/standard/Aragwaith_Eagle_Rider.cfg:5
 msgid "Eagle Rider"
@@ -908,10 +924,9 @@ msgstr "gladio"
 
 #: Extended_Era/units/standard/Aragwaith_Sorcerer.cfg:5
 msgid "Aragwaith^Sorcerer"
-msgstr "Stregone"
+msgstr "fattucchiere"
 
 #: Extended_Era/units/standard/Aragwaith_Sorcerer.cfg:21
-#, fuzzy
 msgid ""
 "Sorcerers are like the wind they can stand in front of you and one second "
 "later behind you. On the battlefield they are fearful enemies and even the "
@@ -920,10 +935,10 @@ msgid ""
 "\n"
 "Special Notes:"
 msgstr ""
-"Le streghe, come il vento, possono essere di fronte a te e un istante dopo "
-"alle tue spalle. Sul campo di battaglia sono avversari temuti e anche gli "
-"Aragwaithi tengono un occhio su di loro preferibilmente da una distanza di "
-"un centinaio di piedi."
+"I fattucchieri, come il vento, possono essere di fronte a te e un istante "
+"dopo alle tue spalle. Sul campo di battaglia sono avversari temuti e anche "
+"gli Aragwaithi tengono un occhio su di loro preferibilmente da una distanza "
+"di un centinaio di piedi."
 
 #: Extended_Era/units/standard/Human_Outlaw_Queen.cfg:95
 #: Extended_Era/units/standard/Orcish_Witch_Doctor.cfg:28
@@ -946,14 +961,13 @@ msgstr "bastone"
 #: Extended_Era/units/standard/Aragwaith_Warlock.cfg:39
 #: Extended_Era/units/standard/Aragwaith_Sorcerer.cfg:39
 msgid "mage-bolt"
-msgstr ""
+msgstr "dardo magico"
 
 #: Extended_Era/units/standard/Aragwaith_Sorcerer.cfg:100
 msgid "Aragwaith^Sorceress"
-msgstr "Strega"
+msgstr "fattucchiera"
 
 #: Extended_Era/units/standard/Aragwaith_Sorcerer.cfg:105
-#, fuzzy
 msgid ""
 "Sorceresses are like the wind they can stand in front of you and one second "
 "later behind you. On the battlefield they are fearful enemies and even the "
@@ -962,10 +976,10 @@ msgid ""
 "\n"
 "Special Notes:"
 msgstr ""
-"Le streghe, come il vento, possono essere di fronte a te e un istante dopo "
-"alle tue spalle. Sul campo di battaglia sono avversari temuti e anche gli "
-"Aragwaithi tengono un occhio su di loro preferibilmente da una distanza di "
-"un centinaio di piedi."
+"Le fattucchiere, come il vento, possono essere di fronte a te e un istante "
+"dopo alle tue spalle. Sul campo di battaglia sono avversarie temute e anche "
+"gli Aragwaithi tengono un occhio su di loro preferibilmente da una distanza "
+"di un centinaio di piedi."
 
 #: Extended_Era/units/standard/Aragwaith_Spearman.cfg:5
 msgid "Spearman"
@@ -1765,6 +1779,9 @@ msgid ""
 "\n"
 "Special Notes:"
 msgstr ""
+"\n"
+"\n"
+"Note speciali:"
 
 #: Extended_Era/units/standard/Dwarvish_Runemaster.cfg:30
 #: Extended_Era/units/standard/Dwarvish_Arcanister.cfg:31
@@ -1913,9 +1930,8 @@ msgid ""
 msgstr ""
 
 #: Extended_Era/units/standard/Faerie_Dryad.cfg:4
-#, fuzzy
 msgid "Dryad"
-msgstr "paura"
+msgstr "Driade"
 
 #: Extended_Era/units/standard/Faerie_Spirit.cfg:35
 #: Extended_Era/units/standard/Faerie_Dryad.cfg:21
@@ -1965,7 +1981,7 @@ msgstr "Spirito guerriero"
 #: Extended_Era/units/standard/Faerie_Sprite.cfg:4
 #, fuzzy
 msgid "Sprite"
-msgstr "morso"
+msgstr "Folletto"
 
 #: Extended_Era/units/standard/Human_Outlaw_Brigand.cfg:5
 msgid "Brigand"
@@ -1989,9 +2005,8 @@ msgid "sickle"
 msgstr "falce"
 
 #: Extended_Era/units/standard/Human_Outlaw_Princess.cfg:4
-#, fuzzy
 msgid "female^Outlaw Princess"
-msgstr "Sacerdotessa"
+msgstr "Principessa fuorilegge"
 
 #: Extended_Era/units/standard/Human_Outlaw_Princess.cfg:23
 msgid ""
@@ -2331,7 +2346,7 @@ msgstr ""
 #: Extended_Era/units/standard/Naga_Abomination.cfg:5
 #, fuzzy
 msgid "Naga Abomination"
-msgstr "Abominio"
+msgstr "Naga abominio"
 
 #: Extended_Era/units/standard/Naga_Abomination.cfg:24
 msgid "These heavy fighters are elite forces of the nagas."
@@ -2980,7 +2995,6 @@ msgstr ""
 #: Extended_Era/units/standard/Steppe_Orc_Vanguard.cfg:29
 #: Extended_Era/units/standard/Steppe_Orc_Spearhead.cfg:26
 #: Extended_Era/units/standard/Steppe_Orc_Khan.cfg:31
-#, fuzzy
 msgid "flail"
 msgstr "flagello"
 
@@ -3273,9 +3287,8 @@ msgstr ""
 #: Extended_Era/units/standard/Windsong_Librarian.cfg:34
 #: Extended_Era/units/standard/Windsong_Scribe.cfg:31
 #: Extended_Era/units/standard/Windsong_Savant.cfg:24
-#, fuzzy
 msgid "cipher"
-msgstr "Arciere"
+msgstr ""
 
 #: Extended_Era/units/standard/Windsong_Ascendant.cfg:4
 msgid "Windsong Ascendant"
@@ -3302,9 +3315,8 @@ msgstr ""
 #: Extended_Era/units/standard/Windsong_Sky_Crystal.cfg:34
 #: Extended_Era/units/standard/Windsong_Envoy.cfg:27
 #: Extended_Era/units/standard/Windsong_Sky_Shard.cfg:33
-#, fuzzy
 msgid "purge"
-msgstr "maledetto"
+msgstr ""
 
 #: Extended_Era/units/standard/Windsong_Farstrider.cfg:4
 msgid "Windsong Farstrider"
@@ -3387,9 +3399,8 @@ msgid "memory"
 msgstr ""
 
 #: Extended_Era/units/standard/Windsong_Runeforger.cfg:56
-#, fuzzy
 msgid "death"
-msgstr "lancia della morte"
+msgstr "morte"
 
 #: Extended_Era/units/standard/Windsong_Savant.cfg:4
 msgid "Windsong Savant"
@@ -3482,9 +3493,8 @@ msgstr ""
 #: Extended_Era/units/standard/Wyrm_Boreal.cfg:23
 #: Extended_Era/units/standard/Wyrm_Rime.cfg:23
 #: Extended_Era/units/standard/Wyrm_Mistral.cfg:22
-#, fuzzy
 msgid "tail"
-msgstr "flagello"
+msgstr "coda"
 
 #: Extended_Era/units/standard/Wyrm_Ice.cfg:31
 #: Extended_Era/units/standard/Wyrm_Frost.cfg:31
