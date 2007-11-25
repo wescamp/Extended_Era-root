@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2007-10-27 18:25+0200\n"
+"POT-Creation-Date: 2007-11-25 17:39+0100\n"
 "PO-Revision-Date: 2005-05-18 10:15+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -482,7 +482,7 @@ msgstr ""
 #: Extended_Era/units/standard/Naga_Abomination.cfg:46
 #: Extended_Era/units/standard/Aragwaith_Scout.cfg:72
 #: Extended_Era/units/standard/Aragwaith_Lancer.cfg:72
-#: Extended_Era/units/standard/Aragwaith_Spearman.cfg:50
+#: Extended_Era/units/standard/Aragwaith_Spearman.cfg:53
 #: Extended_Era/units/standard/Steppe_Orc_Spearman.cfg:24
 #: Extended_Era/units/standard/Steppe_Orc_Skewer.cfg:27
 #: Extended_Era/units/standard/Sidhe_Wanderer.cfg:27
@@ -554,7 +554,7 @@ msgstr "spies"
 #: Extended_Era/units/standard/Aragwaith_Captain.cfg:42
 #: Extended_Era/units/standard/Sidhe_Wildblade.cfg:23
 #: Extended_Era/units/standard/Windsong_Heretic.cfg:41
-#: Extended_Era/units/standard/Aragwaith_Swordsman.cfg:49
+#: Extended_Era/units/standard/Aragwaith_Swordsman.cfg:101
 #: Extended_Era/units/standard/Sidhe_Fury.cfg:23
 #: Extended_Era/units/standard/Aragwaith_Guard.cfg:50
 #: Extended_Era/units/standard/Dark_Elf_Captain.cfg:26
@@ -798,7 +798,7 @@ msgstr ""
 msgid "Spearman"
 msgstr "Spiesvegter"
 
-#: Extended_Era/units/standard/Aragwaith_Spearman.cfg:19
+#: Extended_Era/units/standard/Aragwaith_Spearman.cfg:20
 msgid ""
 "The less dextrous and stronger Aragwaith take up the spear. Useful in "
 "hunting, this weapon is also deadly on the battlefield. Many impetuous "
@@ -835,11 +835,11 @@ msgid ""
 "Guards of Wesnoth respect the Swordmasters."
 msgstr ""
 
-#: Extended_Era/units/standard/Aragwaith_Swordsman.cfg:5
+#: Extended_Era/units/standard/Aragwaith_Swordsman.cfg:43
 msgid "Swordsman"
 msgstr ""
 
-#: Extended_Era/units/standard/Aragwaith_Swordsman.cfg:19
+#: Extended_Era/units/standard/Aragwaith_Swordsman.cfg:57
 msgid ""
 "While the Aragwaithi are slight of body, they are also fast and nimble. "
 "These abilites, coupled with the intensive training given to the Agarwaithi "
@@ -2981,9 +2981,9 @@ msgstr ""
 #: Extended_Era/units/standard/Windsong_Savant.cfg:20
 #: Extended_Era/units/standard/Windsong_Herald.cfg:21
 #: Extended_Era/units/standard/Windsong_Heretic.cfg:37
-#: Extended_Era/units/standard/Windsong_Sky_Crystal.cfg:27
+#: Extended_Era/units/standard/Windsong_Sky_Crystal.cfg:28
 #: Extended_Era/units/standard/Windsong_Envoy.cfg:20
-#: Extended_Era/units/standard/Windsong_Sky_Shard.cfg:26
+#: Extended_Era/units/standard/Windsong_Sky_Shard.cfg:27
 #: Extended_Era/units/standard/Windsong_Prophet.cfg:20
 #: Extended_Era/units/standard/Windsong_Emissary.cfg:20
 #: Extended_Era/units/standard/Windsong_Lorekeeper.cfg:38
@@ -3025,9 +3025,9 @@ msgstr ""
 
 #: Extended_Era/units/standard/Windsong_Weaver.cfg:27
 #: Extended_Era/units/standard/Windsong_Herald.cfg:28
-#: Extended_Era/units/standard/Windsong_Sky_Crystal.cfg:34
+#: Extended_Era/units/standard/Windsong_Sky_Crystal.cfg:35
 #: Extended_Era/units/standard/Windsong_Envoy.cfg:27
-#: Extended_Era/units/standard/Windsong_Sky_Shard.cfg:33
+#: Extended_Era/units/standard/Windsong_Sky_Shard.cfg:34
 #, fuzzy
 msgid "purge"
 msgstr "vloek"
@@ -3198,19 +3198,28 @@ msgstr "verstrengel"
 msgid "Boreal Wyrm"
 msgstr ""
 
-#: Extended_Era/units/standard/Wyrm_Ice.cfg:22
-#: Extended_Era/units/standard/Wyrm_Frost.cfg:22
-#: Extended_Era/units/standard/Wyrm_Boreal.cfg:23
-#: Extended_Era/units/standard/Wyrm_Rime.cfg:23
-#: Extended_Era/units/standard/Wyrm_Mistral.cfg:22
+#: Extended_Era/units/standard/Wyrm_Boreal.cfg:19
+msgid ""
+"Ancient wyrms so rarely seen that many regard them as legends, Boreal Wyrms "
+"are evolved from Mistral Wyrms that have lived for over a century. Viciously "
+"powerful and unbelievably fast, sightings of these creatures are made even "
+"rarer by the fact that Boreal Wyrms attack on sight. Only the most powerful "
+"of champions can face these creatures and survive."
+msgstr ""
+
+#: Extended_Era/units/standard/Wyrm_Ice.cfg:23
+#: Extended_Era/units/standard/Wyrm_Frost.cfg:23
+#: Extended_Era/units/standard/Wyrm_Boreal.cfg:24
+#: Extended_Era/units/standard/Wyrm_Rime.cfg:24
+#: Extended_Era/units/standard/Wyrm_Mistral.cfg:23
 msgid "tail"
 msgstr ""
 
-#: Extended_Era/units/standard/Wyrm_Ice.cfg:31
-#: Extended_Era/units/standard/Wyrm_Frost.cfg:31
-#: Extended_Era/units/standard/Wyrm_Boreal.cfg:32
-#: Extended_Era/units/standard/Wyrm_Rime.cfg:32
-#: Extended_Era/units/standard/Wyrm_Mistral.cfg:31
+#: Extended_Era/units/standard/Wyrm_Ice.cfg:32
+#: Extended_Era/units/standard/Wyrm_Frost.cfg:32
+#: Extended_Era/units/standard/Wyrm_Boreal.cfg:33
+#: Extended_Era/units/standard/Wyrm_Rime.cfg:33
+#: Extended_Era/units/standard/Wyrm_Mistral.cfg:32
 #, fuzzy
 msgid "cold breath"
 msgstr "vuurasem"
@@ -3219,16 +3228,49 @@ msgstr "vuurasem"
 msgid "Frost Wyrm"
 msgstr ""
 
+#: Extended_Era/units/standard/Wyrm_Frost.cfg:18
+msgid ""
+"Ice wyrms that live in the sea become more serpentine, turning into Frost "
+"Wyrms. Named for the powerful icy blasts they emit, frost wyrms prefer to "
+"freeze their enemies from afar. When cornered, they use their powerful tails "
+"to pummel their enemies."
+msgstr ""
+
 #: Extended_Era/units/standard/Wyrm_Ice.cfg:5
 msgid "Ice Wyrm"
+msgstr ""
+
+#: Extended_Era/units/standard/Wyrm_Ice.cfg:18
+msgid ""
+"Cold-blooded reptiles from the north, ice wyrms are the youngling form of "
+"creatures that can live centuries. Despite their relative youth, they are "
+"already twice the size of the common man. Frightening creatures to "
+"encounter, they are capable of blasting enemies with their icy breath, or "
+"lashing them with their tail. Even worse, their scaly hide offers them "
+"natural protection against a warrior's blade. It is fortunate that their "
+"natural environment has made them ill-suited to face fire."
 msgstr ""
 
 #: Extended_Era/units/standard/Wyrm_Mistral.cfg:5
 msgid "Mistral Wyrm"
 msgstr ""
 
+#: Extended_Era/units/standard/Wyrm_Mistral.cfg:18
+msgid ""
+"Ice Wyrms that dwell high in the mountains eventually grow wings and become "
+"capable of flight. Called Mistral Wyrms, they are far stronger and more "
+"capable than Ice Wyrms. One would do well to avoid these creatures."
+msgstr ""
+
 #: Extended_Era/units/standard/Wyrm_Rime.cfg:5
 msgid "Rime Wyrm"
+msgstr ""
+
+#: Extended_Era/units/standard/Wyrm_Rime.cfg:19
+msgid ""
+"Unlike humans, wyrms only grow stronger and more powerful with age. Rime "
+"wyrms are elder frost wyrms: stronger and capable of a more savage breath "
+"attack."
 msgstr ""
 
 #~ msgid "pierce"
