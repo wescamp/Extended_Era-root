@@ -1,9 +1,6 @@
-# translation of utbs-it.po to Italian
-# Luciano Montanaro <mikelima@cirulla.net>, 2005, 2006.
-# Silvia Montanaro, 2006.
 msgid ""
 msgstr ""
-"Project-Id-Version: utbs-it\n"
+"Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2007-11-25 17:39+0100\n"
 "PO-Revision-Date: 2007-12-06 21:42+0100\n"
