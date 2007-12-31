@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2007-11-25 17:39+0100\n"
-"PO-Revision-Date: 2007-12-06 21:42+0100\n"
+"PO-Revision-Date: 2007-12-31 17:48+0100\n"
 "Last-Translator: Brivido <brivido(at)gmail.com>\n"
 "Language-Team: Italian <kde-i18n-it@kde.org>\n"
 "MIME-Version: 1.0\n"
@@ -11,6 +11,8 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: KBabel 1.11.1\n"
+"X-Poedit-Language: Italian\n"
+"X-Poedit-Country: ITALY\n"
 
 #: Extended_Era/abilities/allied_leadership.cfg:10
 #: Extended_Era/abilities/allied_leadership.cfg:31
@@ -640,7 +642,6 @@ msgstr ""
 "Shara,Shena,Shira,Shamane,Shefia,Shune,Shai,Shena,Shalia,Shasi,Shava,Shura"
 
 #: Extended_Era/races/windsong.cfg:25
-#, fuzzy
 msgid "race^Abstraction"
 msgstr "Astrazione"
 
@@ -867,7 +868,7 @@ msgid ""
 "peace, or on the battlefield in times of war, their role is always the same: "
 "defending the Warlock nobilty."
 msgstr ""
-"Gli spadaccini più resistenti vengono selezionati per diventare guardie. Per "
+"Gli armigeri più resistenti vengono selezionati per diventare guardie. Per "
 "questo ruolo rinunziano volontariamente a una parte della loro mobilità per "
 "il vantaggio di una armatura. Sia nei servizi cerimoniale in tempo di pace, "
 "sia sul campo di battaglia in guerra il loro ruolo rimane sempre lo stesso: "
@@ -882,9 +883,8 @@ msgid "Lancer"
 msgstr "Lanciere"
 
 #: Extended_Era/units/standard/Aragwaith_Longswordsman.cfg:5
-#, fuzzy
 msgid "Longswordsman"
-msgstr "Maestro di spada lunga"
+msgstr "Armigero con spada lunga"
 
 #: Extended_Era/units/standard/Aragwaith_Longswordsman.cfg:18
 msgid ""
@@ -894,6 +894,12 @@ msgid ""
 "adopted a longer blade than the Swordsmen, yet they are able to wield it "
 "with equal grace and skill."
 msgstr ""
+"Anche se agli occhi dei portatori di spada della altre razze gli armigeri "
+"Aragwaithi appaiono straordinariamente esperti, gli Aragwaithi tributano la "
+"loro ammirazione agli armigeri con la spada lunga. Questi guerrieri sono "
+"diventati così esperti nell'arte delle stoccate e delle parate che hanno "
+"adottato una lama più lunga rispetto a quella degli altri armigeri che "
+"comunque sono capaci a maneggiare con pari grazia e abilità."
 
 #: Extended_Era/units/standard/Aragwaith_Swordmaster.cfg:81
 #: Extended_Era/units/standard/Aragwaith_Longswordsman.cfg:64
@@ -1048,7 +1054,6 @@ msgstr ""
 "normalmente dagli arcieri e le sanno maneggiare con maggior efficacia."
 
 #: Extended_Era/units/standard/Aragwaith_Swordmaster.cfg:5
-#, fuzzy
 msgid "Swordmaster"
 msgstr "Maestro di spada"
 
@@ -1073,7 +1078,7 @@ msgstr ""
 
 #: Extended_Era/units/standard/Aragwaith_Swordsman.cfg:43
 msgid "Swordsman"
-msgstr "Spadaccino"
+msgstr "Armigero"
 
 #: Extended_Era/units/standard/Aragwaith_Swordsman.cfg:57
 msgid ""
@@ -1082,6 +1087,10 @@ msgid ""
 "military, make for superb swordsmen. Swordsmen are clad in light chain mail "
 "- the better to resist the blades of their enemies."
 msgstr ""
+"Anche se gli Aragwaithi sono leggeri di costituzione, sono anche veloci e "
+"agili. Queste abilità, unite all'intenso addestramento militare degli "
+"Aragwaithi, li rende dei superbi armigeri. Gli armigeri portano una cotta di "
+"maglia leggera  - la migliore protezione per resistere alle lame nemiche."
 
 #: Extended_Era/units/standard/Aragwaith_Warlock.cfg:5
 msgid "Aragwaith^Warlock"
@@ -1199,7 +1208,7 @@ msgstr "impatto"
 
 #: Extended_Era/units/standard/Chaos_Armorer.cfg:5
 msgid "Doom Guard"
-msgstr "Guardia infernale"
+msgstr "Guardia dell'apocalisse"
 
 #: Extended_Era/units/standard/Chaos_Armorer.cfg:20
 msgid ""
@@ -1209,7 +1218,7 @@ msgid ""
 "not the ones to fight, they are the ones to stand against every possible "
 "enemy."
 msgstr ""
-"I demoni sanno che l'unica cosa che può fermare un'onda di marea e un muro "
+"I demoni sanno che l'unica cosa che può fermare un'onda di marea è un muro "
 "potente. Le guardie dell'apocalisse sono questi muri, muri di carne viva e "
 "acciaio.Privi di bramosia di sangue, la loro aggressività è diventata una "
 "fedeltà fanatica. Le guardie dell'apocalisse non sono quelle che combattono, "
@@ -1225,7 +1234,7 @@ msgstr "scudo"
 
 #: Extended_Era/units/standard/Chaos_Blood_Knight.cfg:5
 msgid "Blood Knight"
-msgstr "Cavaliere infernale"
+msgstr "Cavaliere sanguinario"
 
 #: Extended_Era/units/standard/Chaos_Blood_Knight.cfg:20
 msgid ""
@@ -1234,6 +1243,10 @@ msgid ""
 "Lords, they promote them to the rank of Blood Knights, supreme warriors of "
 "Chaos."
 msgstr ""
+"L'estremo dominio richiede il sacrificio supremo. I cavalieri della morte si "
+"aprono le vene e lasciano scorrere il loro sangue. Se il sapore del loro "
+"sangue soddisfa i signori del caos, li promuovono al grado di cavalieri "
+"sanguinari, supremi guerrieri del caos."
 
 #: Extended_Era/units/standard/Chaos_Greater_Daemon.cfg:25
 #: Extended_Era/units/standard/Chaos_Knight.cfg:34
@@ -1268,6 +1281,11 @@ msgid ""
 "tougher than the average human the lesser demons can easily turn the tide of "
 "a battle due to the combination of their nible movement and tough fighting..."
 msgstr ""
+"I demoni minori sono il dono degli dei del caos a quelli che hanno "
+"dimostrato di valere abbastanza da ricevere un aiuto dalla loro parte; anche "
+"se sono a malapena pi resistenti di un uomo normale, i demoni minori possono "
+"facilmente rovesciare l'esito di una battaglia grazie alla combinazione del "
+"loro agile movimento e del loro combattere potente."
 
 #: Extended_Era/units/standard/Chaos_Winged_Daemon.cfg:41
 #: Extended_Era/units/standard/Chaos_Greater_Daemon.cfg:34
@@ -1287,6 +1305,11 @@ msgid ""
 "human in these creatures are only bodies and memories of invokers and magi, "
 "who finally achieved the true power of their lords."
 msgstr ""
+"Il controllo dei demoni consiste nel trasformare se stessi in un demone. I "
+"demonologhi sono menti diaboliche intrappolate in un corpo umano. Quello che "
+"rimane di umano in queste creature sono solo i corpi e i ricordi di "
+"invocatori e maghi che sono finalmente riusciti a raggiungere il vero potere "
+"dei loro signori."
 
 #: Extended_Era/units/standard/Chaos_Invoker.cfg:46
 #: Extended_Era/units/standard/Chaos_Magus.cfg:49
@@ -1309,6 +1332,10 @@ msgid ""
 "commanded to, they could easily withstand the avalanche without stepping "
 "back."
 msgstr ""
+"Solo gli armieri più resistenti sono degni di portare le armature migliori "
+"che sono forgiate nei pozzi infuocati del mondo dei demoni. Si dice che se "
+"gli venisse ordinato potrebbero facilmente resistere a una valanga senza "
+"indietreggiare di un passo."
 
 #: Extended_Era/units/standard/Chaos_Evil_Crab.cfg:5
 msgid "Evil Crab"
@@ -1342,6 +1369,9 @@ msgid ""
 "that will be infested with the daemonic plague. They are the ones to spread "
 "fear and message of daemonic invasions."
 msgstr ""
+"Questi esploratori senza vita, donata la loro anima ai demoni, appaiono nei "
+"luoghi che sono infestati dalla piaga dei demoni. Sono quelli che diffondono "
+"la paura e la notizia delle invasioni dei demoni."
 
 #: Extended_Era/units/standard/Chaos_Marauder.cfg:29
 #: Extended_Era/units/standard/Chaos_Headhunter.cfg:30
@@ -1367,6 +1397,12 @@ msgid ""
 "allow them to penetrate far into enemy lines and severely damage support "
 "units."
 msgstr ""
+"I segugi del caos sono abbastanza deboli in combattimento e sono "
+"direttamente colpiti dalla magia dei maghi del caos, perciò ascoltano ogni "
+"parola del loro comandante e ciò li rende delle furiose macchine assassine "
+"senza cervello. Anche se un avversario più forte li può facilmente gestire, "
+"i loro corpi agili gli permettono di penetrare in profondità nelle linee "
+"nemiche e danneggiare gravemente le unità di supporto."
 
 #: Extended_Era/units/standard/Chaos_Hound.cfg:23
 #: Extended_Era/units/standard/Chaos_Hound_Warp.cfg:25
@@ -1384,6 +1420,10 @@ msgid ""
 "humane beings. Walking on their rear legs, they are muscled berserkers "
 "trained to feel the stench of blood and react like their hound proprietors."
 msgstr ""
+"Colpiti da una strana mutazione i segugi di carne stranamente somigliano di "
+"più a esseri umani. Camminano sulle loro zampe posteriori, sono muscolosi "
+"forsennati addestrati a riconoscere l'odore del sangue e reagire come i loro "
+"proprietari."
 
 #: Extended_Era/units/standard/Windsong_Gatekeeper.cfg:43
 #: Extended_Era/units/standard/Chaos_Hound_Flesh.cfg:24
@@ -1402,6 +1442,10 @@ msgid ""
 "daemons, twice larger than ordinary hounds. They charge only at the commands "
 "of other daemonic beings, with the desire of bloodbath."
 msgstr ""
+"I segugi idrofobi non sono solo segugi, trasformati in machcine - ma mezzi "
+"demoni, senza cervello e assetati di sangue, grossi il doppio di un segugio "
+"normale. Caricano solo agli ordini di un altro essere demoniaco, desiderosi "
+"di un bagno di sangue."
 
 #: Extended_Era/units/standard/Chaos_Hound_Warp.cfg:5
 msgid "Warp Hound"
@@ -1417,6 +1461,10 @@ msgid ""
 "corrupt by default, by this thought they fufill the bidding of chaos lords "
 "who do not suger coat their reign and let their men face the harsh truth."
 msgstr ""
+"I guerrieri del caos condividono l'opinione comune che qualunque governo e "
+"qualunque divinità siano per definizione corrotti, con questa riflessione "
+"eseguono gli ordini dei signori del caos che non regnano in guanti di "
+"velluto e lasciano gli uomini ad affrontare la dura verità."
 
 #: Extended_Era/units/standard/Chaos_Invoker.cfg:5
 msgid "Invoker"
@@ -1431,6 +1479,12 @@ msgid ""
 "mortal. The only difference is they have no soul, for they sold theirs to "
 "their daemonic Gods."
 msgstr ""
+"Si possono vedere nella prima linea del marea del caos. Con piccoli gruppi "
+"di guerrieri, questi esperti delle arti feroci del caos comandano le "
+"avanguardie delle orde del caos, cercando la migliore opportunità per "
+"avanzare nei ranghi del caos. A questo punto, la loro mente può ancora "
+"essere paragonata a quella di un mortale. L'unica differenza è che non hanno "
+"più l'anima perché hanno venduto la loro agli dei demoniaci."
 
 #: Extended_Era/units/standard/Chaos_Knight.cfg:5
 msgid "Dark Knight"
@@ -1443,6 +1497,10 @@ msgid ""
 "his style on combat alter depending on the situation which makes him a tough "
 "warrior to fight."
 msgstr ""
+"Più forti del seguace del caos medio, i cavalieri neri cercano di confondere "
+"i loro avversari maneggiando un'arma differente in ogni mano; ciò gli "
+"permette di avere un proprio stile di combattimento che può cambiare con la "
+"situazione rendendoli guerrieri difficili da sconfiggere."
 
 #: Extended_Era/units/standard/Chaos_Lesser_Daemon.cfg:5
 msgid "Lesser Daemon"
@@ -1465,6 +1523,12 @@ msgid ""
 "turning back, but aspire to lose their humanity and succumb to the very core "
 "of Chaos."
 msgstr ""
+"Sono quelli che si raccolgono con gruppi più numerosi di guerrieri del caos "
+"e li sostengono con la magia. Quando l'essenza demoniaca sfiora i maghi del "
+"caos, essi guadagnano l'acutezza e il modo di pensare che somiglia a quella "
+"dei demoni più che a quella di un uomo. Intrappolati tra la forma di vita "
+"umana e quella demoniaca, non cercano di tornare indietro ma aspirano a "
+"perdere la loro umanità per soccombere all'essenza del caos."
 
 #: Extended_Era/units/standard/Chaos_Marauder.cfg:5
 msgid "Marauder"
@@ -1489,6 +1553,9 @@ msgid ""
 "pleasure at sudden strikes and appearing in the place, that no one could "
 "expect them."
 msgstr ""
+"Alcuni demoni ricevono la forza, altri la velocità. I demoni alati sono i "
+"messaggeri e le avanguardie dell'esercito del caos, che prediligono sempre "
+"gli attacchi improvvisi e apparire sul posto quando meno uno se lo aspetta."
 
 #: Extended_Era/units/standard/Dark_Elf_Captain.cfg:21
 msgid ""
@@ -1574,7 +1641,7 @@ msgstr ""
 
 #: Extended_Era/units/standard/Dark_Elf_Fighter.cfg:5
 msgid "Fighter"
-msgstr "Nano combattente"
+msgstr "Combattente"
 
 #: Extended_Era/units/standard/Dark_Elf_Fighter.cfg:24
 msgid ""
@@ -1599,6 +1666,12 @@ msgid ""
 "follow them fearlessly, confident that through their Lords guidance, none "
 "can stand before them."
 msgstr ""
+"Nel suo castello, il gran signore osserva i suoi schiavi, nutre le lucertole "
+"e altro. Indossa semplici abiti porpora e tiene i capelli ben pettinati. "
+"Tuttavia, sul campo di battaglia, sono coraggiosi e arditi come nessuno. "
+"Dopo anni di esperienza, conoscono tutti i trucchi del mestiere. I loro "
+"uomini li seguono senza paura, convinti che con la guida del loro signore, "
+"nulla può resister loro."
 
 #: Extended_Era/units/standard/Dark_Elf_Hunter.cfg:5
 msgid "Hunter"
@@ -1668,7 +1741,7 @@ msgstr ""
 
 #: Extended_Era/units/standard/Dark_Elf_Lord.cfg:5
 msgid "Lord"
-msgstr "Signore dei Nani"
+msgstr "Signore"
 
 #: Extended_Era/units/standard/Dark_Elf_Lord.cfg:20
 msgid ""
@@ -1677,6 +1750,11 @@ msgid ""
 "lead their men in battle, and hold the law with an iron grip. They lead as "
 "an example to the life of a warrior in the realm of the Dark Elves."
 msgstr ""
+"Questi uomini hanno ottenuto le più alte decorazioni e il titolo di signore "
+"per la loro astuzia, la loro prodezza, il loro coraggio e la loro forza. "
+"Regnano sulle loro provincie e guidano i loro uomini in battaglia e "
+"amministrano la legge  con pugno di ferro. Sono d'esempio per la vita di un "
+"guerriero nel regno degli elfi oscuri."
 
 #: Extended_Era/units/standard/Dark_Elf_Marshal.cfg:5
 msgid "Marshal"
@@ -1705,6 +1783,10 @@ msgid ""
 "battlefield tactics. They have highly decorative shields that they use in "
 "battle to attack and encourage their troops."
 msgstr ""
+"I giovani signori sono avventati e coraggiosi. Hanno speso tutta laloro "
+"infanzia nell'addestramento con la spada e i migliori colonnelli hanno "
+"insegnato loro le tattiche del campo di battaglia. Portano scudi riccamente "
+"decorati che usano in battaglia per attaccare e incoraggiare le loro truppe."
 
 #: Extended_Era/units/standard/Dark_Elf_Shadow.cfg:5
 msgid "Shadow"
@@ -1877,6 +1959,9 @@ msgid ""
 "deadly with lightning-fast blades.  They are not the strongest fighters in "
 "the dwarvish kingdom, but are well-respected nonetheless."
 msgstr ""
+"Il maestro d'ascia è in un certo senso un'anomalia tra i nani - veloce, "
+"agile, corazzato e letale con le sue lami veloci come fulmini. NOn sono i "
+"guerrieri più forti del regno dei nani, ma sono comunque rispettati."
 
 #: Extended_Era/units/standard/Dwarvish_Axethrower.cfg:5
 msgid "Dwarvish Axethrower"
@@ -1887,6 +1972,9 @@ msgid ""
 "Axethrowers have improved their skill hurling their bladed weapons while "
 "retaining their natural speed - a dangerous combination."
 msgstr ""
+"I lanciatori di asce hanno migliorato la loro abilità nello scagliare le "
+"loro armi affilate pur mantenendo la loro naturale velocità - una "
+"combinazione mortale."
 
 #: Extended_Era/units/standard/Dwarvish_Flamethower.cfg:5
 msgid "Dwarvish Flamethrower"
@@ -1899,6 +1987,10 @@ msgid ""
 "thunderous noise shooting a projectile, their weapon generates a continous "
 "tongue of flame."
 msgstr ""
+"Si dice che i nani con lanciafiamme abbiano strani bastoni di ferro e legno, "
+"simili a quelli delle guardie del tuono. Ma invece di fare un rumore di "
+"tuono e scagliare un proiettile, la loro arma genera una lingua di fuoco "
+"continua."
 
 #: Extended_Era/units/standard/Dwarvish_Flamethower.cfg:41
 msgid "firestick"
@@ -1917,6 +2009,12 @@ msgid ""
 "explode with the sound of thunder. None know what strange beast lays such "
 "eggs."
 msgstr ""
+"Alcuni nani hanno costruito una strana macchina che chiamano “ornitottero”. "
+"In grado di volare, hanno bisogno di spazio per manovrare per cui non "
+"possono essere usate sotto terra. Gli ornitotteri sono difficili da "
+"controllare e non sono adatti al combattimento. Tuttavia i loro piloti "
+"lanciano strane uova che chiamano “bombe”, che esplodono con rumore del "
+"tuono. Nessuno sa quale strana bestia deponga uova simili."
 
 #: Extended_Era/units/standard/Dwarvish_Gyrocopter.cfg:36
 #: Extended_Era/units/standard/Dwarvish_Steamcopter.cfg:37
@@ -1969,6 +2067,10 @@ msgid ""
 "Dwarves' natural endurance serves the runners well, who are trained to throw "
 "their axes to protect themselves on patrol."
 msgstr ""
+"I nani in grado di muoversi rapidamente vengono fatti esploratori con "
+"armatura leggera. La naturale resistenza dei nani è utile anche ai "
+"corridori, che sono addestrati a scagliare le loro asce per la propria "
+"difesa durante il pattugliamento."
 
 #: Extended_Era/units/standard/Dwarvish_Steamcopter.cfg:5
 msgid "Steamcopter"
@@ -1979,6 +2081,8 @@ msgid ""
 "With the aid of steam genies, Steamcopters are able to move faster and carry "
 "more bombs than Gyrocopters."
 msgstr ""
+"Con l'aiuto degli spiriti del vapore, gli ornitotteri a vapore sono in grado "
+"di muoversi più velocemente e di trasportare più bombe degli ornitotteri."
 
 #: Extended_Era/units/standard/Dwarvish_Steamwheel.cfg:5
 msgid "Steamwheel"
@@ -1990,6 +2094,9 @@ msgid ""
 "said that these great wheeled vehicles are powered by invisible steam "
 "genies, thus they are called 'Steamwheels'."
 msgstr ""
+"Alcuni nani usano strani veicoli che possono muoversi velocemente senza "
+"cavalli. Si dice che questi grandi veicoli a ruote siano mossi da invisibili "
+"spiriti del vapore e perciò vengono chiamati “ruote a vapore”."
 
 #: Extended_Era/units/standard/Dwarvish_Thunderwheel.cfg:35
 #: Extended_Era/units/standard/Dwarvish_Steamwheel.cfg:35
@@ -2006,6 +2113,8 @@ msgid ""
 "With the help of one more steam genie, those noisy vehicles are able to move "
 "faster than horses."
 msgstr ""
+"Grazie all'aiuto di un spirito del vapore in più, questi rumorosi veicoli "
+"possono muoversi più velocemente dei cavalli."
 
 #: Extended_Era/units/standard/Dwarvish_Warwheel.cfg:5
 msgid "Warwheel"
@@ -2016,6 +2125,8 @@ msgid ""
 "Warwheels are faster and more heavily armored than Steamwheels, and can "
 "breach enemy lines with their fearsome charge."
 msgstr ""
+"Le ruote da guerra sono più veloci e meglio corazzate delle ruote a vapore e "
+"possono fendere le linee nemiche con la loro terrificante carica."
 
 #: Extended_Era/units/standard/Faerie_Dryad.cfg:4
 msgid "Dryad"
@@ -2031,6 +2142,13 @@ msgid ""
 "whimsical personality make them fast friends to the elves.\n"
 "Special Notes:"
 msgstr ""
+"Queste impetuose fate sono di natura maliziosa e fondamentalmente "
+"dispettose, con un senso dell'umorismo tipicamente da ninfa. Sebbene il loro "
+"controllo dell'elemento del fuoco rimane un mistero, si dice che queste fate "
+"siano parenti dei diavoletti. Comunque, il loro atteggiamento protettivo per "
+"la natura e la personalità capricciosa li rende salde amiche per gli elfi.\n"
+"\n"
+"Note speciali:"
 
 #: Extended_Era/units/standard/Faerie_Fire.cfg:26
 #: Extended_Era/units/standard/Faerie_Spirit.cfg:42
@@ -2059,10 +2177,17 @@ msgid ""
 "cousins to the imp.  However, their protective attitude of nature and "
 "whimsical personality make them fast friends to the elves.Special Notes:"
 msgstr ""
+"Queste impetuose fate sono di natura maliziosa e fondamentalmente "
+"dispettose, con un senso dell'umorismo tipicamente da ninfa. Sebbene il loro "
+"controllo dell'elemento del fuoco rimane un mistero, si dice che queste fate "
+"siano parenti dei diavoletti. Comunque, il loro atteggiamento protettivo per "
+"la natura e la personalità capricciosa li rende salde amiche per gli elfi.\n"
+"\n"
+"Note speciali:"
 
 #: Extended_Era/units/standard/Faerie_Spirit.cfg:4
 msgid "Faerie Spirit"
-msgstr ""
+msgstr "Spirito fatato"
 
 #: Extended_Era/units/standard/Faerie_Sprite.cfg:4
 msgid "Sprite"
@@ -2199,6 +2324,8 @@ msgid ""
 "The Kalifa uses these Hillmen as their foot force.  The are versatile and "
 "excell in hilly terrain."
 msgstr ""
+"I kalifa impiegano questi uomini delle colline come fanteria. Sono versatili "
+"e eccellono sul terreno collinoso."
 
 #: Extended_Era/units/standard/Kalifa_Mamluk.cfg:34
 #: Extended_Era/units/standard/Kalifa_Rami.cfg:41
@@ -2222,6 +2349,10 @@ msgid ""
 "against fortified enemy positions where their valor and skill with a sword "
 "allows them to assault seemingly inpenetrable defenses."
 msgstr ""
+"Gli amir costituiscono la spina dorsale di ogni avanzata a piedi kalifa. "
+"Sono spesso inviati contro le posizioni fortificate del nemico dove il loro "
+"valore e la loro esperienza con una spada permettono loro di assaltare "
+"difese in apparenza impenetrabili."
 
 #: Extended_Era/units/standard/Kalifa_Rami.cfg:23
 #: Extended_Era/units/standard/Kalifa_Arif.cfg:39
@@ -2241,6 +2372,9 @@ msgid ""
 "The Arif are made up of the more defensive minded Amir veterans.  They have "
 "become very skilled in using their shield to tire and stun their enemies."
 msgstr ""
+"Gli Arif vengono scelti tra gli Amir veterani di mentalità più "
+"difensivistica. Sono diventati estremamente esperti nell'impiego del loro "
+"scudo per stancare e stordire i loro nemici."
 
 #: Extended_Era/units/standard/Steppe_Orc_Stoic.cfg:33
 #: Extended_Era/units/standard/Kalifa_Arif.cfg:51
@@ -2259,6 +2393,8 @@ msgid ""
 "Ekim use their knowledge of ancient medicine and herbal concoctions to "
 "quickly bring the Kalifa soldiers back to the front lines."
 msgstr ""
+"Gli Ekim impiegano la loro conoscenza dell'antica medicina e dei preparati "
+"di erbe per riportare rapidamente i soldati di Kalifa sulla linea del fronte."
 
 #: Extended_Era/units/standard/Kalifa_Ekim_Haram.cfg:5
 msgid "Ekim Haram"
@@ -2269,6 +2405,9 @@ msgid ""
 "These sages have reached the absolute epitome medical knowledge and freely "
 "use their herbal concoctions on themselves without fear of side-effects."
 msgstr ""
+"Questi saggi hanno raggiunto l'apice assoluto delle conoscenze mediche e "
+"usano liberamente i preparati di erbe su se stessi senza temere effetti "
+"collaterali."
 
 #: Extended_Era/units/standard/Kalifa_Elder_Falcon.cfg:5
 msgid "Elder Falcon"
@@ -2280,6 +2419,10 @@ msgid ""
 "them.  Their dives can be so fast that stories abound of them taking a foe's "
 "head clean off."
 msgstr ""
+"Questi falchi hanno attraversato molti pericoli e in qualche modo sono "
+"riusciti a sopravvivere. Le loro picchiate possono essere così veloci che "
+"molte storie raccontano di come possono staccare di netto la testa del loro "
+"nemmico."
 
 #: Extended_Era/units/standard/Kalifa_Falcon.cfg:33
 #: Extended_Era/units/standard/Kalifa_Elder_Falcon.cfg:35
@@ -2295,6 +2438,8 @@ msgid ""
 "The Elite Ghazi are simply heros among their people.  Winner of countless "
 "combats and harbingers of victory."
 msgstr ""
+"I ghazi d'elite sono semplicemente degli eroi per la loro gente. Hanno vinto "
+"innumerevoli combattimenti e annunziano la vittoria."
 
 #: Extended_Era/units/standard/Kalifa_Falcon.cfg:5
 msgid "Falcon"
@@ -2309,6 +2454,7 @@ msgid ""
 "The Ghazi rise from only the most talented and fiercest fighters among the "
 "Ahadath."
 msgstr ""
+"I ghazi provengono solo dai più abili e feroci guerrieri tra gli Ahadath."
 
 #: Extended_Era/units/standard/Kalifa_Ghaznid.cfg:5
 msgid "Ghaznid"
@@ -2320,6 +2466,9 @@ msgid ""
 "metal, and horse barring down upon one with lance at level has caused many a "
 "many to flee in terror."
 msgstr ""
+"Una carica ghaznid è terribile a vedersi. Una massa enorme di uomini, "
+"metallo e cavalli che si abbatte su di uno lancia in resta ne ha fatto "
+"fuggire molti in preda al terrore."
 
 #: Extended_Era/units/standard/Kalifa_Ghulam.cfg:28
 #: Extended_Era/units/standard/Kalifa_Ghaznid.cfg:23
@@ -2337,6 +2486,9 @@ msgid ""
 "lance charge in order to save their poor horses' stamina before switching "
 "over to their trusty maces."
 msgstr ""
+"I ghulam indossano armatura davvero pesanti e perciò chiudono la carica con "
+"un solo colpo di lancia per risparmiare la resistenza dei loro poveri "
+"cavalli prima di passare alle loro fidate mazze."
 
 #: Extended_Era/units/standard/Kalifa_Ghulam_al_Rami.cfg:5
 msgid "Ghulam al Rami"
@@ -2349,6 +2501,11 @@ msgid ""
 "enemy arrows so they can use their bows with relative impunity.  Ghulam al "
 "Rami also aquit themselves well during melee with a heavy mace."
 msgstr ""
+"Ghulam al Rami combinano le migliori caratteristiche dei karadis e dei "
+"ghulam. Inoltre modificano la loro pesante armatura per proteggersi dalle "
+"frecce dei nemici in modo che possono usare i loro archi con una certa "
+"impunità. Ghulam al Rami si difendono anche bene nei combattimenti "
+"ravvicinati con una pesante mazza."
 
 #: Extended_Era/units/standard/Kalifa_Immortal.cfg:5
 msgid "Immortal"
@@ -2359,6 +2516,8 @@ msgid ""
 "These Arif have become so skilled that thier foes wonder whether they can "
 "die at all."
 msgstr ""
+"Questi Arif sono diventati così esperti che i loro nemici si domandano se "
+"davvero possono morire."
 
 #: Extended_Era/units/standard/Kalifa_Karadis.cfg:5
 msgid "Karadis"
@@ -2370,6 +2529,10 @@ msgid ""
 "they.  They love to circle and harass enemies from afar while using their "
 "superior speed to avoid hevy counter attack.."
 msgstr ""
+"Karadis sono eccellenti cavalieri e pochi possono scagliare frecce da "
+"cavallo bene quanto loro. Prediligono galoppare intorno al nemico e "
+"tormentarlo da lontano impiegando la loro superiore velocità per evitare il "
+"contrattacco."
 
 #: Extended_Era/units/standard/Kalifa_Mamluk.cfg:25
 #: Extended_Era/units/standard/Kalifa_Karadis.cfg:24
@@ -2396,6 +2559,8 @@ msgid ""
 "Mamluks are the absolute best shots from among the Karadis and are allotted "
 "the best horses so this skill does not go to waste."
 msgstr ""
+"I mamluk sono i in assoluto i migliori arcieri tra i Karadis e vengono "
+"riservati loro i cavalli migliori perché questa abilità non vada sprecata."
 
 #: Extended_Era/units/standard/Kalifa_Mubarizan.cfg:5
 msgid "Mubarizan"
@@ -2407,6 +2572,9 @@ msgid ""
 "They regularly take down heavily fortified castles and seldom fail to "
 "inflict grievous losses on their foemen."
 msgstr ""
+"I mubarizan sono fieri di essere sempre in prima linea durante un attacco. "
+"Conquistano regolarmente castelli pesantemente fortificati e raramente non "
+"riescono a infliggere atroci perdite ai loro nemici."
 
 #: Extended_Era/units/standard/Kalifa_Naffatun.cfg:5
 msgid "Naffatun"
@@ -2415,10 +2583,11 @@ msgstr "Naffatun"
 #: Extended_Era/units/standard/Kalifa_Naffatun.cfg:23
 msgid "Naffutun use naptha to show their enemies true fear."
 msgstr ""
+"I naffatun usano il petrolio per mostrare ai loro nemici la vera paura."
 
 #: Extended_Era/units/standard/Kalifa_Naffatun.cfg:28
 msgid "naptha throw"
-msgstr ""
+msgstr "spruzzo di petrolio"
 
 #: Extended_Era/units/standard/Kalifa_Rami.cfg:5
 msgid "Rami"
@@ -2430,6 +2599,9 @@ msgid ""
 "generally sow terror amongst the enemy.  Such tactics may also have other "
 "uses in a land of many strange wonders..."
 msgstr ""
+"I rami spesso impiegano frecce infuocate per incendiare le fortificazioni "
+"nemiche e in generale seminare il terrore tra il nemico. Queste tattiche "
+"possono anche aver altri usi in una terra dalle molte meraviglie..."
 
 #: Extended_Era/units/standard/Kalifa_Rami.cfg:32
 #: Extended_Era/units/standard/Kalifa_Rami_al_Nuri.cfg:33
@@ -2445,6 +2617,8 @@ msgid ""
 "The maelstrom created by even a few Rami al Nuri can turn the tide of many a "
 "battle.  Use them wisely."
 msgstr ""
+"Persino pochi Ram al Nuri possono creare un turbine che può rovesciare "
+"l'esito di molte battaglie. Impiegali con accortezza."
 
 #: Extended_Era/units/standard/Naga_Abomination.cfg:5
 msgid "Naga Abomination"
@@ -2486,6 +2660,14 @@ msgid ""
 "\n"
 "Special Notes:"
 msgstr ""
+"Alcuni naga, forse per codardia o forse per astuzia, sviluppano l'arte di "
+"sopravvivere nelle profondità più oscure del mare. Dopo un addestramento "
+"particolare, da questa conoscenza può nascere un nuovo stile di "
+"combattimento anche se altrettanto mortale. I predatori degli abissi sono "
+"preziosi guardiani delle covate, perché sorvegliano le uova deposte negli "
+"anfratti nascosti.\n"
+"\n"
+"Note speciali:"
 
 #: Extended_Era/units/standard/Naga_Depthprowler.cfg:180
 msgid "Nagini Depthprowler"
@@ -2502,6 +2684,14 @@ msgid ""
 "\n"
 "Special Notes:"
 msgstr ""
+"Alcuni naga, forse per codardia o forse per astuzia, sviluppano l'arte di "
+"sopravvivere nelle profondità più oscure del mare. Dopo un addestramento "
+"particolare, da questa conoscenza può nascere un nuovo stile di "
+"combattimento anche se altrettanto mortale. Le predatrici degli abissi sono "
+"preziose guardiane delle covate, perché sorvegliano le uova deposte negli "
+"anfratti nascosti.\n"
+"\n"
+"Note speciali:"
 
 #: Extended_Era/units/standard/Naga_Depthstalker.cfg:5
 msgid "Naga Depthstalker"
@@ -2615,7 +2805,6 @@ msgstr ""
 "incantatori e possono maledire i loro nemici assorbendone la forza vitale."
 
 #: Extended_Era/units/standard/Orcish_Witch_Doctor.cfg:5
-#, fuzzy
 msgid "Orcish Witch Doctor"
 msgstr "Orco stregone"
 
@@ -2743,6 +2932,9 @@ msgid ""
 "advised not to do so in his face, lest they wish to have their sword in "
 "their back."
 msgstr ""
+"Qualcuno potrebbe disprezzare la specilità dei danzatori delle ombre, ma è "
+"un buon consiglio non farlo di fronte a loro a meno che non vogliano avere "
+"la loro spada nella schiena."
 
 #: Extended_Era/units/standard/Sidhe_Snowdancer.cfg:5
 msgid "Snowdancer"
@@ -2757,6 +2949,12 @@ msgid ""
 "have established the rank of Snowdancer as a reward for Hoarfrosters who "
 "excel in both skill and loyalty."
 msgstr ""
+"La nobiltà sidhe non accetta con leggerezza il fatto che alcuni dei suoi "
+"sudditi cerchino di raggiungere i ranghi dei maghi, tuttavia sono pragmatici "
+"e riconoscono che persino una fiacca magia del ghiaccio sia un supplemento "
+"utile alle loro proprie capacità purché chi la pratichi rimanga al proprio "
+"posto. Perciò, hanno istituito il grado di danzatore della neve per "
+"ricompensare i galaverna che eccellono sia in abilità sia in fedeltà."
 
 #: Extended_Era/units/standard/Sidhe_Spirit_Ancestor.cfg:5
 msgid "Sidhe Ancestor"
@@ -2769,6 +2967,11 @@ msgid ""
 "mortal realm, and wounds close as if they had never existed. Their voice can "
 "whisper in the wind the words that chill the hearts of their ennemies."
 msgstr ""
+"Un tempo rispettati guerrieri ora vagano per i boschi dei sidhe, visibili "
+"solo per lo scintillio argenteo delle loro spade. Solo in parte appartengono "
+"al regno mortale e le ferite si chiudono come se non fossero mai esistite. "
+"La loro voce può sussurrare nel vento parole che fanno rabbrividire il cuore "
+"dei loro nemici."
 
 #: Extended_Era/units/standard/Sidhe_Spirit_Ancestor.cfg:26
 #: Extended_Era/units/standard/Sidhe_Spirit_Forefather.cfg:27
@@ -2791,6 +2994,9 @@ msgid ""
 "death chant, echoing through the trees, know that their silver blades are "
 "also near."
 msgstr ""
+"I più grandi guerrieri dei sidhe non sono affatto scomparsi. Quando si sente "
+"il loro canto di morte riecheggiare tra gli alberi, vuol dire che anche le "
+"loro spade argentee sono vicine."
 
 #: Extended_Era/units/standard/Sidhe_Spirit_Warrior.cfg:5
 msgid "Warrior Spirit"
@@ -2802,6 +3008,9 @@ msgid ""
 "the forests of their former homes, seeking to perform the feats of arms they "
 "did in the past, and death is no obstacle..."
 msgstr ""
+"I grandi guerrieri sidhe del passato non sono del tutto scomparsi. Vagano "
+"nelle foreste delle loro case cercando di compiere le gesta d'armi che "
+"fecero in passato e la morte non è un ostacolo..."
 
 #: Extended_Era/units/standard/Sidhe_Stormlord.cfg:5
 msgid "Stormlord"
@@ -2814,10 +3023,14 @@ msgid ""
 "distrust them because of this, but they fear them even more. And if a sidhe "
 "fears someone..."
 msgstr ""
+"Il signore delle tempeste ha trascorso tutta la sua vita a studiare la "
+"magia. Per essa ha lasciato la pratica con le armi e la maggior parte delle "
+"attività fisiche. Molti elfi selvaggi li disprezzano per questo motivo, "
+"ancora di più li temono. E se i sidhe temono qualcuno..."
 
 #: Extended_Era/units/standard/Sidhe_Tempest.cfg:5
 msgid "Tempest"
-msgstr "Signore delle tempeste"
+msgstr "Tempesta"
 
 #: Extended_Era/units/standard/Sidhe_Tempest.cfg:17
 msgid ""
@@ -2825,6 +3038,9 @@ msgid ""
 "They call down lightning with ease and use a magic whose raw destructive "
 "power is almost unequaled."
 msgstr ""
+"Ai maghi anziani, considerati saggi tra i sidhe, viene dato il nome di "
+"tempesta. Invocano con facilità il fulmine e utilizzano una magia dal grezzo "
+"potere distruttivo quasi ineguagliato."
 
 #: Extended_Era/units/standard/Sidhe_Thunderblade.cfg:5
 msgid "Thunderblade"
@@ -2838,6 +3054,11 @@ msgid ""
 "be awarded a thunderblade, a special sword enchanted with a fragment of the "
 "sidhe lord's great weapon."
 msgstr ""
+"Quando il primo signore sidhe morì in battaglia, i frammenti della sua "
+"possente spada furono raccolti e conservati con cura dai maghi migliori. Se "
+"un sidhe si dimostra un grande guerrierio e ha la magia di nobili origini, "
+"potrebbe essere ricompensato con una spada del tuono, una speciale spada "
+"incantata con un frammento della grande arma del signore sidhe."
 
 #: Extended_Era/units/standard/Sidhe_Thunderblade.cfg:23
 msgid "thunderblade"
@@ -2853,6 +3074,10 @@ msgid ""
 "skilled in both hand to hand and ranged combat when using short spears. "
 "Their complete lack of armor is a liability, though."
 msgstr ""
+"Gli elfi selvaggi cacciatori sono tra gli esploratori migliori che si "
+"conoscano, sono agili e versatili, esperti sia nel combattimento ravvicinato "
+"sia in quello a distanza quando impiegano lance corte. L'assoluta mancanza "
+"di armatura è un handicap, però."
 
 #: Extended_Era/units/standard/Sidhe_Veiledblade.cfg:5
 msgid "Veiledblade"
@@ -2864,10 +3089,13 @@ msgid ""
 "through the ennemy's defense, and stealthily hit an unexpecting foe, often "
 "mortally so."
 msgstr ""
+"Non a tutti i sidhe piace lo scontro frontale. Queste oscure lame traditrici "
+"possono infiltrarsi tra le difese nemiche e colpire in maniera furtiva un "
+"avversario impreparato, spesso mortalmente."
 
 #: Extended_Era/units/standard/Sidhe_Wanderer.cfg:5
 msgid "Wanderer"
-msgstr "Viaggiatore"
+msgstr "Vagabondo"
 
 #: Extended_Era/units/standard/Sidhe_Wanderer.cfg:22
 msgid ""
@@ -2877,6 +3105,12 @@ msgid ""
 "usefulness is for running ahead. Their extreme swiftness comes, however, at "
 "a price as they fight almost armorless and die fast in direct combat."
 msgstr ""
+"A volte tra i sidhe ci sono elfi più solitari che preferiscono la caccia e "
+"l'esplorazione al combattimento vero e proprio. Costoro, noti come "
+"vagabondi, prediligono con convinzione della lance corte la cui reale "
+"utilità tuttavia è nella corsa. Il prezzo della loro estrema agilità, "
+"tuttavia, è quello di combattere quasi senza armatura e morire rapidamente "
+"in uno scontro diretto."
 
 #: Extended_Era/units/standard/Sidhe_Wardancer.cfg:5
 msgid "Wardancer"
@@ -2887,6 +3121,9 @@ msgid ""
 "Wardancers are legends among the sidhe. The skill of a bladespinner may seem "
 "unbelievable, but he is an amateur compared to a mighty wardancer."
 msgstr ""
+"I danzatori di guerra sono leggende tra i sidhe. L'abilità di una lama "
+"roteante può sembrare incredibile, ma in confronto con un potente danzatore "
+"di guerra è un dilettante."
 
 #: Extended_Era/units/standard/Sidhe_Warmage.cfg:5
 msgid "War Mage"
@@ -2899,6 +3136,11 @@ msgid ""
 "sword in hand. Their prowesses with the sword are easily those of a warrior "
 "and their magic is a welcome ally."
 msgstr ""
+"Pochi sidhe sono in grado di stare lontano dal campo di battaglia a lungo. I "
+"maghi della guerra sono la nobiltà degli elfi selvaggi che, anche se "
+"addestrati da maghi, impiegano la maggior parte del tempo con una spada in "
+"mano. La loro prodezza con la spada è senza dubbio quella di un guerriero e "
+"la loro magia un apprezzato alleato."
 
 #: Extended_Era/units/standard/Sidhe_Warrior.cfg:18
 msgid ""
@@ -2906,6 +3148,9 @@ msgid ""
 "fast, strong blows and avoiding them just as easily. Their only weakness is "
 "the frailty due to their distaste for armor."
 msgstr ""
+"Gli agili e potenti guerrieri sidhe sono mortali armigeri, capaci di portare "
+"rapidi e potenti stoccate e evitarle altrettanto facilmente. L'unica loro "
+"debolezza è la fragilità a causa del loro disprezzo per l'armatura."
 
 #: Extended_Era/units/standard/Sidhe_Warsinger.cfg:5
 msgid "Warsinger"
@@ -2916,6 +3161,9 @@ msgid ""
 "The Warsinger is a master of the songs of combat. A powerful warrior "
 "himself, he can drive his companions into battle frenzies."
 msgstr ""
+"Il bardo guerrierio è il maestro dei canti di combattimento. Egli stesso è "
+"un potente guerrierio che può trascinare i suoi compagni nella frenesia "
+"della battaglia."
 
 #: Extended_Era/units/standard/Sidhe_Whirlwind.cfg:5
 msgid "Whirlwind"
@@ -2955,6 +3203,9 @@ msgid ""
 "one. He must stop the training in arms and devote himself to the study of "
 "magic. Few choose this path, but it is a worthy one."
 msgstr ""
+"La vita dei sidhe che si decidono di fare i flagellatori è dura. Devono "
+"smettere con l'addestramento con le armi e devono votarsi allo studio della "
+"magia. Pochi scelgono questa strada, ma ne vale la pena."
 
 #: Extended_Era/units/standard/Sidhe_Windrunner.cfg:5
 msgid "Windrunner"
@@ -2966,6 +3217,10 @@ msgid ""
 "unbelievable, and their prowesses with their spears, whether thrown or in "
 "hand to hand, are amazing. They might die fast in direct combat, though."
 msgstr ""
+"I corridori del vento sono gli esploratori più abili tra i sidhe. La loro "
+"velocità è incredibile e la loro prodezza con la loro lancia, sia lanciata "
+"sia nel corpo a corpo, è stupefacente. Possono morire rapidamente in uno "
+"scontro diretto, però."
 
 #: Extended_Era/units/standard/Steppe_Goblin_Flanker.cfg:5
 msgid "Steppe Flanker"
@@ -2978,6 +3233,10 @@ msgid ""
 "raiding parties, they are undeniably useful and so their presence is "
 "tolerated, if grudgingly."
 msgstr ""
+"Alcuni goblin hanno scoperto che le abilità apprese nella caccia possono "
+"essere impiegate sul campo di battaglia. Anche se i goblin non sono troppo i "
+"benvenuti nei gruppi di razziatori, sono innegabilmente utili e perciò la "
+"loro presenza è tollerata, di malavoglia."
 
 #: Extended_Era/units/standard/Steppe_Goblin_Striker.cfg:40
 #: Extended_Era/units/standard/Steppe_Goblin_Hunter.cfg:33
@@ -2998,6 +3257,12 @@ msgid ""
 "use of barbed harpoons to lame prey, allowing an easier kill for their "
 "larger orcish bretheren."
 msgstr ""
+"La vita crudele delle steppe tende presto a eliminare i più deboli e "
+"indurire quelli che rimangono. Per questa ragione da nessuna latra parte i "
+"goblin sono comuni come nelle steppe. Quelli che riescono a sopravvivere "
+"spesso diventano utili esploratori o spazzini. Nei gruppi di caccia si "
+"specializzano nell'impiego di arpioni uncinati per azzoppare le prede "
+"permettendo agli orchi loro cugini più grossi di ucciderle più facilmente."
 
 #: Extended_Era/units/standard/Steppe_Goblin_Striker.cfg:5
 msgid "Steppe Striker"
@@ -3027,6 +3292,12 @@ msgid ""
 "before them. Any skill gained through battle only builds on what nature has "
 "already granted them."
 msgstr ""
+"Quegli orchi che eccellono nell'uso dell'ascia da battaglia vengono chiamati "
+"informalmente «lame» dai loro cugini. Messa da parte ogni attitudine o stile, "
+"le lame combattono con la pura e semplice forza, tirando direttamente colpi "
+"su qualunque cosa abbiano davanti. Ogni esperienza ricavata sul campo di "
+"battaglia semplicemente si aggiunge a quello che la natura ha già donato "
+"loro."
 
 #: Extended_Era/units/standard/Steppe_Orc_Warrior.cfg:24
 #: Extended_Era/units/standard/Steppe_Orc_Vanguard.cfg:41
@@ -3289,6 +3560,12 @@ msgid ""
 "\n"
 "Special Notes:"
 msgstr ""
+"Anche se gli orchi non sono famosi per le loro capacità intellettuali, "
+"riescono tranquillamente a capire che una lancia più lunga permette loro di "
+"impalare i nemici da più lontano. Inoltre, gli «spiedi» amano costruire punte "
+"uncinate per le loro lance, aumentando ancora la loro sinistra efficacia.\n"
+"\n"
+"Note speciali:"
 
 #: Extended_Era/units/standard/Steppe_Orc_Spearhead.cfg:5
 msgid "Steppe Spearhead"
@@ -3320,6 +3597,10 @@ msgid ""
 "further usage of the axe and take up short spears. While neccesary, the "
 "change is often somewhat awkward."
 msgstr ""
+"Gli orchi delle steppe hanno imparato presto che le loro asce non sono "
+"semplicemente adatte contro tutti i nemici. Per questo motivo, alcuni "
+"guerrieri rinunciano ad usare ancora l'ascia e prendono delle corte lance. "
+"Anche se necessaria, la carica spesso è un po' maldestra."
 
 #: Extended_Era/units/standard/Steppe_Orc_Stoic.cfg:5
 msgid "Steppe Stoic"
@@ -3337,6 +3618,15 @@ msgid ""
 "When attacked however, they retaliate with heavy strikes with the front of "
 "their shields. "
 msgstr ""
+"Gli stoici sono l'incarnazione stessa della resistenza. Sono caratterizzati "
+"da pura testardaggine e dal rifiuto di cedere nemmeno sotto i colpi più "
+"pesanti. Spesso un nemico dopo aver colpito uno stoico e averlo creduto "
+"morto, lo vede rialzarsi tra i cadaveri, prendere il suo scudo e riassumere "
+"la sua posizione.\n"
+"\n"
+"Note speciali: Dato che non hanno armi gli stoici non possono attaccare il "
+"nemico. Tuttavia, quando vengono attaccati, rispondono con pesanti colpi del "
+"loro scudo."
 
 #: Extended_Era/units/standard/Steppe_Orc_Vanguard.cfg:5
 msgid "Steppe Vanguard"
@@ -3356,6 +3646,18 @@ msgid ""
 "charging flail attack decreases the damage he takes in retaliation. This "
 "only effects enemies of equal or lesser level."
 msgstr ""
+"Dopo essersi messi alla prova nella battaglia, le avanguardie cominciano ad "
+"affermare la loro autorità sugli altri. La loro esperienza viene impiegata "
+"sul campo di battaglia, mentre dirigono le azioni dei loro compagni. Anche "
+"se spesso nel caos dello scontro queste sottigliezze vengono messe da parte, "
+"le avanguardie restano all'altezza del loro nome guidando gli altri con "
+"l'esempio. Comunque hanno imparato anche qualche trucco, completando i loro "
+"flagelli con una ascia da battaglia normale simile a quella usata dai "
+"guerrieri delle steppe.\n"
+"\n"
+"Note speciali: In attacco, l'intimidazione delle avanguardie che caricano "
+"con i loro flagelli riduce i danni che subiscono in ritorsione. Ciò vale "
+"solo per i nemici di livello pari o inferiore."
 
 #: Extended_Era/units/standard/Steppe_Orc_Warrior.cfg:5
 msgid "Steppe Warrior"
@@ -3486,6 +3788,15 @@ msgid ""
 "unarmed style which allows them to fight without removing their ceremonial "
 "blindfolds."
 msgstr ""
+"La fondazione windsong, per quanto nascosta nei remoti mari artici "
+"settentrionali, è ancora un bersaglio troppo importante per essere lasciato "
+"incustodito. I custodi delle porte hanno tenuto i loro cugini al sicuro "
+"durante l'era della pazienza e non hanno intenzione di smettere ora con la "
+"loro vigilanza.\n"
+"\n"
+"Si sono votati allo studio del combattimento e hanno creato uno stile di "
+"combattimento unico a mani nude che permette loro di combattere nonostante "
+"ritualmente abbiano gli occhi bendati."
 
 #: Extended_Era/units/standard/Windsong_Harbinger.cfg:4
 msgid "Windsong Harbinger"
@@ -3684,11 +3995,10 @@ msgid ""
 "freeze their enemies from afar. When cornered, they use their powerful tails "
 "to pummel their enemies."
 msgstr ""
-"I serpenti del ghiaccio che vivono in mare diventano più serpentiformi "
-"diventando serpenti del gelo. Prendono il nome dai potenti soffi ghiacciati "
-"che emettono, i serpenti del gelo preferiscono congelare i loro avversari da "
-"lontano. Quando sono costretti in un angolo, usano le loro potenti code per "
-"colpire i nemici."
+"I serpenti del ghiaccio che vivono in mare diventano più serpentiformi e si "
+"chiamano serpenti del gelo. Prendono il nome dai potenti soffi ghiacciati "
+"che emettono e preferiscono congelare i loro avversari da lontano. Quando "
+"sono costretti in un angolo, usano le loro potenti code per colpire i nemici."
 
 #: Extended_Era/units/standard/Wyrm_Ice.cfg:5
 msgid "Ice Wyrm"
@@ -3741,184 +4051,3 @@ msgstr ""
 "A differenza degli uomini, i serpenti con l'età diventano sempre più forti e "
 "più potenti. I serpenti della galaverna sono serpenti del gelo anziani: più "
 "forti e in grado di attaccare con un soffio ancora più feroce."
-
-#~ msgid "claw"
-#~ msgstr "artigli"
-
-#~ msgid "just a bear"
-#~ msgstr "solo un orso"
-
-#~ msgid "a young bear"
-#~ msgstr "un orso giovane"
-
-#~ msgid "Kalifa Era"
-#~ msgstr "Era di Kalifa"
-
-#~ msgid "Steppe Era"
-#~ msgstr "Era delle steppe"
-
-#~ msgid "Wood Elves"
-#~ msgstr "Elfi silvani"
-
-#~ msgid "pierce"
-#~ msgstr "perforazione"
-
-#~ msgid "blade"
-#~ msgstr "lama"
-
-#~ msgid "impact"
-#~ msgstr "impatto"
-
-#~ msgid "cold"
-#~ msgstr "freddo"
-
-#~ msgid "fire"
-#~ msgstr "fuoco"
-
-#~ msgid "Ruffian"
-#~ msgstr "Ruffiano"
-
-#~ msgid "Armageddon Drake"
-#~ msgstr "Drago dell'apocalisse"
-
-#~ msgid "Fugitive"
-#~ msgstr "Fuggiasco"
-
-#~ msgid ""
-#~ "Veteran criminals become notorious among the authorities for both their "
-#~ "battle prowess and ability to elude capture.  Dangerous and ruthless, "
-#~ "they can be fearful in their element but no real match for professional "
-#~ "law enforcment forces."
-#~ msgstr ""
-#~ "I criminali incalliti diventano famosi alle autorità sia per le  loro "
-#~ "prodezze in battaglia sia per la capacità di eludere la cattura. "
-#~ "Pericolosi e spietati, possono essere terribili nel loro ambiente ma non "
-#~ "hanno scampo di fronte ai professionisti delle forze dell'ordine."
-
-#~ msgid "female^Fugitive"
-#~ msgstr "Fuggiasca"
-
-#~ msgid ""
-#~ "Veteran criminals become notorious among the authorities for both their "
-#~ "battle prowess and ability to elude capture.  Beautiful and dangerous, "
-#~ "their beauty is exceeded only by their dangerousness."
-#~ msgstr ""
-#~ "Le criminali incallite diventano famose alle autorità sia per le  loro "
-#~ "prodezze in battaglia sia per la capacità di eludere la cattura. Belle e "
-#~ "pericolose, il loro fascino viene superato solo dalla loro pericolosità."
-
-#~ msgid "Highwayman"
-#~ msgstr "Rapinatore"
-
-#~ msgid ""
-#~ "Armed with heavy mace, Highwaymen are the last people you want to meet on "
-#~ "a deserted road late at night."
-#~ msgstr ""
-#~ "Armati di pesanti mazze, i rapinatori solo le ultime persone che si può "
-#~ "desiderare di incontrare su una strada deserta a notte fonda."
-
-#~ msgid "Huntsman"
-#~ msgstr "Cacciatore"
-
-#~ msgid ""
-#~ "Huntsmen have spent their lives in the backwoods and swamps of their "
-#~ "wilderness homes.  They track anything that moves in their territory, "
-#~ "including people.  Bandit gangs hire them for their ability to bring down "
-#~ "any prey."
-#~ msgstr ""
-#~ "I cacciatori hanno trascorso la loro vita nei sottoboschi e negli "
-#~ "acquitrini delle zone selvatiche. Seguono le tracce di chiunque si muova "
-#~ "nel loro territorio, anche le persone. La bande di malviventi li assumono "
-#~ "per la loro abilità nel catturare qualsiasi preda."
-
-#~ msgid "Ranger"
-#~ msgstr "Ranger"
-
-#~ msgid ""
-#~ "Rangers are wild men and masters of forest and hills.  They are excellent "
-#~ "trackers, scouts, and archers, moving freely through the countryside "
-#~ "under the cover of night.  Most rulers are afraid of rangers and would "
-#~ "rather put them in the dungeon than put their abilities to use."
-#~ msgstr ""
-#~ "I ranger sono padroni delle zone selvagge di foresta e collina. "
-#~ "Abilissimi nel seguire le tracce, sono ottimi esploratori e arcieri, "
-#~ "riescono a muoversi liberamente attraverso la campagna con la protezione "
-#~ "del buoi. La maggior parte dei regnanti temono i ranger e piuttosto che "
-#~ "utilizzare le loro abilità preferirebbero imprigionarli nelle segrete."
-
-#, fuzzy
-#~ msgid ""
-#~ "Under the soliders of wesnoth there are stories of wild warriors wearing "
-#~ "big shields who always came with the dawn. The claimed that they have "
-#~ "seen them pierced by dozen arrows but they should kept on cutting through "
-#~ "their lines like the reaper though a corn field."
-#~ msgstr ""
-#~ "Tra i soldati di Wesnoth si narrano storie di guerrieri selvaggi che "
-#~ "combattono con grandi scudi che arrivano sempre all'alba."
-
-#~ msgid "Henchman"
-#~ msgstr "Tirapiedi"
-
-#~ msgid ""
-#~ "Henchmen are good for one thing: following orders.  They are not very "
-#~ "smart or creative, neither of which is required to swing a club at an "
-#~ "enemy.  Never far from their leader, they tend to work in groups "
-#~ "(attacking one at a time).  With enough experience they can learn to "
-#~ "swing a bigger club or throw things, but not both."
-#~ msgstr ""
-#~ "I tirapiedi sono buoni per una cosa: eseguire gli ordini. Non sono molto "
-#~ "astuti o creativi, qualità che non sono richieste per colpire il nemico "
-#~ "con una mazza. Mai lontani dal loro capo, tendono a lavorare in gruppi "
-#~ "(attaccando uno alla volta). Con abbastanza esperienza possono imparare a "
-#~ "maneggiare una mazza più grande o a scagliare oggetti, ma non entrambe le "
-#~ "cose."
-
-#~ msgid "magic"
-#~ msgstr "magia"
-
-#~ msgid "Novice Orcish Shaman"
-#~ msgstr "Orco sciamano novizio"
-
-#~ msgid ""
-#~ "Orcish Shamans are the guardians of orcish magic. Respected among orcish "
-#~ "tribes, they form the Orcish Council, which makes important decisions for "
-#~ "the whole Orcish community and arbitrates the many conflicts that arise "
-#~ "between tribes of this argumentative race. Although physically weak (for "
-#~ "Orcs), Orcish Shamans are good spell casters and can curse their enemies, "
-#~ "draining their life. Novice Shamans are still young and vigorous, but "
-#~ "their spell-casting ability still needs improvement."
-#~ msgstr ""
-#~ "Gli sciamani degli orchi sono i custodi della magia degli orchi. "
-#~ "Rispettati tra le tribù degli orchi, costituiscono il consiglio degli "
-#~ "orchi  che prende le decisioni importanti per l'intera comunità degli "
-#~ "orchi e fa da arbitro per i molti conflitti che nascono fra le tribù di "
-#~ "questa razza litigiosa. Anche se fisicamente deboli (per un orco), gli "
-#~ "sciamani sono dei bravi incantatori e possono maledire i loro nemici "
-#~ "assorbendone la forza vitale. Gli sciamani novizi sono ancora giovani e "
-#~ "vigorosi, ma la loro abilità con gli incantesimi ancora ha bisogno di "
-#~ "miglioramento."
-
-#~ msgid "Old Orcish Shaman"
-#~ msgstr "Orco sciamano anziano"
-
-#~ msgid ""
-#~ "Orcish Shamans are the guardians of orcish magic. Respected among orcish "
-#~ "tribes, they form the Orcish Council, which makes important decisions for "
-#~ "the whole Orcish community and arbitrates the many conflicts that arise "
-#~ "between tribes of this argumentative race. Although physically weak (for "
-#~ "Orcs), Orcish Shamans are good spell casters and can curse their enemies, "
-#~ "draining their life. Old Orcish Shamans are shamans that have mastered "
-#~ "magic, although their physical strength has declined with age."
-#~ msgstr ""
-#~ "Gli sciamani degli orchi sono i custodi della magia degli orchi. "
-#~ "Rispettati tra le tribù degli orchi, costituiscono il consiglio degli "
-#~ "orchi  che prende le decisioni importanti per l'intera comunità degli "
-#~ "orchi e fa da arbitro per i molti conflitti che nascono fra le tribù di "
-#~ "questa razza litigiosa. Anche se fisicamente deboli (per un orco), gli "
-#~ "sciamani sono dei bravi incantatori e possono maledire i loro nemici "
-#~ "assorbendone la forza vitale. Gli sciamani anziani sono gli sciamani che "
-#~ "hanno padronanza della magia, anche se la loro forza fisica ha declinato "
-#~ "con l'età."
-
-#~ msgid "leadership"
-#~ msgstr "comando"
